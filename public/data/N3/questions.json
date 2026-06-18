@@ -1,0 +1,327 @@
+[
+  {
+    "id": "N3_Q_001",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「経験」の読み方はどれですか？",
+    "options": ["けいけん", "けいげん", "きけん", "きけい"],
+    "correct_answer": 0,
+    "explanation": "「経験」はけいけんと読みます。経（けい）+ 験（けん）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_002",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "毎日練習して、ピアノが弾ける（　　）なりました。",
+    "options": ["ように", "ことに", "はずに", "べきに"],
+    "correct_answer": 0,
+    "explanation": "「～ようになる」は能力や状態が変化したことを表します。「弾けるようになる」で「能弹了」という意味になります。",
+    "linked_grammar_id": "N3_G_001"
+  },
+  {
+    "id": "N3_Q_003",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「約束は守るべきです」の意味はどれですか？",
+    "options": [
+      "約束を守りたいです",
+      "約束を守ることができます",
+      "約束は守るのが義務です",
+      "約束を守るかもしれません"
+    ],
+    "correct_answer": 2,
+    "explanation": "「べきだ」は道義的な義務や当然のことを表します。「守るべき」＝「守らなければならない・守るのが当然」という意味です。",
+    "linked_grammar_id": "N3_G_004"
+  },
+  {
+    "id": "N3_Q_004",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「成功」の反対語はどれですか？",
+    "options": ["失敗", "成果", "記念", "経験"],
+    "correct_answer": 0,
+    "explanation": "「成功」の反対語は「失敗（しっぱい）」です。成功は目標達成、失敗は目標不達成を意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_005",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "状況から考えると、諦め（　　）。",
+    "options": ["ざるを得ない", "てしまった", "ようになった", "ことになった"],
+    "correct_answer": 0,
+    "explanation": "「ざるを得ない」は外部の状況により不本意ながら行わざるを得ない場合に使います。諦めたくないが状況がそうさせるという意味です。",
+    "linked_grammar_id": "N3_G_005"
+  },
+  {
+    "id": "N3_Q_006",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "彼女は歌が上手な（　　）、踊りも得意です。",
+    "options": ["ばかりでなく", "ところが", "くせに", "ものの"],
+    "correct_answer": 0,
+    "explanation": "「ばかりでなく」は「不仅……而且……」の意味です。AだけでなくBも成立することを表します。",
+    "linked_grammar_id": "N3_G_006"
+  },
+  {
+    "id": "N3_Q_007",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「親になってはじめて、親の苦労がわかった。」この文の意味はどれですか？",
+    "options": [
+      "親になったから、苦労がわかるはずだ",
+      "親になるまで、苦労がわからなかった",
+      "親の苦労が初めてわかった",
+      "親になっても、苦労がわからなかった"
+    ],
+    "correct_answer": 1,
+    "explanation": "「てはじめて」は「経験して初めて気づく」という意味です。親になるという経験をして、初めて親の苦労がわかったということです。",
+    "linked_grammar_id": "N3_G_017"
+  },
+  {
+    "id": "N3_Q_008",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「状況」の意味はどれですか？",
+    "options": ["状态，情况", "方法，手段", "结果，成果", "理由，原因"],
+    "correct_answer": 0,
+    "explanation": "「状況（じょうきょう）」は「状态，情况」という意味です。「現在の状況を確認してください」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_009",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "雨の（　　）、試合が中止になった。",
+    "options": ["せいで", "おかげで", "かわりに", "上に"],
+    "correct_answer": 0,
+    "explanation": "「せいで」は悪い結果の原因を表します。「おかげで」は良い結果、「せいで」は悪い結果に使います。",
+    "linked_grammar_id": "N3_G_029"
+  },
+  {
+    "id": "N3_Q_010",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "先生の（　　）、試験に合格できました。",
+    "options": ["おかげで", "せいで", "くせに", "ところが"],
+    "correct_answer": 0,
+    "explanation": "「おかげで」は感謝を含む良い結果の原因を表します。「先生のおかげで」＝「多亏了老师」という感謝の意味です。",
+    "linked_grammar_id": "N3_G_028"
+  },
+  {
+    "id": "N3_Q_011",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「影響」の読み方はどれですか？",
+    "options": ["えいきょう", "えいこう", "かげひびき", "かげきょう"],
+    "correct_answer": 0,
+    "explanation": "「影響」はえいきょうと読みます。影（えい）+ 響（きょう）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_012",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "時間（　　）あれば、旅行に行きたい。",
+    "options": ["さえ", "だけ", "しか", "まで"],
+    "correct_answer": 0,
+    "explanation": "「さえ～ば」は「只要……就……」という意味です。「時間さえあれば」＝「只要有时间」で、唯一の条件を強調します。",
+    "linked_grammar_id": "N3_G_018"
+  },
+  {
+    "id": "N3_Q_013",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「試験に合格したものの、自信はなかった。」と同じ意味はどれですか？",
+    "options": [
+      "試験に合格したし、自信もあった",
+      "試験に合格したけれど、自信はなかった",
+      "試験に合格したから、自信があった",
+      "試験に合格できなかったので、自信はなかった"
+    ],
+    "correct_answer": 1,
+    "explanation": "「ものの」は逆接を表し、「虽然……但是……」という意味です。合格したという事実は認めるが、自信はなかったという対比を表します。",
+    "linked_grammar_id": "N3_G_026"
+  },
+  {
+    "id": "N3_Q_014",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「認める」の意味はどれですか？",
+    "options": ["承认，认可", "询问，打听", "拒绝，回绝", "期待，盼望"],
+    "correct_answer": 0,
+    "explanation": "「認める（みとめる）」は「承认，认可」という意味です。「自分の失敗を認める」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_015",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "天気予報（　　）と、明日は雨らしい。",
+    "options": ["によると", "に対して", "に関して", "にしたがって"],
+    "correct_answer": 0,
+    "explanation": "「によると」は情報のソースを示す表現で、「根据……」という意味です。「天気予報によると」＝「据天气预报」です。",
+    "linked_grammar_id": "N3_G_012"
+  },
+  {
+    "id": "N3_Q_016",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「複雑」の反対語はどれですか？",
+    "options": ["単純", "重要", "適切", "明確"],
+    "correct_answer": 0,
+    "explanation": "「複雑（ふくざつ）」の反対語は「単純（たんじゅん）」です。「简单」という意味で、「複雑」は「复杂」です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_017",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "毎日野菜を食べる（　　）しています。",
+    "options": ["ように", "ことに", "はずに", "べきに"],
+    "correct_answer": 0,
+    "explanation": "「ようにする」は意識的に努力して何かを習慣にしようとすることを表します。「ようになる」が自然な変化なのに対し、「ようにする」は意志的な努力です。",
+    "linked_grammar_id": "N3_G_014"
+  },
+  {
+    "id": "N3_Q_018",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「役割」の意味はどれですか？",
+    "options": ["作用，角色", "义务，责任", "价值，意义", "关系，联系"],
+    "correct_answer": 0,
+    "explanation": "「役割（やくわり）」は「作用，角色」という意味です。「チームでの役割を果たす」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_019",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "去年（　　）、今年は売り上げが増えた。",
+    "options": ["に比べて", "にしたがって", "に加えて", "に関して"],
+    "correct_answer": 0,
+    "explanation": "「に比べて」は比較の基準を示し、「与……相比」という意味です。「去年に比べて」＝「与去年相比」です。",
+    "linked_grammar_id": "N3_G_022"
+  },
+  {
+    "id": "N3_Q_020",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「知っているくせに、教えてくれない。」この文には何の気持ちが含まれていますか？",
+    "options": ["不満・批判", "感謝・尊敬", "驚き・感動", "安心・満足"],
+    "correct_answer": 0,
+    "explanation": "「くせに」は不満や批判の気持ちを表す逆接表現です。「明明知道却不告诉我」という不満の感情が込められています。",
+    "linked_grammar_id": "N3_G_024"
+  },
+  {
+    "id": "N3_Q_021",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「伝統」の読み方はどれですか？",
+    "options": ["でんとう", "でんどう", "つたとう", "つたどう"],
+    "correct_answer": 0,
+    "explanation": "「伝統」はでんとうと読みます。伝（でん）+ 統（とう）です。「日本の伝統文化」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_022",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "急いで行った。（　　）、もう終わっていた。",
+    "options": ["ところが", "それで", "だから", "そして"],
+    "correct_answer": 0,
+    "explanation": "「ところが」は予想に反する結果を導く逆接接続詞です。「急いで行ったのに、もう終わっていた」という意外な結果を表します。",
+    "linked_grammar_id": "N3_G_025"
+  },
+  {
+    "id": "N3_Q_023",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「義務」と「権利」の関係はどれですか？",
+    "options": ["反対語", "類義語", "同義語", "関係なし"],
+    "correct_answer": 0,
+    "explanation": "「義務（ぎむ）」と「権利（けんり）」は反対語です。義務は「しなければならないこと」、権利は「してもいいこと・求める資格があること」です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_024",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "年をとる（　　）、体力が落ちてくる。",
+    "options": ["につれて", "ところが", "くせに", "おかげで"],
+    "correct_answer": 0,
+    "explanation": "「につれて」は二つのことが同時に変化することを表します。「随着年龄增长，体力也下降」という同時変化の関係です。",
+    "linked_grammar_id": "N3_G_020"
+  },
+  {
+    "id": "N3_Q_025",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「解決」の読み方はどれですか？",
+    "options": ["かいけつ", "かいきつ", "げかい", "げいけつ"],
+    "correct_answer": 0,
+    "explanation": "「解決」はかいけつと読みます。解（かい）+ 決（けつ）です。「問題を解決する」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_026",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「授業料に加えて、教材費もかかります。」の意味はどれですか？",
+    "options": [
+      "授業料の代わりに、教材費がかかる",
+      "授業料だけでなく、さらに教材費もかかる",
+      "授業料も教材費も無料だ",
+      "授業料と教材費は同じくらいだ"
+    ],
+    "correct_answer": 1,
+    "explanation": "「に加えて」は「在……之外，再加上……」という意味です。授業料という既存の費用に、さらに教材費も追加されることを表します。",
+    "linked_grammar_id": "N3_G_009"
+  },
+  {
+    "id": "N3_Q_027",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「習慣」の意味はどれですか？",
+    "options": ["习惯", "传统", "规则", "文化"],
+    "correct_answer": 0,
+    "explanation": "「習慣（しゅうかん）」は「习惯」という意味です。「毎朝日記を書く習慣があります」のように使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N3_Q_028",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "「10年間も練習したんだから、上手なわけだ。」の「わけだ」の意味はどれですか？",
+    "options": [
+      "当然の結論・納得",
+      "驚き・意外性",
+      "反対・否定",
+      "希望・願い"
+    ],
+    "correct_answer": 0,
+    "explanation": "「わけだ」は根拠や状況から導かれる当然の結論を表します。「10年練習したから上手なのは当然だ・難怪」という納得の意味です。",
+    "linked_grammar_id": "N3_G_013"
+  },
+  {
+    "id": "N3_Q_029",
+    "level": "N3",
+    "type": "grammar",
+    "question_text": "父の（　　）、私が出席します。",
+    "options": ["かわりに", "おかげで", "せいで", "上に"],
+    "correct_answer": 0,
+    "explanation": "「かわりに」は「代替」を意味します。「父のかわりに」＝「代替父亲」で、父親の代わりに自分が出席するという意味です。",
+    "linked_grammar_id": "N3_G_027"
+  },
+  {
+    "id": "N3_Q_030",
+    "level": "N3",
+    "type": "vocabulary",
+    "question_text": "「目標」と「目的」の関係はどれですか？",
+    "options": ["類義語", "反対語", "無関係", "上位語と下位語"],
+    "correct_answer": 0,
+    "explanation": "「目標（もくひょう）」と「目的（もくてき）」はほぼ同じ意味の類義語です。どちらも「达到的目标」を意味しますが、「目的」はより最終的な目的を指し、「目標」は具体的な到達点を指す傾向があります。",
+    "linked_grammar_id": null
+  }
+]

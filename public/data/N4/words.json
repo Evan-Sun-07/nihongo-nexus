@@ -1,0 +1,562 @@
+[
+  {
+    "id": "N4_W_001", "level": "N4", "unit": 1, "word": "運動", "kana": "うんどう", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "运动",
+    "kanji_breakdown": [{ "char": "運", "reading": "うん" }, { "char": "動", "reading": "どう" }],
+    "kanji_root": "運", "related_words": ["スポーツ", "健康", "体"], "synonyms": ["スポーツ"], "antonyms": [],
+    "example_jp": "健康のために毎日運動しています。", "example_zh": "为了健康每天运动。",
+    "example_breakdown": [{ "char": "健", "reading": "けん" }, { "char": "康", "reading": "こう" }, { "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "運", "reading": "うん" }, { "char": "動", "reading": "どう" }]
+  },
+  {
+    "id": "N4_W_002", "level": "N4", "unit": 1, "word": "料理", "kana": "りょうり", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "料理，烹饪",
+    "kanji_breakdown": [{ "char": "料", "reading": "りょう" }, { "char": "理", "reading": "り" }],
+    "kanji_root": "料", "related_words": ["食べる", "台所", "食事"], "synonyms": ["調理"], "antonyms": [],
+    "example_jp": "日本料理を作るのが好きです。", "example_zh": "我喜欢做日本料理。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "料", "reading": "りょう" }, { "char": "理", "reading": "り" }, { "char": "作", "reading": "つく" }]
+  },
+  {
+    "id": "N4_W_003", "level": "N4", "unit": 1, "word": "音楽", "kana": "おんがく", "accent": "1", "part_of_speech": "名詞", "meaning": "音乐",
+    "kanji_breakdown": [{ "char": "音", "reading": "おん" }, { "char": "楽", "reading": "がく" }],
+    "kanji_root": "音", "related_words": ["聞く", "歌", "楽器"], "synonyms": [], "antonyms": [],
+    "example_jp": "クラシック音楽が好きです。", "example_zh": "我喜欢古典音乐。",
+    "example_breakdown": [{ "char": "音", "reading": "おん" }, { "char": "楽", "reading": "がく" }]
+  },
+  {
+    "id": "N4_W_004", "level": "N4", "unit": 2, "word": "映画", "kana": "えいが", "accent": "0", "part_of_speech": "名詞", "meaning": "电影",
+    "kanji_breakdown": [{ "char": "映", "reading": "えい" }, { "char": "画", "reading": "が" }],
+    "kanji_root": "映", "related_words": ["見る", "映画館", "俳優"], "synonyms": [], "antonyms": [],
+    "example_jp": "週末に友達と映画を見に行きました。", "example_zh": "周末和朋友去看了电影。",
+    "example_breakdown": [{ "char": "週", "reading": "しゅう" }, { "char": "末", "reading": "まつ" }, { "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "映", "reading": "えい" }, { "char": "画", "reading": "が" }, { "char": "見", "reading": "み" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N4_W_005", "level": "N4", "unit": 3, "word": "旅行", "kana": "りょこう", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "旅行",
+    "kanji_breakdown": [{ "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }],
+    "kanji_root": "旅", "related_words": ["行く", "旅館", "観光"], "synonyms": ["トリップ"], "antonyms": [],
+    "example_jp": "来月、北海道へ旅行する予定です。", "example_zh": "下个月计划去北海道旅行。",
+    "example_breakdown": [{ "char": "来", "reading": "らい" }, { "char": "月", "reading": "げつ" }, { "char": "北", "reading": "ほっ" }, { "char": "海", "reading": "かい" }, { "char": "道", "reading": "どう" }, { "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }, { "char": "予", "reading": "よ" }, { "char": "定", "reading": "てい" }]
+  },
+  {
+    "id": "N4_W_006", "level": "N4", "unit": 1, "word": "趣味", "kana": "しゅみ", "accent": "1", "part_of_speech": "名詞", "meaning": "爱好",
+    "kanji_breakdown": [{ "char": "趣", "reading": "しゅ" }, { "char": "味", "reading": "み" }],
+    "kanji_root": "趣", "related_words": ["好き", "楽しむ", "余暇"], "synonyms": [], "antonyms": [],
+    "example_jp": "趣味は音楽を聞くことです。", "example_zh": "我的爱好是听音乐。",
+    "example_breakdown": [{ "char": "趣", "reading": "しゅ" }, { "char": "味", "reading": "み" }, { "char": "音", "reading": "おん" }, { "char": "楽", "reading": "がく" }]
+  },
+  {
+    "id": "N4_W_007", "level": "N4", "unit": 1, "word": "習慣", "kana": "しゅうかん", "accent": "0", "part_of_speech": "名詞", "meaning": "习惯",
+    "kanji_breakdown": [{ "char": "習", "reading": "しゅう" }, { "char": "慣", "reading": "かん" }],
+    "kanji_root": "習", "related_words": ["生活", "毎日", "繰り返す"], "synonyms": [], "antonyms": [],
+    "example_jp": "毎日運動する習慣があります。", "example_zh": "有每天运动的习惯。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "運", "reading": "うん" }, { "char": "動", "reading": "どう" }, { "char": "習", "reading": "しゅう" }, { "char": "慣", "reading": "かん" }]
+  },
+  {
+    "id": "N4_W_008", "level": "N4", "unit": 1, "word": "生活", "kana": "せいかつ", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "生活",
+    "kanji_breakdown": [{ "char": "生", "reading": "せい" }, { "char": "活", "reading": "かつ" }],
+    "kanji_root": "生", "related_words": ["毎日", "暮らす", "日常"], "synonyms": ["暮らし"], "antonyms": [],
+    "example_jp": "日本での生活に慣れました。", "example_zh": "已经习惯了在日本的生活。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "生", "reading": "せい" }, { "char": "活", "reading": "かつ" }, { "char": "慣", "reading": "な" }]
+  },
+  {
+    "id": "N4_W_009", "level": "N4", "unit": 2, "word": "覚える", "kana": "おぼえる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "记住，学会",
+    "kanji_breakdown": [{ "char": "覚", "reading": "おぼ" }],
+    "kanji_root": "覚", "related_words": ["忘れる", "暗記する", "学ぶ"], "synonyms": ["暗記する"], "antonyms": ["忘れる"],
+    "example_jp": "新しい単語を覚えました。", "example_zh": "记住了新单词。",
+    "example_breakdown": [{ "char": "新", "reading": "あたら" }, { "char": "単", "reading": "たん" }, { "char": "語", "reading": "ご" }, { "char": "覚", "reading": "おぼ" }]
+  },
+  {
+    "id": "N4_W_010", "level": "N4", "unit": 2, "word": "忘れる", "kana": "わすれる", "accent": "3", "part_of_speech": "動詞（II類）", "meaning": "忘记",
+    "kanji_breakdown": [{ "char": "忘", "reading": "わす" }],
+    "kanji_root": "忘", "related_words": ["覚える", "記憶", "メモ"], "synonyms": [], "antonyms": ["覚える"],
+    "example_jp": "宿題を忘れてしまいました。", "example_zh": "把作业忘了。",
+    "example_breakdown": [{ "char": "宿", "reading": "しゅく" }, { "char": "題", "reading": "だい" }, { "char": "忘", "reading": "わす" }]
+  },
+  {
+    "id": "N4_W_011", "level": "N4", "unit": 2, "word": "知る", "kana": "しる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "知道，了解",
+    "kanji_breakdown": [{ "char": "知", "reading": "し" }],
+    "kanji_root": "知", "related_words": ["分かる", "理解する", "情報"], "synonyms": ["分かる"], "antonyms": [],
+    "example_jp": "彼の名前を知っています。", "example_zh": "我知道他的名字。",
+    "example_breakdown": [{ "char": "名", "reading": "な" }, { "char": "前", "reading": "まえ" }, { "char": "知", "reading": "し" }]
+  },
+  {
+    "id": "N4_W_012", "level": "N4", "unit": 2, "word": "考える", "kana": "かんがえる", "accent": "4", "part_of_speech": "動詞（II類）", "meaning": "思考，考虑",
+    "kanji_breakdown": [{ "char": "考", "reading": "かんが" }],
+    "kanji_root": "考", "related_words": ["思う", "判断する", "決める"], "synonyms": ["思う"], "antonyms": [],
+    "example_jp": "よく考えてから決めます。", "example_zh": "仔细考虑后再决定。",
+    "example_breakdown": [{ "char": "考", "reading": "かんが" }, { "char": "決", "reading": "き" }]
+  },
+  {
+    "id": "N4_W_013", "level": "N4", "unit": 2, "word": "決める", "kana": "きめる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "决定",
+    "kanji_breakdown": [{ "char": "決", "reading": "き" }],
+    "kanji_root": "決", "related_words": ["考える", "選ぶ", "判断"], "synonyms": [], "antonyms": [],
+    "example_jp": "旅行の日程を決めました。", "example_zh": "决定了旅行的日程。",
+    "example_breakdown": [{ "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }, { "char": "日", "reading": "にっ" }, { "char": "程", "reading": "てい" }, { "char": "決", "reading": "き" }]
+  },
+  {
+    "id": "N4_W_014", "level": "N4", "unit": 2, "word": "集める", "kana": "あつめる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "收集，聚集",
+    "kanji_breakdown": [{ "char": "集", "reading": "あつ" }],
+    "kanji_root": "集", "related_words": ["趣味", "コレクション", "まとめる"], "synonyms": [], "antonyms": [],
+    "example_jp": "切手を集めるのが趣味です。", "example_zh": "收集邮票是我的爱好。",
+    "example_breakdown": [{ "char": "切", "reading": "きっ" }, { "char": "手", "reading": "て" }, { "char": "集", "reading": "あつ" }, { "char": "趣", "reading": "しゅ" }, { "char": "味", "reading": "み" }]
+  },
+  {
+    "id": "N4_W_015", "level": "N4", "unit": 2, "word": "調べる", "kana": "しらべる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "调查，查找",
+    "kanji_breakdown": [{ "char": "調", "reading": "しら" }],
+    "kanji_root": "調", "related_words": ["探す", "検索する", "確認する"], "synonyms": ["検索する"], "antonyms": [],
+    "example_jp": "インターネットで調べました。", "example_zh": "在网上查找了。",
+    "example_breakdown": [{ "char": "調", "reading": "しら" }]
+  },
+  {
+    "id": "N4_W_016", "level": "N4", "unit": 2, "word": "伝える", "kana": "つたえる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "传达，告知",
+    "kanji_breakdown": [{ "char": "伝", "reading": "つた" }],
+    "kanji_root": "伝", "related_words": ["話す", "連絡する", "知らせる"], "synonyms": ["知らせる"], "antonyms": [],
+    "example_jp": "大切なことを伝えます。", "example_zh": "传达重要的事情。",
+    "example_breakdown": [{ "char": "大", "reading": "たい" }, { "char": "切", "reading": "せつ" }, { "char": "伝", "reading": "つた" }]
+  },
+  {
+    "id": "N4_W_017", "level": "N4", "unit": 2, "word": "続ける", "kana": "つづける", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "继续",
+    "kanji_breakdown": [{ "char": "続", "reading": "つづ" }],
+    "kanji_root": "続", "related_words": ["習慣", "練習", "頑張る"], "synonyms": [], "antonyms": ["やめる"],
+    "example_jp": "毎日練習を続けています。", "example_zh": "每天坚持练习。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "練", "reading": "れん" }, { "char": "習", "reading": "しゅう" }, { "char": "続", "reading": "つづ" }]
+  },
+  {
+    "id": "N4_W_018", "level": "N4", "unit": 2, "word": "変える", "kana": "かえる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "改变（他动词）",
+    "kanji_breakdown": [{ "char": "変", "reading": "か" }],
+    "kanji_root": "変", "related_words": ["変化", "直す", "修正する"], "synonyms": ["直す"], "antonyms": [],
+    "example_jp": "計画を変えることにしました。", "example_zh": "决定改变计划。",
+    "example_breakdown": [{ "char": "計", "reading": "けい" }, { "char": "画", "reading": "かく" }, { "char": "変", "reading": "か" }]
+  },
+  {
+    "id": "N4_W_019", "level": "N4", "unit": 3, "word": "気づく", "kana": "きづく", "accent": "3", "part_of_speech": "動詞（I類）", "meaning": "注意到，发现",
+    "kanji_breakdown": [{ "char": "気", "reading": "き" }],
+    "kanji_root": "気", "related_words": ["発見する", "分かる", "注意"], "synonyms": ["発見する"], "antonyms": [],
+    "example_jp": "ミスに気づきませんでした。", "example_zh": "没有注意到错误。",
+    "example_breakdown": [{ "char": "気", "reading": "き" }]
+  },
+  {
+    "id": "N4_W_020", "level": "N4", "unit": 3, "word": "急ぐ", "kana": "いそぐ", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "赶紧，急忙",
+    "kanji_breakdown": [{ "char": "急", "reading": "いそ" }],
+    "kanji_root": "急", "related_words": ["時間", "急いで", "早く"], "synonyms": [], "antonyms": [],
+    "example_jp": "時間がないので急ぎます。", "example_zh": "因为没有时间所以赶紧走。",
+    "example_breakdown": [{ "char": "時", "reading": "じ" }, { "char": "間", "reading": "かん" }, { "char": "急", "reading": "いそ" }]
+  },
+  {
+    "id": "N4_W_021", "level": "N4", "unit": 3, "word": "選ぶ", "kana": "えらぶ", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "选择",
+    "kanji_breakdown": [{ "char": "選", "reading": "えら" }],
+    "kanji_root": "選", "related_words": ["決める", "選択", "好む"], "synonyms": ["選択する"], "antonyms": [],
+    "example_jp": "好きな色を選んでください。", "example_zh": "请选择你喜欢的颜色。",
+    "example_breakdown": [{ "char": "色", "reading": "いろ" }, { "char": "選", "reading": "えら" }]
+  },
+  {
+    "id": "N4_W_022", "level": "N4", "unit": 3, "word": "送る", "kana": "おくる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "送，寄",
+    "kanji_breakdown": [{ "char": "送", "reading": "おく" }],
+    "kanji_root": "送", "related_words": ["手紙", "メール", "届ける"], "synonyms": [], "antonyms": ["受け取る"],
+    "example_jp": "友達に手紙を送りました。", "example_zh": "给朋友寄了信。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "手", "reading": "て" }, { "char": "紙", "reading": "がみ" }, { "char": "送", "reading": "おく" }]
+  },
+  {
+    "id": "N4_W_023", "level": "N4", "unit": 3, "word": "断る", "kana": "ことわる", "accent": "3", "part_of_speech": "動詞（I類）", "meaning": "拒绝",
+    "kanji_breakdown": [{ "char": "断", "reading": "ことわ" }],
+    "kanji_root": "断", "related_words": ["断り", "拒否する", "お断り"], "synonyms": ["拒否する"], "antonyms": ["受け入れる"],
+    "example_jp": "その誘いを断りました。", "example_zh": "拒绝了那个邀请。",
+    "example_breakdown": [{ "char": "誘", "reading": "さそ" }, { "char": "断", "reading": "ことわ" }]
+  },
+  {
+    "id": "N4_W_024", "level": "N4", "unit": 3, "word": "頼む", "kana": "たのむ", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "请求，拜托",
+    "kanji_breakdown": [{ "char": "頼", "reading": "たの" }],
+    "kanji_root": "頼", "related_words": ["お願いする", "依頼する", "手伝い"], "synonyms": ["お願いする"], "antonyms": [],
+    "example_jp": "友達に手伝いを頼みました。", "example_zh": "拜托了朋友帮忙。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "手", "reading": "て" }, { "char": "伝", "reading": "つだ" }, { "char": "頼", "reading": "たの" }]
+  },
+  {
+    "id": "N4_W_025", "level": "N4", "unit": 3, "word": "連絡する", "kana": "れんらくする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "联系",
+    "kanji_breakdown": [{ "char": "連", "reading": "れん" }, { "char": "絡", "reading": "らく" }],
+    "kanji_root": "連", "related_words": ["電話", "メール", "伝える"], "synonyms": ["連絡を取る"], "antonyms": [],
+    "example_jp": "後で連絡します。", "example_zh": "待会儿联系你。",
+    "example_breakdown": [{ "char": "連", "reading": "れん" }, { "char": "絡", "reading": "らく" }]
+  },
+  {
+    "id": "N4_W_026", "level": "N4", "unit": 3, "word": "説明する", "kana": "せつめいする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "说明，解释",
+    "kanji_breakdown": [{ "char": "説", "reading": "せつ" }, { "char": "明", "reading": "めい" }],
+    "kanji_root": "説", "related_words": ["伝える", "話す", "紹介する"], "synonyms": [], "antonyms": [],
+    "example_jp": "使い方を説明してください。", "example_zh": "请说明使用方法。",
+    "example_breakdown": [{ "char": "使", "reading": "つか" }, { "char": "方", "reading": "かた" }, { "char": "説", "reading": "せつ" }, { "char": "明", "reading": "めい" }]
+  },
+  {
+    "id": "N4_W_027", "level": "N4", "unit": 3, "word": "紹介する", "kana": "しょうかいする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "介绍",
+    "kanji_breakdown": [{ "char": "紹", "reading": "しょう" }, { "char": "介", "reading": "かい" }],
+    "kanji_root": "紹", "related_words": ["説明する", "会う", "友達"], "synonyms": [], "antonyms": [],
+    "example_jp": "友達を紹介します。", "example_zh": "介绍一下我的朋友。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "紹", "reading": "しょう" }, { "char": "介", "reading": "かい" }]
+  },
+  {
+    "id": "N4_W_028", "level": "N4", "unit": 4, "word": "社会", "kana": "しゃかい", "accent": "1", "part_of_speech": "名詞", "meaning": "社会",
+    "kanji_breakdown": [{ "char": "社", "reading": "しゃ" }, { "char": "会", "reading": "かい" }],
+    "kanji_root": "社", "related_words": ["世界", "文化", "経済"], "synonyms": [], "antonyms": [],
+    "example_jp": "社会に出て働きます。", "example_zh": "进入社会工作。",
+    "example_breakdown": [{ "char": "社", "reading": "しゃ" }, { "char": "会", "reading": "かい" }, { "char": "働", "reading": "はたら" }]
+  },
+  {
+    "id": "N4_W_029", "level": "N4", "unit": 4, "word": "経済", "kana": "けいざい", "accent": "0", "part_of_speech": "名詞", "meaning": "经济",
+    "kanji_breakdown": [{ "char": "経", "reading": "けい" }, { "char": "済", "reading": "ざい" }],
+    "kanji_root": "経", "related_words": ["社会", "お金", "ビジネス"], "synonyms": [], "antonyms": [],
+    "example_jp": "日本の経済は大きいです。", "example_zh": "日本的经济规模很大。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "経", "reading": "けい" }, { "char": "済", "reading": "ざい" }, { "char": "大", "reading": "おお" }]
+  },
+  {
+    "id": "N4_W_030", "level": "N4", "unit": 4, "word": "文化", "kana": "ぶんか", "accent": "1", "part_of_speech": "名詞", "meaning": "文化",
+    "kanji_breakdown": [{ "char": "文", "reading": "ぶん" }, { "char": "化", "reading": "か" }],
+    "kanji_root": "文", "related_words": ["社会", "習慣", "伝統"], "synonyms": [], "antonyms": [],
+    "example_jp": "日本の文化に興味があります。", "example_zh": "对日本文化有兴趣。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "文", "reading": "ぶん" }, { "char": "化", "reading": "か" }, { "char": "興", "reading": "きょう" }, { "char": "味", "reading": "み" }]
+  },
+  {
+    "id": "N4_W_031", "level": "N4", "unit": 4, "word": "地域", "kana": "ちいき", "accent": "1", "part_of_speech": "名詞", "meaning": "地区，地域",
+    "kanji_breakdown": [{ "char": "地", "reading": "ち" }, { "char": "域", "reading": "いき" }],
+    "kanji_root": "地", "related_words": ["場所", "町", "地区"], "synonyms": ["地区"], "antonyms": [],
+    "example_jp": "この地域は静かです。", "example_zh": "这个地区很安静。",
+    "example_breakdown": [{ "char": "地", "reading": "ち" }, { "char": "域", "reading": "いき" }, { "char": "静", "reading": "しず" }]
+  },
+  {
+    "id": "N4_W_032", "level": "N4", "unit": 4, "word": "場所", "kana": "ばしょ", "accent": "0", "part_of_speech": "名詞", "meaning": "地方，场所",
+    "kanji_breakdown": [{ "char": "場", "reading": "ば" }, { "char": "所", "reading": "しょ" }],
+    "kanji_root": "場", "related_words": ["地域", "位置", "場面"], "synonyms": ["ところ"], "antonyms": [],
+    "example_jp": "待ち合わせの場所を決めました。", "example_zh": "决定了见面的地点。",
+    "example_breakdown": [{ "char": "場", "reading": "ば" }, { "char": "所", "reading": "しょ" }, { "char": "決", "reading": "き" }]
+  },
+  {
+    "id": "N4_W_033", "level": "N4", "unit": 4, "word": "機会", "kana": "きかい", "accent": "2", "part_of_speech": "名詞", "meaning": "机会",
+    "kanji_breakdown": [{ "char": "機", "reading": "き" }, { "char": "会", "reading": "かい" }],
+    "kanji_root": "機", "related_words": ["チャンス", "場合", "時"], "synonyms": ["チャンス"], "antonyms": [],
+    "example_jp": "機会があれば旅行したいです。", "example_zh": "如果有机会想去旅行。",
+    "example_breakdown": [{ "char": "機", "reading": "き" }, { "char": "会", "reading": "かい" }, { "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }]
+  },
+  {
+    "id": "N4_W_034", "level": "N4", "unit": 4, "word": "問題", "kana": "もんだい", "accent": "0", "part_of_speech": "名詞", "meaning": "问题",
+    "kanji_breakdown": [{ "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }],
+    "kanji_root": "問", "related_words": ["答え", "質問", "課題"], "synonyms": ["課題"], "antonyms": ["答え"],
+    "example_jp": "難しい問題を解きました。", "example_zh": "解开了难题。",
+    "example_breakdown": [{ "char": "難", "reading": "むずか" }, { "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }, { "char": "解", "reading": "と" }]
+  },
+  {
+    "id": "N4_W_035", "level": "N4", "unit": 4, "word": "答え", "kana": "こたえ", "accent": "3", "part_of_speech": "名詞", "meaning": "答案，回答",
+    "kanji_breakdown": [{ "char": "答", "reading": "こた" }],
+    "kanji_root": "答", "related_words": ["問題", "正解", "解く"], "synonyms": ["回答", "正解"], "antonyms": ["問題"],
+    "example_jp": "正しい答えを選んでください。", "example_zh": "请选择正确答案。",
+    "example_breakdown": [{ "char": "正", "reading": "ただ" }, { "char": "答", "reading": "こた" }, { "char": "選", "reading": "えら" }]
+  },
+  {
+    "id": "N4_W_036", "level": "N4", "unit": 4, "word": "意見", "kana": "いけん", "accent": "1", "part_of_speech": "名詞", "meaning": "意见",
+    "kanji_breakdown": [{ "char": "意", "reading": "い" }, { "char": "見", "reading": "けん" }],
+    "kanji_root": "意", "related_words": ["考え", "主張", "提案"], "synonyms": ["考え"], "antonyms": [],
+    "example_jp": "自分の意見を言います。", "example_zh": "说出自己的意见。",
+    "example_breakdown": [{ "char": "自", "reading": "じ" }, { "char": "分", "reading": "ぶん" }, { "char": "意", "reading": "い" }, { "char": "見", "reading": "けん" }]
+  },
+  {
+    "id": "N4_W_037", "level": "N4", "unit": 5, "word": "生活費", "kana": "せいかつひ", "accent": "3", "part_of_speech": "名詞", "meaning": "生活费",
+    "kanji_breakdown": [{ "char": "生", "reading": "せい" }, { "char": "活", "reading": "かつ" }, { "char": "費", "reading": "ひ" }],
+    "kanji_root": "生", "related_words": ["生活", "お金", "節約"], "synonyms": [], "antonyms": [],
+    "example_jp": "毎月の生活費を計算します。", "example_zh": "计算每个月的生活费。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "月", "reading": "つき" }, { "char": "生", "reading": "せい" }, { "char": "活", "reading": "かつ" }, { "char": "費", "reading": "ひ" }, { "char": "計", "reading": "けい" }, { "char": "算", "reading": "さん" }]
+  },
+  {
+    "id": "N4_W_038", "level": "N4", "unit": 5, "word": "交通", "kana": "こうつう", "accent": "0", "part_of_speech": "名詞", "meaning": "交通",
+    "kanji_breakdown": [{ "char": "交", "reading": "こう" }, { "char": "通", "reading": "つう" }],
+    "kanji_root": "交", "related_words": ["電車", "バス", "道路"], "synonyms": [], "antonyms": [],
+    "example_jp": "この街は交通が便利です。", "example_zh": "这个城市交通很方便。",
+    "example_breakdown": [{ "char": "街", "reading": "まち" }, { "char": "交", "reading": "こう" }, { "char": "通", "reading": "つう" }, { "char": "便", "reading": "べん" }, { "char": "利", "reading": "り" }]
+  },
+  {
+    "id": "N4_W_039", "level": "N4", "unit": 5, "word": "予約", "kana": "よやく", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "预约，预订",
+    "kanji_breakdown": [{ "char": "予", "reading": "よ" }, { "char": "約", "reading": "やく" }],
+    "kanji_root": "予", "related_words": ["計画", "準備", "申し込む"], "synonyms": [], "antonyms": [],
+    "example_jp": "レストランを予約しました。", "example_zh": "预订了餐厅。",
+    "example_breakdown": [{ "char": "予", "reading": "よ" }, { "char": "約", "reading": "やく" }]
+  },
+  {
+    "id": "N4_W_040", "level": "N4", "unit": 5, "word": "準備", "kana": "じゅんび", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "准备",
+    "kanji_breakdown": [{ "char": "準", "reading": "じゅん" }, { "char": "備", "reading": "び" }],
+    "kanji_root": "準", "related_words": ["用意する", "支度", "計画"], "synonyms": ["用意"], "antonyms": [],
+    "example_jp": "旅行の準備をしています。", "example_zh": "正在做旅行的准备。",
+    "example_breakdown": [{ "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }, { "char": "準", "reading": "じゅん" }, { "char": "備", "reading": "び" }]
+  },
+  {
+    "id": "N4_W_041", "level": "N4", "unit": 5, "word": "計画", "kana": "けいかく", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "计划",
+    "kanji_breakdown": [{ "char": "計", "reading": "けい" }, { "char": "画", "reading": "かく" }],
+    "kanji_root": "計", "related_words": ["予定", "準備", "目標"], "synonyms": ["プラン"], "antonyms": [],
+    "example_jp": "来月の計画を立てました。", "example_zh": "制定了下个月的计划。",
+    "example_breakdown": [{ "char": "来", "reading": "らい" }, { "char": "月", "reading": "げつ" }, { "char": "計", "reading": "けい" }, { "char": "画", "reading": "かく" }, { "char": "立", "reading": "た" }]
+  },
+  {
+    "id": "N4_W_042", "level": "N4", "unit": 5, "word": "目的", "kana": "もくてき", "accent": "0", "part_of_speech": "名詞", "meaning": "目的",
+    "kanji_breakdown": [{ "char": "目", "reading": "もく" }, { "char": "的", "reading": "てき" }],
+    "kanji_root": "目", "related_words": ["目標", "理由", "ゴール"], "synonyms": ["目標"], "antonyms": [],
+    "example_jp": "目的を持って勉強します。", "example_zh": "带着目的去学习。",
+    "example_breakdown": [{ "char": "目", "reading": "もく" }, { "char": "的", "reading": "てき" }, { "char": "勉", "reading": "べん" }, { "char": "強", "reading": "きょう" }]
+  },
+  {
+    "id": "N4_W_043", "level": "N4", "unit": 5, "word": "方法", "kana": "ほうほう", "accent": "0", "part_of_speech": "名詞", "meaning": "方法",
+    "kanji_breakdown": [{ "char": "方", "reading": "ほう" }, { "char": "法", "reading": "ほう" }],
+    "kanji_root": "方", "related_words": ["やり方", "手段", "方式"], "synonyms": ["やり方", "手段"], "antonyms": [],
+    "example_jp": "いい方法を考えています。", "example_zh": "正在想好的方法。",
+    "example_breakdown": [{ "char": "方", "reading": "ほう" }, { "char": "法", "reading": "ほう" }, { "char": "考", "reading": "かんが" }]
+  },
+  {
+    "id": "N4_W_044", "level": "N4", "unit": 5, "word": "理由", "kana": "りゆう", "accent": "0", "part_of_speech": "名詞", "meaning": "理由",
+    "kanji_breakdown": [{ "char": "理", "reading": "り" }, { "char": "由", "reading": "ゆう" }],
+    "kanji_root": "理", "related_words": ["原因", "わけ", "目的"], "synonyms": ["わけ", "原因"], "antonyms": [],
+    "example_jp": "遅刻した理由を説明します。", "example_zh": "说明迟到的理由。",
+    "example_breakdown": [{ "char": "遅", "reading": "ちこく" }, { "char": "刻", "reading": "した" }, { "char": "理", "reading": "り" }, { "char": "由", "reading": "ゆう" }, { "char": "説", "reading": "せつ" }, { "char": "明", "reading": "めい" }]
+  },
+  {
+    "id": "N4_W_045", "level": "N4", "unit": 6, "word": "便利", "kana": "べんり", "accent": "1", "part_of_speech": "形容動詞", "meaning": "方便",
+    "kanji_breakdown": [{ "char": "便", "reading": "べん" }, { "char": "利", "reading": "り" }],
+    "kanji_root": "便", "related_words": ["役に立つ", "使いやすい", "快適"], "synonyms": [], "antonyms": ["不便"],
+    "example_jp": "スマホはとても便利です。", "example_zh": "智能手机非常方便。",
+    "example_breakdown": [{ "char": "便", "reading": "べん" }, { "char": "利", "reading": "り" }]
+  },
+  {
+    "id": "N4_W_046", "level": "N4", "unit": 6, "word": "複雑", "kana": "ふくざつ", "accent": "0", "part_of_speech": "形容動詞", "meaning": "复杂",
+    "kanji_breakdown": [{ "char": "複", "reading": "ふく" }, { "char": "雑", "reading": "ざつ" }],
+    "kanji_root": "複", "related_words": ["難しい", "困難", "シンプル"], "synonyms": ["難しい"], "antonyms": ["簡単", "シンプル"],
+    "example_jp": "この問題は複雑です。", "example_zh": "这道题很复杂。",
+    "example_breakdown": [{ "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }, { "char": "複", "reading": "ふく" }, { "char": "雑", "reading": "ざつ" }]
+  },
+  {
+    "id": "N4_W_047", "level": "N4", "unit": 6, "word": "丁寧", "kana": "ていねい", "accent": "1", "part_of_speech": "形容動詞", "meaning": "礼貌，仔细",
+    "kanji_breakdown": [{ "char": "丁", "reading": "てい" }, { "char": "寧", "reading": "ねい" }],
+    "kanji_root": "丁", "related_words": ["礼儀", "親切", "優しい"], "synonyms": ["礼儀正しい"], "antonyms": ["失礼"],
+    "example_jp": "丁寧に話してください。", "example_zh": "请礼貌地说话。",
+    "example_breakdown": [{ "char": "丁", "reading": "てい" }, { "char": "寧", "reading": "ねい" }, { "char": "話", "reading": "はな" }]
+  },
+  {
+    "id": "N4_W_048", "level": "N4", "unit": 6, "word": "親切", "kana": "しんせつ", "accent": "1", "part_of_speech": "形容動詞", "meaning": "亲切，热情",
+    "kanji_breakdown": [{ "char": "親", "reading": "しん" }, { "char": "切", "reading": "せつ" }],
+    "kanji_root": "親", "related_words": ["優しい", "丁寧"], "synonyms": ["優しい"], "antonyms": ["冷たい"],
+    "example_jp": "あの先生はとても親切です。", "example_zh": "那位老师非常亲切。",
+    "example_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }, { "char": "親", "reading": "しん" }, { "char": "切", "reading": "せつ" }]
+  },
+  {
+    "id": "N4_W_049", "level": "N4", "unit": 6, "word": "正直", "kana": "しょうじき", "accent": "0", "part_of_speech": "形容動詞", "meaning": "诚实",
+    "kanji_breakdown": [{ "char": "正", "reading": "しょう" }, { "char": "直", "reading": "じき" }],
+    "kanji_root": "正", "related_words": ["誠実", "真剣", "嘘"], "synonyms": ["誠実"], "antonyms": ["嘘つき"],
+    "example_jp": "正直に話すことが大切です。", "example_zh": "诚实地说话很重要。",
+    "example_breakdown": [{ "char": "正", "reading": "しょう" }, { "char": "直", "reading": "じき" }, { "char": "話", "reading": "はな" }, { "char": "大", "reading": "たい" }, { "char": "切", "reading": "せつ" }]
+  },
+  {
+    "id": "N4_W_050", "level": "N4", "unit": 6, "word": "真剣", "kana": "しんけん", "accent": "0", "part_of_speech": "形容動詞", "meaning": "认真，严肃",
+    "kanji_breakdown": [{ "char": "真", "reading": "しん" }, { "char": "剣", "reading": "けん" }],
+    "kanji_root": "真", "related_words": ["一生懸命", "本気", "努力"], "synonyms": ["本気"], "antonyms": ["いい加減"],
+    "example_jp": "真剣に考えてみます。", "example_zh": "认真地考虑一下。",
+    "example_breakdown": [{ "char": "真", "reading": "しん" }, { "char": "剣", "reading": "けん" }, { "char": "考", "reading": "かんが" }]
+  },
+  {
+    "id": "N4_W_051", "level": "N4", "unit": 6, "word": "特別", "kana": "とくべつ", "accent": "0", "part_of_speech": "形容動詞", "meaning": "特别的",
+    "kanji_breakdown": [{ "char": "特", "reading": "とく" }, { "char": "別", "reading": "べつ" }],
+    "kanji_root": "特", "related_words": ["特殊", "普通", "特に"], "synonyms": ["特殊"], "antonyms": ["普通"],
+    "example_jp": "今日は特別な日です。", "example_zh": "今天是特别的日子。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "特", "reading": "とく" }, { "char": "別", "reading": "べつ" }, { "char": "日", "reading": "ひ" }]
+  },
+  {
+    "id": "N4_W_052", "level": "N4", "unit": 6, "word": "普通", "kana": "ふつう", "accent": "0", "part_of_speech": "形容動詞", "meaning": "普通的，平常的",
+    "kanji_breakdown": [{ "char": "普", "reading": "ふ" }, { "char": "通", "reading": "つう" }],
+    "kanji_root": "普", "related_words": ["普段", "特別", "一般"], "synonyms": ["一般的"], "antonyms": ["特別"],
+    "example_jp": "普通の日本人は電車を使います。", "example_zh": "普通的日本人乘坐电车。",
+    "example_breakdown": [{ "char": "普", "reading": "ふ" }, { "char": "通", "reading": "つう" }, { "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "人", "reading": "じん" }, { "char": "電", "reading": "でん" }, { "char": "車", "reading": "しゃ" }, { "char": "使", "reading": "つか" }]
+  },
+  {
+    "id": "N4_W_053", "level": "N4", "unit": 7, "word": "最近", "kana": "さいきん", "accent": "0", "part_of_speech": "副詞", "meaning": "最近",
+    "kanji_breakdown": [{ "char": "最", "reading": "さい" }, { "char": "近", "reading": "きん" }],
+    "kanji_root": "最", "related_words": ["近ごろ", "このごろ", "以前"], "synonyms": ["近ごろ", "このごろ"], "antonyms": ["以前"],
+    "example_jp": "最近、運動を始めました。", "example_zh": "最近开始运动了。",
+    "example_breakdown": [{ "char": "最", "reading": "さい" }, { "char": "近", "reading": "きん" }, { "char": "運", "reading": "うん" }, { "char": "動", "reading": "どう" }, { "char": "始", "reading": "はじ" }]
+  },
+  {
+    "id": "N4_W_054", "level": "N4", "unit": 7, "word": "以前", "kana": "いぜん", "accent": "1", "part_of_speech": "副詞", "meaning": "以前",
+    "kanji_breakdown": [{ "char": "以", "reading": "い" }, { "char": "前", "reading": "ぜん" }],
+    "kanji_root": "以", "related_words": ["昔", "最近", "前"], "synonyms": ["昔"], "antonyms": ["最近", "これから"],
+    "example_jp": "以前はよく旅行しました。", "example_zh": "以前经常去旅行。",
+    "example_breakdown": [{ "char": "以", "reading": "い" }, { "char": "前", "reading": "ぜん" }, { "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }]
+  },
+  {
+    "id": "N4_W_055", "level": "N4", "unit": 7, "word": "将来", "kana": "しょうらい", "accent": "0", "part_of_speech": "名詞", "meaning": "将来",
+    "kanji_breakdown": [{ "char": "将", "reading": "しょう" }, { "char": "来", "reading": "らい" }],
+    "kanji_root": "将", "related_words": ["未来", "夢", "目標"], "synonyms": ["未来"], "antonyms": ["過去"],
+    "example_jp": "将来は医者になりたいです。", "example_zh": "将来想成为医生。",
+    "example_breakdown": [{ "char": "将", "reading": "しょう" }, { "char": "来", "reading": "らい" }, { "char": "医", "reading": "い" }, { "char": "者", "reading": "しゃ" }]
+  },
+  {
+    "id": "N4_W_056", "level": "N4", "unit": 7, "word": "途中", "kana": "とちゅう", "accent": "0", "part_of_speech": "名詞", "meaning": "途中，中途",
+    "kanji_breakdown": [{ "char": "途", "reading": "と" }, { "char": "中", "reading": "ちゅう" }],
+    "kanji_root": "途", "related_words": ["間", "最中", "途中で"], "synonyms": [], "antonyms": [],
+    "example_jp": "途中で雨が降ってきました。", "example_zh": "途中下起了雨。",
+    "example_breakdown": [{ "char": "途", "reading": "と" }, { "char": "中", "reading": "ちゅう" }, { "char": "雨", "reading": "あめ" }, { "char": "降", "reading": "ふ" }]
+  },
+  {
+    "id": "N4_W_057", "level": "N4", "unit": 7, "word": "間", "kana": "あいだ", "accent": "3", "part_of_speech": "名詞", "meaning": "之间，期间",
+    "kanji_breakdown": [{ "char": "間", "reading": "あいだ" }],
+    "kanji_root": "間", "related_words": ["間に", "間中", "期間"], "synonyms": ["うち"], "antonyms": [],
+    "example_jp": "授業の間は静かにします。", "example_zh": "上课期间保持安静。",
+    "example_breakdown": [{ "char": "授", "reading": "じゅ" }, { "char": "業", "reading": "ぎょう" }, { "char": "間", "reading": "あいだ" }, { "char": "静", "reading": "しず" }]
+  },
+  {
+    "id": "N4_W_058", "level": "N4", "unit": 7, "word": "場合", "kana": "ばあい", "accent": "0", "part_of_speech": "名詞", "meaning": "情况，场合",
+    "kanji_breakdown": [{ "char": "場", "reading": "ば" }, { "char": "合", "reading": "あい" }],
+    "kanji_root": "場", "related_words": ["時", "状況", "場面"], "synonyms": ["時", "状況"], "antonyms": [],
+    "example_jp": "緊急の場合は連絡してください。", "example_zh": "紧急情况下请联系。",
+    "example_breakdown": [{ "char": "緊", "reading": "きん" }, { "char": "急", "reading": "きゅう" }, { "char": "場", "reading": "ば" }, { "char": "合", "reading": "あい" }, { "char": "連", "reading": "れん" }, { "char": "絡", "reading": "らく" }]
+  },
+  {
+    "id": "N4_W_059", "level": "N4", "unit": 7, "word": "際", "kana": "さい", "accent": "1", "part_of_speech": "名詞", "meaning": "时候，场合（较正式）",
+    "kanji_breakdown": [{ "char": "際", "reading": "さい" }],
+    "kanji_root": "際", "related_words": ["場合", "時", "機会"], "synonyms": ["場合", "時"], "antonyms": [],
+    "example_jp": "お帰りの際は一声かけてください。", "example_zh": "回去的时候请打个招呼。",
+    "example_breakdown": [{ "char": "帰", "reading": "かえ" }, { "char": "際", "reading": "さい" }, { "char": "声", "reading": "こえ" }]
+  },
+  {
+    "id": "N4_W_060", "level": "N4", "unit": 7, "word": "期間", "kana": "きかん", "accent": "1", "part_of_speech": "名詞", "meaning": "期间",
+    "kanji_breakdown": [{ "char": "期", "reading": "き" }, { "char": "間", "reading": "かん" }],
+    "kanji_root": "期", "related_words": ["間", "時間", "時期"], "synonyms": ["時期"], "antonyms": [],
+    "example_jp": "研修の期間は三か月です。", "example_zh": "培训的期间是三个月。",
+    "example_breakdown": [{ "char": "研", "reading": "けん" }, { "char": "修", "reading": "しゅう" }, { "char": "期", "reading": "き" }, { "char": "間", "reading": "かん" }, { "char": "三", "reading": "さん" }, { "char": "月", "reading": "かげつ" }]
+  },
+  {
+    "id": "N4_W_061", "level": "N4", "unit": 8, "word": "体", "kana": "からだ", "accent": "0", "part_of_speech": "名詞", "meaning": "身体",
+    "kanji_breakdown": [{ "char": "体", "reading": "からだ" }],
+    "kanji_root": "体", "related_words": ["健康", "心", "病気"], "synonyms": [], "antonyms": [],
+    "example_jp": "体に気をつけてください。", "example_zh": "请多保重身体。",
+    "example_breakdown": [{ "char": "体", "reading": "からだ" }, { "char": "気", "reading": "き" }]
+  },
+  {
+    "id": "N4_W_062", "level": "N4", "unit": 8, "word": "心", "kana": "こころ", "accent": "0", "part_of_speech": "名詞", "meaning": "心，内心",
+    "kanji_breakdown": [{ "char": "心", "reading": "こころ" }],
+    "kanji_root": "心", "related_words": ["気持ち", "気分", "感情"], "synonyms": ["気持ち"], "antonyms": [],
+    "example_jp": "心から感謝しています。", "example_zh": "衷心感谢。",
+    "example_breakdown": [{ "char": "心", "reading": "こころ" }, { "char": "感", "reading": "かん" }, { "char": "謝", "reading": "しゃ" }]
+  },
+  {
+    "id": "N4_W_063", "level": "N4", "unit": 8, "word": "気持ち", "kana": "きもち", "accent": "3", "part_of_speech": "名詞", "meaning": "心情，感觉",
+    "kanji_breakdown": [{ "char": "気", "reading": "き" }, { "char": "持", "reading": "も" }],
+    "kanji_root": "気", "related_words": ["感情", "気分", "心"], "synonyms": ["感情", "気分"], "antonyms": [],
+    "example_jp": "あなたの気持ちが分かります。", "example_zh": "我理解你的心情。",
+    "example_breakdown": [{ "char": "気", "reading": "き" }, { "char": "持", "reading": "も" }, { "char": "分", "reading": "わ" }]
+  },
+  {
+    "id": "N4_W_064", "level": "N4", "unit": 8, "word": "気分", "kana": "きぶん", "accent": "1", "part_of_speech": "名詞", "meaning": "心情，气氛",
+    "kanji_breakdown": [{ "char": "気", "reading": "き" }, { "char": "分", "reading": "ぶん" }],
+    "kanji_root": "気", "related_words": ["気持ち", "雰囲気", "調子"], "synonyms": ["気持ち"], "antonyms": [],
+    "example_jp": "今日は気分がいいです。", "example_zh": "今天心情很好。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "気", "reading": "き" }, { "char": "分", "reading": "ぶん" }]
+  },
+  {
+    "id": "N4_W_065", "level": "N4", "unit": 8, "word": "具合", "kana": "ぐあい", "accent": "0", "part_of_speech": "名詞", "meaning": "状况，身体状况",
+    "kanji_breakdown": [{ "char": "具", "reading": "ぐ" }, { "char": "合", "reading": "あい" }],
+    "kanji_root": "具", "related_words": ["体調", "調子", "状態"], "synonyms": ["体調", "調子"], "antonyms": [],
+    "example_jp": "具合が悪いので休みます。", "example_zh": "因为身体不舒服所以休息。",
+    "example_breakdown": [{ "char": "具", "reading": "ぐ" }, { "char": "合", "reading": "あい" }, { "char": "悪", "reading": "わる" }, { "char": "休", "reading": "やす" }]
+  },
+  {
+    "id": "N4_W_066", "level": "N4", "unit": 8, "word": "痛い", "kana": "いたい", "accent": "2", "part_of_speech": "形容詞", "meaning": "痛的",
+    "kanji_breakdown": [{ "char": "痛", "reading": "いた" }],
+    "kanji_root": "痛", "related_words": ["体", "病気", "薬"], "synonyms": [], "antonyms": [],
+    "example_jp": "頭が痛いので薬を飲みます。", "example_zh": "因为头痛所以吃药。",
+    "example_breakdown": [{ "char": "頭", "reading": "あたま" }, { "char": "痛", "reading": "いた" }, { "char": "薬", "reading": "くすり" }, { "char": "飲", "reading": "の" }]
+  },
+  {
+    "id": "N4_W_067", "level": "N4", "unit": 8, "word": "疲れる", "kana": "つかれる", "accent": "3", "part_of_speech": "動詞（II類）", "meaning": "疲惫",
+    "kanji_breakdown": [{ "char": "疲", "reading": "つか" }],
+    "kanji_root": "疲", "related_words": ["休む", "疲労", "体"], "synonyms": [], "antonyms": ["元気"],
+    "example_jp": "仕事で疲れました。", "example_zh": "因为工作累了。",
+    "example_breakdown": [{ "char": "仕", "reading": "し" }, { "char": "事", "reading": "ごと" }, { "char": "疲", "reading": "つか" }]
+  },
+  {
+    "id": "N4_W_068", "level": "N4", "unit": 8, "word": "心配する", "kana": "しんぱいする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "担心",
+    "kanji_breakdown": [{ "char": "心", "reading": "しん" }, { "char": "配", "reading": "ぱい" }],
+    "kanji_root": "心", "related_words": ["不安", "安心", "悩む"], "synonyms": ["不安に思う"], "antonyms": ["安心する"],
+    "example_jp": "子どもの将来を心配しています。", "example_zh": "担心孩子的将来。",
+    "example_breakdown": [{ "char": "子", "reading": "こ" }, { "char": "将", "reading": "しょう" }, { "char": "来", "reading": "らい" }, { "char": "心", "reading": "しん" }, { "char": "配", "reading": "ぱい" }]
+  },
+  {
+    "id": "N4_W_069", "level": "N4", "unit": 8, "word": "驚く", "kana": "おどろく", "accent": "4", "part_of_speech": "動詞（I類）", "meaning": "吃惊，惊讶",
+    "kanji_breakdown": [{ "char": "驚", "reading": "おどろ" }],
+    "kanji_root": "驚", "related_words": ["びっくり", "感動する", "ショック"], "synonyms": ["びっくりする"], "antonyms": [],
+    "example_jp": "その知らせに驚きました。", "example_zh": "对那个消息感到惊讶。",
+    "example_breakdown": [{ "char": "知", "reading": "し" }, { "char": "驚", "reading": "おどろ" }]
+  },
+  {
+    "id": "N4_W_070", "level": "N4", "unit": 8, "word": "喜ぶ", "kana": "よろこぶ", "accent": "3", "part_of_speech": "動詞（I類）", "meaning": "高兴，喜悦",
+    "kanji_breakdown": [{ "char": "喜", "reading": "よろこ" }],
+    "kanji_root": "喜", "related_words": ["嬉しい", "楽しむ", "幸せ"], "synonyms": ["嬉しがる"], "antonyms": ["悲しむ"],
+    "example_jp": "プレゼントをもらって喜びました。", "example_zh": "收到礼物后很高兴。",
+    "example_breakdown": [{ "char": "喜", "reading": "よろこ" }]
+  },
+  {
+    "id": "N4_W_071", "level": "N4", "unit": 8, "word": "悲しい", "kana": "かなしい", "accent": "3", "part_of_speech": "形容詞", "meaning": "悲伤的",
+    "kanji_breakdown": [{ "char": "悲", "reading": "かな" }],
+    "kanji_root": "悲", "related_words": ["寂しい", "泣く", "辛い"], "synonyms": ["寂しい"], "antonyms": ["嬉しい"],
+    "example_jp": "別れはいつも悲しいです。", "example_zh": "分别总是令人悲伤。",
+    "example_breakdown": [{ "char": "別", "reading": "わか" }, { "char": "悲", "reading": "かな" }]
+  },
+  {
+    "id": "N4_W_072", "level": "N4", "unit": 8, "word": "怒る", "kana": "おこる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "生气，发怒",
+    "kanji_breakdown": [{ "char": "怒", "reading": "おこ" }],
+    "kanji_root": "怒", "related_words": ["腹が立つ", "叱る", "怒り"], "synonyms": ["腹を立てる"], "antonyms": ["喜ぶ"],
+    "example_jp": "先生に怒られました。", "example_zh": "被老师骂了。",
+    "example_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }, { "char": "怒", "reading": "おこ" }]
+  },
+  {
+    "id": "N4_W_073", "level": "N4", "unit": 8, "word": "困る", "kana": "こまる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "为难，困扰",
+    "kanji_breakdown": [{ "char": "困", "reading": "こま" }],
+    "kanji_root": "困", "related_words": ["悩む", "迷う", "困難"], "synonyms": ["悩む"], "antonyms": [],
+    "example_jp": "道に迷って困りました。", "example_zh": "迷路了很困扰。",
+    "example_breakdown": [{ "char": "道", "reading": "みち" }, { "char": "迷", "reading": "まよ" }, { "char": "困", "reading": "こま" }]
+  },
+  {
+    "id": "N4_W_074", "level": "N4", "unit": 8, "word": "楽しむ", "kana": "たのしむ", "accent": "4", "part_of_speech": "動詞（I類）", "meaning": "享受，乐在其中",
+    "kanji_breakdown": [{ "char": "楽", "reading": "たの" }],
+    "kanji_root": "楽", "related_words": ["楽しい", "喜ぶ", "趣味"], "synonyms": [], "antonyms": [],
+    "example_jp": "旅行を楽しみます。", "example_zh": "享受旅行。",
+    "example_breakdown": [{ "char": "旅", "reading": "りょ" }, { "char": "行", "reading": "こう" }, { "char": "楽", "reading": "たの" }]
+  },
+  {
+    "id": "N4_W_075", "level": "N4", "unit": 8, "word": "残念", "kana": "ざんねん", "accent": "3", "part_of_speech": "形容動詞", "meaning": "遗憾，可惜",
+    "kanji_breakdown": [{ "char": "残", "reading": "ざん" }, { "char": "念", "reading": "ねん" }],
+    "kanji_root": "残", "related_words": ["惜しい", "がっかり", "悲しい"], "synonyms": ["惜しい"], "antonyms": [],
+    "example_jp": "行けなくて残念です。", "example_zh": "不能去真遗憾。",
+    "example_breakdown": [{ "char": "残", "reading": "ざん" }, { "char": "念", "reading": "ねん" }]
+  },
+  {
+    "id": "N4_W_076", "level": "N4", "unit": 8, "word": "安心", "kana": "あんしん", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "放心，安心",
+    "kanji_breakdown": [{ "char": "安", "reading": "あん" }, { "char": "心", "reading": "しん" }],
+    "kanji_root": "安", "related_words": ["心配", "安全", "ほっとする"], "synonyms": ["ほっとする"], "antonyms": ["心配する"],
+    "example_jp": "無事に着いて安心しました。", "example_zh": "平安到达后放心了。",
+    "example_breakdown": [{ "char": "無", "reading": "ぶ" }, { "char": "事", "reading": "じ" }, { "char": "安", "reading": "あん" }, { "char": "心", "reading": "しん" }]
+  },
+  {
+    "id": "N4_W_077", "level": "N4", "unit": 8, "word": "自信", "kana": "じしん", "accent": "0", "part_of_speech": "名詞", "meaning": "自信",
+    "kanji_breakdown": [{ "char": "自", "reading": "じ" }, { "char": "信", "reading": "しん" }],
+    "kanji_root": "自", "related_words": ["自分", "努力", "信じる"], "synonyms": [], "antonyms": [],
+    "example_jp": "自信を持って話します。", "example_zh": "有自信地说话。",
+    "example_breakdown": [{ "char": "自", "reading": "じ" }, { "char": "信", "reading": "しん" }, { "char": "話", "reading": "はな" }]
+  },
+  {
+    "id": "N4_W_078", "level": "N4", "unit": 8, "word": "努力", "kana": "どりょく", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "努力",
+    "kanji_breakdown": [{ "char": "努", "reading": "ど" }, { "char": "力", "reading": "りょく" }],
+    "kanji_root": "努", "related_words": ["頑張る", "練習", "成長"], "synonyms": ["頑張る"], "antonyms": [],
+    "example_jp": "目標に向けて努力します。", "example_zh": "朝着目标努力。",
+    "example_breakdown": [{ "char": "目", "reading": "もく" }, { "char": "標", "reading": "ひょう" }, { "char": "努", "reading": "ど" }, { "char": "力", "reading": "りょく" }]
+  },
+  {
+    "id": "N4_W_079", "level": "N4", "unit": 8, "word": "成長", "kana": "せいちょう", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "成长",
+    "kanji_breakdown": [{ "char": "成", "reading": "せい" }, { "char": "長", "reading": "ちょう" }],
+    "kanji_root": "成", "related_words": ["発達", "進歩", "努力"], "synonyms": ["発達"], "antonyms": [],
+    "example_jp": "子どもの成長を感じます。", "example_zh": "感受到孩子的成长。",
+    "example_breakdown": [{ "char": "子", "reading": "こ" }, { "char": "成", "reading": "せい" }, { "char": "長", "reading": "ちょう" }, { "char": "感", "reading": "かん" }]
+  },
+  {
+    "id": "N4_W_080", "level": "N4", "unit": 8, "word": "変化", "kana": "へんか", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "变化",
+    "kanji_breakdown": [{ "char": "変", "reading": "へん" }, { "char": "化", "reading": "か" }],
+    "kanji_root": "変", "related_words": ["変わる", "変える", "成長"], "synonyms": ["変わり"], "antonyms": [],
+    "example_jp": "最近、生活に変化がありました。", "example_zh": "最近生活有了变化。",
+    "example_breakdown": [{ "char": "最", "reading": "さい" }, { "char": "近", "reading": "きん" }, { "char": "生", "reading": "せい" }, { "char": "活", "reading": "かつ" }, { "char": "変", "reading": "へん" }, { "char": "化", "reading": "か" }]
+  }
+]

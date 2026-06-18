@@ -1,0 +1,322 @@
+[
+  {
+    "id": "N5_Q_001",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「学生」の読み方はどれですか？",
+    "options": ["がくせい", "がくしょう", "かくせい", "かくしょう"],
+    "correct_answer": 0,
+    "explanation": "「学生」はがくせいと読みます。学（がく）+ 生（せい）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_002",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「食べる」の意味はどれですか？",
+    "options": ["飲む", "食べる", "買う", "見る"],
+    "correct_answer": 1,
+    "explanation": "「食べる」は中国語で「吃」という意味です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_003",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "（　　）に入る正しい言葉を選んでください。「私は日本語（　　）好きです。」",
+    "options": ["を", "に", "が", "は"],
+    "correct_answer": 2,
+    "explanation": "好きの前には助詞「が」を使います。「日本語が好きです」が正しい形です。",
+    "linked_grammar_id": "N5_G_002"
+  },
+  {
+    "id": "N5_Q_004",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "正しい文を選んでください。",
+    "options": [
+      "ゆっくり話してください。",
+      "ゆっくり話くてください。",
+      "ゆっくり話のでください。",
+      "ゆっくり話にてください。"
+    ],
+    "correct_answer": 0,
+    "explanation": "「～てください」は動詞のて形に接続します。「話す」のて形は「話して」です。",
+    "linked_grammar_id": "N5_G_003"
+  },
+  {
+    "id": "N5_Q_005",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「電車」の読み方はどれですか？",
+    "options": ["でんしゃ", "でんじゃ", "てんしゃ", "てんじゃ"],
+    "correct_answer": 0,
+    "explanation": "「電車」はでんしゃと読みます。電（でん）+ 車（しゃ）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_006",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "（　　）に入る正しい言葉を選んでください。「今、勉強（　　）います。」",
+    "options": ["して", "をして", "がして", "にして"],
+    "correct_answer": 0,
+    "explanation": "「～ています」は動詞のて形に接続します。「勉強する」のて形は「勉強して」です。",
+    "linked_grammar_id": "N5_G_004"
+  },
+  {
+    "id": "N5_Q_007",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「先生」の反対語（対義語）はどれですか？",
+    "options": ["教師", "学生", "大学", "学校"],
+    "correct_answer": 1,
+    "explanation": "「先生」の反対語は「学生」です。先生は教える人、学生は学ぶ人です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_008",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「富士山に登ったことがあります」の意味はどれですか？",
+    "options": [
+      "富士山に登りたいです",
+      "富士山に登っています",
+      "富士山に登った経験があります",
+      "富士山に登るつもりです"
+    ],
+    "correct_answer": 2,
+    "explanation": "「～たことがある」は過去の経験を表します。「登ったことがある」＝「登った経験がある」という意味です。",
+    "linked_grammar_id": "N5_G_007"
+  },
+  {
+    "id": "N5_Q_009",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「行く」の反対語はどれですか？",
+    "options": ["帰る", "来る", "走る", "止まる"],
+    "correct_answer": 1,
+    "explanation": "「行く（いく）」の反対語は「来る（くる）」です。行くは話し手から離れる動作、来るは話し手に向かう動作を表します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_010",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "正しい文を選んでください。「お腹が空いた（　　）、何か食べたい。」",
+    "options": ["のに", "から", "ても", "けど"],
+    "correct_answer": 1,
+    "explanation": "「から」は理由を表す接続助詞です。「お腹が空いたから」で「お腹が空いているので」という理由を表します。",
+    "linked_grammar_id": "N5_G_008"
+  },
+  {
+    "id": "N5_Q_011",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「水」の読み方はどれですか？",
+    "options": ["みず", "みす", "すみ", "もず"],
+    "correct_answer": 0,
+    "explanation": "「水」はみずと読みます。水（みず）は日常的によく使う基本単語です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_012",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "（　　）に入る正しい言葉を選んでください。「田中さん（　　）来ますか。」（田中也来吗？）",
+    "options": ["は", "も", "が", "を"],
+    "correct_answer": 1,
+    "explanation": "「も」は「同样」的意思，表示田中和别人一样也来。「は」只是主题助词，没有「也」的意思。",
+    "linked_grammar_id": "N5_G_011"
+  },
+  {
+    "id": "N5_Q_013",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「電車はバス（　　）速いです。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["から", "より", "でも", "まで"],
+    "correct_answer": 1,
+    "explanation": "「より」は比較の基準を表します。「AはBより～」で「AはBと比べて～」という意味になります。",
+    "linked_grammar_id": "N5_G_012"
+  },
+  {
+    "id": "N5_Q_014",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「早く寝た（　　）いいですよ。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["ほうが", "ほどが", "わけが", "ことが"],
+    "correct_answer": 0,
+    "explanation": "「～たほうがいい」は「最好……」の意味で、アドバイスをする時に使います。",
+    "linked_grammar_id": "N5_G_013"
+  },
+  {
+    "id": "N5_Q_015",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「図書館」の読み方はどれですか？",
+    "options": ["としょかん", "としょがん", "とうしょかん", "どしょかん"],
+    "correct_answer": 0,
+    "explanation": "「図書館」はとしょかんと読みます。図（と）書（しょ）館（かん）です。本を借りられる場所です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_016",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「ここに座って（　　）いいですか。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["は", "も", "が", "を"],
+    "correct_answer": 1,
+    "explanation": "「～てもいい」は許可を表す表現です。「座ってもいいですか」で「坐这里可以吗？」という意味です。",
+    "linked_grammar_id": "N5_G_016"
+  },
+  {
+    "id": "N5_Q_017",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「授業中にスマホを使って（　　）いけません。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["も", "は", "が", "を"],
+    "correct_answer": 1,
+    "explanation": "「～てはいけない」は禁止を表します。「使ってはいけません」で「不可以使用」という意味になります。",
+    "linked_grammar_id": "N5_G_017"
+  },
+  {
+    "id": "N5_Q_018",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "次の文の意味として正しいものはどれですか？「音楽を聴きながら、勉強します。」",
+    "options": [
+      "音楽を聴いてから、勉強します",
+      "音楽を聴いた後で、勉強します",
+      "音楽を聴くことと勉強することを同時にします",
+      "音楽を聴くために、勉強します"
+    ],
+    "correct_answer": 2,
+    "explanation": "「～ながら」は二つの動作を同時に行うことを表します。「音楽を聴きながら勉強する」は「一边听音乐一边学习」です。",
+    "linked_grammar_id": "N5_G_018"
+  },
+  {
+    "id": "N5_Q_019",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「病院」の読み方はどれですか？",
+    "options": ["びょういん", "びょうかん", "へいいん", "へいかん"],
+    "correct_answer": 0,
+    "explanation": "「病院」はびょういんと読みます。病（びょう）+ 院（いん）です。お医者さんがいる場所です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_020",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「寝る（　　）に、歯を磨きます。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["前", "後", "時", "間"],
+    "correct_answer": 0,
+    "explanation": "「動詞辞書形＋前に」は「在……之前」という意味です。「寝る前に」は「睡觉之前」です。",
+    "linked_grammar_id": "N5_G_019"
+  },
+  {
+    "id": "N5_Q_021",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「宿題をした（　　）で、ゲームをします。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["前", "後", "時", "間"],
+    "correct_answer": 1,
+    "explanation": "「動詞た形＋後で」は「在……之后」という意味です。「した後で」は「做完之后」です。",
+    "linked_grammar_id": "N5_G_020"
+  },
+  {
+    "id": "N5_Q_022",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「私は日本語を話す（　　）ができます。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["の", "こと", "もの", "ため"],
+    "correct_answer": 1,
+    "explanation": "「～ことができる」は能力や可能性を表す表現です。「話すことができる」で「能说」という意味になります。",
+    "linked_grammar_id": "N5_G_022"
+  },
+  {
+    "id": "N5_Q_023",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「右」と「左」はそれぞれ中国語で何と言いますか？",
+    "options": ["右＝みぎ（右），左＝ひだり（左）", "右＝ひだり（左），左＝みぎ（右）", "右＝うえ（上），左＝した（下）", "右＝まえ（前），左＝うしろ（后）"],
+    "correct_answer": 0,
+    "explanation": "「右（みぎ）」は「右」、「左（ひだり）」は「左」という意味です。方向を表す基本単語です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_024",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「日本語を勉強する（　　）、毎日練習します。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["から", "ために", "ので", "けど"],
+    "correct_answer": 1,
+    "explanation": "「～ために」は目的を表します。「日本語を勉強するために」は「为了学日语」という意味です。「から」は理由を表し、少しニュアンスが違います。",
+    "linked_grammar_id": "N5_G_023"
+  },
+  {
+    "id": "N5_Q_025",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「来年、日本へ行く（　　）です。」の（　　）に入る正しい言葉はどれですか？（意味：打算明年去日本）",
+    "options": ["はずだ", "かもしれない", "つもり", "でしょう"],
+    "correct_answer": 2,
+    "explanation": "「～つもり」は話し手の意図や計画を表します。「行くつもり」で「打算去」という意味になります。",
+    "linked_grammar_id": "N5_G_026"
+  },
+  {
+    "id": "N5_Q_026",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「毎日」の読み方はどれですか？",
+    "options": ["まいにち", "まいび", "めいにち", "めいび"],
+    "correct_answer": 0,
+    "explanation": "「毎日」はまいにちと読みます。毎（まい）+ 日（にち）です。「每天」という意味です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_027",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「練習したら、ピアノが弾ける（　　）なりました。」の（　　）に入る正しい言葉はどれですか？",
+    "options": ["ように", "ために", "ことに", "はずに"],
+    "correct_answer": 0,
+    "explanation": "「～ようになる」は能力や状態の変化を表します。「弾けるようになる」で「渐渐会弹了」という変化を表します。",
+    "linked_grammar_id": "N5_G_027"
+  },
+  {
+    "id": "N5_Q_028",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "「この料理はおいしそうです。」の意味はどれですか？",
+    "options": [
+      "この料理はおいしいと聞きました",
+      "この料理はおいしいと思います",
+      "この料理は見た感じおいしそうに見えます",
+      "この料理はおいしかったです"
+    ],
+    "correct_answer": 2,
+    "explanation": "「～そうだ（様態）」は見た目や外観から判断した推測を表します。「おいしそう」は「看起来好吃」という意味です。",
+    "linked_grammar_id": "N5_G_030"
+  },
+  {
+    "id": "N5_Q_029",
+    "level": "N5",
+    "type": "vocabulary",
+    "question_text": "「今年」の読み方はどれですか？",
+    "options": ["ことし", "いまとし", "こんねん", "こんとし"],
+    "correct_answer": 0,
+    "explanation": "「今年」はことしと読みます。「今年」という意味で、「今年（こんねん）」とも読みますが、「ことし」が一般的な読み方です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N5_Q_030",
+    "level": "N5",
+    "type": "grammar",
+    "question_text": "次の文の（　　）に入る最も適切な表現はどれですか？「彼はもう家に帰っている（　　）です。新幹線の時間は3時間前でしたから。」",
+    "options": ["かもしれない", "はず", "つもり", "ようだ"],
+    "correct_answer": 1,
+    "explanation": "「～はずだ」は根拠のある推断を表します。新幹線の時間から計算して「应该已经回到家了」という確信に近い推断を表します。",
+    "linked_grammar_id": "N5_G_029"
+  }
+]

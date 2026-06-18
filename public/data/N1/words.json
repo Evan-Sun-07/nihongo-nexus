@@ -1,0 +1,212 @@
+[
+  {
+    "id": "N1_W_001", "level": "N1", "unit": 1, "word": "懸念", "kana": "けねん", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "担忧，顾虑",
+    "kanji_breakdown": [{ "char": "懸", "reading": "け" }, { "char": "念", "reading": "ねん" }],
+    "kanji_root": "懸", "related_words": ["心配", "不安", "危惧"], "synonyms": ["心配", "不安"], "antonyms": ["安心"],
+    "example_jp": "環境問題に対する懸念が高まっています。", "example_zh": "对环境问题的担忧日益增加。",
+    "example_breakdown": [{ "char": "環", "reading": "かん" }, { "char": "境", "reading": "きょう" }, { "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }, { "char": "懸", "reading": "け" }, { "char": "念", "reading": "ねん" }, { "char": "高", "reading": "たか" }]
+  },
+  {
+    "id": "N1_W_002", "level": "N1", "unit": 1, "word": "顕著", "kana": "けんちょ", "accent": "1", "part_of_speech": "形容動詞", "meaning": "显著，明显",
+    "kanji_breakdown": [{ "char": "顕", "reading": "けん" }, { "char": "著", "reading": "ちょ" }],
+    "kanji_root": "顕", "related_words": ["明白", "明らか", "著しい"], "synonyms": ["著しい", "明らか"], "antonyms": ["微妙"],
+    "example_jp": "近年、気候変動の影響が顕著になっています。", "example_zh": "近年来，气候变化的影响变得非常显著。",
+    "example_breakdown": [{ "char": "近", "reading": "きん" }, { "char": "年", "reading": "ねん" }, { "char": "気", "reading": "き" }, { "char": "候", "reading": "こう" }, { "char": "変", "reading": "へん" }, { "char": "動", "reading": "どう" }, { "char": "影", "reading": "えい" }, { "char": "響", "reading": "きょう" }, { "char": "顕", "reading": "けん" }, { "char": "著", "reading": "ちょ" }]
+  },
+  {
+    "id": "N1_W_003", "level": "N1", "unit": 2, "word": "煩雑", "kana": "はんざつ", "accent": "0", "part_of_speech": "形容動詞", "meaning": "繁琐，复杂麻烦",
+    "kanji_breakdown": [{ "char": "煩", "reading": "はん" }, { "char": "雑", "reading": "ざつ" }],
+    "kanji_root": "煩", "related_words": ["複雑", "面倒", "厄介"], "synonyms": ["複雑", "面倒"], "antonyms": ["簡単", "シンプル"],
+    "example_jp": "この手続きは煩雑で時間がかかります。", "example_zh": "这个手续很繁琐，需要花费时间。",
+    "example_breakdown": [{ "char": "手", "reading": "て" }, { "char": "続", "reading": "つづ" }, { "char": "煩", "reading": "はん" }, { "char": "雑", "reading": "ざつ" }, { "char": "時", "reading": "じ" }, { "char": "間", "reading": "かん" }]
+  },
+  {
+    "id": "N1_W_004", "level": "N1", "unit": 1, "word": "憂慮", "kana": "ゆうりょ", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "忧虑",
+    "kanji_breakdown": [{ "char": "憂", "reading": "ゆう" }, { "char": "慮", "reading": "りょ" }],
+    "kanji_root": "憂", "related_words": ["懸念", "心配", "危惧"], "synonyms": ["懸念"], "antonyms": ["安心"],
+    "example_jp": "国際情勢を憂慮しています。", "example_zh": "对国际形势感到忧虑。",
+    "example_breakdown": [{ "char": "国", "reading": "こく" }, { "char": "際", "reading": "さい" }, { "char": "情", "reading": "じょう" }, { "char": "勢", "reading": "せい" }, { "char": "憂", "reading": "ゆう" }, { "char": "慮", "reading": "りょ" }]
+  },
+  {
+    "id": "N1_W_005", "level": "N1", "unit": 1, "word": "危惧", "kana": "きぐ", "accent": "1", "part_of_speech": "名詞・動詞（する）", "meaning": "担忧，担心",
+    "kanji_breakdown": [{ "char": "危", "reading": "き" }, { "char": "惧", "reading": "ぐ" }],
+    "kanji_root": "危", "related_words": ["懸念", "心配", "憂慮"], "synonyms": ["懸念", "心配"], "antonyms": [],
+    "example_jp": "将来への危惧を表明しました。", "example_zh": "表明了对将来的担忧。",
+    "example_breakdown": [{ "char": "将", "reading": "しょう" }, { "char": "来", "reading": "らい" }, { "char": "危", "reading": "き" }, { "char": "惧", "reading": "ぐ" }, { "char": "表", "reading": "ひょう" }, { "char": "明", "reading": "めい" }]
+  },
+  {
+    "id": "N1_W_006", "level": "N1", "unit": 1, "word": "懸け橋", "kana": "かけはし", "accent": "3", "part_of_speech": "名詞", "meaning": "桥梁（比喻）",
+    "kanji_breakdown": [{ "char": "懸", "reading": "か" }, { "char": "橋", "reading": "はし" }],
+    "kanji_root": "橋", "related_words": ["橋", "媒介", "中介"], "synonyms": ["橋渡し"], "antonyms": [],
+    "example_jp": "両国の懸け橋となる人材が必要です。", "example_zh": "需要能成为两国桥梁的人才。",
+    "example_breakdown": [{ "char": "両", "reading": "りょう" }, { "char": "国", "reading": "こく" }, { "char": "懸", "reading": "か" }, { "char": "橋", "reading": "はし" }, { "char": "人", "reading": "じん" }, { "char": "材", "reading": "ざい" }, { "char": "必", "reading": "ひつ" }, { "char": "要", "reading": "よう" }]
+  },
+  {
+    "id": "N1_W_007", "level": "N1", "unit": 1, "word": "所以", "kana": "ゆえん", "accent": "1", "part_of_speech": "名詞", "meaning": "原因，缘故",
+    "kanji_breakdown": [{ "char": "所", "reading": "ゆ" }, { "char": "以", "reading": "えん" }],
+    "kanji_root": "所", "related_words": ["理由", "根拠", "原因"], "synonyms": ["理由", "わけ"], "antonyms": [],
+    "example_jp": "彼が成功した所以を探ります。", "example_zh": "探究他成功的原因。",
+    "example_breakdown": [{ "char": "成", "reading": "せい" }, { "char": "功", "reading": "こう" }, { "char": "所", "reading": "ゆ" }, { "char": "以", "reading": "えん" }, { "char": "探", "reading": "さぐ" }]
+  },
+  {
+    "id": "N1_W_008", "level": "N1", "unit": 1, "word": "所謂", "kana": "いわゆる", "accent": "0", "part_of_speech": "副詞", "meaning": "所谓的",
+    "kanji_breakdown": [{ "char": "所", "reading": "い" }, { "char": "謂", "reading": "わゆ" }],
+    "kanji_root": "所", "related_words": ["いわゆる", "つまり", "いうところの"], "synonyms": [], "antonyms": [],
+    "example_jp": "所謂エリートが集まっています。", "example_zh": "所谓的精英聚集在一起。",
+    "example_breakdown": [{ "char": "所", "reading": "い" }, { "char": "謂", "reading": "わゆ" }]
+  },
+  {
+    "id": "N1_W_009", "level": "N1", "unit": 1, "word": "即ち", "kana": "すなわち", "accent": "2", "part_of_speech": "副詞", "meaning": "即，也就是说",
+    "kanji_breakdown": [{ "char": "即", "reading": "すなわ" }],
+    "kanji_root": "即", "related_words": ["つまり", "すなわち", "言い換えれば"], "synonyms": ["つまり"], "antonyms": [],
+    "example_jp": "これは即ち失敗を意味します。", "example_zh": "这也就是说意味着失败。",
+    "example_breakdown": [{ "char": "即", "reading": "すなわ" }, { "char": "失", "reading": "しっ" }, { "char": "敗", "reading": "ぱい" }, { "char": "意", "reading": "い" }, { "char": "味", "reading": "み" }]
+  },
+  {
+    "id": "N1_W_010", "level": "N1", "unit": 1, "word": "尤も", "kana": "もっとも", "accent": "3", "part_of_speech": "副詞", "meaning": "固然，当然",
+    "kanji_breakdown": [{ "char": "尤", "reading": "もっと" }],
+    "kanji_root": "尤", "related_words": ["確かに", "ただし", "もちろん"], "synonyms": ["確かに"], "antonyms": [],
+    "example_jp": "尤もな意見です。", "example_zh": "这是理所当然的意见。",
+    "example_breakdown": [{ "char": "尤", "reading": "もっと" }, { "char": "意", "reading": "い" }, { "char": "見", "reading": "けん" }]
+  },
+  {
+    "id": "N1_W_011", "level": "N1", "unit": 2, "word": "顧みる", "kana": "かえりみる", "accent": "5", "part_of_speech": "動詞（II類）", "meaning": "回顾，反省",
+    "kanji_breakdown": [{ "char": "顧", "reading": "かえり" }],
+    "kanji_root": "顧", "related_words": ["反省する", "振り返る", "回顧する"], "synonyms": ["振り返る"], "antonyms": [],
+    "example_jp": "過去を顧みる機会を持ちます。", "example_zh": "拥有回顾过去的机会。",
+    "example_breakdown": [{ "char": "過", "reading": "か" }, { "char": "去", "reading": "こ" }, { "char": "顧", "reading": "かえり" }, { "char": "機", "reading": "き" }, { "char": "会", "reading": "かい" }]
+  },
+  {
+    "id": "N1_W_012", "level": "N1", "unit": 2, "word": "鑑みる", "kana": "かんがみる", "accent": "4", "part_of_speech": "動詞（II類）", "meaning": "鉴于，参照",
+    "kanji_breakdown": [{ "char": "鑑", "reading": "かんが" }],
+    "kanji_root": "鑑", "related_words": ["参照する", "照らし合わせる", "基づく"], "synonyms": ["基づく"], "antonyms": [],
+    "example_jp": "状況に鑑みて判断します。", "example_zh": "鉴于情况作出判断。",
+    "example_breakdown": [{ "char": "状", "reading": "じょう" }, { "char": "況", "reading": "きょう" }, { "char": "鑑", "reading": "かんが" }, { "char": "判", "reading": "はん" }, { "char": "断", "reading": "だん" }]
+  },
+  {
+    "id": "N1_W_013", "level": "N1", "unit": 2, "word": "踏襲する", "kana": "とうしゅうする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "沿袭，继承",
+    "kanji_breakdown": [{ "char": "踏", "reading": "とう" }, { "char": "襲", "reading": "しゅう" }],
+    "kanji_root": "踏", "related_words": ["受け継ぐ", "引き継ぐ", "継承する"], "synonyms": ["継承する"], "antonyms": [],
+    "example_jp": "前任者の方針を踏襲します。", "example_zh": "沿袭前任的方针。",
+    "example_breakdown": [{ "char": "前", "reading": "ぜん" }, { "char": "任", "reading": "にん" }, { "char": "者", "reading": "しゃ" }, { "char": "方", "reading": "ほう" }, { "char": "針", "reading": "しん" }, { "char": "踏", "reading": "とう" }, { "char": "襲", "reading": "しゅう" }]
+  },
+  {
+    "id": "N1_W_014", "level": "N1", "unit": 2, "word": "醸し出す", "kana": "かもしだす", "accent": "5", "part_of_speech": "動詞（I類）", "meaning": "营造，酝酿",
+    "kanji_breakdown": [{ "char": "醸", "reading": "かも" }, { "char": "出", "reading": "だ" }],
+    "kanji_root": "醸", "related_words": ["作り出す", "生み出す", "演出する"], "synonyms": ["生み出す"], "antonyms": [],
+    "example_jp": "独特の雰囲気を醸し出します。", "example_zh": "营造出独特的氛围。",
+    "example_breakdown": [{ "char": "独", "reading": "どく" }, { "char": "特", "reading": "とく" }, { "char": "雰", "reading": "ふん" }, { "char": "囲", "reading": "い" }, { "char": "気", "reading": "き" }, { "char": "醸", "reading": "かも" }, { "char": "出", "reading": "だ" }]
+  },
+  {
+    "id": "N1_W_015", "level": "N1", "unit": 2, "word": "呼び起こす", "kana": "よびおこす", "accent": "5", "part_of_speech": "動詞（I類）", "meaning": "唤起，引起",
+    "kanji_breakdown": [{ "char": "呼", "reading": "よ" }, { "char": "起", "reading": "お" }],
+    "kanji_root": "呼", "related_words": ["喚起する", "引き起こす", "思い起こす"], "synonyms": ["喚起する"], "antonyms": [],
+    "example_jp": "懐かしい記憶を呼び起こします。", "example_zh": "唤起怀念的记忆。",
+    "example_breakdown": [{ "char": "記", "reading": "き" }, { "char": "憶", "reading": "おく" }, { "char": "呼", "reading": "よ" }, { "char": "起", "reading": "お" }]
+  },
+  {
+    "id": "N1_W_016", "level": "N1", "unit": 2, "word": "見据える", "kana": "みすえる", "accent": "4", "part_of_speech": "動詞（II類）", "meaning": "直视，以…为目标",
+    "kanji_breakdown": [{ "char": "見", "reading": "み" }, { "char": "据", "reading": "す" }],
+    "kanji_root": "見", "related_words": ["目指す", "直視する", "睨む"], "synonyms": ["目指す"], "antonyms": [],
+    "example_jp": "将来を見据えて行動します。", "example_zh": "着眼将来采取行动。",
+    "example_breakdown": [{ "char": "将", "reading": "しょう" }, { "char": "来", "reading": "らい" }, { "char": "見", "reading": "み" }, { "char": "据", "reading": "す" }, { "char": "行", "reading": "こう" }, { "char": "動", "reading": "どう" }]
+  },
+  {
+    "id": "N1_W_017", "level": "N1", "unit": 2, "word": "克服する", "kana": "こくふくする", "accent": "0", "part_of_speech": "名詞・動詞（する）", "meaning": "克服",
+    "kanji_breakdown": [{ "char": "克", "reading": "こく" }, { "char": "服", "reading": "ふく" }],
+    "kanji_root": "克", "related_words": ["乗り越える", "打ち勝つ", "解決する"], "synonyms": ["乗り越える"], "antonyms": [],
+    "example_jp": "困難を克服するために努力します。", "example_zh": "为了克服困难而努力。",
+    "example_breakdown": [{ "char": "困", "reading": "こん" }, { "char": "難", "reading": "なん" }, { "char": "克", "reading": "こく" }, { "char": "服", "reading": "ふく" }, { "char": "努", "reading": "ど" }, { "char": "力", "reading": "りょく" }]
+  },
+  {
+    "id": "N1_W_018", "level": "N1", "unit": 2, "word": "凌ぐ", "kana": "しのぐ", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "忍耐；超越",
+    "kanji_breakdown": [{ "char": "凌", "reading": "しの" }],
+    "kanji_root": "凌", "related_words": ["耐える", "超える", "しのぐ"], "synonyms": ["耐える"], "antonyms": [],
+    "example_jp": "困難な状況を凌ぎます。", "example_zh": "克服困难的状况。",
+    "example_breakdown": [{ "char": "困", "reading": "こん" }, { "char": "難", "reading": "なん" }, { "char": "状", "reading": "じょう" }, { "char": "況", "reading": "きょう" }, { "char": "凌", "reading": "しの" }]
+  },
+  {
+    "id": "N1_W_019", "level": "N1", "unit": 2, "word": "帯びる", "kana": "おびる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "带有，具有",
+    "kanji_breakdown": [{ "char": "帯", "reading": "お" }],
+    "kanji_root": "帯", "related_words": ["持つ", "含む", "備える"], "synonyms": ["含む"], "antonyms": [],
+    "example_jp": "発言が政治的色彩を帯びています。", "example_zh": "发言带有政治色彩。",
+    "example_breakdown": [{ "char": "発", "reading": "はつ" }, { "char": "言", "reading": "げん" }, { "char": "政", "reading": "せい" }, { "char": "治", "reading": "じ" }, { "char": "的", "reading": "てき" }, { "char": "色", "reading": "しき" }, { "char": "彩", "reading": "さい" }, { "char": "帯", "reading": "お" }]
+  },
+  {
+    "id": "N1_W_020", "level": "N1", "unit": 2, "word": "孕む", "kana": "はらむ", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "孕含，蕴含",
+    "kanji_breakdown": [{ "char": "孕", "reading": "はら" }],
+    "kanji_root": "孕", "related_words": ["含む", "内包する", "はらむ"], "synonyms": ["内包する"], "antonyms": [],
+    "example_jp": "この計画は多くの問題を孕んでいます。", "example_zh": "这个计划蕴含着许多问题。",
+    "example_breakdown": [{ "char": "計", "reading": "けい" }, { "char": "画", "reading": "かく" }, { "char": "多", "reading": "おお" }, { "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }, { "char": "孕", "reading": "はら" }]
+  },
+  {
+    "id": "N1_W_021", "level": "N1", "unit": 3, "word": "稀有", "kana": "きゆう", "accent": "0", "part_of_speech": "形容動詞", "meaning": "罕见，稀有",
+    "kanji_breakdown": [{ "char": "稀", "reading": "き" }, { "char": "有", "reading": "ゆう" }],
+    "kanji_root": "稀", "related_words": ["珍しい", "まれ", "希少"], "synonyms": ["珍しい", "まれ"], "antonyms": ["一般的"],
+    "example_jp": "これは稀有な才能です。", "example_zh": "这是罕见的才能。",
+    "example_breakdown": [{ "char": "稀", "reading": "き" }, { "char": "有", "reading": "ゆう" }, { "char": "才", "reading": "さい" }, { "char": "能", "reading": "のう" }]
+  },
+  {
+    "id": "N1_W_022", "level": "N1", "unit": 3, "word": "甚大", "kana": "じんだい", "accent": "0", "part_of_speech": "形容動詞", "meaning": "极大，巨大",
+    "kanji_breakdown": [{ "char": "甚", "reading": "じん" }, { "char": "大", "reading": "だい" }],
+    "kanji_root": "甚", "related_words": ["大きな", "多大な", "甚大な"], "synonyms": ["多大"], "antonyms": ["軽微"],
+    "example_jp": "台風による被害が甚大です。", "example_zh": "台风造成的损害极大。",
+    "example_breakdown": [{ "char": "台", "reading": "たい" }, { "char": "風", "reading": "ふう" }, { "char": "被", "reading": "ひ" }, { "char": "害", "reading": "がい" }, { "char": "甚", "reading": "じん" }, { "char": "大", "reading": "だい" }]
+  },
+  {
+    "id": "N1_W_023", "level": "N1", "unit": 3, "word": "僅か", "kana": "わずか", "accent": "1", "part_of_speech": "副詞", "meaning": "仅仅，微少",
+    "kanji_breakdown": [{ "char": "僅", "reading": "わず" }],
+    "kanji_root": "僅", "related_words": ["少し", "ほんの", "僅少"], "synonyms": ["ほんの", "少し"], "antonyms": ["多く", "たくさん"],
+    "example_jp": "僅かな希望にすがっています。", "example_zh": "紧抓着一丝微弱的希望。",
+    "example_breakdown": [{ "char": "僅", "reading": "わず" }, { "char": "希", "reading": "き" }, { "char": "望", "reading": "ぼう" }]
+  },
+  {
+    "id": "N1_W_024", "level": "N1", "unit": 3, "word": "幾多", "kana": "いくた", "accent": "0", "part_of_speech": "副詞", "meaning": "许多，若干",
+    "kanji_breakdown": [{ "char": "幾", "reading": "いく" }, { "char": "多", "reading": "た" }],
+    "kanji_root": "幾", "related_words": ["多くの", "数々の", "いくつもの"], "synonyms": ["数々の"], "antonyms": [],
+    "example_jp": "幾多の困難を乗り越えてきました。", "example_zh": "克服了许多困难。",
+    "example_breakdown": [{ "char": "幾", "reading": "いく" }, { "char": "多", "reading": "た" }, { "char": "困", "reading": "こん" }, { "char": "難", "reading": "なん" }, { "char": "乗", "reading": "の" }, { "char": "越", "reading": "こ" }]
+  },
+  {
+    "id": "N1_W_025", "level": "N1", "unit": 3, "word": "忌々しい", "kana": "いまいましい", "accent": "6", "part_of_speech": "形容詞", "meaning": "令人厌烦的，气人的",
+    "kanji_breakdown": [{ "char": "忌", "reading": "いまいま" }],
+    "kanji_root": "忌", "related_words": ["腹立たしい", "不快な", "煩わしい"], "synonyms": ["腹立たしい"], "antonyms": [],
+    "example_jp": "忌々しい状況が続いています。", "example_zh": "令人厌烦的状况持续着。",
+    "example_breakdown": [{ "char": "忌", "reading": "いまいま" }, { "char": "状", "reading": "じょう" }, { "char": "況", "reading": "きょう" }]
+  },
+  {
+    "id": "N1_W_026", "level": "N1", "unit": 3, "word": "著しい", "kana": "いちじるしい", "accent": "5", "part_of_speech": "形容詞", "meaning": "显著的",
+    "kanji_breakdown": [{ "char": "著", "reading": "いちじる" }],
+    "kanji_root": "著", "related_words": ["顕著", "明白", "目立つ"], "synonyms": ["顕著"], "antonyms": [],
+    "example_jp": "社会の著しい変化に対応します。", "example_zh": "应对社会显著的变化。",
+    "example_breakdown": [{ "char": "社", "reading": "しゃ" }, { "char": "会", "reading": "かい" }, { "char": "著", "reading": "いちじる" }, { "char": "変", "reading": "へん" }, { "char": "化", "reading": "か" }, { "char": "対", "reading": "たい" }, { "char": "応", "reading": "おう" }]
+  },
+  {
+    "id": "N1_W_027", "level": "N1", "unit": 3, "word": "冗長", "kana": "じょうちょう", "accent": "0", "part_of_speech": "形容動詞", "meaning": "冗长",
+    "kanji_breakdown": [{ "char": "冗", "reading": "じょう" }, { "char": "長", "reading": "ちょう" }],
+    "kanji_root": "冗", "related_words": ["長たらしい", "くどい", "冗漫"], "synonyms": ["くどい"], "antonyms": ["簡潔"],
+    "example_jp": "この文章は冗長です。", "example_zh": "这篇文章很冗长。",
+    "example_breakdown": [{ "char": "文", "reading": "ぶん" }, { "char": "章", "reading": "しょう" }, { "char": "冗", "reading": "じょう" }, { "char": "長", "reading": "ちょう" }]
+  },
+  {
+    "id": "N1_W_028", "level": "N1", "unit": 3, "word": "斬新", "kana": "ざんしん", "accent": "0", "part_of_speech": "形容動詞", "meaning": "崭新，新颖",
+    "kanji_breakdown": [{ "char": "斬", "reading": "ざん" }, { "char": "新", "reading": "しん" }],
+    "kanji_root": "斬", "related_words": ["新しい", "独創的", "革新的"], "synonyms": ["独創的"], "antonyms": ["陳腐"],
+    "example_jp": "斬新なアイデアを提案します。", "example_zh": "提出崭新的想法。",
+    "example_breakdown": [{ "char": "斬", "reading": "ざん" }, { "char": "新", "reading": "しん" }, { "char": "提", "reading": "てい" }, { "char": "案", "reading": "あん" }]
+  },
+  {
+    "id": "N1_W_029", "level": "N1", "unit": 3, "word": "迅速", "kana": "じんそく", "accent": "0", "part_of_speech": "形容動詞", "meaning": "迅速",
+    "kanji_breakdown": [{ "char": "迅", "reading": "じん" }, { "char": "速", "reading": "そく" }],
+    "kanji_root": "迅", "related_words": ["素早い", "敏速", "俊敏"], "synonyms": ["素早い"], "antonyms": ["遅い", "緩慢"],
+    "example_jp": "迅速な対応が求められます。", "example_zh": "需要迅速的应对。",
+    "example_breakdown": [{ "char": "迅", "reading": "じん" }, { "char": "速", "reading": "そく" }, { "char": "対", "reading": "たい" }, { "char": "応", "reading": "おう" }, { "char": "求", "reading": "もと" }]
+  },
+  {
+    "id": "N1_W_030", "level": "N1", "unit": 3, "word": "慎重", "kana": "しんちょう", "accent": "0", "part_of_speech": "形容動詞", "meaning": "慎重，谨慎",
+    "kanji_breakdown": [{ "char": "慎", "reading": "しん" }, { "char": "重", "reading": "ちょう" }],
+    "kanji_root": "慎", "related_words": ["丁寧", "慎み深い", "注意深い"], "synonyms": ["注意深い"], "antonyms": ["軽率"],
+    "example_jp": "慎重に判断する必要があります。", "example_zh": "有必要慎重地判断。",
+    "example_breakdown": [{ "char": "慎", "reading": "しん" }, { "char": "重", "reading": "ちょう" }, { "char": "判", "reading": "はん" }, { "char": "断", "reading": "だん" }, { "char": "必", "reading": "ひつ" }, { "char": "要", "reading": "よう" }]
+  }
+]

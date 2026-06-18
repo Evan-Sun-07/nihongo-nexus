@@ -1,0 +1,52 @@
+[
+  {
+    "id": "N4_Q_001",
+    "level": "N4",
+    "type": "vocabulary",
+    "question_text": "「旅行」の読み方はどれですか？",
+    "options": ["りょこう", "たびこう", "りょうこう", "たびいく"],
+    "correct_answer": 0,
+    "explanation": "「旅行」はりょこうと読みます。旅（りょ）+ 行（こう）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N4_Q_002",
+    "level": "N4",
+    "type": "grammar",
+    "question_text": "「この料理を食べ（　　）ください。」に入る正しい言葉を選んでください。",
+    "options": ["てみて", "てみる", "てみた", "てみれば"],
+    "correct_answer": 0,
+    "explanation": "「～てみてください」は「試してみてください」という意味です。「食べてみてください」が正しい形です。",
+    "linked_grammar_id": "N4_G_001"
+  },
+  {
+    "id": "N4_Q_003",
+    "level": "N4",
+    "type": "grammar",
+    "question_text": "「財布を忘れ（　　）。」に入る最も適切な表現はどれですか？",
+    "options": ["てしまいました", "てみました", "ておきました", "てありました"],
+    "correct_answer": 0,
+    "explanation": "「～てしまいました」は後悔や意図しない結果を表します。財布を忘れたことへの遺憾の気持ちを表しています。",
+    "linked_grammar_id": "N4_G_002"
+  },
+  {
+    "id": "N4_Q_004",
+    "level": "N4",
+    "type": "vocabulary",
+    "question_text": "「音楽」の「音」の読み方はどれですか？",
+    "options": ["おん", "おと", "いん", "ね"],
+    "correct_answer": 0,
+    "explanation": "「音楽」の「音」はおんと読みます。「音楽（おんがく）」です。単独では「おと」と読む場合もあります。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N4_Q_005",
+    "level": "N4",
+    "type": "grammar",
+    "question_text": "「黒板に予定が書い（　　）。」に入る正しい表現はどれですか？",
+    "options": ["てある", "ている", "ておく", "てしまう"],
+    "correct_answer": 0,
+    "explanation": "「～てある」は意図的な動作の結果状態を表します。誰かが意図的に書いた結果が残っている状態です。",
+    "linked_grammar_id": "N4_G_004"
+  }
+]

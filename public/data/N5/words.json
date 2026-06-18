@@ -1,0 +1,702 @@
+[
+  {
+    "id": "N5_W_001", "level": "N5", "unit": 1, "word": "学生", "kana": "がくせい", "accent": "0", "part_of_speech": "名詞", "meaning": "学生",
+    "kanji_breakdown": [{ "char": "学", "reading": "がく" }, { "char": "生", "reading": "せい" }],
+    "kanji_root": "学", "related_words": ["大学", "学校", "先生"], "synonyms": [], "antonyms": ["先生"],
+    "example_jp": "私は日本語学校の学生です。", "example_zh": "我是日语学校的学生。",
+    "example_breakdown": [{ "char": "私", "reading": "わたし" }, { "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "語", "reading": "ご" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }, { "char": "学", "reading": "がく" }, { "char": "生", "reading": "せい" }]
+  },
+  {
+    "id": "N5_W_002", "level": "N5", "unit": 1, "word": "先生", "kana": "せんせい", "accent": "3", "part_of_speech": "名詞", "meaning": "老师",
+    "kanji_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }],
+    "kanji_root": "先", "related_words": ["学生", "学校", "教える"], "synonyms": ["教師"], "antonyms": ["学生"],
+    "example_jp": "田中先生はとても親切です。", "example_zh": "田中老师非常亲切。",
+    "example_breakdown": [{ "char": "田", "reading": "た" }, { "char": "中", "reading": "なか" }, { "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }, { "char": "親", "reading": "しん" }, { "char": "切", "reading": "せつ" }]
+  },
+  {
+    "id": "N5_W_003", "level": "N5", "unit": 1, "word": "大学", "kana": "だいがく", "accent": "0", "part_of_speech": "名詞", "meaning": "大学",
+    "kanji_breakdown": [{ "char": "大", "reading": "だい" }, { "char": "学", "reading": "がく" }],
+    "kanji_root": "学", "related_words": ["学生", "学校", "大学院"], "synonyms": [], "antonyms": [],
+    "example_jp": "来年、大学に入学します。", "example_zh": "明年入读大学。",
+    "example_breakdown": [{ "char": "来", "reading": "らい" }, { "char": "年", "reading": "ねん" }, { "char": "大", "reading": "だい" }, { "char": "学", "reading": "がく" }, { "char": "入", "reading": "にゅう" }, { "char": "学", "reading": "がく" }]
+  },
+  {
+    "id": "N5_W_004", "level": "N5", "unit": 1, "word": "学校", "kana": "がっこう", "accent": "0", "part_of_speech": "名詞", "meaning": "学校",
+    "kanji_breakdown": [{ "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }],
+    "kanji_root": "学", "related_words": ["学生", "先生", "大学"], "synonyms": [], "antonyms": [],
+    "example_jp": "毎日学校へ行きます。", "example_zh": "每天去学校。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }]
+  },
+  {
+    "id": "N5_W_005", "level": "N5", "unit": 1, "word": "日本語", "kana": "にほんご", "accent": "0", "part_of_speech": "名詞", "meaning": "日语",
+    "kanji_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "語", "reading": "ご" }],
+    "kanji_root": "語", "related_words": ["英語", "中国語", "言語"], "synonyms": [], "antonyms": [],
+    "example_jp": "日本語を勉強しています。", "example_zh": "我正在学习日语。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "語", "reading": "ご" }, { "char": "勉", "reading": "べん" }, { "char": "強", "reading": "きょう" }]
+  },
+  {
+    "id": "N5_W_006", "level": "N5", "unit": 2, "word": "食べる", "kana": "たべる", "accent": "2", "part_of_speech": "動詞（II類）", "meaning": "吃",
+    "kanji_breakdown": [{ "char": "食", "reading": "た" }],
+    "kanji_root": "食", "related_words": ["飲む", "食事", "料理"], "synonyms": [], "antonyms": [],
+    "example_jp": "朝ご飯を食べましたか。", "example_zh": "你吃早饭了吗？",
+    "example_breakdown": [{ "char": "朝", "reading": "あさ" }, { "char": "飯", "reading": "はん" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_007", "level": "N5", "unit": 2, "word": "飲む", "kana": "のむ", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "喝",
+    "kanji_breakdown": [{ "char": "飲", "reading": "の" }],
+    "kanji_root": "飲", "related_words": ["食べる", "お茶", "水"], "synonyms": [], "antonyms": [],
+    "example_jp": "毎朝コーヒーを飲みます。", "example_zh": "每天早上喝咖啡。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "朝", "reading": "あさ" }, { "char": "飲", "reading": "の" }]
+  },
+  {
+    "id": "N5_W_008", "level": "N5", "unit": 2, "word": "見る", "kana": "みる", "accent": "1", "part_of_speech": "動詞（II類）", "meaning": "看，观看",
+    "kanji_breakdown": [{ "char": "見", "reading": "み" }],
+    "kanji_root": "見", "related_words": ["聞く", "映画", "テレビ"], "synonyms": ["眺める"], "antonyms": [],
+    "example_jp": "昨日、映画を見ました。", "example_zh": "昨天看了电影。",
+    "example_breakdown": [{ "char": "昨", "reading": "きの" }, { "char": "日", "reading": "う" }, { "char": "映", "reading": "えい" }, { "char": "画", "reading": "が" }, { "char": "見", "reading": "み" }]
+  },
+  {
+    "id": "N5_W_009", "level": "N5", "unit": 2, "word": "聞く", "kana": "きく", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "听；问",
+    "kanji_breakdown": [{ "char": "聞", "reading": "き" }],
+    "kanji_root": "聞", "related_words": ["見る", "音楽", "話す"], "synonyms": [], "antonyms": [],
+    "example_jp": "音楽を聞きながら勉強します。", "example_zh": "一边听音乐一边学习。",
+    "example_breakdown": [{ "char": "音", "reading": "おん" }, { "char": "楽", "reading": "がく" }, { "char": "聞", "reading": "き" }, { "char": "勉", "reading": "べん" }, { "char": "強", "reading": "きょう" }]
+  },
+  {
+    "id": "N5_W_010", "level": "N5", "unit": 2, "word": "話す", "kana": "はなす", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "说话，讲",
+    "kanji_breakdown": [{ "char": "話", "reading": "はな" }],
+    "kanji_root": "話", "related_words": ["聞く", "日本語", "会話"], "synonyms": ["しゃべる"], "antonyms": [],
+    "example_jp": "日本語で話してください。", "example_zh": "请用日语说话。",
+    "example_breakdown": [{ "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "語", "reading": "ご" }, { "char": "話", "reading": "はな" }]
+  },
+  {
+    "id": "N5_W_011", "level": "N5", "unit": 3, "word": "行く", "kana": "いく", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "去",
+    "kanji_breakdown": [{ "char": "行", "reading": "い" }],
+    "kanji_root": "行", "related_words": ["来る", "帰る", "学校"], "synonyms": [], "antonyms": ["来る"],
+    "example_jp": "明日、図書館へ行きます。", "example_zh": "明天去图书馆。",
+    "example_breakdown": [{ "char": "明", "reading": "あした" }, { "char": "日", "reading": "" }, { "char": "図", "reading": "と" }, { "char": "書", "reading": "しょ" }, { "char": "館", "reading": "かん" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_012", "level": "N5", "unit": 3, "word": "来る", "kana": "くる", "accent": "1", "part_of_speech": "動詞（III類）", "meaning": "来",
+    "kanji_breakdown": [{ "char": "来", "reading": "く" }],
+    "kanji_root": "来", "related_words": ["行く", "帰る"], "synonyms": [], "antonyms": ["行く"],
+    "example_jp": "友達が家に来ました。", "example_zh": "朋友来我家了。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "家", "reading": "いえ" }, { "char": "来", "reading": "き" }]
+  },
+  {
+    "id": "N5_W_013", "level": "N5", "unit": 3, "word": "帰る", "kana": "かえる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "回去，回家",
+    "kanji_breakdown": [{ "char": "帰", "reading": "かえ" }],
+    "kanji_root": "帰", "related_words": ["行く", "来る", "家"], "synonyms": [], "antonyms": [],
+    "example_jp": "仕事が終わったら、すぐ帰ります。", "example_zh": "工作结束后马上回家。",
+    "example_breakdown": [{ "char": "仕", "reading": "し" }, { "char": "事", "reading": "ごと" }, { "char": "終", "reading": "お" }, { "char": "帰", "reading": "かえ" }]
+  },
+  {
+    "id": "N5_W_014", "level": "N5", "unit": 3, "word": "買う", "kana": "かう", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "买",
+    "kanji_breakdown": [{ "char": "買", "reading": "か" }],
+    "kanji_root": "買", "related_words": ["売る", "お金", "店"], "synonyms": ["購入する"], "antonyms": ["売る"],
+    "example_jp": "デパートで服を買いました。", "example_zh": "在百货商店买了衣服。",
+    "example_breakdown": [{ "char": "服", "reading": "ふく" }, { "char": "買", "reading": "か" }]
+  },
+  {
+    "id": "N5_W_015", "level": "N5", "unit": 3, "word": "読む", "kana": "よむ", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "读，阅读",
+    "kanji_breakdown": [{ "char": "読", "reading": "よ" }],
+    "kanji_root": "読", "related_words": ["書く", "本", "新聞"], "synonyms": [], "antonyms": ["書く"],
+    "example_jp": "毎晩、本を読みます。", "example_zh": "每晚读书。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "晩", "reading": "ばん" }, { "char": "本", "reading": "ほん" }, { "char": "読", "reading": "よ" }]
+  },
+  {
+    "id": "N5_W_016", "level": "N5", "unit": 3, "word": "書く", "kana": "かく", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "写，书写",
+    "kanji_breakdown": [{ "char": "書", "reading": "か" }],
+    "kanji_root": "書", "related_words": ["読む", "手紙", "日記"], "synonyms": [], "antonyms": ["読む"],
+    "example_jp": "ノートに単語を書きました。", "example_zh": "在笔记本上写了单词。",
+    "example_breakdown": [{ "char": "単", "reading": "たん" }, { "char": "語", "reading": "ご" }, { "char": "書", "reading": "か" }]
+  },
+  {
+    "id": "N5_W_017", "level": "N5", "unit": 4, "word": "起きる", "kana": "おきる", "accent": "2", "part_of_speech": "動詞（II類）", "meaning": "起床，起来",
+    "kanji_breakdown": [{ "char": "起", "reading": "お" }],
+    "kanji_root": "起", "related_words": ["寝る", "朝", "目覚まし"], "synonyms": [], "antonyms": ["寝る"],
+    "example_jp": "毎朝七時に起きます。", "example_zh": "每天早上七点起床。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "朝", "reading": "あさ" }, { "char": "七", "reading": "しち" }, { "char": "時", "reading": "じ" }, { "char": "起", "reading": "お" }]
+  },
+  {
+    "id": "N5_W_018", "level": "N5", "unit": 4, "word": "寝る", "kana": "ねる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "睡觉",
+    "kanji_breakdown": [{ "char": "寝", "reading": "ね" }],
+    "kanji_root": "寝", "related_words": ["起きる", "夜", "ベッド"], "synonyms": [], "antonyms": ["起きる"],
+    "example_jp": "昨日は十一時に寝ました。", "example_zh": "昨天十一点睡了。",
+    "example_breakdown": [{ "char": "昨", "reading": "きの" }, { "char": "日", "reading": "う" }, { "char": "十", "reading": "じゅう" }, { "char": "一", "reading": "いち" }, { "char": "時", "reading": "じ" }, { "char": "寝", "reading": "ね" }]
+  },
+  {
+    "id": "N5_W_019", "level": "N5", "unit": 4, "word": "電車", "kana": "でんしゃ", "accent": "0", "part_of_speech": "名詞", "meaning": "电车",
+    "kanji_breakdown": [{ "char": "電", "reading": "でん" }, { "char": "車", "reading": "しゃ" }],
+    "kanji_root": "電", "related_words": ["バス", "駅", "乗る"], "synonyms": [], "antonyms": [],
+    "example_jp": "電車で学校へ行きます。", "example_zh": "乘电车去学校。",
+    "example_breakdown": [{ "char": "電", "reading": "でん" }, { "char": "車", "reading": "しゃ" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_020", "level": "N5", "unit": 4, "word": "バス", "kana": "バス", "accent": "1", "part_of_speech": "名詞", "meaning": "公共汽车",
+    "kanji_breakdown": [], "kanji_root": "",
+    "related_words": ["電車", "タクシー", "乗る"], "synonyms": [], "antonyms": [],
+    "example_jp": "バスに乗って駅まで行きます。", "example_zh": "乘公交车去车站。",
+    "example_breakdown": [{ "char": "駅", "reading": "えき" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_021", "level": "N5", "unit": 1, "word": "家族", "kana": "かぞく", "accent": "1", "part_of_speech": "名詞", "meaning": "家人，家族",
+    "kanji_breakdown": [{ "char": "家", "reading": "か" }, { "char": "族", "reading": "ぞく" }],
+    "kanji_root": "家", "related_words": ["父", "母", "兄", "姉"], "synonyms": [], "antonyms": [],
+    "example_jp": "私の家族は四人です。", "example_zh": "我家有四口人。",
+    "example_breakdown": [{ "char": "私", "reading": "わたし" }, { "char": "家", "reading": "か" }, { "char": "族", "reading": "ぞく" }, { "char": "四", "reading": "よ" }, { "char": "人", "reading": "にん" }]
+  },
+  {
+    "id": "N5_W_022", "level": "N5", "unit": 1, "word": "父", "kana": "ちち", "accent": "1", "part_of_speech": "名詞", "meaning": "父亲（自己的）",
+    "kanji_breakdown": [{ "char": "父", "reading": "ちち" }],
+    "kanji_root": "父", "related_words": ["母", "家族", "お父さん"], "synonyms": ["お父さん"], "antonyms": [],
+    "example_jp": "父は会社員です。", "example_zh": "我父亲是公司职员。",
+    "example_breakdown": [{ "char": "父", "reading": "ちち" }, { "char": "会", "reading": "かい" }, { "char": "社", "reading": "しゃ" }, { "char": "員", "reading": "いん" }]
+  },
+  {
+    "id": "N5_W_023", "level": "N5", "unit": 1, "word": "母", "kana": "はは", "accent": "2", "part_of_speech": "名詞", "meaning": "母亲（自己的）",
+    "kanji_breakdown": [{ "char": "母", "reading": "はは" }],
+    "kanji_root": "母", "related_words": ["父", "家族", "お母さん"], "synonyms": ["お母さん"], "antonyms": [],
+    "example_jp": "母は料理が上手です。", "example_zh": "我母亲很擅长做菜。",
+    "example_breakdown": [{ "char": "母", "reading": "はは" }, { "char": "料", "reading": "りょう" }, { "char": "理", "reading": "り" }, { "char": "上", "reading": "じょう" }, { "char": "手", "reading": "ず" }]
+  },
+  {
+    "id": "N5_W_024", "level": "N5", "unit": 1, "word": "兄", "kana": "あに", "accent": "1", "part_of_speech": "名詞", "meaning": "哥哥（自己的）",
+    "kanji_breakdown": [{ "char": "兄", "reading": "あに" }],
+    "kanji_root": "兄", "related_words": ["姉", "弟", "妹", "家族"], "synonyms": ["お兄さん"], "antonyms": [],
+    "example_jp": "兄は東京に住んでいます。", "example_zh": "我哥哥住在东京。",
+    "example_breakdown": [{ "char": "兄", "reading": "あに" }, { "char": "東", "reading": "とう" }, { "char": "京", "reading": "きょう" }, { "char": "住", "reading": "す" }]
+  },
+  {
+    "id": "N5_W_025", "level": "N5", "unit": 1, "word": "姉", "kana": "あね", "accent": "1", "part_of_speech": "名詞", "meaning": "姐姐（自己的）",
+    "kanji_breakdown": [{ "char": "姉", "reading": "あね" }],
+    "kanji_root": "姉", "related_words": ["兄", "弟", "妹", "家族"], "synonyms": ["お姉さん"], "antonyms": [],
+    "example_jp": "姉は大学生です。", "example_zh": "我姐姐是大学生。",
+    "example_breakdown": [{ "char": "姉", "reading": "あね" }, { "char": "大", "reading": "だい" }, { "char": "学", "reading": "がく" }, { "char": "生", "reading": "せい" }]
+  },
+  {
+    "id": "N5_W_026", "level": "N5", "unit": 1, "word": "友達", "kana": "ともだち", "accent": "0", "part_of_speech": "名詞", "meaning": "朋友",
+    "kanji_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }],
+    "kanji_root": "友", "related_words": ["家族", "先生", "学生"], "synonyms": [], "antonyms": [],
+    "example_jp": "友達と公園で遊びました。", "example_zh": "和朋友在公园玩了。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "公", "reading": "こう" }, { "char": "園", "reading": "えん" }]
+  },
+  {
+    "id": "N5_W_027", "level": "N5", "unit": 1, "word": "人", "kana": "ひと", "accent": "0", "part_of_speech": "名詞", "meaning": "人",
+    "kanji_breakdown": [{ "char": "人", "reading": "ひと" }],
+    "kanji_root": "人", "related_words": ["男", "女", "家族"], "synonyms": [], "antonyms": [],
+    "example_jp": "あの人はだれですか。", "example_zh": "那个人是谁？",
+    "example_breakdown": [{ "char": "人", "reading": "ひと" }]
+  },
+  {
+    "id": "N5_W_028", "level": "N5", "unit": 1, "word": "男", "kana": "おとこ", "accent": "3", "part_of_speech": "名詞", "meaning": "男性",
+    "kanji_breakdown": [{ "char": "男", "reading": "おとこ" }],
+    "kanji_root": "男", "related_words": ["女", "人", "男の人"], "synonyms": [], "antonyms": ["女"],
+    "example_jp": "あの男の人は先生です。", "example_zh": "那位男士是老师。",
+    "example_breakdown": [{ "char": "男", "reading": "おとこ" }, { "char": "人", "reading": "ひと" }, { "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }]
+  },
+  {
+    "id": "N5_W_029", "level": "N5", "unit": 1, "word": "女", "kana": "おんな", "accent": "3", "part_of_speech": "名詞", "meaning": "女性",
+    "kanji_breakdown": [{ "char": "女", "reading": "おんな" }],
+    "kanji_root": "女", "related_words": ["男", "人", "女の子"], "synonyms": [], "antonyms": ["男"],
+    "example_jp": "その女の子はかわいいです。", "example_zh": "那个女孩很可爱。",
+    "example_breakdown": [{ "char": "女", "reading": "おんな" }, { "char": "子", "reading": "こ" }]
+  },
+  {
+    "id": "N5_W_030", "level": "N5", "unit": 2, "word": "使う", "kana": "つかう", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "使用",
+    "kanji_breakdown": [{ "char": "使", "reading": "つか" }],
+    "kanji_root": "使", "related_words": ["道具", "スマホ", "パソコン"], "synonyms": [], "antonyms": [],
+    "example_jp": "毎日スマホを使います。", "example_zh": "每天使用智能手机。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "使", "reading": "つか" }]
+  },
+  {
+    "id": "N5_W_031", "level": "N5", "unit": 2, "word": "会う", "kana": "あう", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "见面",
+    "kanji_breakdown": [{ "char": "会", "reading": "あ" }],
+    "kanji_root": "会", "related_words": ["友達", "話す", "待つ"], "synonyms": [], "antonyms": [],
+    "example_jp": "明日、友達に会います。", "example_zh": "明天和朋友见面。",
+    "example_breakdown": [{ "char": "明", "reading": "あした" }, { "char": "日", "reading": "び" }, { "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "会", "reading": "あ" }]
+  },
+  {
+    "id": "N5_W_032", "level": "N5", "unit": 2, "word": "待つ", "kana": "まつ", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "等待",
+    "kanji_breakdown": [{ "char": "待", "reading": "ま" }],
+    "kanji_root": "待", "related_words": ["会う", "駅", "友達"], "synonyms": [], "antonyms": [],
+    "example_jp": "駅で友達を待ちました。", "example_zh": "在车站等了朋友。",
+    "example_breakdown": [{ "char": "駅", "reading": "えき" }, { "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "待", "reading": "ま" }]
+  },
+  {
+    "id": "N5_W_033", "level": "N5", "unit": 2, "word": "分かる", "kana": "わかる", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "明白，懂",
+    "kanji_breakdown": [{ "char": "分", "reading": "わ" }],
+    "kanji_root": "分", "related_words": ["聞く", "問題", "理解する"], "synonyms": ["理解する"], "antonyms": [],
+    "example_jp": "この問題が分かりません。", "example_zh": "这道题我不懂。",
+    "example_breakdown": [{ "char": "問", "reading": "もん" }, { "char": "題", "reading": "だい" }, { "char": "分", "reading": "わ" }]
+  },
+  {
+    "id": "N5_W_034", "level": "N5", "unit": 2, "word": "入る", "kana": "はいる", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "进入",
+    "kanji_breakdown": [{ "char": "入", "reading": "はい" }],
+    "kanji_root": "入", "related_words": ["出る", "部屋", "店"], "synonyms": [], "antonyms": ["出る"],
+    "example_jp": "部屋に入ってください。", "example_zh": "请进来房间。",
+    "example_breakdown": [{ "char": "部", "reading": "へ" }, { "char": "屋", "reading": "や" }, { "char": "入", "reading": "はい" }]
+  },
+  {
+    "id": "N5_W_035", "level": "N5", "unit": 2, "word": "出る", "kana": "でる", "accent": "1", "part_of_speech": "動詞（II類）", "meaning": "出去，出来",
+    "kanji_breakdown": [{ "char": "出", "reading": "で" }],
+    "kanji_root": "出", "related_words": ["入る", "家", "学校"], "synonyms": [], "antonyms": ["入る"],
+    "example_jp": "朝八時に家を出ます。", "example_zh": "早上八点出门。",
+    "example_breakdown": [{ "char": "朝", "reading": "あさ" }, { "char": "八", "reading": "はち" }, { "char": "時", "reading": "じ" }, { "char": "家", "reading": "いえ" }, { "char": "出", "reading": "で" }]
+  },
+  {
+    "id": "N5_W_036", "level": "N5", "unit": 2, "word": "教える", "kana": "おしえる", "accent": "0", "part_of_speech": "動詞（II類）", "meaning": "教，告知",
+    "kanji_breakdown": [{ "char": "教", "reading": "おし" }],
+    "kanji_root": "教", "related_words": ["先生", "学ぶ", "習う"], "synonyms": [], "antonyms": ["習う"],
+    "example_jp": "先生が文法を教えました。", "example_zh": "老师教了语法。",
+    "example_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "生", "reading": "せい" }, { "char": "文", "reading": "ぶん" }, { "char": "法", "reading": "ぽう" }, { "char": "教", "reading": "おし" }]
+  },
+  {
+    "id": "N5_W_037", "level": "N5", "unit": 2, "word": "始まる", "kana": "はじまる", "accent": "3", "part_of_speech": "動詞（I類）", "meaning": "开始（自动词）",
+    "kanji_breakdown": [{ "char": "始", "reading": "はじ" }],
+    "kanji_root": "始", "related_words": ["終わる", "授業", "仕事"], "synonyms": [], "antonyms": ["終わる"],
+    "example_jp": "授業は九時に始まります。", "example_zh": "课程九点开始。",
+    "example_breakdown": [{ "char": "授", "reading": "じゅ" }, { "char": "業", "reading": "ぎょう" }, { "char": "九", "reading": "く" }, { "char": "時", "reading": "じ" }, { "char": "始", "reading": "はじ" }]
+  },
+  {
+    "id": "N5_W_038", "level": "N5", "unit": 2, "word": "終わる", "kana": "おわる", "accent": "3", "part_of_speech": "動詞（I類）", "meaning": "结束（自动词）",
+    "kanji_breakdown": [{ "char": "終", "reading": "お" }],
+    "kanji_root": "終", "related_words": ["始まる", "仕事", "授業"], "synonyms": [], "antonyms": ["始まる"],
+    "example_jp": "仕事は六時に終わります。", "example_zh": "工作六点结束。",
+    "example_breakdown": [{ "char": "仕", "reading": "し" }, { "char": "事", "reading": "ごと" }, { "char": "六", "reading": "ろく" }, { "char": "時", "reading": "じ" }, { "char": "終", "reading": "お" }]
+  },
+  {
+    "id": "N5_W_039", "level": "N5", "unit": 3, "word": "乗る", "kana": "のる", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "乘坐",
+    "kanji_breakdown": [{ "char": "乗", "reading": "の" }],
+    "kanji_root": "乗", "related_words": ["降りる", "電車", "バス"], "synonyms": [], "antonyms": ["降りる"],
+    "example_jp": "電車に乗って行きます。", "example_zh": "乘电车去。",
+    "example_breakdown": [{ "char": "電", "reading": "でん" }, { "char": "車", "reading": "しゃ" }, { "char": "乗", "reading": "の" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_040", "level": "N5", "unit": 3, "word": "降りる", "kana": "おりる", "accent": "2", "part_of_speech": "動詞（II類）", "meaning": "下车，下来",
+    "kanji_breakdown": [{ "char": "降", "reading": "お" }],
+    "kanji_root": "降", "related_words": ["乗る", "駅", "バス"], "synonyms": [], "antonyms": ["乗る"],
+    "example_jp": "次の駅で降ります。", "example_zh": "在下一站下车。",
+    "example_breakdown": [{ "char": "次", "reading": "つぎ" }, { "char": "駅", "reading": "えき" }, { "char": "降", "reading": "お" }]
+  },
+  {
+    "id": "N5_W_041", "level": "N5", "unit": 3, "word": "走る", "kana": "はしる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "跑",
+    "kanji_breakdown": [{ "char": "走", "reading": "はし" }],
+    "kanji_root": "走", "related_words": ["歩く", "公園", "運動"], "synonyms": [], "antonyms": ["歩く"],
+    "example_jp": "公園で毎朝走ります。", "example_zh": "每天早上在公园跑步。",
+    "example_breakdown": [{ "char": "公", "reading": "こう" }, { "char": "園", "reading": "えん" }, { "char": "毎", "reading": "まい" }, { "char": "朝", "reading": "あさ" }, { "char": "走", "reading": "はし" }]
+  },
+  {
+    "id": "N5_W_042", "level": "N5", "unit": 3, "word": "歩く", "kana": "あるく", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "走路",
+    "kanji_breakdown": [{ "char": "歩", "reading": "ある" }],
+    "kanji_root": "歩", "related_words": ["走る", "駅", "道"], "synonyms": [], "antonyms": ["走る"],
+    "example_jp": "駅まで歩いて行きます。", "example_zh": "走路去车站。",
+    "example_breakdown": [{ "char": "駅", "reading": "えき" }, { "char": "歩", "reading": "ある" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_043", "level": "N5", "unit": 3, "word": "泳ぐ", "kana": "およぐ", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "游泳",
+    "kanji_breakdown": [{ "char": "泳", "reading": "およ" }],
+    "kanji_root": "泳", "related_words": ["海", "プール", "水"], "synonyms": [], "antonyms": [],
+    "example_jp": "海で泳ぐのが好きです。", "example_zh": "我喜欢在海里游泳。",
+    "example_breakdown": [{ "char": "海", "reading": "うみ" }, { "char": "泳", "reading": "およ" }]
+  },
+  {
+    "id": "N5_W_044", "level": "N5", "unit": 3, "word": "作る", "kana": "つくる", "accent": "2", "part_of_speech": "動詞（I類）", "meaning": "做，制作",
+    "kanji_breakdown": [{ "char": "作", "reading": "つく" }],
+    "kanji_root": "作", "related_words": ["料理", "食べる", "ご飯"], "synonyms": [], "antonyms": [],
+    "example_jp": "晩ご飯を作りました。", "example_zh": "做了晚饭。",
+    "example_breakdown": [{ "char": "晩", "reading": "ばん" }, { "char": "飯", "reading": "はん" }, { "char": "作", "reading": "つく" }]
+  },
+  {
+    "id": "N5_W_045", "level": "N5", "unit": 3, "word": "洗う", "kana": "あらう", "accent": "0", "part_of_speech": "動詞（I類）", "meaning": "洗",
+    "kanji_breakdown": [{ "char": "洗", "reading": "あら" }],
+    "kanji_root": "洗", "related_words": ["手", "食器", "服"], "synonyms": [], "antonyms": [],
+    "example_jp": "食事の前に手を洗います。", "example_zh": "饭前洗手。",
+    "example_breakdown": [{ "char": "食", "reading": "しょく" }, { "char": "事", "reading": "じ" }, { "char": "前", "reading": "まえ" }, { "char": "手", "reading": "て" }, { "char": "洗", "reading": "あら" }]
+  },
+  {
+    "id": "N5_W_046", "level": "N5", "unit": 3, "word": "切る", "kana": "きる", "accent": "1", "part_of_speech": "動詞（I類）", "meaning": "切，剪",
+    "kanji_breakdown": [{ "char": "切", "reading": "き" }],
+    "kanji_root": "切", "related_words": ["野菜", "肉", "ナイフ"], "synonyms": [], "antonyms": [],
+    "example_jp": "野菜を小さく切ります。", "example_zh": "把蔬菜切小。",
+    "example_breakdown": [{ "char": "野", "reading": "や" }, { "char": "菜", "reading": "さい" }, { "char": "小", "reading": "ちい" }, { "char": "切", "reading": "き" }]
+  },
+  {
+    "id": "N5_W_047", "level": "N5", "unit": 4, "word": "自転車", "kana": "じてんしゃ", "accent": "2", "part_of_speech": "名詞", "meaning": "自行车",
+    "kanji_breakdown": [{ "char": "自", "reading": "じ" }, { "char": "転", "reading": "てん" }, { "char": "車", "reading": "しゃ" }],
+    "kanji_root": "車", "related_words": ["車", "電車", "乗る"], "synonyms": [], "antonyms": [],
+    "example_jp": "自転車で学校へ行きます。", "example_zh": "骑自行车去学校。",
+    "example_breakdown": [{ "char": "自", "reading": "じ" }, { "char": "転", "reading": "てん" }, { "char": "車", "reading": "しゃ" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_048", "level": "N5", "unit": 4, "word": "車", "kana": "くるま", "accent": "0", "part_of_speech": "名詞", "meaning": "汽车",
+    "kanji_breakdown": [{ "char": "車", "reading": "くるま" }],
+    "kanji_root": "車", "related_words": ["自転車", "電車", "乗る"], "synonyms": [], "antonyms": [],
+    "example_jp": "父の車は赤いです。", "example_zh": "父亲的车是红色的。",
+    "example_breakdown": [{ "char": "父", "reading": "ちち" }, { "char": "車", "reading": "くるま" }, { "char": "赤", "reading": "あか" }]
+  },
+  {
+    "id": "N5_W_049", "level": "N5", "unit": 4, "word": "飛行機", "kana": "ひこうき", "accent": "2", "part_of_speech": "名詞", "meaning": "飞机",
+    "kanji_breakdown": [{ "char": "飛", "reading": "ひ" }, { "char": "行", "reading": "こう" }, { "char": "機", "reading": "き" }],
+    "kanji_root": "飛", "related_words": ["電車", "バス", "空港"], "synonyms": [], "antonyms": [],
+    "example_jp": "飛行機で東京へ行きます。", "example_zh": "乘飞机去东京。",
+    "example_breakdown": [{ "char": "飛", "reading": "ひ" }, { "char": "行", "reading": "こう" }, { "char": "機", "reading": "き" }, { "char": "東", "reading": "とう" }, { "char": "京", "reading": "きょう" }, { "char": "行", "reading": "い" }]
+  },
+  {
+    "id": "N5_W_050", "level": "N5", "unit": 4, "word": "駅", "kana": "えき", "accent": "1", "part_of_speech": "名詞", "meaning": "车站",
+    "kanji_breakdown": [{ "char": "駅", "reading": "えき" }],
+    "kanji_root": "駅", "related_words": ["電車", "バス", "乗る"], "synonyms": [], "antonyms": [],
+    "example_jp": "駅まで歩いて五分です。", "example_zh": "走到车站要五分钟。",
+    "example_breakdown": [{ "char": "駅", "reading": "えき" }, { "char": "歩", "reading": "ある" }, { "char": "五", "reading": "ご" }, { "char": "分", "reading": "ふん" }]
+  },
+  {
+    "id": "N5_W_051", "level": "N5", "unit": 4, "word": "朝", "kana": "あさ", "accent": "1", "part_of_speech": "名詞", "meaning": "早上",
+    "kanji_breakdown": [{ "char": "朝", "reading": "あさ" }],
+    "kanji_root": "朝", "related_words": ["昼", "夜", "起きる"], "synonyms": [], "antonyms": ["夜"],
+    "example_jp": "朝ご飯を食べましたか。", "example_zh": "你吃早饭了吗？",
+    "example_breakdown": [{ "char": "朝", "reading": "あさ" }, { "char": "飯", "reading": "はん" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_052", "level": "N5", "unit": 4, "word": "昼", "kana": "ひる", "accent": "2", "part_of_speech": "名詞", "meaning": "中午",
+    "kanji_breakdown": [{ "char": "昼", "reading": "ひる" }],
+    "kanji_root": "昼", "related_words": ["朝", "夜", "ご飯"], "synonyms": [], "antonyms": [],
+    "example_jp": "昼はカフェでご飯を食べます。", "example_zh": "中午在咖啡馆吃饭。",
+    "example_breakdown": [{ "char": "昼", "reading": "ひる" }, { "char": "飯", "reading": "はん" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_053", "level": "N5", "unit": 4, "word": "夜", "kana": "よる", "accent": "1", "part_of_speech": "名詞", "meaning": "夜晚",
+    "kanji_breakdown": [{ "char": "夜", "reading": "よる" }],
+    "kanji_root": "夜", "related_words": ["朝", "昼", "寝る"], "synonyms": [], "antonyms": ["朝"],
+    "example_jp": "夜は早く寝ます。", "example_zh": "晚上早早睡觉。",
+    "example_breakdown": [{ "char": "夜", "reading": "よる" }, { "char": "早", "reading": "はや" }, { "char": "寝", "reading": "ね" }]
+  },
+  {
+    "id": "N5_W_054", "level": "N5", "unit": 4, "word": "今日", "kana": "きょう", "accent": "1", "part_of_speech": "名詞", "meaning": "今天",
+    "kanji_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }],
+    "kanji_root": "今", "related_words": ["明日", "昨日", "今"], "synonyms": [], "antonyms": [],
+    "example_jp": "今日は天気がいいです。", "example_zh": "今天天气很好。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "天", "reading": "てん" }, { "char": "気", "reading": "き" }]
+  },
+  {
+    "id": "N5_W_055", "level": "N5", "unit": 4, "word": "明日", "kana": "あした", "accent": "0", "part_of_speech": "名詞", "meaning": "明天",
+    "kanji_breakdown": [{ "char": "明", "reading": "あした" }, { "char": "日", "reading": "び" }],
+    "kanji_root": "明", "related_words": ["今日", "昨日", "来週"], "synonyms": [], "antonyms": ["昨日"],
+    "example_jp": "明日、授業がありますか。", "example_zh": "明天有课吗？",
+    "example_breakdown": [{ "char": "明", "reading": "あした" }, { "char": "日", "reading": "び" }, { "char": "授", "reading": "じゅ" }, { "char": "業", "reading": "ぎょう" }]
+  },
+  {
+    "id": "N5_W_056", "level": "N5", "unit": 4, "word": "昨日", "kana": "きのう", "accent": "2", "part_of_speech": "名詞", "meaning": "昨天",
+    "kanji_breakdown": [{ "char": "昨", "reading": "きの" }, { "char": "日", "reading": "う" }],
+    "kanji_root": "昨", "related_words": ["今日", "明日", "先週"], "synonyms": [], "antonyms": ["明日"],
+    "example_jp": "昨日は何をしましたか。", "example_zh": "昨天做了什么？",
+    "example_breakdown": [{ "char": "昨", "reading": "きの" }, { "char": "日", "reading": "う" }]
+  },
+  {
+    "id": "N5_W_057", "level": "N5", "unit": 5, "word": "家", "kana": "いえ", "accent": "2", "part_of_speech": "名詞", "meaning": "家",
+    "kanji_breakdown": [{ "char": "家", "reading": "いえ" }],
+    "kanji_root": "家", "related_words": ["部屋", "帰る", "家族"], "synonyms": [], "antonyms": [],
+    "example_jp": "私の家は駅の近くです。", "example_zh": "我家在车站附近。",
+    "example_breakdown": [{ "char": "私", "reading": "わたし" }, { "char": "家", "reading": "いえ" }, { "char": "駅", "reading": "えき" }, { "char": "近", "reading": "ちか" }]
+  },
+  {
+    "id": "N5_W_058", "level": "N5", "unit": 5, "word": "部屋", "kana": "へや", "accent": "2", "part_of_speech": "名詞", "meaning": "房间",
+    "kanji_breakdown": [{ "char": "部", "reading": "へ" }, { "char": "屋", "reading": "や" }],
+    "kanji_root": "部", "related_words": ["家", "入る", "きれい"], "synonyms": [], "antonyms": [],
+    "example_jp": "私の部屋はきれいです。", "example_zh": "我的房间很干净。",
+    "example_breakdown": [{ "char": "私", "reading": "わたし" }, { "char": "部", "reading": "へ" }, { "char": "屋", "reading": "や" }]
+  },
+  {
+    "id": "N5_W_059", "level": "N5", "unit": 5, "word": "会社", "kana": "かいしゃ", "accent": "1", "part_of_speech": "名詞", "meaning": "公司",
+    "kanji_breakdown": [{ "char": "会", "reading": "かい" }, { "char": "社", "reading": "しゃ" }],
+    "kanji_root": "会", "related_words": ["仕事", "父", "働く"], "synonyms": [], "antonyms": [],
+    "example_jp": "父は会社で働いています。", "example_zh": "父亲在公司工作。",
+    "example_breakdown": [{ "char": "父", "reading": "ちち" }, { "char": "会", "reading": "かい" }, { "char": "社", "reading": "しゃ" }, { "char": "働", "reading": "はたら" }]
+  },
+  {
+    "id": "N5_W_060", "level": "N5", "unit": 5, "word": "病院", "kana": "びょういん", "accent": "0", "part_of_speech": "名詞", "meaning": "医院",
+    "kanji_breakdown": [{ "char": "病", "reading": "びょう" }, { "char": "院", "reading": "いん" }],
+    "kanji_root": "病", "related_words": ["医者", "薬", "体"], "synonyms": [], "antonyms": [],
+    "example_jp": "病院で診てもらいました。", "example_zh": "在医院接受了诊治。",
+    "example_breakdown": [{ "char": "病", "reading": "びょう" }, { "char": "院", "reading": "いん" }]
+  },
+  {
+    "id": "N5_W_061", "level": "N5", "unit": 5, "word": "銀行", "kana": "ぎんこう", "accent": "0", "part_of_speech": "名詞", "meaning": "银行",
+    "kanji_breakdown": [{ "char": "銀", "reading": "ぎん" }, { "char": "行", "reading": "こう" }],
+    "kanji_root": "銀", "related_words": ["お金", "郵便局", "店"], "synonyms": [], "antonyms": [],
+    "example_jp": "銀行でお金を引き出しました。", "example_zh": "在银行取了钱。",
+    "example_breakdown": [{ "char": "銀", "reading": "ぎん" }, { "char": "行", "reading": "こう" }, { "char": "金", "reading": "かね" }, { "char": "引", "reading": "ひ" }, { "char": "出", "reading": "だ" }]
+  },
+  {
+    "id": "N5_W_062", "level": "N5", "unit": 5, "word": "郵便局", "kana": "ゆうびんきょく", "accent": "3", "part_of_speech": "名詞", "meaning": "邮局",
+    "kanji_breakdown": [{ "char": "郵", "reading": "ゆう" }, { "char": "便", "reading": "びん" }, { "char": "局", "reading": "きょく" }],
+    "kanji_root": "郵", "related_words": ["手紙", "銀行", "店"], "synonyms": [], "antonyms": [],
+    "example_jp": "郵便局で手紙を出しました。", "example_zh": "在邮局寄了信。",
+    "example_breakdown": [{ "char": "郵", "reading": "ゆう" }, { "char": "便", "reading": "びん" }, { "char": "局", "reading": "きょく" }, { "char": "手", "reading": "て" }, { "char": "紙", "reading": "がみ" }, { "char": "出", "reading": "だ" }]
+  },
+  {
+    "id": "N5_W_063", "level": "N5", "unit": 5, "word": "図書館", "kana": "としょかん", "accent": "3", "part_of_speech": "名詞", "meaning": "图书馆",
+    "kanji_breakdown": [{ "char": "図", "reading": "と" }, { "char": "書", "reading": "しょ" }, { "char": "館", "reading": "かん" }],
+    "kanji_root": "図", "related_words": ["本", "読む", "学校"], "synonyms": [], "antonyms": [],
+    "example_jp": "図書館で本を借りました。", "example_zh": "在图书馆借了书。",
+    "example_breakdown": [{ "char": "図", "reading": "と" }, { "char": "書", "reading": "しょ" }, { "char": "館", "reading": "かん" }, { "char": "本", "reading": "ほん" }, { "char": "借", "reading": "か" }]
+  },
+  {
+    "id": "N5_W_064", "level": "N5", "unit": 5, "word": "店", "kana": "みせ", "accent": "0", "part_of_speech": "名詞", "meaning": "店铺",
+    "kanji_breakdown": [{ "char": "店", "reading": "みせ" }],
+    "kanji_root": "店", "related_words": ["買う", "デパート", "スーパー"], "synonyms": [], "antonyms": [],
+    "example_jp": "あの店はおいしいです。", "example_zh": "那家店很好吃。",
+    "example_breakdown": [{ "char": "店", "reading": "みせ" }]
+  },
+  {
+    "id": "N5_W_065", "level": "N5", "unit": 5, "word": "今", "kana": "いま", "accent": "1", "part_of_speech": "名詞", "meaning": "现在",
+    "kanji_breakdown": [{ "char": "今", "reading": "いま" }],
+    "kanji_root": "今", "related_words": ["今日", "時間", "後で"], "synonyms": [], "antonyms": [],
+    "example_jp": "今、何時ですか。", "example_zh": "现在几点了？",
+    "example_breakdown": [{ "char": "今", "reading": "いま" }, { "char": "何", "reading": "なん" }, { "char": "時", "reading": "じ" }]
+  },
+  {
+    "id": "N5_W_066", "level": "N5", "unit": 5, "word": "先週", "kana": "せんしゅう", "accent": "0", "part_of_speech": "名詞", "meaning": "上周",
+    "kanji_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "週", "reading": "しゅう" }],
+    "kanji_root": "先", "related_words": ["来週", "今週", "昨日"], "synonyms": [], "antonyms": ["来週"],
+    "example_jp": "先週、友達と映画を見ました。", "example_zh": "上周和朋友看了电影。",
+    "example_breakdown": [{ "char": "先", "reading": "せん" }, { "char": "週", "reading": "しゅう" }, { "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "映", "reading": "えい" }, { "char": "画", "reading": "が" }, { "char": "見", "reading": "み" }]
+  },
+  {
+    "id": "N5_W_067", "level": "N5", "unit": 5, "word": "来週", "kana": "らいしゅう", "accent": "0", "part_of_speech": "名詞", "meaning": "下周",
+    "kanji_breakdown": [{ "char": "来", "reading": "らい" }, { "char": "週", "reading": "しゅう" }],
+    "kanji_root": "来", "related_words": ["先週", "今週", "明日"], "synonyms": [], "antonyms": ["先週"],
+    "example_jp": "来週、試験があります。", "example_zh": "下周有考试。",
+    "example_breakdown": [{ "char": "来", "reading": "らい" }, { "char": "週", "reading": "しゅう" }, { "char": "試", "reading": "し" }, { "char": "験", "reading": "けん" }]
+  },
+  {
+    "id": "N5_W_068", "level": "N5", "unit": 5, "word": "去年", "kana": "きょねん", "accent": "1", "part_of_speech": "名詞", "meaning": "去年",
+    "kanji_breakdown": [{ "char": "去", "reading": "きょ" }, { "char": "年", "reading": "ねん" }],
+    "kanji_root": "去", "related_words": ["今年", "来年", "昨日"], "synonyms": [], "antonyms": ["来年"],
+    "example_jp": "去年、日本に来ました。", "example_zh": "去年来了日本。",
+    "example_breakdown": [{ "char": "去", "reading": "きょ" }, { "char": "年", "reading": "ねん" }, { "char": "日", "reading": "に" }, { "char": "本", "reading": "ほん" }, { "char": "来", "reading": "き" }]
+  },
+  {
+    "id": "N5_W_069", "level": "N5", "unit": 6, "word": "ご飯", "kana": "ごはん", "accent": "1", "part_of_speech": "名詞", "meaning": "米饭；饭",
+    "kanji_breakdown": [{ "char": "飯", "reading": "はん" }],
+    "kanji_root": "飯", "related_words": ["食べる", "朝", "昼"], "synonyms": [], "antonyms": [],
+    "example_jp": "ご飯を食べましたか。", "example_zh": "你吃饭了吗？",
+    "example_breakdown": [{ "char": "飯", "reading": "はん" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_070", "level": "N5", "unit": 6, "word": "パン", "kana": "パン", "accent": "1", "part_of_speech": "名詞", "meaning": "面包",
+    "kanji_breakdown": [], "kanji_root": "",
+    "related_words": ["ご飯", "食べる", "朝"], "synonyms": [], "antonyms": [],
+    "example_jp": "朝ご飯はパンを食べます。", "example_zh": "早饭吃面包。",
+    "example_breakdown": [{ "char": "朝", "reading": "あさ" }, { "char": "飯", "reading": "はん" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_071", "level": "N5", "unit": 6, "word": "水", "kana": "みず", "accent": "0", "part_of_speech": "名詞", "meaning": "水",
+    "kanji_breakdown": [{ "char": "水", "reading": "みず" }],
+    "kanji_root": "水", "related_words": ["お茶", "飲む", "コーヒー"], "synonyms": [], "antonyms": [],
+    "example_jp": "水を一杯飲みました。", "example_zh": "喝了一杯水。",
+    "example_breakdown": [{ "char": "水", "reading": "みず" }, { "char": "一", "reading": "いっ" }, { "char": "杯", "reading": "ぱい" }, { "char": "飲", "reading": "の" }]
+  },
+  {
+    "id": "N5_W_072", "level": "N5", "unit": 6, "word": "お茶", "kana": "おちゃ", "accent": "0", "part_of_speech": "名詞", "meaning": "茶",
+    "kanji_breakdown": [{ "char": "茶", "reading": "ちゃ" }],
+    "kanji_root": "茶", "related_words": ["水", "飲む", "コーヒー"], "synonyms": [], "antonyms": [],
+    "example_jp": "お茶を一杯いかがですか。", "example_zh": "要不要来一杯茶？",
+    "example_breakdown": [{ "char": "茶", "reading": "ちゃ" }, { "char": "一", "reading": "いっ" }, { "char": "杯", "reading": "ぱい" }]
+  },
+  {
+    "id": "N5_W_073", "level": "N5", "unit": 6, "word": "肉", "kana": "にく", "accent": "2", "part_of_speech": "名詞", "meaning": "肉",
+    "kanji_breakdown": [{ "char": "肉", "reading": "にく" }],
+    "kanji_root": "肉", "related_words": ["魚", "野菜", "食べる"], "synonyms": [], "antonyms": [],
+    "example_jp": "肉が好きです。", "example_zh": "我喜欢吃肉。",
+    "example_breakdown": [{ "char": "肉", "reading": "にく" }]
+  },
+  {
+    "id": "N5_W_074", "level": "N5", "unit": 6, "word": "魚", "kana": "さかな", "accent": "0", "part_of_speech": "名詞", "meaning": "鱼",
+    "kanji_breakdown": [{ "char": "魚", "reading": "さかな" }],
+    "kanji_root": "魚", "related_words": ["肉", "野菜", "食べる"], "synonyms": [], "antonyms": [],
+    "example_jp": "魚を焼いて食べます。", "example_zh": "烤鱼吃。",
+    "example_breakdown": [{ "char": "魚", "reading": "さかな" }, { "char": "焼", "reading": "や" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_075", "level": "N5", "unit": 6, "word": "野菜", "kana": "やさい", "accent": "0", "part_of_speech": "名詞", "meaning": "蔬菜",
+    "kanji_breakdown": [{ "char": "野", "reading": "や" }, { "char": "菜", "reading": "さい" }],
+    "kanji_root": "野", "related_words": ["肉", "魚", "食べる"], "synonyms": [], "antonyms": [],
+    "example_jp": "野菜をたくさん食べます。", "example_zh": "多吃蔬菜。",
+    "example_breakdown": [{ "char": "野", "reading": "や" }, { "char": "菜", "reading": "さい" }, { "char": "食", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_076", "level": "N5", "unit": 6, "word": "天気", "kana": "てんき", "accent": "1", "part_of_speech": "名詞", "meaning": "天气",
+    "kanji_breakdown": [{ "char": "天", "reading": "てん" }, { "char": "気", "reading": "き" }],
+    "kanji_root": "天", "related_words": ["雨", "雪", "晴れ"], "synonyms": [], "antonyms": [],
+    "example_jp": "今日は天気がいいですね。", "example_zh": "今天天气真好呢。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "天", "reading": "てん" }, { "char": "気", "reading": "き" }]
+  },
+  {
+    "id": "N5_W_077", "level": "N5", "unit": 6, "word": "雨", "kana": "あめ", "accent": "1", "part_of_speech": "名詞", "meaning": "雨",
+    "kanji_breakdown": [{ "char": "雨", "reading": "あめ" }],
+    "kanji_root": "雨", "related_words": ["雪", "天気", "傘"], "synonyms": [], "antonyms": [],
+    "example_jp": "今日は雨が降っています。", "example_zh": "今天在下雨。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "雨", "reading": "あめ" }, { "char": "降", "reading": "ふ" }]
+  },
+  {
+    "id": "N5_W_078", "level": "N5", "unit": 6, "word": "雪", "kana": "ゆき", "accent": "2", "part_of_speech": "名詞", "meaning": "雪",
+    "kanji_breakdown": [{ "char": "雪", "reading": "ゆき" }],
+    "kanji_root": "雪", "related_words": ["雨", "天気", "冬"], "synonyms": [], "antonyms": [],
+    "example_jp": "北海道は雪が多いです。", "example_zh": "北海道雪很多。",
+    "example_breakdown": [{ "char": "北", "reading": "ほっ" }, { "char": "海", "reading": "かい" }, { "char": "道", "reading": "どう" }, { "char": "雪", "reading": "ゆき" }, { "char": "多", "reading": "おお" }]
+  },
+  {
+    "id": "N5_W_079", "level": "N5", "unit": 6, "word": "空", "kana": "そら", "accent": "1", "part_of_speech": "名詞", "meaning": "天空",
+    "kanji_breakdown": [{ "char": "空", "reading": "そら" }],
+    "kanji_root": "空", "related_words": ["天気", "雨", "雲"], "synonyms": [], "antonyms": [],
+    "example_jp": "空が青くてきれいです。", "example_zh": "天空蔚蓝很漂亮。",
+    "example_breakdown": [{ "char": "空", "reading": "そら" }, { "char": "青", "reading": "あお" }]
+  },
+  {
+    "id": "N5_W_080", "level": "N5", "unit": 6, "word": "山", "kana": "やま", "accent": "2", "part_of_speech": "名詞", "meaning": "山",
+    "kanji_breakdown": [{ "char": "山", "reading": "やま" }],
+    "kanji_root": "山", "related_words": ["川", "海", "富士山"], "synonyms": [], "antonyms": [],
+    "example_jp": "富士山はとても高いです。", "example_zh": "富士山非常高。",
+    "example_breakdown": [{ "char": "富", "reading": "ふ" }, { "char": "士", "reading": "じ" }, { "char": "山", "reading": "さん" }, { "char": "高", "reading": "たか" }]
+  },
+  {
+    "id": "N5_W_081", "level": "N5", "unit": 7, "word": "大きい", "kana": "おおきい", "accent": "3", "part_of_speech": "形容詞", "meaning": "大的",
+    "kanji_breakdown": [{ "char": "大", "reading": "おお" }],
+    "kanji_root": "大", "related_words": ["小さい", "部屋", "犬"], "synonyms": [], "antonyms": ["小さい"],
+    "example_jp": "この部屋は大きいです。", "example_zh": "这个房间很大。",
+    "example_breakdown": [{ "char": "部", "reading": "へ" }, { "char": "屋", "reading": "や" }, { "char": "大", "reading": "おお" }]
+  },
+  {
+    "id": "N5_W_082", "level": "N5", "unit": 7, "word": "小さい", "kana": "ちいさい", "accent": "3", "part_of_speech": "形容詞", "meaning": "小的",
+    "kanji_breakdown": [{ "char": "小", "reading": "ちい" }],
+    "kanji_root": "小", "related_words": ["大きい", "犬", "子供"], "synonyms": [], "antonyms": ["大きい"],
+    "example_jp": "この犬は小さくてかわいいです。", "example_zh": "这只狗又小又可爱。",
+    "example_breakdown": [{ "char": "犬", "reading": "いぬ" }, { "char": "小", "reading": "ちい" }]
+  },
+  {
+    "id": "N5_W_083", "level": "N5", "unit": 7, "word": "高い", "kana": "たかい", "accent": "2", "part_of_speech": "形容詞", "meaning": "高的；贵的",
+    "kanji_breakdown": [{ "char": "高", "reading": "たか" }],
+    "kanji_root": "高", "related_words": ["安い", "山", "値段"], "synonyms": [], "antonyms": ["安い"],
+    "example_jp": "この服は高いです。", "example_zh": "这件衣服很贵。",
+    "example_breakdown": [{ "char": "服", "reading": "ふく" }, { "char": "高", "reading": "たか" }]
+  },
+  {
+    "id": "N5_W_084", "level": "N5", "unit": 7, "word": "安い", "kana": "やすい", "accent": "2", "part_of_speech": "形容詞", "meaning": "便宜的",
+    "kanji_breakdown": [{ "char": "安", "reading": "やす" }],
+    "kanji_root": "安", "related_words": ["高い", "野菜", "スーパー"], "synonyms": [], "antonyms": ["高い"],
+    "example_jp": "スーパーの野菜は安いです。", "example_zh": "超市的蔬菜很便宜。",
+    "example_breakdown": [{ "char": "野", "reading": "や" }, { "char": "菜", "reading": "さい" }, { "char": "安", "reading": "やす" }]
+  },
+  {
+    "id": "N5_W_085", "level": "N5", "unit": 7, "word": "新しい", "kana": "あたらしい", "accent": "4", "part_of_speech": "形容詞", "meaning": "新的",
+    "kanji_breakdown": [{ "char": "新", "reading": "あたら" }],
+    "kanji_root": "新", "related_words": ["古い", "学校", "本"], "synonyms": [], "antonyms": ["古い"],
+    "example_jp": "新しい学校で勉強します。", "example_zh": "在新学校学习。",
+    "example_breakdown": [{ "char": "新", "reading": "あたら" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }, { "char": "勉", "reading": "べん" }, { "char": "強", "reading": "きょう" }]
+  },
+  {
+    "id": "N5_W_086", "level": "N5", "unit": 7, "word": "古い", "kana": "ふるい", "accent": "2", "part_of_speech": "形容詞", "meaning": "旧的",
+    "kanji_breakdown": [{ "char": "古", "reading": "ふる" }],
+    "kanji_root": "古", "related_words": ["新しい", "本", "家"], "synonyms": [], "antonyms": ["新しい"],
+    "example_jp": "この本は古いです。", "example_zh": "这本书很旧。",
+    "example_breakdown": [{ "char": "本", "reading": "ほん" }, { "char": "古", "reading": "ふる" }]
+  },
+  {
+    "id": "N5_W_087", "level": "N5", "unit": 7, "word": "長い", "kana": "ながい", "accent": "2", "part_of_speech": "形容詞", "meaning": "长的",
+    "kanji_breakdown": [{ "char": "長", "reading": "なが" }],
+    "kanji_root": "長", "related_words": ["短い", "川", "道"], "synonyms": [], "antonyms": ["短い"],
+    "example_jp": "この川は長いです。", "example_zh": "这条河很长。",
+    "example_breakdown": [{ "char": "川", "reading": "かわ" }, { "char": "長", "reading": "なが" }]
+  },
+  {
+    "id": "N5_W_088", "level": "N5", "unit": 7, "word": "短い", "kana": "みじかい", "accent": "3", "part_of_speech": "形容詞", "meaning": "短的",
+    "kanji_breakdown": [{ "char": "短", "reading": "みじか" }],
+    "kanji_root": "短", "related_words": ["長い", "鉛筆", "時間"], "synonyms": [], "antonyms": ["長い"],
+    "example_jp": "この鉛筆は短いです。", "example_zh": "这支铅笔很短。",
+    "example_breakdown": [{ "char": "鉛", "reading": "えん" }, { "char": "筆", "reading": "ぴつ" }, { "char": "短", "reading": "みじか" }]
+  },
+  {
+    "id": "N5_W_089", "level": "N5", "unit": 7, "word": "暑い", "kana": "あつい", "accent": "2", "part_of_speech": "形容詞", "meaning": "热的（天气）",
+    "kanji_breakdown": [{ "char": "暑", "reading": "あつ" }],
+    "kanji_root": "暑", "related_words": ["寒い", "天気", "夏"], "synonyms": [], "antonyms": ["寒い"],
+    "example_jp": "今日はとても暑いです。", "example_zh": "今天非常热。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "暑", "reading": "あつ" }]
+  },
+  {
+    "id": "N5_W_090", "level": "N5", "unit": 7, "word": "寒い", "kana": "さむい", "accent": "2", "part_of_speech": "形容詞", "meaning": "冷的（天气）",
+    "kanji_breakdown": [{ "char": "寒", "reading": "さむ" }],
+    "kanji_root": "寒", "related_words": ["暑い", "天気", "冬"], "synonyms": [], "antonyms": ["暑い"],
+    "example_jp": "冬は寒いです。", "example_zh": "冬天很冷。",
+    "example_breakdown": [{ "char": "冬", "reading": "ふゆ" }, { "char": "寒", "reading": "さむ" }]
+  },
+  {
+    "id": "N5_W_091", "level": "N5", "unit": 7, "word": "多い", "kana": "おおい", "accent": "2", "part_of_speech": "形容詞", "meaning": "多的",
+    "kanji_breakdown": [{ "char": "多", "reading": "おお" }],
+    "kanji_root": "多", "related_words": ["少ない", "人", "仕事"], "synonyms": [], "antonyms": ["少ない"],
+    "example_jp": "この町は人が多いです。", "example_zh": "这个城镇人很多。",
+    "example_breakdown": [{ "char": "町", "reading": "まち" }, { "char": "人", "reading": "ひと" }, { "char": "多", "reading": "おお" }]
+  },
+  {
+    "id": "N5_W_092", "level": "N5", "unit": 7, "word": "少ない", "kana": "すくない", "accent": "3", "part_of_speech": "形容詞", "meaning": "少的",
+    "kanji_breakdown": [{ "char": "少", "reading": "すく" }],
+    "kanji_root": "少", "related_words": ["多い", "宿題", "時間"], "synonyms": [], "antonyms": ["多い"],
+    "example_jp": "今日は宿題が少ないです。", "example_zh": "今天作业很少。",
+    "example_breakdown": [{ "char": "今", "reading": "きょう" }, { "char": "日", "reading": "う" }, { "char": "宿", "reading": "しゅく" }, { "char": "題", "reading": "だい" }, { "char": "少", "reading": "すく" }]
+  },
+  {
+    "id": "N5_W_093", "level": "N5", "unit": 8, "word": "きれい", "kana": "きれい", "accent": "1", "part_of_speech": "形容動詞", "meaning": "漂亮；干净",
+    "kanji_breakdown": [], "kanji_root": "",
+    "related_words": ["美しい", "部屋", "花"], "synonyms": ["美しい"], "antonyms": ["汚い"],
+    "example_jp": "この花はきれいですね。", "example_zh": "这朵花真漂亮呢。",
+    "example_breakdown": [{ "char": "花", "reading": "はな" }]
+  },
+  {
+    "id": "N5_W_094", "level": "N5", "unit": 8, "word": "好き", "kana": "すき", "accent": "1", "part_of_speech": "形容動詞", "meaning": "喜欢",
+    "kanji_breakdown": [{ "char": "好", "reading": "す" }],
+    "kanji_root": "好", "related_words": ["嫌い", "音楽", "食べ物"], "synonyms": [], "antonyms": ["嫌い"],
+    "example_jp": "音楽が好きです。", "example_zh": "我喜欢音乐。",
+    "example_breakdown": [{ "char": "音", "reading": "おん" }, { "char": "楽", "reading": "がく" }, { "char": "好", "reading": "す" }]
+  },
+  {
+    "id": "N5_W_095", "level": "N5", "unit": 8, "word": "嫌い", "kana": "きらい", "accent": "0", "part_of_speech": "形容動詞", "meaning": "讨厌",
+    "kanji_breakdown": [{ "char": "嫌", "reading": "きら" }],
+    "kanji_root": "嫌", "related_words": ["好き", "魚", "野菜"], "synonyms": [], "antonyms": ["好き"],
+    "example_jp": "魚が嫌いです。", "example_zh": "我讨厌鱼。",
+    "example_breakdown": [{ "char": "魚", "reading": "さかな" }, { "char": "嫌", "reading": "きら" }]
+  },
+  {
+    "id": "N5_W_096", "level": "N5", "unit": 8, "word": "上手", "kana": "じょうず", "accent": "3", "part_of_speech": "形容動詞", "meaning": "擅长",
+    "kanji_breakdown": [{ "char": "上", "reading": "じょう" }, { "char": "手", "reading": "ず" }],
+    "kanji_root": "上", "related_words": ["下手", "料理", "日本語"], "synonyms": [], "antonyms": ["下手"],
+    "example_jp": "田中さんは料理が上手です。", "example_zh": "田中先生很擅长做菜。",
+    "example_breakdown": [{ "char": "田", "reading": "た" }, { "char": "中", "reading": "なか" }, { "char": "料", "reading": "りょう" }, { "char": "理", "reading": "り" }, { "char": "上", "reading": "じょう" }, { "char": "手", "reading": "ず" }]
+  },
+  {
+    "id": "N5_W_097", "level": "N5", "unit": 8, "word": "下手", "kana": "へた", "accent": "2", "part_of_speech": "形容動詞", "meaning": "不擅长",
+    "kanji_breakdown": [{ "char": "下", "reading": "へ" }, { "char": "手", "reading": "た" }],
+    "kanji_root": "下", "related_words": ["上手", "歌", "スポーツ"], "synonyms": [], "antonyms": ["上手"],
+    "example_jp": "私は歌が下手です。", "example_zh": "我不擅长唱歌。",
+    "example_breakdown": [{ "char": "私", "reading": "わたし" }, { "char": "歌", "reading": "うた" }, { "char": "下", "reading": "へ" }, { "char": "手", "reading": "た" }]
+  },
+  {
+    "id": "N5_W_098", "level": "N5", "unit": 8, "word": "大切", "kana": "たいせつ", "accent": "3", "part_of_speech": "形容動詞", "meaning": "重要，宝贵",
+    "kanji_breakdown": [{ "char": "大", "reading": "たい" }, { "char": "切", "reading": "せつ" }],
+    "kanji_root": "大", "related_words": ["友達", "家族", "大事"], "synonyms": ["大事"], "antonyms": [],
+    "example_jp": "友達はとても大切です。", "example_zh": "朋友非常重要。",
+    "example_breakdown": [{ "char": "友", "reading": "とも" }, { "char": "達", "reading": "だち" }, { "char": "大", "reading": "たい" }, { "char": "切", "reading": "せつ" }]
+  },
+  {
+    "id": "N5_W_099", "level": "N5", "unit": 8, "word": "有名", "kana": "ゆうめい", "accent": "0", "part_of_speech": "形容動詞", "meaning": "有名的",
+    "kanji_breakdown": [{ "char": "有", "reading": "ゆう" }, { "char": "名", "reading": "めい" }],
+    "kanji_root": "有", "related_words": ["富士山", "山", "人"], "synonyms": [], "antonyms": [],
+    "example_jp": "富士山は有名な山です。", "example_zh": "富士山是有名的山。",
+    "example_breakdown": [{ "char": "富", "reading": "ふ" }, { "char": "士", "reading": "じ" }, { "char": "山", "reading": "やま" }, { "char": "有", "reading": "ゆう" }, { "char": "名", "reading": "めい" }, { "char": "山", "reading": "やま" }]
+  },
+  {
+    "id": "N5_W_100", "level": "N5", "unit": 8, "word": "元気", "kana": "げんき", "accent": "1", "part_of_speech": "形容動詞", "meaning": "精神好，健康",
+    "kanji_breakdown": [{ "char": "元", "reading": "げん" }, { "char": "気", "reading": "き" }],
+    "kanji_root": "元", "related_words": ["体", "健康", "病院"], "synonyms": ["健康"], "antonyms": [],
+    "example_jp": "毎日元気に学校へ行きます。", "example_zh": "每天精神饱满地去学校。",
+    "example_breakdown": [{ "char": "毎", "reading": "まい" }, { "char": "日", "reading": "にち" }, { "char": "元", "reading": "げん" }, { "char": "気", "reading": "き" }, { "char": "学", "reading": "がっ" }, { "char": "校", "reading": "こう" }, { "char": "行", "reading": "い" }]
+  }
+]
