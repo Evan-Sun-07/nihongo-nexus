@@ -1,322 +1,4502 @@
-[
-  {
-    "id": "N5_Q_001",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「学生」の読み方はどれですか？",
-    "options": ["がくせい", "がくしょう", "かくせい", "かくしょう"],
-    "correct_answer": 0,
-    "explanation": "「学生」はがくせいと読みます。学（がく）+ 生（せい）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_002",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「食べる」の意味はどれですか？",
-    "options": ["飲む", "食べる", "買う", "見る"],
-    "correct_answer": 1,
-    "explanation": "「食べる」は中国語で「吃」という意味です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_003",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "（　　）に入る正しい言葉を選んでください。「私は日本語（　　）好きです。」",
-    "options": ["を", "に", "が", "は"],
-    "correct_answer": 2,
-    "explanation": "好きの前には助詞「が」を使います。「日本語が好きです」が正しい形です。",
-    "linked_grammar_id": "N5_G_002"
-  },
-  {
-    "id": "N5_Q_004",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "正しい文を選んでください。",
-    "options": [
-      "ゆっくり話してください。",
-      "ゆっくり話くてください。",
-      "ゆっくり話のでください。",
-      "ゆっくり話にてください。"
-    ],
-    "correct_answer": 0,
-    "explanation": "「～てください」は動詞のて形に接続します。「話す」のて形は「話して」です。",
-    "linked_grammar_id": "N5_G_003"
-  },
-  {
-    "id": "N5_Q_005",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「電車」の読み方はどれですか？",
-    "options": ["でんしゃ", "でんじゃ", "てんしゃ", "てんじゃ"],
-    "correct_answer": 0,
-    "explanation": "「電車」はでんしゃと読みます。電（でん）+ 車（しゃ）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_006",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "（　　）に入る正しい言葉を選んでください。「今、勉強（　　）います。」",
-    "options": ["して", "をして", "がして", "にして"],
-    "correct_answer": 0,
-    "explanation": "「～ています」は動詞のて形に接続します。「勉強する」のて形は「勉強して」です。",
-    "linked_grammar_id": "N5_G_004"
-  },
-  {
-    "id": "N5_Q_007",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「先生」の反対語（対義語）はどれですか？",
-    "options": ["教師", "学生", "大学", "学校"],
-    "correct_answer": 1,
-    "explanation": "「先生」の反対語は「学生」です。先生は教える人、学生は学ぶ人です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_008",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「富士山に登ったことがあります」の意味はどれですか？",
-    "options": [
-      "富士山に登りたいです",
-      "富士山に登っています",
-      "富士山に登った経験があります",
-      "富士山に登るつもりです"
-    ],
-    "correct_answer": 2,
-    "explanation": "「～たことがある」は過去の経験を表します。「登ったことがある」＝「登った経験がある」という意味です。",
-    "linked_grammar_id": "N5_G_007"
-  },
-  {
-    "id": "N5_Q_009",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「行く」の反対語はどれですか？",
-    "options": ["帰る", "来る", "走る", "止まる"],
-    "correct_answer": 1,
-    "explanation": "「行く（いく）」の反対語は「来る（くる）」です。行くは話し手から離れる動作、来るは話し手に向かう動作を表します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_010",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "正しい文を選んでください。「お腹が空いた（　　）、何か食べたい。」",
-    "options": ["のに", "から", "ても", "けど"],
-    "correct_answer": 1,
-    "explanation": "「から」は理由を表す接続助詞です。「お腹が空いたから」で「お腹が空いているので」という理由を表します。",
-    "linked_grammar_id": "N5_G_008"
-  },
-  {
-    "id": "N5_Q_011",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「水」の読み方はどれですか？",
-    "options": ["みず", "みす", "すみ", "もず"],
-    "correct_answer": 0,
-    "explanation": "「水」はみずと読みます。水（みず）は日常的によく使う基本単語です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_012",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "（　　）に入る正しい言葉を選んでください。「田中さん（　　）来ますか。」（田中也来吗？）",
-    "options": ["は", "も", "が", "を"],
-    "correct_answer": 1,
-    "explanation": "「も」は「同样」的意思，表示田中和别人一样也来。「は」只是主题助词，没有「也」的意思。",
-    "linked_grammar_id": "N5_G_011"
-  },
-  {
-    "id": "N5_Q_013",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「電車はバス（　　）速いです。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["から", "より", "でも", "まで"],
-    "correct_answer": 1,
-    "explanation": "「より」は比較の基準を表します。「AはBより～」で「AはBと比べて～」という意味になります。",
-    "linked_grammar_id": "N5_G_012"
-  },
-  {
-    "id": "N5_Q_014",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「早く寝た（　　）いいですよ。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["ほうが", "ほどが", "わけが", "ことが"],
-    "correct_answer": 0,
-    "explanation": "「～たほうがいい」は「最好……」の意味で、アドバイスをする時に使います。",
-    "linked_grammar_id": "N5_G_013"
-  },
-  {
-    "id": "N5_Q_015",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「図書館」の読み方はどれですか？",
-    "options": ["としょかん", "としょがん", "とうしょかん", "どしょかん"],
-    "correct_answer": 0,
-    "explanation": "「図書館」はとしょかんと読みます。図（と）書（しょ）館（かん）です。本を借りられる場所です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_016",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「ここに座って（　　）いいですか。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["は", "も", "が", "を"],
-    "correct_answer": 1,
-    "explanation": "「～てもいい」は許可を表す表現です。「座ってもいいですか」で「坐这里可以吗？」という意味です。",
-    "linked_grammar_id": "N5_G_016"
-  },
-  {
-    "id": "N5_Q_017",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「授業中にスマホを使って（　　）いけません。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["も", "は", "が", "を"],
-    "correct_answer": 1,
-    "explanation": "「～てはいけない」は禁止を表します。「使ってはいけません」で「不可以使用」という意味になります。",
-    "linked_grammar_id": "N5_G_017"
-  },
-  {
-    "id": "N5_Q_018",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "次の文の意味として正しいものはどれですか？「音楽を聴きながら、勉強します。」",
-    "options": [
-      "音楽を聴いてから、勉強します",
-      "音楽を聴いた後で、勉強します",
-      "音楽を聴くことと勉強することを同時にします",
-      "音楽を聴くために、勉強します"
-    ],
-    "correct_answer": 2,
-    "explanation": "「～ながら」は二つの動作を同時に行うことを表します。「音楽を聴きながら勉強する」は「一边听音乐一边学习」です。",
-    "linked_grammar_id": "N5_G_018"
-  },
-  {
-    "id": "N5_Q_019",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「病院」の読み方はどれですか？",
-    "options": ["びょういん", "びょうかん", "へいいん", "へいかん"],
-    "correct_answer": 0,
-    "explanation": "「病院」はびょういんと読みます。病（びょう）+ 院（いん）です。お医者さんがいる場所です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_020",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「寝る（　　）に、歯を磨きます。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["前", "後", "時", "間"],
-    "correct_answer": 0,
-    "explanation": "「動詞辞書形＋前に」は「在……之前」という意味です。「寝る前に」は「睡觉之前」です。",
-    "linked_grammar_id": "N5_G_019"
-  },
-  {
-    "id": "N5_Q_021",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「宿題をした（　　）で、ゲームをします。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["前", "後", "時", "間"],
-    "correct_answer": 1,
-    "explanation": "「動詞た形＋後で」は「在……之后」という意味です。「した後で」は「做完之后」です。",
-    "linked_grammar_id": "N5_G_020"
-  },
-  {
-    "id": "N5_Q_022",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「私は日本語を話す（　　）ができます。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["の", "こと", "もの", "ため"],
-    "correct_answer": 1,
-    "explanation": "「～ことができる」は能力や可能性を表す表現です。「話すことができる」で「能说」という意味になります。",
-    "linked_grammar_id": "N5_G_022"
-  },
-  {
-    "id": "N5_Q_023",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「右」と「左」はそれぞれ中国語で何と言いますか？",
-    "options": ["右＝みぎ（右），左＝ひだり（左）", "右＝ひだり（左），左＝みぎ（右）", "右＝うえ（上），左＝した（下）", "右＝まえ（前），左＝うしろ（后）"],
-    "correct_answer": 0,
-    "explanation": "「右（みぎ）」は「右」、「左（ひだり）」は「左」という意味です。方向を表す基本単語です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_024",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「日本語を勉強する（　　）、毎日練習します。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["から", "ために", "ので", "けど"],
-    "correct_answer": 1,
-    "explanation": "「～ために」は目的を表します。「日本語を勉強するために」は「为了学日语」という意味です。「から」は理由を表し、少しニュアンスが違います。",
-    "linked_grammar_id": "N5_G_023"
-  },
-  {
-    "id": "N5_Q_025",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「来年、日本へ行く（　　）です。」の（　　）に入る正しい言葉はどれですか？（意味：打算明年去日本）",
-    "options": ["はずだ", "かもしれない", "つもり", "でしょう"],
-    "correct_answer": 2,
-    "explanation": "「～つもり」は話し手の意図や計画を表します。「行くつもり」で「打算去」という意味になります。",
-    "linked_grammar_id": "N5_G_026"
-  },
-  {
-    "id": "N5_Q_026",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「毎日」の読み方はどれですか？",
-    "options": ["まいにち", "まいび", "めいにち", "めいび"],
-    "correct_answer": 0,
-    "explanation": "「毎日」はまいにちと読みます。毎（まい）+ 日（にち）です。「每天」という意味です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_027",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「練習したら、ピアノが弾ける（　　）なりました。」の（　　）に入る正しい言葉はどれですか？",
-    "options": ["ように", "ために", "ことに", "はずに"],
-    "correct_answer": 0,
-    "explanation": "「～ようになる」は能力や状態の変化を表します。「弾けるようになる」で「渐渐会弹了」という変化を表します。",
-    "linked_grammar_id": "N5_G_027"
-  },
-  {
-    "id": "N5_Q_028",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "「この料理はおいしそうです。」の意味はどれですか？",
-    "options": [
-      "この料理はおいしいと聞きました",
-      "この料理はおいしいと思います",
-      "この料理は見た感じおいしそうに見えます",
-      "この料理はおいしかったです"
-    ],
-    "correct_answer": 2,
-    "explanation": "「～そうだ（様態）」は見た目や外観から判断した推測を表します。「おいしそう」は「看起来好吃」という意味です。",
-    "linked_grammar_id": "N5_G_030"
-  },
-  {
-    "id": "N5_Q_029",
-    "level": "N5",
-    "type": "vocabulary",
-    "question_text": "「今年」の読み方はどれですか？",
-    "options": ["ことし", "いまとし", "こんねん", "こんとし"],
-    "correct_answer": 0,
-    "explanation": "「今年」はことしと読みます。「今年」という意味で、「今年（こんねん）」とも読みますが、「ことし」が一般的な読み方です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N5_Q_030",
-    "level": "N5",
-    "type": "grammar",
-    "question_text": "次の文の（　　）に入る最も適切な表現はどれですか？「彼はもう家に帰っている（　　）です。新幹線の時間は3時間前でしたから。」",
-    "options": ["かもしれない", "はず", "つもり", "ようだ"],
-    "correct_answer": 1,
-    "explanation": "「～はずだ」は根拠のある推断を表します。新幹線の時間から計算して「应该已经回到家了」という確信に近い推断を表します。",
-    "linked_grammar_id": "N5_G_029"
-  }
+﻿[
+    {
+        "id":  "N5_Q_001",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「学生」の読み方はどれですか？",
+        "options":  [
+                        "がくせい",
+                        "がくしょう",
+                        "かくせい",
+                        "かくしょう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「学生」はがくせいと読みます。学（がく）+ 生（せい）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_002",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「食べる」の意味はどれですか？",
+        "options":  [
+                        "飲む",
+                        "食べる",
+                        "買う",
+                        "見る"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「食べる」は中国語で「吃」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_003",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "（　　）に入る正しい言葉を選んでください。「私は日本語（　　）好きです。」",
+        "options":  [
+                        "を",
+                        "に",
+                        "が",
+                        "は"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "好きの前には助詞「が」を使います。「日本語が好きです」が正しい形です。",
+        "linked_grammar_id":  "N5_G_002"
+    },
+    {
+        "id":  "N5_Q_004",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "正しい文を選んでください。",
+        "options":  [
+                        "ゆっくり話してください。",
+                        "ゆっくり話くてください。",
+                        "ゆっくり話のでください。",
+                        "ゆっくり話にてください。"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てください」は動詞のて形に接続します。「話す」のて形は「話して」です。",
+        "linked_grammar_id":  "N5_G_003"
+    },
+    {
+        "id":  "N5_Q_005",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「電車」の読み方はどれですか？",
+        "options":  [
+                        "でんしゃ",
+                        "でんじゃ",
+                        "てんしゃ",
+                        "てんじゃ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「電車」はでんしゃと読みます。電（でん）+ 車（しゃ）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_006",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "（　　）に入る正しい言葉を選んでください。「今、勉強（　　）います。」",
+        "options":  [
+                        "して",
+                        "をして",
+                        "がして",
+                        "にして"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～ています」は動詞のて形に接続します。「勉強する」のて形は「勉強して」です。",
+        "linked_grammar_id":  "N5_G_004"
+    },
+    {
+        "id":  "N5_Q_007",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「先生」の反対語（対義語）はどれですか？",
+        "options":  [
+                        "教師",
+                        "学生",
+                        "大学",
+                        "学校"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「先生」の反対語は「学生」です。先生は教える人、学生は学ぶ人です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_008",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「富士山に登ったことがあります」の意味はどれですか？",
+        "options":  [
+                        "富士山に登りたいです",
+                        "富士山に登っています",
+                        "富士山に登った経験があります",
+                        "富士山に登るつもりです"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「～たことがある」は過去の経験を表します。「登ったことがある」＝「登った経験がある」という意味です。",
+        "linked_grammar_id":  "N5_G_007"
+    },
+    {
+        "id":  "N5_Q_009",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「行く」の反対語はどれですか？",
+        "options":  [
+                        "帰る",
+                        "来る",
+                        "走る",
+                        "止まる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「行く（いく）」の反対語は「来る（くる）」です。行くは話し手から離れる動作、来るは話し手に向かう動作を表します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_010",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "正しい文を選んでください。「お腹が空いた（　　）、何か食べたい。」",
+        "options":  [
+                        "のに",
+                        "から",
+                        "ても",
+                        "けど"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「から」は理由を表す接続助詞です。「お腹が空いたから」で「お腹が空いているので」という理由を表します。",
+        "linked_grammar_id":  "N5_G_008"
+    },
+    {
+        "id":  "N5_Q_011",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「水」の読み方はどれですか？",
+        "options":  [
+                        "みず",
+                        "みす",
+                        "すみ",
+                        "もず"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「水」はみずと読みます。水（みず）は日常的によく使う基本単語です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_012",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "（　　）に入る正しい言葉を選んでください。「田中さん（　　）来ますか。」（田中也来吗？）",
+        "options":  [
+                        "は",
+                        "も",
+                        "が",
+                        "を"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「も」は「同样」的意思，表示田中和别人一样也来。「は」只是主题助词，没有「也」的意思。",
+        "linked_grammar_id":  "N5_G_011"
+    },
+    {
+        "id":  "N5_Q_013",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「電車はバス（　　）速いです。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "から",
+                        "より",
+                        "でも",
+                        "まで"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「より」は比較の基準を表します。「AはBより～」で「AはBと比べて～」という意味になります。",
+        "linked_grammar_id":  "N5_G_012"
+    },
+    {
+        "id":  "N5_Q_014",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「早く寝た（　　）いいですよ。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "ほうが",
+                        "ほどが",
+                        "わけが",
+                        "ことが"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～たほうがいい」は「最好……」の意味で、アドバイスをする時に使います。",
+        "linked_grammar_id":  "N5_G_013"
+    },
+    {
+        "id":  "N5_Q_015",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「図書館」の読み方はどれですか？",
+        "options":  [
+                        "としょかん",
+                        "としょがん",
+                        "とうしょかん",
+                        "どしょかん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「図書館」はとしょかんと読みます。図（と）書（しょ）館（かん）です。本を借りられる場所です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_016",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「ここに座って（　　）いいですか。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "は",
+                        "も",
+                        "が",
+                        "を"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～てもいい」は許可を表す表現です。「座ってもいいですか」で「坐这里可以吗？」という意味です。",
+        "linked_grammar_id":  "N5_G_016"
+    },
+    {
+        "id":  "N5_Q_017",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「授業中にスマホを使って（　　）いけません。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "も",
+                        "は",
+                        "が",
+                        "を"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～てはいけない」は禁止を表します。「使ってはいけません」で「不可以使用」という意味になります。",
+        "linked_grammar_id":  "N5_G_017"
+    },
+    {
+        "id":  "N5_Q_018",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "次の文の意味として正しいものはどれですか？「音楽を聴きながら、勉強します。」",
+        "options":  [
+                        "音楽を聴いてから、勉強します",
+                        "音楽を聴いた後で、勉強します",
+                        "音楽を聴くことと勉強することを同時にします",
+                        "音楽を聴くために、勉強します"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「～ながら」は二つの動作を同時に行うことを表します。「音楽を聴きながら勉強する」は「一边听音乐一边学习」です。",
+        "linked_grammar_id":  "N5_G_018"
+    },
+    {
+        "id":  "N5_Q_019",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「病院」の読み方はどれですか？",
+        "options":  [
+                        "びょういん",
+                        "びょうかん",
+                        "へいいん",
+                        "へいかん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「病院」はびょういんと読みます。病（びょう）+ 院（いん）です。お医者さんがいる場所です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_020",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「寝る（　　）に、歯を磨きます。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "前",
+                        "後",
+                        "時",
+                        "間"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「動詞辞書形＋前に」は「在……之前」という意味です。「寝る前に」は「睡觉之前」です。",
+        "linked_grammar_id":  "N5_G_019"
+    },
+    {
+        "id":  "N5_Q_021",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「宿題をした（　　）で、ゲームをします。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "前",
+                        "後",
+                        "時",
+                        "間"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「動詞た形＋後で」は「在……之后」という意味です。「した後で」は「做完之后」です。",
+        "linked_grammar_id":  "N5_G_020"
+    },
+    {
+        "id":  "N5_Q_022",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「私は日本語を話す（　　）ができます。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "の",
+                        "こと",
+                        "もの",
+                        "ため"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～ことができる」は能力や可能性を表す表現です。「話すことができる」で「能说」という意味になります。",
+        "linked_grammar_id":  "N5_G_022"
+    },
+    {
+        "id":  "N5_Q_023",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「右」と「左」はそれぞれ中国語で何と言いますか？",
+        "options":  [
+                        "右＝みぎ（右），左＝ひだり（左）",
+                        "右＝ひだり（左），左＝みぎ（右）",
+                        "右＝うえ（上），左＝した（下）",
+                        "右＝まえ（前），左＝うしろ（后）"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「右（みぎ）」は「右」、「左（ひだり）」は「左」という意味です。方向を表す基本単語です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_024",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本語を勉強する（　　）、毎日練習します。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "から",
+                        "ために",
+                        "ので",
+                        "けど"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～ために」は目的を表します。「日本語を勉強するために」は「为了学日语」という意味です。「から」は理由を表し、少しニュアンスが違います。",
+        "linked_grammar_id":  "N5_G_023"
+    },
+    {
+        "id":  "N5_Q_025",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「来年、日本へ行く（　　）です。」の（　　）に入る正しい言葉はどれですか？（意味：打算明年去日本）",
+        "options":  [
+                        "はずだ",
+                        "かもしれない",
+                        "つもり",
+                        "でしょう"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「～つもり」は話し手の意図や計画を表します。「行くつもり」で「打算去」という意味になります。",
+        "linked_grammar_id":  "N5_G_026"
+    },
+    {
+        "id":  "N5_Q_026",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「毎日」の読み方はどれですか？",
+        "options":  [
+                        "まいにち",
+                        "まいび",
+                        "めいにち",
+                        "めいび"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「毎日」はまいにちと読みます。毎（まい）+ 日（にち）です。「每天」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_027",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「練習したら、ピアノが弾ける（　　）なりました。」の（　　）に入る正しい言葉はどれですか？",
+        "options":  [
+                        "ように",
+                        "ために",
+                        "ことに",
+                        "はずに"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～ようになる」は能力や状態の変化を表します。「弾けるようになる」で「渐渐会弹了」という変化を表します。",
+        "linked_grammar_id":  "N5_G_027"
+    },
+    {
+        "id":  "N5_Q_028",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「この料理はおいしそうです。」の意味はどれですか？",
+        "options":  [
+                        "この料理はおいしいと聞きました",
+                        "この料理はおいしいと思います",
+                        "この料理は見た感じおいしそうに見えます",
+                        "この料理はおいしかったです"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「～そうだ（様態）」は見た目や外観から判断した推測を表します。「おいしそう」は「看起来好吃」という意味です。",
+        "linked_grammar_id":  "N5_G_030"
+    },
+    {
+        "id":  "N5_Q_029",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「今年」の読み方はどれですか？",
+        "options":  [
+                        "ことし",
+                        "いまとし",
+                        "こんねん",
+                        "こんとし"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「今年」はことしと読みます。「今年」という意味で、「今年（こんねん）」とも読みますが、「ことし」が一般的な読み方です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_030",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "次の文の（　　）に入る最も適切な表現はどれですか？「彼はもう家に帰っている（　　）です。新幹線の時間は3時間前でしたから。」",
+        "options":  [
+                        "かもしれない",
+                        "はず",
+                        "つもり",
+                        "ようだ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～はずだ」は根拠のある推断を表します。新幹線の時間から計算して「应该已经回到家了」という確信に近い推断を表します。",
+        "linked_grammar_id":  "N5_G_029"
+    },
+    {
+        "id":  "N5_Q_031",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「頭」の読み方はどれですか？",
+        "options":  [
+                        "あたま",
+                        "あたた",
+                        "かしら",
+                        "あたる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「頭」はあたまと読みます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_032",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「卵」の読み方はどれですか？",
+        "options":  [
+                        "たまこ",
+                        "たまご",
+                        "らん",
+                        "かご"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「卵」はたまごと読みます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_033",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「財布」の読み方はどれですか？",
+        "options":  [
+                        "さいふ",
+                        "ざいぶ",
+                        "さいぶ",
+                        "ざいふ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「財布」はさいふと読みます。財（さい）+ 布（ふ）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_034",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「月曜日」は何曜日ですか？",
+        "options":  [
+                        "月曜日",
+                        "火曜日",
+                        "水曜日",
+                        "木曜日"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「月曜日」はげつようびと読み、英語の「Monday」に相当します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_035",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「難しい」の意味はどれですか？",
+        "options":  [
+                        "簡単な",
+                        "楽しい",
+                        "困難な",
+                        "易しい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「難しい」はむずかしいと読み、困難な・難しいという意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_036",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「公園」の読み方はどれですか？",
+        "options":  [
+                        "こうえん",
+                        "こうおん",
+                        "くえん",
+                        "こえん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「公園」はこうえんと読みます。公（こう）+ 園（えん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_037",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「借りる」の反対語はどれですか？",
+        "options":  [
+                        "もらう",
+                        "貸す",
+                        "あげる",
+                        "拾う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「借りる」の反対語は「貸す」です。借りる＝借来，貸す＝借出。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_038",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「時計」の読み方はどれですか？",
+        "options":  [
+                        "ときけい",
+                        "とけい",
+                        "じけい",
+                        "じかい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「時計」はとけいと読みます。時（と）+ 計（けい）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_039",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「黒い」の意味はどれですか？",
+        "options":  [
+                        "白い",
+                        "赤い",
+                        "青い",
+                        "黒い"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「黒い」はくろいと読み、黒色という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_040",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「玄関」はどこですか？",
+        "options":  [
+                        "台所",
+                        "部屋の中",
+                        "家の入り口",
+                        "庭"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「玄関」はげんかんと読み、家の入り口（出入り口）のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_041",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「弟」の読み方はどれですか？",
+        "options":  [
+                        "あに",
+                        "おとうと",
+                        "いもうと",
+                        "おとうさん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「弟」はおとうとと読みます。年下の男のきょうだいを指します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_042",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「台所」とはどこのことですか？",
+        "options":  [
+                        "食事をする部屋",
+                        "料理をする部屋",
+                        "お風呂",
+                        "トイレ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「台所」はだいどころと読み、料理をする部屋（キッチン）のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_043",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「牛乳」の読み方はどれですか？",
+        "options":  [
+                        "ぎゅうにゅう",
+                        "うしちち",
+                        "ぎゅうちち",
+                        "うしにゅう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「牛乳」はぎゅうにゅうと読みます。牛（ぎゅう）+ 乳（にゅう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_044",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「広い」の反対語はどれですか？",
+        "options":  [
+                        "長い",
+                        "狭い",
+                        "重い",
+                        "短い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「広い」の反対語は「狭い（せまい）」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_045",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「傘」は何のために使いますか？",
+        "options":  [
+                        "日差しを遮るため",
+                        "雨の時に使う",
+                        "水を飲むため",
+                        "書くため"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「傘（かさ）」は主に雨の時に使います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_046",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "（　　）に入る正しい言葉を選んでください。「一緒に映画を（　　）。」",
+        "options":  [
+                        "見ましょう",
+                        "見てください",
+                        "見てもいい",
+                        "見なければ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～ましょう」は一緒に何かをする時に使う勧誘の表現です。",
+        "linked_grammar_id":  "N5_G_031"
+    },
+    {
+        "id":  "N5_Q_047",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「～ませんか」はどんな意味ですか？",
+        "options":  [
+                        "禁止する意味",
+                        "一緒にしませんかと誘う意味",
+                        "絶対にしないという意味",
+                        "できないという意味"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～ませんか」は相手を礼儀正しく誘う表現です。「一緒にしませんか」＝要不要一起……。",
+        "linked_grammar_id":  "N5_G_032"
+    },
+    {
+        "id":  "N5_Q_048",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "正しい文はどれですか？",
+        "options":  [
+                        "週末は映画を見たり、音楽を聴くりします。",
+                        "週末は映画を見たり、音楽を聴いたりします。",
+                        "週末は映画を見て、音楽を聴きたりします。",
+                        "週末は映画を見り、音楽を聴いたりします。"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～たり～たりする」はどちらも動詞た形＋「り」の形を使います。",
+        "linked_grammar_id":  "N5_G_033"
+    },
+    {
+        "id":  "N5_Q_049",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「食べ（　　）」：正しい形を選んでください。「ケーキを全部（　　）しまいました。」",
+        "options":  [
+                        "食べて",
+                        "食べた",
+                        "食べる",
+                        "食べ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てしまう」は動詞て形に接続します。「食べて」＋「しまう」です。",
+        "linked_grammar_id":  "N5_G_038"
+    },
+    {
+        "id":  "N5_Q_050",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「この本は（　　）やすいです。」に入る言葉はどれですか？",
+        "options":  [
+                        "読み",
+                        "読む",
+                        "読んで",
+                        "読んだ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～やすい」は動詞ます形（去ます）に接続します。「読む」→「読み」＋「やすい」。",
+        "linked_grammar_id":  "N5_G_035"
+    },
+    {
+        "id":  "N5_Q_051",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「明日試験がある（　　）、今日は早く寝ます。」",
+        "options":  [
+                        "から",
+                        "ので",
+                        "けど",
+                        "が"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ので」は理由を表す接続詞で、「から」より丁寧で客観的です。",
+        "linked_grammar_id":  "N5_G_039"
+    },
+    {
+        "id":  "N5_Q_052",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「本を借り（　　）図書館へ行きます。」",
+        "options":  [
+                        "ために",
+                        "ので",
+                        "に",
+                        "へ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「～に行く」は「動詞ます形（去ます）＋に＋行く」の形で目的の移動を表します。",
+        "linked_grammar_id":  "N5_G_040"
+    },
+    {
+        "id":  "N5_Q_053",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「春に（　　）、桜が咲きます。」",
+        "options":  [
+                        "なると",
+                        "なって",
+                        "なれば",
+                        "なっては"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～と」は自然な条件・必然的な結果を表します。「春になると」＝一到春天就……。",
+        "linked_grammar_id":  "N5_G_042"
+    },
+    {
+        "id":  "N5_Q_054",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「雨が降っ（　　）、傘を持っていきます。」",
+        "options":  [
+                        "ると",
+                        "たら",
+                        "て",
+                        "ても"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～たら」は条件を表します。「雨が降ったら」＝如果下雨的话。",
+        "linked_grammar_id":  "N5_G_043"
+    },
+    {
+        "id":  "N5_Q_055",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「三時（　　）家に帰ります。」",
+        "options":  [
+                        "ごろ",
+                        "まで",
+                        "から",
+                        "ほど"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ごろ」は大まかな時間を表します。「三時ごろ」＝大约三点左右。",
+        "linked_grammar_id":  "N5_G_044"
+    },
+    {
+        "id":  "N5_Q_056",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「手を洗っ（　　）、食事をします。」",
+        "options":  [
+                        "てから",
+                        "てで",
+                        "てあと",
+                        "ていて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てから」は前の動作が終わった後に次の動作をすることを表します。",
+        "linked_grammar_id":  "N5_G_046"
+    },
+    {
+        "id":  "N5_Q_057",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本語が（　　）ますか。」（可能形）",
+        "options":  [
+                        "話せ",
+                        "話し",
+                        "話さ",
+                        "話"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「話す」の可能形は「話せる」です。「話せ＋ます」で「話せます」になります。",
+        "linked_grammar_id":  "N5_G_049"
+    },
+    {
+        "id":  "N5_Q_058",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「電気をつけた（　　）外出しました。」",
+        "options":  [
+                        "まま",
+                        "まで",
+                        "ので",
+                        "から"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～まま」はある状態を保ったまま次の動作をすることを表します。",
+        "linked_grammar_id":  "N5_G_050"
+    },
+    {
+        "id":  "N5_Q_059",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「このペンは書き（　　）です。」（書きやすい）",
+        "options":  [
+                        "やすい",
+                        "にくい",
+                        "すぎる",
+                        "やすく"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「書きやすい」は「書くのが簡単」という意味です。",
+        "linked_grammar_id":  "N5_G_035"
+    },
+    {
+        "id":  "N5_Q_060",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「この料理を食べ（　　）ください。」（試してみてほしい）",
+        "options":  [
+                        "てみて",
+                        "てみく",
+                        "たみて",
+                        "でみて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てみる」は動詞て形に「みる」を接続します。「食べてみてください」＝请尝一尝。",
+        "linked_grammar_id":  "N5_G_037"
+    },
+    {
+        "id":  "N5_Q_061",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「祖母」の読み方はどれですか？",
+        "options":  [
+                        "そふ",
+                        "そぼ",
+                        "おばあさん",
+                        "おかあさん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「祖母」はそぼと読みます。おばあさん（祖母/外祖母）の意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_062",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「毎日」の読み方はどれですか？",
+        "options":  [
+                        "まいにち",
+                        "まいび",
+                        "まいじつ",
+                        "まいかい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「毎日」はまいにちと読みます。毎（まい）+ 日（にち）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_063",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「明後日」の読み方はどれですか？",
+        "options":  [
+                        "あさって",
+                        "あしたて",
+                        "みょうごにち",
+                        "あとのひ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「明後日」はあさってと読みます。明日の次の日のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_064",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「忙しい」の意味はどれですか？",
+        "options":  [
+                        "暇な",
+                        "急いでいる",
+                        "疲れた",
+                        "悲しい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「忙しい（いそがしい）」はやることが多くて時間がないという意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_065",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「贈り物をもらいました」の「もらう」の意味はどれですか？",
+        "options":  [
+                        "渡す",
+                        "受け取る",
+                        "作る",
+                        "送る"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「もらう」は受け取る（收到）という意味です。「あげる」の反対語です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_066",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「娘」の読み方はどれですか？",
+        "options":  [
+                        "むすこ",
+                        "こども",
+                        "むすめ",
+                        "おとめ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「娘」はむすめと読みます。女の子の子供を指します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_067",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「週末」はいつのことですか？",
+        "options":  [
+                        "平日",
+                        "土曜日と日曜日",
+                        "月曜日と火曜日",
+                        "学校の休み"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「週末（しゅうまつ）」は土曜日と日曜日のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_068",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「レストラン」とはどんな場所ですか？",
+        "options":  [
+                        "買い物をする場所",
+                        "食事をする場所",
+                        "本を借りる場所",
+                        "映画を見る場所"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「レストラン」は食事をする場所（餐厅）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_069",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「楽しい」の反対語はどれですか？",
+        "options":  [
+                        "面白い",
+                        "つまらない",
+                        "嬉しい",
+                        "暇"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「楽しい」の反対語は「つまらない（无聊的）」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_070",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「探す」の意味はどれですか？",
+        "options":  [
+                        "見つける",
+                        "捨てる",
+                        "何かを見つけようとする",
+                        "持つ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「探す（さがす）」は何かを見つけようと調べることです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_071",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本語が上手に（　　）たいです。」",
+        "options":  [
+                        "なり",
+                        "なる",
+                        "なって",
+                        "なれ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～になる」は変化を表します。「上手になる」→「上手になり」＋「たい」。",
+        "linked_grammar_id":  "N5_G_041"
+    },
+    {
+        "id":  "N5_Q_072",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「昨日飲み（　　）ました。」（飲みすぎた）",
+        "options":  [
+                        "すぎ",
+                        "おおく",
+                        "たくさん",
+                        "すぎて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～すぎる」は程度が過ぎることを表します。「飲む」→「飲み」＋「すぎる」。",
+        "linked_grammar_id":  "N5_G_034"
+    },
+    {
+        "id":  "N5_Q_073",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「明日は雨（　　）です。」（伝聞）",
+        "options":  [
+                        "らしい",
+                        "ようです",
+                        "かもしれない",
+                        "はずだ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「らしい」は聞いた情報や客観的な証拠に基づく推測を表します。",
+        "linked_grammar_id":  "N5_G_048"
+    },
+    {
+        "id":  "N5_Q_074",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「毎日三十分（　　）日本語を勉強します。」",
+        "options":  [
+                        "ずつ",
+                        "から",
+                        "まで",
+                        "ほど"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ずつ」は均等に分配された量を表します。「三十分ずつ」＝每次三十分钟。",
+        "linked_grammar_id":  "N5_G_045"
+    },
+    {
+        "id":  "N5_Q_075",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「『さくら』（　　）言葉は桜と書きます。」",
+        "options":  [
+                        "という",
+                        "といって",
+                        "とした",
+                        "というの"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～という」は名前や名称を説明する時に使います。",
+        "linked_grammar_id":  "N5_G_047"
+    },
+    {
+        "id":  "N5_Q_076",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「机」の読み方はどれですか？",
+        "options":  [
+                        "いす",
+                        "つくえ",
+                        "たな",
+                        "ゆか"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「机」はつくえと読みます。勉強や仕事をする台のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_077",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「今月」の意味はどれですか？",
+        "options":  [
+                        "来月",
+                        "先月",
+                        "今の月",
+                        "毎月"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「今月（こんげつ）」は今の月、つまり現在の月のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_078",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「静か」の反対語はどれですか？",
+        "options":  [
+                        "便利",
+                        "賑やか",
+                        "大変",
+                        "特別"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「静か」の反対語は「賑やか（にぎやか）」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_079",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「仕事」の読み方はどれですか？",
+        "options":  [
+                        "しごと",
+                        "しこと",
+                        "じごと",
+                        "しけん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「仕事」はしごとと読みます。仕（し）+ 事（ごと）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_080",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「窓を開ける」の「開ける」はどんな動詞ですか？",
+        "options":  [
+                        "自動詞",
+                        "他動詞",
+                        "形容詞",
+                        "副詞"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「開ける（あける）」は目的語（窓を）をとる他動詞です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_081",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「この字は読み（　　）です。」（読むのが難しい）",
+        "options":  [
+                        "にくい",
+                        "やすい",
+                        "すぎる",
+                        "たい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～にくい」は動作がしにくいことを表します。「読みにくい」＝难以阅读。",
+        "linked_grammar_id":  "N5_G_036"
+    },
+    {
+        "id":  "N5_Q_082",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「服を着た（　　）寝てしまいました。」",
+        "options":  [
+                        "まま",
+                        "から",
+                        "ので",
+                        "ために"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～まま」は状態を保ったまま何かをすることを表します。",
+        "linked_grammar_id":  "N5_G_050"
+    },
+    {
+        "id":  "N5_Q_083",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「宿題をした後で、ゲームをします。」の代わりに「てから」を使うと？",
+        "options":  [
+                        "宿題をしてから、ゲームをします。",
+                        "宿題をしてたから、ゲームをします。",
+                        "宿題をしてのから、ゲームをします。",
+                        "宿題をしてにから、ゲームをします。"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てから」は「て形＋から」の形で時間的な順序を表します。",
+        "linked_grammar_id":  "N5_G_046"
+    },
+    {
+        "id":  "N5_Q_084",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「勉強」の読み方はどれですか？",
+        "options":  [
+                        "べんきょ",
+                        "べんきょう",
+                        "べんよう",
+                        "へんきょう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「勉強」はべんきょうと読みます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_085",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「来年」の意味はどれですか？",
+        "options":  [
+                        "今年",
+                        "去年",
+                        "来年（次の年）",
+                        "毎年"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「来年（らいねん）」は次の年、つまり来年のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_086",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「妻」の読み方はどれですか？",
+        "options":  [
+                        "かない",
+                        "おっと",
+                        "つま",
+                        "はは"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「妻」はつまと読みます。自分の奥さんのことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_087",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「授業」の読み方はどれですか？",
+        "options":  [
+                        "じゅぎょう",
+                        "じゅうぎょう",
+                        "じゅっぎょう",
+                        "じゅきょう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「授業」はじゅぎょうと読みます。授（じゅ）+ 業（ぎょう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_088",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「鍵」の意味はどれですか？",
+        "options":  [
+                        "かばん",
+                        "ドアを開閉するもの",
+                        "財布",
+                        "時計"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「鍵（かぎ）」はドアなどを開閉する道具です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_089",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「簡単」の反対語はどれですか？",
+        "options":  [
+                        "大変",
+                        "面白い",
+                        "難しい",
+                        "重い"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「簡単（かんたん）」の反対語は「難しい（むずかしい）」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_090",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「友達が遊び（　　）来ました。」（来た目的は遊ぶこと）",
+        "options":  [
+                        "に",
+                        "が",
+                        "で",
+                        "を"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～に来る」は来る目的を表します。「遊びに来る」＝来玩。",
+        "linked_grammar_id":  "N5_G_040"
+    },
+    {
+        "id":  "N5_Q_091",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "次の文の（　　）に入る言葉はどれですか？「毎日少し（　　）、上手になります。」",
+        "options":  [
+                        "ずつ練習すると",
+                        "で練習すると",
+                        "を練習すれば",
+                        "も練習すると"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ずつ」は毎回均等な量を表します。「少しずつ練習する」＝每次练习一点点。",
+        "linked_grammar_id":  "N5_G_045"
+    },
+    {
+        "id":  "N5_Q_092",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「果物」の読み方はどれですか？",
+        "options":  [
+                        "かもの",
+                        "くだもの",
+                        "はたもの",
+                        "くさもの"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「果物」はくだものと読みます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_093",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「習う」と「教える」の関係はどれですか？",
+        "options":  [
+                        "同じ意味",
+                        "反対の意味",
+                        "似た意味",
+                        "関係ない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「習う（ならう）」＝学習する、「教える（おしえる）」＝教える。反対の意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_094",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「体」の読み方はどれですか？",
+        "options":  [
+                        "からだ",
+                        "たいりょく",
+                        "からと",
+                        "てい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「体」はからだと読みます。人間の身体全体のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_095",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「時間」の読み方はどれですか？",
+        "options":  [
+                        "じかん",
+                        "ときかん",
+                        "じかい",
+                        "しかん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「時間」はじかんと読みます。時（じ）+ 間（かん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_096",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本語が（　　）ようになりました。」（以前はできなかったが今はできる）",
+        "options":  [
+                        "話せる",
+                        "話す",
+                        "話した",
+                        "話して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～ようになる」は能力の変化を表します。「話せるようになる」＝渐渐会说了。",
+        "linked_grammar_id":  "N5_G_027"
+    },
+    {
+        "id":  "N5_Q_097",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「お茶を飲み（　　）。」（相手を誘う礼儀正しい表現）",
+        "options":  [
+                        "ましょうか",
+                        "ませんか",
+                        "ましょう",
+                        "ますか"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「～ませんか」は相手を丁寧に誘う表現で、「～ましょう」より礼儀正しいです。",
+        "linked_grammar_id":  "N5_G_032"
+    },
+    {
+        "id":  "N5_Q_098",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「練習する」の意味はどれですか？",
+        "options":  [
+                        "始める",
+                        "繰り返して上手になること",
+                        "終わる",
+                        "休む"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「練習する（れんしゅうする）」は繰り返してスキルを上げることです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_099",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「座る」の反対語はどれですか？",
+        "options":  [
+                        "歩く",
+                        "走る",
+                        "立つ",
+                        "寝る"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「座る（すわる）」の反対語は「立つ（たつ）」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_100",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「週末は映画を（　　）音楽を聴いたりします。」",
+        "options":  [
+                        "見たり、",
+                        "見て、",
+                        "見ながら、",
+                        "見ると、"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～たり～たりする」はどちらも「動詞た形＋り」の形を使います。",
+        "linked_grammar_id":  "N5_G_033"
+    },
+    {
+        "id":  "N5_Q_101",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「春」の読み方はどれですか？",
+        "options":  [
+                        "はる",
+                        "なつ",
+                        "あき",
+                        "ふゆ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "春（はる）は春天的意思。夏（なつ）夏天、秋（あき）秋天、冬（ふゆ）冬天。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_102",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「遊ぶ」の意味はどれですか？",
+        "options":  [
+                        "玩耍",
+                        "工作",
+                        "学习",
+                        "睡觉"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "遊ぶ（あそぶ）是玩耍的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_103",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「頑張る」の意味はどれですか？",
+        "options":  [
+                        "放弃",
+                        "努力加油",
+                        "休息",
+                        "睡觉"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "頑張る（がんばる）是加油、努力的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_104",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「疲れる」の読み方はどれですか？",
+        "options":  [
+                        "つかれる",
+                        "たかれる",
+                        "なかれる",
+                        "きかれる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "疲れる（つかれる）是疲惫的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_105",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「掃除する」の意味はどれですか？",
+        "options":  [
+                        "洗衣服",
+                        "打扫卫生",
+                        "做饭",
+                        "购物"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "掃除する（そうじする）是打扫卫生的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_106",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「洗濯する」の意味はどれですか？",
+        "options":  [
+                        "洗脸",
+                        "洗衣服",
+                        "洗碗",
+                        "洗澡"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "洗濯する（せんたくする）是洗衣服的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_107",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「とても」に最もちかい意味の言葉はどれですか？",
+        "options":  [
+                        "あまり",
+                        "すごく",
+                        "たまに",
+                        "ちょっと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "とても和すごく意思相近，都是非常、很的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_108",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「いつも」の意味はどれですか？",
+        "options":  [
+                        "有时候",
+                        "偶尔",
+                        "总是",
+                        "从不"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "いつも是总是、经常的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_109",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「だんだん」の意味はどれですか？",
+        "options":  [
+                        "突然",
+                        "渐渐地",
+                        "马上",
+                        "不断地"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "だんだん是渐渐地的意思，表示逐渐变化。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_110",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「もちろん」の意味はどれですか？",
+        "options":  [
+                        "也许",
+                        "当然",
+                        "从不",
+                        "总是"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "もちろん是当然、理所当然的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_111",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「もう（　　）ましたか」に入る動詞の形はどれですか？",
+        "options":  [
+                        "食べ",
+                        "食べて",
+                        "食べた",
+                        "食べる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "もう～ましたか的结构中，动词用ます形的食べ＋ましたか。",
+        "linked_grammar_id":  "N5_G_069"
+    },
+    {
+        "id":  "N5_Q_112",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「まだ宿題を（　　）いません」に入る動詞の形はどれですか？",
+        "options":  [
+                        "して",
+                        "した",
+                        "する",
+                        "しない"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "まだ～ていません表示还没做完，用动词て形+いません，所以是してください的して形式。",
+        "linked_grammar_id":  "N5_G_070"
+    },
+    {
+        "id":  "N5_Q_113",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「バス（　　）学校に行きます」に入る助詞はどれですか？",
+        "options":  [
+                        "に",
+                        "で",
+                        "を",
+                        "が"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "で表示手段或方法，バスで坐公共汽车去。",
+        "linked_grammar_id":  "N5_G_058"
+    },
+    {
+        "id":  "N5_Q_114",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「友達（　　）映画を見ました」に入る助詞はどれですか？",
+        "options":  [
+                        "を",
+                        "に",
+                        "で",
+                        "と"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "と表示共同行为的对象，友達と和朋友一起。",
+        "linked_grammar_id":  "N5_G_060"
+    },
+    {
+        "id":  "N5_Q_115",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「窓が開け（　　）います」に入る形はどれですか？",
+        "options":  [
+                        "て",
+                        "てあって",
+                        "てあり",
+                        "てあって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "窓が開けてあります是窓が開けてある的礼貌形式，表示有人开着窗户，用てあります形式，答案应为てあり。注意：正确是「窓が開けてあります」即て形+あります。",
+        "linked_grammar_id":  "N5_G_064"
+    },
+    {
+        "id":  "N5_Q_116",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「音楽を聴き（　　）勉強します」に入る形はどれですか？",
+        "options":  [
+                        "ながら",
+                        "てから",
+                        "ので",
+                        "から"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ながら表示一边……一边……同时进行，音楽を聴きながら勉強します意思是一边听音乐一边学习。",
+        "linked_grammar_id":  "N5_G_079"
+    },
+    {
+        "id":  "N5_Q_117",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「雨が降っ（　　）、行きます」に入る形はどれですか？",
+        "options":  [
+                        "ても",
+                        "たら",
+                        "から",
+                        "ので"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ても表示即使……也……，雨が降っても即使下雨也要去。",
+        "linked_grammar_id":  "N5_G_076"
+    },
+    {
+        "id":  "N5_Q_118",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「五時（　　）に帰ってください」に入る助詞はどれですか？",
+        "options":  [
+                        "で",
+                        "まで",
+                        "までに",
+                        "ごろ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "までに表示截止时间，在……之前。五時までに在五点之前。",
+        "linked_grammar_id":  "N5_G_073"
+    },
+    {
+        "id":  "N5_Q_119",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「百円（　　）ありません」に入る助詞はどれですか？",
+        "options":  [
+                        "だけ",
+                        "しか",
+                        "まで",
+                        "ほど"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "しか与否定搭配，表示只有这点（含不满语气），百円しかありません只有100日元（不够用）。",
+        "linked_grammar_id":  "N5_G_075"
+    },
+    {
+        "id":  "N5_Q_120",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「少し考え（　　）ください」に入る形はどれですか？",
+        "options":  [
+                        "させて",
+                        "てもらって",
+                        "てくれて",
+                        "もらって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "させてください请让我……，少し考えさせてください请让我想一想。",
+        "linked_grammar_id":  "N5_G_080"
+    },
+    {
+        "id":  "N5_Q_121",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「犬」の読み方はどれですか？",
+        "options":  [
+                        "いぬ",
+                        "ねこ",
+                        "とり",
+                        "うさぎ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "犬（いぬ）是狗的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_122",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「美味しい」の読み方はどれですか？",
+        "options":  [
+                        "まずい",
+                        "おいしい",
+                        "きれい",
+                        "かわいい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "美味しい（おいしい）是好吃的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_123",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「危ない」の意味はどれですか？",
+        "options":  [
+                        "安全",
+                        "危险",
+                        "美丽",
+                        "快乐"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "危ない（あぶない）是危险的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_124",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「写真」の読み方はどれですか？",
+        "options":  [
+                        "さしん",
+                        "しゃしん",
+                        "しゃじん",
+                        "さじん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "写真（しゃしん）是照片的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_125",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「旅行」の読み方はどれですか？",
+        "options":  [
+                        "りょうこう",
+                        "りょこう",
+                        "りこう",
+                        "りょかん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "旅行（りょこう）是旅行的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_126",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「練習」の読み方はどれですか？",
+        "options":  [
+                        "れんしゅう",
+                        "れんしゅ",
+                        "れんしゅく",
+                        "れいしゅう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "練習（れんしゅう）是练习的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_127",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「予約」の意味はどれですか？",
+        "options":  [
+                        "预定",
+                        "约会",
+                        "预算",
+                        "约束"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "予約（よやく）是预约、预订的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_128",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「合格」の意味はどれですか？",
+        "options":  [
+                        "失败",
+                        "合格通过",
+                        "放弃",
+                        "结束"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "合格（ごうかく）是合格、通过的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_129",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「気持ち」の意味はどれですか？",
+        "options":  [
+                        "气候",
+                        "心情感受",
+                        "身体",
+                        "想法"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "気持ち（きもち）是心情、感受的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_130",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「夢」の読み方はどれですか？",
+        "options":  [
+                        "ゆめ",
+                        "めざめ",
+                        "ひとみ",
+                        "きもち"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "夢（ゆめ）是梦、梦想的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_131",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「テーブルの上に本（　　）あります」に入る助詞はどれですか？",
+        "options":  [
+                        "が",
+                        "は",
+                        "を",
+                        "に"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "あります前面用が，本がある表示书存在。",
+        "linked_grammar_id":  "N5_G_056"
+    },
+    {
+        "id":  "N5_Q_132",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本（　　）行きたいです」に入る助詞はどれですか？",
+        "options":  [
+                        "を",
+                        "へ",
+                        "で",
+                        "が"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "へ表示方向，日本へ行く前往日本。也可以用に。",
+        "linked_grammar_id":  "N5_G_059"
+    },
+    {
+        "id":  "N5_Q_133",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「りんご（　　）みかんがあります」に入る助詞はどれですか？",
+        "options":  [
+                        "と",
+                        "や",
+                        "で",
+                        "も"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "や表示部分列举，りんごやみかん苹果啦橘子啦（不完全列举）。",
+        "linked_grammar_id":  "N5_G_061"
+    },
+    {
+        "id":  "N5_Q_134",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「彼が来る（　　）、分かりません」に入る表現はどれですか？",
+        "options":  [
+                        "かどうか",
+                        "かな",
+                        "でしょうか",
+                        "らしい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "かどうか表示是否……，彼が来るかどうか不知道他是否会来。",
+        "linked_grammar_id":  "N5_G_054"
+    },
+    {
+        "id":  "N5_Q_135",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「先生に説明して（　　）」に入る形はどれですか？",
+        "options":  [
+                        "もらいました",
+                        "あげました",
+                        "くれました",
+                        "おきました"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "てもらう表示我请别人做某事，先生に説明してもらいました请老师给我解释了。",
+        "linked_grammar_id":  "N5_G_066"
+    },
+    {
+        "id":  "N5_Q_136",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "次の中で「季節」ではないものはどれですか？",
+        "options":  [
+                        "春",
+                        "夏",
+                        "風",
+                        "冬"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "風（かぜ）是风，不是季节。春夏冬都是季节。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_137",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「切符」の読み方はどれですか？",
+        "options":  [
+                        "きふ",
+                        "きっぷ",
+                        "せつふ",
+                        "きっふ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "切符（きっぷ）是票、车票的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_138",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「交差点」の意味はどれですか？",
+        "options":  [
+                        "公园",
+                        "十字路口",
+                        "车站",
+                        "停车场"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "交差点（こうさてん）是十字路口的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_139",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「案内」の読み方はどれですか？",
+        "options":  [
+                        "あんない",
+                        "あんり",
+                        "かんない",
+                        "あんか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "案内（あんない）是引导、指引的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_140",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「頑張った（　　）、失敗しました」に入る接続はどれですか？",
+        "options":  [
+                        "ので",
+                        "から",
+                        "のに",
+                        "ても"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "のに表示逆接，明明……却……，头張ったのに失敗した明明努力了却失败了。",
+        "linked_grammar_id":  "N5_G_078"
+    },
+    {
+        "id":  "N5_Q_141",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「信じる」の意味はどれですか？",
+        "options":  [
+                        "怀疑",
+                        "相信",
+                        "忘记",
+                        "后悔"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "信じる（しんじる）是相信的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_142",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「驚く」の読み方はどれですか？",
+        "options":  [
+                        "おどろく",
+                        "かなしく",
+                        "よろこく",
+                        "おこる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "驚く（おどろく）是吃惊的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_143",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「笑う」の反対語はどれですか？",
+        "options":  [
+                        "踊る",
+                        "歌う",
+                        "泣く",
+                        "走る"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "笑う（わらう）笑，反义词是泣く（なく）哭。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_144",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「引っ越す」の意味はどれですか？",
+        "options":  [
+                        "出门",
+                        "搬家",
+                        "出发",
+                        "归来"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "引っ越す（ひっこす）是搬家的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_145",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「渡る」の意味はどれですか？",
+        "options":  [
+                        "停止",
+                        "转弯",
+                        "穿越跨越",
+                        "出发"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "渡る（わたる）是穿越的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_146",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「止まる」の意味はどれですか？",
+        "options":  [
+                        "出发",
+                        "停止",
+                        "转弯",
+                        "加速"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "止まる（とまる）是停止的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_147",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「乗り換える」の意味はどれですか？",
+        "options":  [
+                        "下车",
+                        "上车",
+                        "换乘",
+                        "开车"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "乗り換える（のりかえる）是换乘的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_148",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「出発」の読み方はどれですか？",
+        "options":  [
+                        "しゅっぱつ",
+                        "しゅつぱつ",
+                        "しゅっぱたつ",
+                        "しゅつぱたつ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "出発（しゅっぱつ）是出发的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_149",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「到着」の読み方はどれですか？",
+        "options":  [
+                        "とうちゃく",
+                        "とうちゃ",
+                        "とちゃく",
+                        "とうちゃか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "到着（とうちゃく）是到达的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_150",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「感謝」の意味はどれですか？",
+        "options":  [
+                        "道歉",
+                        "感谢",
+                        "同情",
+                        "感動"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "感謝（かんしゃ）是感谢的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_151",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「荷物を持って（　　）ましょうか」に入る形はどれですか？",
+        "options":  [
+                        "あげ",
+                        "もらい",
+                        "くれ",
+                        "ほしい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "てあげる表示我为别人做某事，荷物を持ってあげましょうか我来帮你拿行李吧。",
+        "linked_grammar_id":  "N5_G_065"
+    },
+    {
+        "id":  "N5_Q_152",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「父が本を買って（　　）」に入る形はどれですか？",
+        "options":  [
+                        "あげました",
+                        "もらいました",
+                        "くれました",
+                        "ほしいです"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "てくれる表示别人自发为我做某事，父が本を買ってくれた爸爸给我买了书。",
+        "linked_grammar_id":  "N5_G_067"
+    },
+    {
+        "id":  "N5_Q_153",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「もっとゆっくり話して（　　）です」に入る形はどれですか？",
+        "options":  [
+                        "あげたい",
+                        "もらいたい",
+                        "くれたい",
+                        "ほしい"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "てほしい表示希望别人做某事，話してほしい希望你说得慢一点。",
+        "linked_grammar_id":  "N5_G_068"
+    },
+    {
+        "id":  "N5_Q_154",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「早く起きれ（　　）、間に合います」に入る形はどれですか？",
+        "options":  [
+                        "ば",
+                        "たら",
+                        "ても",
+                        "ので"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ば表示假设条件，早く起きれば如果早点起床。",
+        "linked_grammar_id":  "N5_G_055"
+    },
+    {
+        "id":  "N5_Q_155",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「一日（　　）テレビを見ていました」に入る語はどれですか？",
+        "options":  [
+                        "ころ",
+                        "ごろ",
+                        "中（じゅう）",
+                        "後"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "一日中（いちにちじゅう）表示整天。",
+        "linked_grammar_id":  "N5_G_072"
+    },
+    {
+        "id":  "N5_Q_156",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「甘い」の反対語はどれですか？",
+        "options":  [
+                        "辛い",
+                        "美味しい",
+                        "まずい",
+                        "酸っぱい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "甘い（あまい）甜的，反义词是辛い（からい）辣的。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_157",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「痛い」の意味はどれですか？",
+        "options":  [
+                        "痒的",
+                        "疼痛",
+                        "冷的",
+                        "热的"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "痛い（いたい）是疼痛的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_158",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「眠い」の意味はどれですか？",
+        "options":  [
+                        "困的想睡",
+                        "疲惫",
+                        "头痛",
+                        "发烧"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "眠い（ねむい）是困的想睡觉的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_159",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「色」の読み方はどれですか？",
+        "options":  [
+                        "おと",
+                        "かたち",
+                        "いろ",
+                        "におい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "色（いろ）是颜色的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_160",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「習慣」の意味はどれですか？",
+        "options":  [
+                        "爱好",
+                        "习惯",
+                        "规则",
+                        "经验"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "習慣（しゅうかん）是习惯的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_161",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「文化」の読み方はどれですか？",
+        "options":  [
+                        "ぶんか",
+                        "ぶんけ",
+                        "もんか",
+                        "もんけ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "文化（ぶんか）是文化的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_162",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「努力」の意味はどれですか？",
+        "options":  [
+                        "失败",
+                        "成功",
+                        "努力",
+                        "放弃"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "努力（どりょく）是努力的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_163",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「目標」の読み方はどれですか？",
+        "options":  [
+                        "もくひょう",
+                        "もくひょ",
+                        "めひょう",
+                        "めひょ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "目標（もくひょう）是目标的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_164",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「初めて」の意味はどれですか？",
+        "options":  [
+                        "第一次",
+                        "最后一次",
+                        "再次",
+                        "偶尔"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "初めて（はじめて）是第一次的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_165",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「最初」の読み方はどれですか？",
+        "options":  [
+                        "さいご",
+                        "さいしょ",
+                        "さいはつ",
+                        "さいきん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "最初（さいしょ）是最初、一开始的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_166",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「最後」の読み方はどれですか？",
+        "options":  [
+                        "さいしょ",
+                        "さいきん",
+                        "さいご",
+                        "さいのう"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "最後（さいご）是最后的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_167",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「次」の読み方はどれですか？",
+        "options":  [
+                        "まえ",
+                        "つぎ",
+                        "よこ",
+                        "うしろ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "次（つぎ）是下一个、下次的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_168",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「橋」の読み方はどれですか？",
+        "options":  [
+                        "みち",
+                        "はし",
+                        "いけ",
+                        "もり"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "橋（はし）是桥的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_169",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「空気」の意味はどれですか？",
+        "options":  [
+                        "天气",
+                        "空气",
+                        "风",
+                        "云"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "空気（くうき）是空气的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_170",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「声」の読み方はどれですか？",
+        "options":  [
+                        "おと",
+                        "かぜ",
+                        "こえ",
+                        "ひかり"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "声（こえ）是声音（人的声音）的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_171",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「コーヒー（　　）紅茶はいかがですか」に入る助詞はどれですか？",
+        "options":  [
+                        "と",
+                        "や",
+                        "か",
+                        "も"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "か表示选择，コーヒーか紅茶咖啡或者红茶（二选一）。",
+        "linked_grammar_id":  "N5_G_062"
+    },
+    {
+        "id":  "N5_Q_172",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「いい天気です（　　）」に入る終助詞はどれですか？",
+        "options":  [
+                        "か",
+                        "ね",
+                        "よ",
+                        "な"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ね表示共感确认，いい天気ですね天气真好对吧。",
+        "linked_grammar_id":  "N5_G_063"
+    },
+    {
+        "id":  "N5_Q_173",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「この店は美味しいです（　　）」に入る終助詞はどれですか？",
+        "options":  [
+                        "か",
+                        "ね",
+                        "よ",
+                        "な"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "よ表示告知对方信息，この店は美味しいですよ这家店很好吃哦（你要知道）。",
+        "linked_grammar_id":  "N5_G_063"
+    },
+    {
+        "id":  "N5_Q_174",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「紙を三（　　）ください」に入る助数詞はどれですか？",
+        "options":  [
+                        "本",
+                        "冊",
+                        "枚",
+                        "台"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "枚（まい）用于薄平的物品，如纸张、布料、票等。",
+        "linked_grammar_id":  "N5_G_051"
+    },
+    {
+        "id":  "N5_Q_175",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「本を二（　　）借りました」に入る助数詞はどれですか？",
+        "options":  [
+                        "枚",
+                        "冊",
+                        "本",
+                        "台"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "冊（さつ）用于书册、杂志等，二冊两本。",
+        "linked_grammar_id":  "N5_G_051"
+    },
+    {
+        "id":  "N5_Q_176",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「三（　　）の問題が難しいです」に入る表現はどれですか？",
+        "options":  [
+                        "番",
+                        "番号",
+                        "番目",
+                        "番台"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "番目（ばんめ）是序数词，三番目第三。",
+        "linked_grammar_id":  "N5_G_052"
+    },
+    {
+        "id":  "N5_Q_177",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「二（　　）待ちました」に入る表現はどれですか？",
+        "options":  [
+                        "時",
+                        "時間",
+                        "分",
+                        "秒"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "時間（じかん）表示时间长度，二時間两个小时。",
+        "linked_grammar_id":  "N5_G_053"
+    },
+    {
+        "id":  "N5_Q_178",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「思った（　　）難しくなかったです」に入る語はどれですか？",
+        "options":  [
+                        "ので",
+                        "から",
+                        "ほど",
+                        "くらい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "ほど表示程度，思ったほど難しくない没有想象的那么难。",
+        "linked_grammar_id":  "N5_G_077"
+    },
+    {
+        "id":  "N5_Q_179",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「お土産」の読み方はどれですか？",
+        "options":  [
+                        "おみやげ",
+                        "おみやけ",
+                        "おとしやり",
+                        "おかえし"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "お土産（おみやげ）是土产、纪念品的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_180",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「準備」の読み方はどれですか？",
+        "options":  [
+                        "じゅんび",
+                        "じゅんぴ",
+                        "しゅんび",
+                        "じゅんい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "準備（じゅんび）是准备的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_181",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「卒業する」の意味はどれですか？",
+        "options":  [
+                        "入学",
+                        "毕业",
+                        "退学",
+                        "转学"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "卒業する（そつぎょうする）是毕业的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_182",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「結婚する」の意味はどれですか？",
+        "options":  [
+                        "分手",
+                        "约会",
+                        "恋爱",
+                        "结婚"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "結婚する（けっこんする）是结婚的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_183",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「経験」の意味はどれですか？",
+        "options":  [
+                        "经验体验",
+                        "理论",
+                        "想象",
+                        "计划"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "経験（けいけん）是经验、体验的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_184",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「成功」の反対語はどれですか？",
+        "options":  [
+                        "努力",
+                        "失敗",
+                        "目標",
+                        "経験"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "成功（せいこう）的反义词是失敗（しっぱい）失败。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_185",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「緑」の読み方はどれですか？",
+        "options":  [
+                        "あお",
+                        "みどり",
+                        "むらさき",
+                        "はいいろ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "緑（みどり）是绿色的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_186",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「丸い」の意味はどれですか？",
+        "options":  [
+                        "方形的",
+                        "三角形的",
+                        "圆的",
+                        "长的"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "丸い（まるい）是圆的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_187",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「隣」の読み方はどれですか？",
+        "options":  [
+                        "よこ",
+                        "うしろ",
+                        "となり",
+                        "まえ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "隣（となり）是隔壁、旁边的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_188",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「問題」の意味はどれですか？",
+        "options":  [
+                        "问题",
+                        "答案",
+                        "方法",
+                        "理由"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "問題（もんだい）是问题的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_189",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「答え」の読み方はどれですか？",
+        "options":  [
+                        "こたえ",
+                        "こたい",
+                        "おこない",
+                        "おたえ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "答え（こたえ）是答案的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_190",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「数字」の読み方はどれですか？",
+        "options":  [
+                        "かずじ",
+                        "すうじ",
+                        "すうもじ",
+                        "かずもじ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "数字（すうじ）是数字的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_191",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「百円（　　）ありません」の（　　）に入る表現を選びなさい。",
+        "options":  [
+                        "だけ",
+                        "しか",
+                        "ほど",
+                        "くらい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "しか与否定搭配，百円しかない只有100日元（含不满语气）。",
+        "linked_grammar_id":  "N5_G_075"
+    },
+    {
+        "id":  "N5_Q_192",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「一つ（　　）ください」の（　　）に入る表現はどれですか？",
+        "options":  [
+                        "だけ",
+                        "しか",
+                        "ほど",
+                        "ぐらい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "だけ表示限定，一つだけ只要一个，没有含不满的语气。",
+        "linked_grammar_id":  "N5_G_074"
+    },
+    {
+        "id":  "N5_Q_193",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「来てほしかった」の意味はどれですか？",
+        "options":  [
+                        "希望他来了",
+                        "他来了",
+                        "我去了",
+                        "我希望他来"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "てほしかった是てほしい的过去式，表示过去希望别人做某事。",
+        "linked_grammar_id":  "N5_G_068"
+    },
+    {
+        "id":  "N5_Q_194",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「大丈夫」の意味はどれですか？",
+        "options":  [
+                        "危险",
+                        "没问题",
+                        "困难",
+                        "疲惫"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "大丈夫（だいじょうぶ）是没问题的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_195",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「嬉しい」の意味はどれですか？",
+        "options":  [
+                        "悲伤",
+                        "愤怒",
+                        "高兴喜悦",
+                        "害怕"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "嬉しい（うれしい）是高兴、喜悦的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_196",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「怖い」の意味はどれですか？",
+        "options":  [
+                        "有趣的",
+                        "快乐的",
+                        "可怕的",
+                        "美丽的"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "怖い（こわい）是可怕的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_197",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「転ぶ」の意味はどれですか？",
+        "options":  [
+                        "跑步",
+                        "跌倒",
+                        "转弯",
+                        "跳跃"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "転ぶ（ころぶ）是跌倒的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_198",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「拾う」の反対語はどれですか？",
+        "options":  [
+                        "持つ",
+                        "落とす",
+                        "投げる",
+                        "受ける"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "拾う（ひろう）捡起，反义词是落とす（おとす）弄落、丢失。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_199",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「急ぐ」の意味はどれですか？",
+        "options":  [
+                        "慢走",
+                        "停下",
+                        "赶紧急忙",
+                        "休息"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "急ぐ（いそぐ）是赶紧、急忙的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_200",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「よろしくお願いします」の意味はどれですか？",
+        "options":  [
+                        "对不起",
+                        "谢谢",
+                        "请多关照",
+                        "再见"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "よろしくお願いします是请多关照、拜托了的意思，常在初次见面或请托时说。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_201",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「いただきます」はどんな時に言いますか？",
+        "options":  [
+                        "初次见面时",
+                        "吃饭前",
+                        "道别时",
+                        "道谢时"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "いただきます是日本吃饭前的问候语，表示感谢食物。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_202",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ただいま」の返事はどれですか？",
+        "options":  [
+                        "いってらっしゃい",
+                        "おかえり",
+                        "おやすみなさい",
+                        "ありがとう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ただいま我回来了，对应的回答是おかえり欢迎回来。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_203",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「はじめまして」の後に続く言葉はどれですか？",
+        "options":  [
+                        "おやすみなさい",
+                        "どういたしまして",
+                        "よろしくお願いします",
+                        "ごちそうさまでした"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "はじめまして初次见面，之后通常接よろしくお願いします请多关照。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_204",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「いってきます」に対する返事はどれですか？",
+        "options":  [
+                        "ただいま",
+                        "おかえり",
+                        "いってらっしゃい",
+                        "おやすみなさい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "いってきます我出发了，对应回答是いってらっしゃい慢走。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_205",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「どういたしまして」はどんな時に言いますか？",
+        "options":  [
+                        "道歉时",
+                        "被感谢时回应",
+                        "初次见面时",
+                        "道别时"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "どういたしまして是不客气，在被人道谢后回应。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_206",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「予定」の読み方はどれですか？",
+        "options":  [
+                        "よてい",
+                        "よたい",
+                        "よていする",
+                        "ようてい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "予定（よてい）是计划、预定的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_207",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「試験」の読み方はどれですか？",
+        "options":  [
+                        "しけん",
+                        "しかん",
+                        "じけん",
+                        "しいけん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "試験（しけん）是考试的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_208",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「質問」の読み方はどれですか？",
+        "options":  [
+                        "しつもん",
+                        "しいもん",
+                        "しつかん",
+                        "しつこん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "質問（しつもん）是问题、提问的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_209",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「住所」の読み方はどれですか？",
+        "options":  [
+                        "すみしょ",
+                        "じゅうしょ",
+                        "じゅうじょ",
+                        "すみじょ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "住所（じゅうしょ）是住址的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_210",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「名前」の読み方はどれですか？",
+        "options":  [
+                        "なまえ",
+                        "めいまえ",
+                        "めいぜん",
+                        "なもの"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "名前（なまえ）是名字的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_211",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "次の文の（　　）に入る助詞はどれですか？「先生（　　）説明してもらいました」",
+        "options":  [
+                        "に",
+                        "が",
+                        "を",
+                        "で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "もらう前的动作施予者用に，先生に説明してもらう请老师给我解释。",
+        "linked_grammar_id":  "N5_G_066"
+    },
+    {
+        "id":  "N5_Q_212",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「窓が開け（　　）います」の正しい形はどれですか？",
+        "options":  [
+                        "ており",
+                        "てあり",
+                        "ておき",
+                        "てしまい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "てあります表示人为地保持某状态，窓が開けてあります窗户被人开着。",
+        "linked_grammar_id":  "N5_G_064"
+    },
+    {
+        "id":  "N5_Q_213",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「自己紹介（　　）ください」の正しい形はどれですか？",
+        "options":  [
+                        "させて",
+                        "してもらって",
+                        "してくれて",
+                        "してあげて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "させてください请让我做某事，自己紹介させてください请允许我自我介绍。",
+        "linked_grammar_id":  "N5_G_080"
+    },
+    {
+        "id":  "N5_Q_214",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本（　　）文化に興味があります」に入る助詞はどれですか？",
+        "options":  [
+                        "の",
+                        "が",
+                        "で",
+                        "を"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "の是修饰语助词，日本の文化日本的文化。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_215",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「強い」の反対語はどれですか？",
+        "options":  [
+                        "大きい",
+                        "遅い",
+                        "弱い",
+                        "少ない"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "強い（つよい）强，反义词是弱い（よわい）弱。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_216",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「正しい」の意味はどれですか？",
+        "options":  [
+                        "错误的",
+                        "难的",
+                        "正确的",
+                        "容易的"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "正しい（ただしい）是正确的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_217",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「安全」の反対語はどれですか？",
+        "options":  [
+                        "危険",
+                        "正しい",
+                        "大切",
+                        "不思議"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "安全（あんぜん）的反义词是危険（きけん）危险。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_218",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ゆっくり」の意味はどれですか？",
+        "options":  [
+                        "快速地",
+                        "慢慢地从容地",
+                        "马上",
+                        "突然"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ゆっくり是慢慢地、从容地的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_219",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「すぐ」の意味はどれですか？",
+        "options":  [
+                        "过一会儿",
+                        "明天",
+                        "马上立刻",
+                        "偶尔"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "すぐ是马上、立刻的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_220",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「実は」の意味はどれですか？",
+        "options":  [
+                        "其实说实话",
+                        "终于",
+                        "结果",
+                        "当然"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "実は（じつは）是其实、说实话的意思，表示要透露真相。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_221",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「もう」の意味はどれですか？",
+        "options":  [
+                        "还没",
+                        "已经",
+                        "也许",
+                        "总是"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "もう是已经的意思。もう食べましたか已经吃了吗？",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_222",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「まだ」の意味はどれですか？",
+        "options":  [
+                        "已经",
+                        "还仍然",
+                        "终于",
+                        "只有"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "まだ是还、仍然的意思，表示状态未发生变化。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_223",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「そろそろ」の意味はどれですか？",
+        "options":  [
+                        "马上立刻",
+                        "突然",
+                        "该……了差不多",
+                        "经常"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "そろそろ是该……了、差不多的意思，表示时机快到了。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_224",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「たぶん」の意味はどれですか？",
+        "options":  [
+                        "一定",
+                        "绝对",
+                        "大概也许",
+                        "当然"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "たぶん是大概、也许的意思，表示不确定的推测。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_225",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「きっと」の意味はどれですか？",
+        "options":  [
+                        "也许",
+                        "一定肯定（主观）",
+                        "大概",
+                        "只是"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "きっと是一定、肯定的意思，表示说话者主观上的确信。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_226",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「絶対」の意味はどれですか？",
+        "options":  [
+                        "也许",
+                        "大概",
+                        "绝对一定",
+                        "偶尔"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "絶対（ぜったい）是绝对、一定的意思，语气比きっと更强。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_227",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「本当に」の意味はどれですか？",
+        "options":  [
+                        "也许",
+                        "大概",
+                        "稍微",
+                        "真的确实"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "本当に（ほんとうに）是真的、确实的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_228",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "次の中で「副詞」ではないものはどれですか？",
+        "options":  [
+                        "よく",
+                        "いつも",
+                        "時々",
+                        "速さ"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "速さ（はやさ）是速度，是名詞。よく、いつも、時々都是副詞。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_229",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ちゃんと」の意味はどれですか？",
+        "options":  [
+                        "马上",
+                        "好好地认真地",
+                        "偶尔",
+                        "也许"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ちゃんと是好好地、认真地的意思。ちゃんとやりましたか认真做了吗？",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_230",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「だいたい」の意味はどれですか？",
+        "options":  [
+                        "大约大致",
+                        "完全",
+                        "很少",
+                        "总是"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "だいたい是大约、大致的意思。だいたい一時間大约一个小时。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_231",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ボール」の意味はどれですか？",
+        "options":  [
+                        "棒子",
+                        "圆球",
+                        "桌子",
+                        "椅子"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ボール是ball，球的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_232",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「アプリ」の意味はどれですか？",
+        "options":  [
+                        "苹果",
+                        "电脑",
+                        "应用程序",
+                        "电话"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "アプリ是application（应用程序）的简称。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_233",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「パソコン」の意味はどれですか？",
+        "options":  [
+                        "手机",
+                        "平板电脑",
+                        "个人电脑",
+                        "打印机"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "パソコン是personal computer（个人电脑）的缩写。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_234",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「テーブル」の意味はどれですか？",
+        "options":  [
+                        "椅子",
+                        "沙发",
+                        "桌子（西式）",
+                        "窗帘"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "テーブルは英語のtable，西式桌子。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_235",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ソファ」の意味はどれですか？",
+        "options":  [
+                        "桌子",
+                        "椅子",
+                        "沙发",
+                        "床"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "ソファは英語のsofa，沙发。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_236",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「カーテン」の意味はどれですか？",
+        "options":  [
+                        "窗户",
+                        "窗帘",
+                        "玻璃",
+                        "门"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "カーテンは英語のcurtain，窗帘。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_237",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「スマホ」は何の略語ですか？",
+        "options":  [
+                        "スーパーホーム",
+                        "スマートフォン",
+                        "スペシャルモード",
+                        "スペシャルホーム"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "スマホはスマートフォン（smartphone）的缩略语。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_238",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ゲーム」の意味はどれですか？",
+        "options":  [
+                        "工作",
+                        "游戏",
+                        "学习",
+                        "运动"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ゲームは英語のgame，游戏。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_239",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「インターネット」の意味はどれですか？",
+        "options":  [
+                        "手机",
+                        "电脑",
+                        "互联网",
+                        "打印机"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "インターネットはinternet，互联网。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_240",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「メール」の意味はどれですか？",
+        "options":  [
+                        "邮件",
+                        "电话",
+                        "传真",
+                        "书信"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "メールはemail，邮件（电子邮件）。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_241",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「犬」と「猫」の総称はどれですか？",
+        "options":  [
+                        "野生動物",
+                        "ペット",
+                        "鳥類",
+                        "哺乳類"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "犬と猫はよくペット（宠物）として飼われます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_242",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「鳥」の読み方はどれですか？",
+        "options":  [
+                        "とり",
+                        "さかな",
+                        "むし",
+                        "けもの"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "鳥（とり）は鸟的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_243",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「馬」の読み方はどれですか？",
+        "options":  [
+                        "うし",
+                        "ひつじ",
+                        "うま",
+                        "いぬ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "馬（うま）是马的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_244",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「山」の読み方はどれですか？",
+        "options":  [
+                        "かわ",
+                        "うみ",
+                        "やま",
+                        "もり"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "山（やま）是山的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_245",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「川」の読み方はどれですか？",
+        "options":  [
+                        "うみ",
+                        "やま",
+                        "いけ",
+                        "かわ"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "川（かわ）是河、河流的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_246",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「森」の読み方はどれですか？",
+        "options":  [
+                        "はやし",
+                        "もり",
+                        "やぶ",
+                        "にわ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "森（もり）是森林的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_247",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「光」の読み方はどれですか？",
+        "options":  [
+                        "かぜ",
+                        "ひかり",
+                        "おと",
+                        "においれ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "光（ひかり）是光的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_248",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「味」の読み方はどれですか？",
+        "options":  [
+                        "いろ",
+                        "かたち",
+                        "あじ",
+                        "においれ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "味（あじ）是味道的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_249",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「匂い」の意味はどれですか？",
+        "options":  [
+                        "颜色",
+                        "形状",
+                        "气味",
+                        "声音"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "匂い（におい）是气味的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_250",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「信号」の意味はどれですか？",
+        "options":  [
+                        "方向",
+                        "信号灯交通灯",
+                        "地图",
+                        "标志"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "信号（しんごう）是信号灯、交通灯的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_251",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "次の文を完成させなさい：「電車で一（　　）かかります」",
+        "options":  [
+                        "時",
+                        "時間",
+                        "時ごろ",
+                        "時頃"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "時間（じかん）表示时间长度，一時間一个小时。時（じ）表示时刻。",
+        "linked_grammar_id":  "N5_G_053"
+    },
+    {
+        "id":  "N5_Q_252",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「早く起きれ（　　）、電車に乗れます」の正しい文はどれですか？",
+        "options":  [
+                        "ば",
+                        "たら",
+                        "から",
+                        "ので"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ば表示假设条件，早く起きれば如果早点起床就能赶上电车。",
+        "linked_grammar_id":  "N5_G_055"
+    },
+    {
+        "id":  "N5_Q_253",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「どんな（　　）が好きですか？」に入る品詞はどれですか？",
+        "options":  [
+                        "副詞",
+                        "助詞",
+                        "名詞",
+                        "助動詞"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "どんな修饰名词，どんな食べ物、どんな人等，后接名词。",
+        "linked_grammar_id":  "N5_G_071"
+    },
+    {
+        "id":  "N5_Q_254",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「言葉」の読み方はどれですか？",
+        "options":  [
+                        "ことば",
+                        "ことば",
+                        "げんご",
+                        "もじ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "言葉（ことば）是语言、词汇的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_255",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「紙」の読み方はどれですか？",
+        "options":  [
+                        "かみ",
+                        "もの",
+                        "ふで",
+                        "きれ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "紙（かみ）是纸的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_256",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「番号」の読み方はどれですか？",
+        "options":  [
+                        "ばんごう",
+                        "ばんこう",
+                        "はんごう",
+                        "ばんご"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "番号（ばんごう）是号码的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_257",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「地図」の読み方はどれですか？",
+        "options":  [
+                        "ちと",
+                        "ちず",
+                        "じと",
+                        "じず"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "地図（ちず）是地图的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_258",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「橋」と「池」の共通点はどれですか？",
+        "options":  [
+                        "都在家里",
+                        "都和水有关",
+                        "都是交通工具",
+                        "都是食物"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "橋（はし）是桥，架在水上；池（いけ）是池塘，都和水有关。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_259",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「曲がる」の意味はどれですか？",
+        "options":  [
+                        "停止",
+                        "直行",
+                        "转弯",
+                        "加速"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "曲がる（まがる）是转弯的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_260",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「窓口」の意味はどれですか？",
+        "options":  [
+                        "服务窗口",
+                        "窗户",
+                        "出口",
+                        "入口"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "窓口（まどぐち）是服务窗口的意思，如车站、银行的窗口。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_261",
+        "level":  "N5",
+        "type":  "listening",
+        "question_text":  "「ごちそうさまでした」はどんな時に言いますか？",
+        "options":  [
+                        "吃饭前",
+                        "吃饭后",
+                        "初次见面",
+                        "道别"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ごちそうさまでした是吃饭后说的，表示感谢款待，意思是我吃好了谢谢。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_262",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「描写：体や心の具合が悪いこと」はどれですか？",
+        "options":  [
+                        "疲れる",
+                        "病気",
+                        "眠い",
+                        "元気"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "身体や心の具合が悪いことを病気（びょうき）といいます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_263",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「寒い」の反対語はどれですか？",
+        "options":  [
+                        "涼しい",
+                        "熱い",
+                        "暑い",
+                        "温かい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "寒い（さむい）寒冷，反义词是暑い（あつい）炎热（形容天气）。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_264",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「明るい」の反対語はどれですか？",
+        "options":  [
+                        "静かな",
+                        "暗い",
+                        "小さい",
+                        "少ない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "明るい（あかるい）明亮，反义词是暗い（くらい）黑暗。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_265",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「難しい」の反対語はどれですか？",
+        "options":  [
+                        "やさしい（易しい）",
+                        "短い",
+                        "安い",
+                        "少ない"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "難しい（むずかしい）难，反义词是易しい（やさしい）简单。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_266",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「新しい」の反対語はどれですか？",
+        "options":  [
+                        "小さい",
+                        "古い",
+                        "遠い",
+                        "低い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "新しい（あたらしい）新，反义词是古い（ふるい）旧、老。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_267",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「近い」の反対語はどれですか？",
+        "options":  [
+                        "低い",
+                        "遠い",
+                        "少ない",
+                        "暗い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "近い（ちかい）近，反义词是遠い（とおい）远。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_268",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「高い」の反対語はどれですか？",
+        "options":  [
+                        "長い",
+                        "安い",
+                        "短い",
+                        "少ない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "高い（たかい）贵/高，反义词是安い（やすい）便宜/低。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_269",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「大きい」の反対語はどれですか？",
+        "options":  [
+                        "少ない",
+                        "小さい",
+                        "薄い",
+                        "低い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "大きい（おおきい）大，反义词是小さい（ちいさい）小。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_270",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「長い」の反対語はどれですか？",
+        "options":  [
+                        "低い",
+                        "細い",
+                        "短い",
+                        "少ない"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "長い（ながい）长，反义词是短い（みじかい）短。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_271",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「今日は気分（　　）いいです」に入る助詞はどれですか？",
+        "options":  [
+                        "が",
+                        "に",
+                        "を",
+                        "で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "気分がいい心情好，形容词前面用が。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_272",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「あなた（　　）信じています」に入る助詞はどれですか？",
+        "options":  [
+                        "が",
+                        "を",
+                        "に",
+                        "で"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "信じる是他动词，宾语用を，あなたを信じている我相信你。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_273",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「将来の夢はパイロット（　　）なることです」に入る助詞はどれですか？",
+        "options":  [
+                        "が",
+                        "に",
+                        "を",
+                        "で"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "なる前面的目标用に，パイロットになる成为飞行员。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_274",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「毎日ピアノの（　　）をしています」に入る語はどれですか？",
+        "options":  [
+                        "練習",
+                        "勉強",
+                        "仕事",
+                        "生活"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ピアノの練習（れんしゅう）是钢琴练习。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_275",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「うさぎ」の特徴はどれですか？",
+        "options":  [
+                        "尾が長い",
+                        "耳が長い",
+                        "鼻が長い",
+                        "首が長い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "うさぎ（兔子）の特徴は耳が長いことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_276",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「キリン」の特徴はどれですか？",
+        "options":  [
+                        "耳が長い",
+                        "尾が長い",
+                        "鼻が長い",
+                        "首が長い"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "キリン（长颈鹿）の特徴は首が長いことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_277",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ゾウ」の特徴はどれですか？",
+        "options":  [
+                        "耳が大きく、鼻が長い",
+                        "首が長い",
+                        "耳が小さい",
+                        "速い"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "ゾウ（大象）の特徴は耳が大きく、鼻がとても長いことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_278",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「ペンギン」の特徴はどれですか？",
+        "options":  [
+                        "空を飛ぶ",
+                        "泳げる",
+                        "走るのが速い",
+                        "木に登る"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "ペンギンは鳥ですが、空は飛べません。泳ぐのが上手です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_279",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「荷物」の読み方はどれですか？",
+        "options":  [
+                        "にもつ",
+                        "かもつ",
+                        "にもち",
+                        "かもち"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "荷物（にもつ）是行李、包裹的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_280",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「角」の読み方はどれですか？",
+        "options":  [
+                        "かど",
+                        "はし",
+                        "みち",
+                        "きわ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "角（かど）是拐角的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_281",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「先生（　　）褒められました」に入る助詞はどれですか？",
+        "options":  [
+                        "を",
+                        "が",
+                        "に",
+                        "は"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "受身文の動作主にはに，先生に褒められた被老师表扬了。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_282",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「公園（　　）子供がいます」の正しい助詞はどれですか？",
+        "options":  [
+                        "で",
+                        "が",
+                        "に",
+                        "を"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "存在を表すいる・あるの場所はに，公園に子供がいます公园里有孩子。",
+        "linked_grammar_id":  "N5_G_057"
+    },
+    {
+        "id":  "N5_Q_283",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「公園（　　）遊んでいます」の正しい助詞はどれですか？",
+        "options":  [
+                        "に",
+                        "が",
+                        "を",
+                        "で"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "動作の場所はで，公園で遊んでいます在公园玩耍。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_284",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「合格」の反対語はどれですか？",
+        "options":  [
+                        "入学",
+                        "卒業",
+                        "不合格",
+                        "受験"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "合格（ごうかく）合格，反义词是不合格（ふごうかく）不合格。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_285",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「卒業する」の反対語はどれですか？",
+        "options":  [
+                        "勉強する",
+                        "入学する",
+                        "受験する",
+                        "合格する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "卒業する（そつぎょうする）毕业，反义词是入学する（にゅうがくする）入学。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_286",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「喜ぶ」の読み方はどれですか？",
+        "options":  [
+                        "こわぶ",
+                        "よろこぶ",
+                        "あいぶ",
+                        "よわぶ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "喜ぶ（よろこぶ）是高兴、喜悦的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_287",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「成功」の読み方はどれですか？",
+        "options":  [
+                        "せいこう",
+                        "せいこ",
+                        "せいごう",
+                        "じょうこう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "成功（せいこう）是成功的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_288",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「海岸」の読み方はどれですか？",
+        "options":  [
+                        "かいきし",
+                        "うみぎし",
+                        "かいがん",
+                        "うみがん"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "海岸（かいがん）是海岸、海滨的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_289",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「空気」を吸うのはどこですか？",
+        "options":  [
+                        "耳",
+                        "目",
+                        "口と鼻",
+                        "手"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "空気（くうき）空气は口と鼻（くちとはな）で吸います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_290",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「着く」の意味はどれですか？",
+        "options":  [
+                        "出发",
+                        "到达",
+                        "停止",
+                        "返回"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "着く（つく）是到达的意思。もうすぐ着きます马上就到了。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_291",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「もっとゆっくり話して（　　）」に入る適切な表現はどれですか？",
+        "options":  [
+                        "あげます",
+                        "もらえませんか",
+                        "くれてあります",
+                        "あげましょうか"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "もらえませんか是礼貌的请求，请对方为自己做某事，もっとゆっくり話してもらえませんか能请你说慢一点吗？",
+        "linked_grammar_id":  "N5_G_066"
+    },
+    {
+        "id":  "N5_Q_292",
+        "level":  "N5",
+        "type":  "grammar",
+        "question_text":  "「日本語で（　　）しましょう」に入る語はどれですか？",
+        "options":  [
+                        "話",
+                        "話す",
+                        "話し",
+                        "話して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "日本語で話しましょう用日语说吧，動詞の連用形+しましょう。",
+        "linked_grammar_id":  "N5_G_058"
+    },
+    {
+        "id":  "N5_Q_293",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「重さ」の意味はどれですか？",
+        "options":  [
+                        "高度",
+                        "长度",
+                        "重量",
+                        "深度"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "重さ（おもさ）是重量的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_294",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「高さ」の意味はどれですか？",
+        "options":  [
+                        "高度",
+                        "重量",
+                        "长度",
+                        "深度"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "高さ（たかさ）是高度的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_295",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「四角い」の読み方はどれですか？",
+        "options":  [
+                        "まるい",
+                        "しかくい",
+                        "みじかい",
+                        "かたい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "四角い（しかくい）是方形的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_296",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「茶色」の読み方はどれですか？",
+        "options":  [
+                        "ちゃしょく",
+                        "ちゃいろ",
+                        "はいいろ",
+                        "みどりいろ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "茶色（ちゃいろ）是茶色、棕色的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_297",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「灰色」の読み方はどれですか？",
+        "options":  [
+                        "くろいろ",
+                        "はいいろ",
+                        "しろいろ",
+                        "ちゃいろ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "灰色（はいいろ）是灰色的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_298",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「紫」の読み方はどれですか？",
+        "options":  [
+                        "あお",
+                        "もも",
+                        "むらさき",
+                        "ピンク"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "紫（むらさき）是紫色的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_299",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「伝統」の意味はどれですか？",
+        "options":  [
+                        "传说",
+                        "传统",
+                        "文化",
+                        "习惯"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "伝統（でんとう）是传统的意思。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N5_Q_300",
+        "level":  "N5",
+        "type":  "vocabulary",
+        "question_text":  "「歴史」の読み方はどれですか？",
+        "options":  [
+                        "ぶんか",
+                        "でんとう",
+                        "れきし",
+                        "しゅうかん"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "歴史（れきし）是历史的意思。",
+        "linked_grammar_id":  null
+    }
 ]

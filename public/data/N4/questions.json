@@ -1,52 +1,5773 @@
-[
-  {
-    "id": "N4_Q_001",
-    "level": "N4",
-    "type": "vocabulary",
-    "question_text": "「旅行」の読み方はどれですか？",
-    "options": ["りょこう", "たびこう", "りょうこう", "たびいく"],
-    "correct_answer": 0,
-    "explanation": "「旅行」はりょこうと読みます。旅（りょ）+ 行（こう）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N4_Q_002",
-    "level": "N4",
-    "type": "grammar",
-    "question_text": "「この料理を食べ（　　）ください。」に入る正しい言葉を選んでください。",
-    "options": ["てみて", "てみる", "てみた", "てみれば"],
-    "correct_answer": 0,
-    "explanation": "「～てみてください」は「試してみてください」という意味です。「食べてみてください」が正しい形です。",
-    "linked_grammar_id": "N4_G_001"
-  },
-  {
-    "id": "N4_Q_003",
-    "level": "N4",
-    "type": "grammar",
-    "question_text": "「財布を忘れ（　　）。」に入る最も適切な表現はどれですか？",
-    "options": ["てしまいました", "てみました", "ておきました", "てありました"],
-    "correct_answer": 0,
-    "explanation": "「～てしまいました」は後悔や意図しない結果を表します。財布を忘れたことへの遺憾の気持ちを表しています。",
-    "linked_grammar_id": "N4_G_002"
-  },
-  {
-    "id": "N4_Q_004",
-    "level": "N4",
-    "type": "vocabulary",
-    "question_text": "「音楽」の「音」の読み方はどれですか？",
-    "options": ["おん", "おと", "いん", "ね"],
-    "correct_answer": 0,
-    "explanation": "「音楽」の「音」はおんと読みます。「音楽（おんがく）」です。単独では「おと」と読む場合もあります。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N4_Q_005",
-    "level": "N4",
-    "type": "grammar",
-    "question_text": "「黒板に予定が書い（　　）。」に入る正しい表現はどれですか？",
-    "options": ["てある", "ている", "ておく", "てしまう"],
-    "correct_answer": 0,
-    "explanation": "「～てある」は意図的な動作の結果状態を表します。誰かが意図的に書いた結果が残っている状態です。",
-    "linked_grammar_id": "N4_G_004"
-  }
+﻿[
+    {
+        "id":  "N4_Q_001",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「旅行」の読み方はどれですか？",
+        "options":  [
+                        "りょこう",
+                        "たびこう",
+                        "りょうこう",
+                        "たびいく"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「旅行」はりょこうと読みます。旅（りょ）+ 行（こう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N4_Q_002",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「この料理を食べ（　　）ください。」に入る正しい言葉を選んでください。",
+        "options":  [
+                        "てみて",
+                        "てみる",
+                        "てみた",
+                        "てみれば"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てみてください」は「試してみてください」という意味です。「食べてみてください」が正しい形です。",
+        "linked_grammar_id":  "N4_G_001"
+    },
+    {
+        "id":  "N4_Q_003",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「財布を忘れ（　　）。」に入る最も適切な表現はどれですか？",
+        "options":  [
+                        "てしまいました",
+                        "てみました",
+                        "ておきました",
+                        "てありました"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てしまいました」は後悔や意図しない結果を表します。財布を忘れたことへの遺憾の気持ちを表しています。",
+        "linked_grammar_id":  "N4_G_002"
+    },
+    {
+        "id":  "N4_Q_004",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「音楽」の「音」の読み方はどれですか？",
+        "options":  [
+                        "おん",
+                        "おと",
+                        "いん",
+                        "ね"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「音楽」の「音」はおんと読みます。「音楽（おんがく）」です。単独では「おと」と読む場合もあります。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N4_Q_005",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「黒板に予定が書い（　　）。」に入る正しい表現はどれですか？",
+        "options":  [
+                        "てある",
+                        "ている",
+                        "ておく",
+                        "てしまう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「～てある」は意図的な動作の結果状態を表します。誰かが意図的に書いた結果が残っている状態です。",
+        "linked_grammar_id":  "N4_G_004"
+    },
+    {
+        "id":  "N4_Q_006",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "田中さんは今日来ない___です。",
+        "options":  [
+                        "らしい",
+                        "ようだ",
+                        "そうだ",
+                        "はずだ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「らしい」は伝聞・推断を表し、外部から得た情報に基づく。「田中さんは来ないらしい」は他の人から聞いた情報による推断。",
+        "linked_grammar_id":  "N4_G_007"
+    },
+    {
+        "id":  "N4_Q_007",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "この料理は___そうです。（外見から判断）",
+        "options":  [
+                        "おいしい",
+                        "おいしく",
+                        "おいしくて",
+                        "おいし"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「そうだ（様子）」はい形容詞に接続する時、語尾の「い」を取って「そうだ」を付ける。「おいしい→おいし+そうだ」。",
+        "linked_grammar_id":  "N4_G_008"
+    },
+    {
+        "id":  "N4_Q_008",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "彼女はもう家に帰った___です。時間的に考えて。",
+        "options":  [
+                        "らしい",
+                        "はず",
+                        "つもり",
+                        "よう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「はずだ」は既知の事実や論理的根拠に基づく確信的な推断。時間的に考えて帰っているはずだ、という確信を表す。",
+        "linked_grammar_id":  "N4_G_010"
+    },
+    {
+        "id":  "N4_Q_009",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "来年、日本へ行く___です。（自分の意志）",
+        "options":  [
+                        "はず",
+                        "予定",
+                        "つもり",
+                        "よう"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「つもりだ」は自分の意志・意図を表す。「予定だ」は既に決まっている計画、「はず」は推断、「よう」は推断の意。",
+        "linked_grammar_id":  "N4_G_012"
+    },
+    {
+        "id":  "N4_Q_010",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "来月、出張___があります。",
+        "options":  [
+                        "の予定",
+                        "のつもり",
+                        "のはず",
+                        "のよう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「予定（がある）」は計画・スケジュールを表し、既に決まっていることを言う時に使う。",
+        "linked_grammar_id":  "N4_G_013"
+    },
+    {
+        "id":  "N4_Q_011",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "毎日運動する___にしました。",
+        "options":  [
+                        "こと",
+                        "よう",
+                        "はず",
+                        "まま"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ことにする」は自分の決断・決定を表す。「ようにする」は努力する方向性を表し、「ことにする」は既に決定した事。",
+        "linked_grammar_id":  "N4_G_014"
+    },
+    {
+        "id":  "N4_Q_012",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "来月、東京に転勤する___になりました。",
+        "options":  [
+                        "こと",
+                        "よう",
+                        "はず",
+                        "つもり"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ことになる」は外部の決定や自然な成り行きを表す。転勤は自分の意志ではなく会社の決定なので「ことになる」が適切。",
+        "linked_grammar_id":  "N4_G_015"
+    },
+    {
+        "id":  "N4_Q_013",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "日本語で話せる___になりました。",
+        "options":  [
+                        "こと",
+                        "よう",
+                        "はず",
+                        "まま"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ようになる」は能力・状態の変化を表す。「できるようになる」は能力が備わったことを示す典型的な表現。",
+        "linked_grammar_id":  "N4_G_016"
+    },
+    {
+        "id":  "N4_Q_014",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "遅刻しない___にしています。",
+        "options":  [
+                        "こと",
+                        "よう",
+                        "はず",
+                        "だけ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ようにする」は意識的に努力することを表す。「ことにする」は決断を表す。「遅刻しないよう心がける」という習慣的努力。",
+        "linked_grammar_id":  "N4_G_017"
+    },
+    {
+        "id":  "N4_Q_015",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "先生に___ました。（先生がほめた）",
+        "options":  [
+                        "褒められ",
+                        "褒めさせ",
+                        "褒めさせられ",
+                        "褒めて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「られる」は受身形。先生が褒めた→私は先生に褒められた。受身文では動作を受ける人が主語になる。",
+        "linked_grammar_id":  "N4_G_018"
+    },
+    {
+        "id":  "N4_Q_016",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "部下を残業___ました。",
+        "options":  [
+                        "させ",
+                        "られ",
+                        "させられ",
+                        "してもらい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「させる」は使役形。上司が部下に残業させた。使役文では動作を命じる人が主語になる。",
+        "linked_grammar_id":  "N4_G_019"
+    },
+    {
+        "id":  "N4_Q_017",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "嫌いな野菜を食べ___ました。（強制的に）",
+        "options":  [
+                        "させ",
+                        "られ",
+                        "させられ",
+                        "てもらい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「させられる」は使役受身。強制的にやらされた（不本意）という意味を持つ。使役＋受身の組み合わせ。",
+        "linked_grammar_id":  "N4_G_020"
+    },
+    {
+        "id":  "N4_Q_018",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "明日までに提出し___なりません。",
+        "options":  [
+                        "なければ",
+                        "なくても",
+                        "なかったら",
+                        "ないと"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「なければならない」は義務・必要性を表す。「提出しなければならない」＝提出する義務がある。",
+        "linked_grammar_id":  "N4_G_021"
+    },
+    {
+        "id":  "N4_Q_019",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "明日は来___ですよ。（来る必要がない）",
+        "options":  [
+                        "なければなりません",
+                        "なくてもいいです",
+                        "てはいけません",
+                        "ほうがいいです"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「なくてもいい」は義務の免除を表す。来る必要がないという許可・免除の表現。",
+        "linked_grammar_id":  "N4_G_022"
+    },
+    {
+        "id":  "N4_Q_020",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "友達___日本語を教えてあげました。",
+        "options":  [
+                        "に",
+                        "を",
+                        "で",
+                        "が"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てあげる」の文では恩恵を与える相手に「に」を使う。「友達に教えてあげる」（友達のために教える）。",
+        "linked_grammar_id":  "N4_G_037"
+    },
+    {
+        "id":  "N4_Q_021",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "先生___説明してもらいました。",
+        "options":  [
+                        "に",
+                        "を",
+                        "で",
+                        "が"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てもらう」の文では恩恵を受ける相手（動作主）に「に」を使う。「先生に説明してもらう」（先生が説明してくれた）。",
+        "linked_grammar_id":  "N4_G_038"
+    },
+    {
+        "id":  "N4_Q_022",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "友達が___くれました。（友達が手伝ってくれた）",
+        "options":  [
+                        "手伝って",
+                        "手伝わせて",
+                        "手伝ってもらって",
+                        "手伝いに"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てくれる」は他者が話し手のために自発的に行動することを表す。「友達が手伝ってくれた」は友達の善意による行動。",
+        "linked_grammar_id":  "N4_G_039"
+    },
+    {
+        "id":  "N4_Q_023",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "健康の___、毎日運動します。",
+        "options":  [
+                        "ため",
+                        "のに",
+                        "ように",
+                        "こと"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ために（目的）」は目的を表す。「健康のため」は「健康のために」の省略形で、健康を目的とした行動。",
+        "linked_grammar_id":  "N4_G_024"
+    },
+    {
+        "id":  "N4_Q_024",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "台風___試合が中止になりました。",
+        "options":  [
+                        "のために",
+                        "ために",
+                        "のようで",
+                        "のはずで"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「のために（理由）」は名詞に接続する時「の+ために」となる。台風が原因で試合中止となった。",
+        "linked_grammar_id":  "N4_G_025"
+    },
+    {
+        "id":  "N4_Q_025",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "一生懸命勉強した___、試験に落ちました。",
+        "options":  [
+                        "が",
+                        "のに",
+                        "ので",
+                        "から"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「のに（逆接）」は期待と異なる結果に対する遺憾・不満を表す。頑張ったのに落ちた、という残念な気持ちを表す。",
+        "linked_grammar_id":  "N4_G_026"
+    },
+    {
+        "id":  "N4_Q_026",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "雨が降っ___、試合をします。",
+        "options":  [
+                        "ても",
+                        "のに",
+                        "ので",
+                        "から"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ても（逆接仮定）」は「たとえ〜でも」の意味で、条件に関わらず後件が成立することを示す。",
+        "linked_grammar_id":  "N4_G_027"
+    },
+    {
+        "id":  "N4_Q_027",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "お金があっ___、旅行したいです。",
+        "options":  [
+                        "ても",
+                        "たら",
+                        "なら",
+                        "れば"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「たら（条件）」は最も一般的な条件表現。特に仮定や時間的前後関係を表す時に使う。",
+        "linked_grammar_id":  "N4_G_028"
+    },
+    {
+        "id":  "N4_Q_028",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "春になる___、桜が咲きます。",
+        "options":  [
+                        "と",
+                        "たら",
+                        "なら",
+                        "ば"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「と（自然条件）」は自然の法則・習慣的な結果を表す。春→桜が咲く、という自然な結果の連鎖。",
+        "linked_grammar_id":  "N4_G_030"
+    },
+    {
+        "id":  "N4_Q_029",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "東京へ行く___、新幹線が便利です。",
+        "options":  [
+                        "と",
+                        "たら",
+                        "なら",
+                        "ば"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「なら（条件）」は相手の話題・状況を前提として、アドバイスや提案をする時に使う。東京へ行くという前提でのアドバイス。",
+        "linked_grammar_id":  "N4_G_031"
+    },
+    {
+        "id":  "N4_Q_030",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "値段が安け___、買います。",
+        "options":  [
+                        "ると",
+                        "れば",
+                        "たら",
+                        "なら"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ば（仮定）」はい形容詞（去い+ければ）に接続。「安ければ」は「安い→安ければ」の変化。",
+        "linked_grammar_id":  "N4_G_029"
+    },
+    {
+        "id":  "N4_Q_031",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "日本語を勉強するのに辞書が___。",
+        "options":  [
+                        "必要です",
+                        "ほしいです",
+                        "いいです",
+                        "できます"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「のに（目的）」は「動詞辞書形+のに」で「〜するために必要」という表現に使う。「勉強するのに必要だ」。",
+        "linked_grammar_id":  "N4_G_069"
+    },
+    {
+        "id":  "N4_Q_032",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "この本は読み___です。",
+        "options":  [
+                        "やすい",
+                        "にくい",
+                        "すぎ",
+                        "がち"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「やすい」は「動詞ます形（去ます）+やすい」で「容易にできる」という意味。「読みやすい」＝読むのが簡単。",
+        "linked_grammar_id":  "N4_G_043"
+    },
+    {
+        "id":  "N4_Q_033",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "彼の話は分かり___です。",
+        "options":  [
+                        "やすい",
+                        "にくい",
+                        "すぎ",
+                        "だす"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「にくい」は「動詞ます形（去ます）+にくい」で「難しい」という意味。「分かりにくい」＝理解するのが難しい。",
+        "linked_grammar_id":  "N4_G_044"
+    },
+    {
+        "id":  "N4_Q_034",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "急に子どもが泣き___しました。",
+        "options":  [
+                        "やすく",
+                        "すぎ",
+                        "だし",
+                        "続け"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「だす」は「動詞ます形（去ます）+出す」で「突然〜し始める」という意味。「泣き出す」は突然泣き始めること。",
+        "linked_grammar_id":  "N4_G_048"
+    },
+    {
+        "id":  "N4_Q_035",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "宿題をやり___りました。",
+        "options":  [
+                        "すぎ",
+                        "終わ",
+                        "だし",
+                        "続け"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「終わる」は「動詞ます形（去ます）+終わる」で「動作が完了する」という意味。「やり終わる」＝やり遂げる。",
+        "linked_grammar_id":  "N4_G_047"
+    },
+    {
+        "id":  "N4_Q_036",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "毎日日本語を勉強し___ています。",
+        "options":  [
+                        "すぎ",
+                        "終わり",
+                        "だし",
+                        "続け"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「続ける」は「動詞ます形（去ます）+続ける」で「動作を継続する」という意味。「勉強し続ける」は継続的な努力。",
+        "linked_grammar_id":  "N4_G_046"
+    },
+    {
+        "id":  "N4_Q_037",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "食べ___て気分が悪いです。",
+        "options":  [
+                        "すぎ",
+                        "終わっ",
+                        "はじめ",
+                        "だし"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「すぎる」は「動詞ます形（去ます）+すぎる」で「過剰」を表す。「食べすぎる」は食べ過ぎること。",
+        "linked_grammar_id":  "N4_G_065"
+    },
+    {
+        "id":  "N4_Q_038",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "日本の文化___調べています。",
+        "options":  [
+                        "について",
+                        "に対して",
+                        "によって",
+                        "として"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「について」はトピック・話題を表す。「日本文化を研究する」という場合に「について」を使う。",
+        "linked_grammar_id":  "N4_G_051"
+    },
+    {
+        "id":  "N4_Q_039",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "お客様___親切にしてください。",
+        "options":  [
+                        "について",
+                        "に対して",
+                        "によって",
+                        "として"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「に対して」は動作の対象を表す。「お客様に親切にする」のように対象への態度を示す時に使う。",
+        "linked_grammar_id":  "N4_G_052"
+    },
+    {
+        "id":  "N4_Q_040",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "努力___夢を実現しました。",
+        "options":  [
+                        "について",
+                        "に対して",
+                        "によって",
+                        "として"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「によって（手段）」は手段・方法を表す。「努力によって夢が実現する」は努力が手段となって目標を達成すること。",
+        "linked_grammar_id":  "N4_G_053"
+    },
+    {
+        "id":  "N4_Q_041",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "学生___、もっと勉強すべきです。",
+        "options":  [
+                        "について",
+                        "に対して",
+                        "によって",
+                        "として"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「として」は立場・身分を表す。「学生として」は学生という立場から見ての行動・義務を示す。",
+        "linked_grammar_id":  "N4_G_054"
+    },
+    {
+        "id":  "N4_Q_042",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "彼は英語___でなく、日本語も話せます。",
+        "options":  [
+                        "しか",
+                        "だけ",
+                        "ばかり",
+                        "のみ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「だけでなく」は「not only...but also」の意味。「英語だけでなく日本語も」は英語に加えて日本語もということ。",
+        "linked_grammar_id":  "N4_G_056"
+    },
+    {
+        "id":  "N4_Q_043",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "時間が10分___ないです。",
+        "options":  [
+                        "だけし",
+                        "しか",
+                        "だけ",
+                        "ばかり"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「しか〜ない」は「only」の不満・遺憾のニュアンスを持つ表現。後に必ず否定形が来る点が「だけ」と異なる。",
+        "linked_grammar_id":  "N4_G_033"
+    },
+    {
+        "id":  "N4_Q_044",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "旅行の前にホテルを予約して___きます。",
+        "options":  [
+                        "あって",
+                        "おいて",
+                        "みて",
+                        "しまって"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ておく」は事前準備を表す。「予約しておく」は旅行に備えて事前に予約しておくこと。",
+        "linked_grammar_id":  "N4_G_078"
+    },
+    {
+        "id":  "N4_Q_045",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "一度食べて___ください。",
+        "options":  [
+                        "あって",
+                        "おいて",
+                        "みて",
+                        "しまって"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「てみる」は試行を表す。「食べてみる」は試食すること。試してどうかを確認する。",
+        "linked_grammar_id":  "N4_G_079"
+    },
+    {
+        "id":  "N4_Q_046",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "財布を忘れて___ました。（残念）",
+        "options":  [
+                        "あり",
+                        "おき",
+                        "み",
+                        "しまい"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「てしまう」は遺憾・完了を表す。「忘れてしまう」は遺憾な完了で、うっかり忘れたことへの後悔を示す。",
+        "linked_grammar_id":  "N4_G_080"
+    },
+    {
+        "id":  "N4_Q_047",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "黒板に予定が書いて___。（誰かが書いた結果が残っている）",
+        "options":  [
+                        "います",
+                        "あります",
+                        "おきます",
+                        "みます"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てある」は他動詞+ある、意図的な行為の結果状態を表す。「書いてある」は誰かが書いた結果が残っている状態。",
+        "linked_grammar_id":  "N4_G_077"
+    },
+    {
+        "id":  "N4_Q_048",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "電気をつけた___寝てしまいました。",
+        "options":  [
+                        "ので",
+                        "のに",
+                        "まま",
+                        "ところ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「まま」は状態の持続を表す。「電気をつけたまま寝る」は電気がついた状態のまま眠ってしまうこと。",
+        "linked_grammar_id":  "N4_G_086"
+    },
+    {
+        "id":  "N4_Q_049",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "今から出かける___です。",
+        "options":  [
+                        "まま",
+                        "ところ",
+                        "こと",
+                        "ため"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ところ（辞書形+ところ）」は「まさにこれからする」という動作の直前を表す。「出かけるところ」は今から出かけようとしている場面。",
+        "linked_grammar_id":  "N4_G_081"
+    },
+    {
+        "id":  "N4_Q_050",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "ここで写真を撮っても___ですか。",
+        "options":  [
+                        "いい",
+                        "いけない",
+                        "なりません",
+                        "べき"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てもいい（か）」は許可を求める表現。「写真を撮ってもいいですか」は写真撮影の許可を求めている。",
+        "linked_grammar_id":  "N4_G_082"
+    },
+    {
+        "id":  "N4_Q_051",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「締め切り」の意味はどれですか？",
+        "options":  [
+                        "締まった扉",
+                        "提出期限",
+                        "閉店時間",
+                        "鍵をかけること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「締め切り」はレポートや原稿などの提出・完了期限のこと。deadlineを意味する。"
+    },
+    {
+        "id":  "N4_Q_052",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「承認する」の意味はどれですか？",
+        "options":  [
+                        "認めて許可する",
+                        "断る",
+                        "調べる",
+                        "提出する"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「承認する」は申請や提案などを認めて許可すること。approveに相当する。"
+    },
+    {
+        "id":  "N4_Q_053",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「領収書」はどんな場面で使いますか？",
+        "options":  [
+                        "旅行の計画書",
+                        "お金を受け取ったことを証明する書類",
+                        "医者の診断書",
+                        "学校の成績表"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「領収書」は代金を受け取ったことを証明する書類（レシートなど）。英語のreceiptに相当する。"
+    },
+    {
+        "id":  "N4_Q_054",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「諦める」の意味はどれですか？",
+        "options":  [
+                        "がんばる",
+                        "やり直す",
+                        "断念する",
+                        "続ける"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「諦める」はあきらめること、断念すること。give upに相当する。"
+    },
+    {
+        "id":  "N4_Q_055",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「我慢する」の意味はどれですか？",
+        "options":  [
+                        "思い切りやる",
+                        "じっと耐える",
+                        "すぐやめる",
+                        "楽しむ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「我慢する」は辛いことを耐えしのぶこと。put up with、endureに相当する。"
+    },
+    {
+        "id":  "N4_Q_056",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「後悔」の意味はどれですか？",
+        "options":  [
+                        "後で喜ぶこと",
+                        "後で後悔すること",
+                        "先のことを考えること",
+                        "過去に感謝すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「後悔」は過去の行動を残念に思うこと。regretに相当する。"
+    },
+    {
+        "id":  "N4_Q_057",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「不満」の反対語はどれですか？",
+        "options":  [
+                        "失望",
+                        "後悔",
+                        "満足",
+                        "不安"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「不満」は満足していない状態。その反対語は「満足」。不満⇔満足の対義語関係。"
+    },
+    {
+        "id":  "N4_Q_058",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「賛成する」の反対語はどれですか？",
+        "options":  [
+                        "参加する",
+                        "反対する",
+                        "確認する",
+                        "中止する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「賛成する」はagreeすること。反対語は「反対する」（disagree）。"
+    },
+    {
+        "id":  "N4_Q_059",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「積極的」の反対語はどれですか？",
+        "options":  [
+                        "清潔",
+                        "快適",
+                        "消極的",
+                        "地味"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「積極的」はpositive/activeなこと。反対語は「消極的」（passive/negative）。"
+    },
+    {
+        "id":  "N4_Q_060",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「なるべく」の意味はどれですか？",
+        "options":  [
+                        "たまに",
+                        "できる限り",
+                        "少しだけ",
+                        "わざと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「なるべく」はできるだけ、できる限りという意味。as much as possible。"
+    },
+    {
+        "id":  "N4_Q_061",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「わざと」の意味はどれですか？",
+        "options":  [
+                        "うっかり",
+                        "なぜか",
+                        "故意に",
+                        "急に"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「わざと」は意図的に、故意に行うこと。on purposeに相当する。「わざと失敗した」は意図的に失敗したこと。"
+    },
+    {
+        "id":  "N4_Q_062",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「思わず」の意味はどれですか？",
+        "options":  [
+                        "考えてから",
+                        "気づかずに",
+                        "意図せず自然に",
+                        "ゆっくりと"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「思わず」は意図せず自然に行ってしまうこと。involuntarily、without thinkingに相当する。"
+    },
+    {
+        "id":  "N4_Q_063",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「乗り換え」の意味はどれですか？",
+        "options":  [
+                        "電車から降りること",
+                        "別の電車・バスに移ること",
+                        "電車に乗り遅れること",
+                        "終電に乗ること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「乗り換え」は電車やバスなどの乗り物を途中で別の路線や車両に移ること。transferに相当する。"
+    },
+    {
+        "id":  "N4_Q_064",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「渋滞」の意味はどれですか？",
+        "options":  [
+                        "工事中",
+                        "道路が混んで動けない状態",
+                        "電車が遅れること",
+                        "道が細いこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「渋滞」は車が混んで動けない状態、traffic jamのこと。"
+    },
+    {
+        "id":  "N4_Q_065",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「収入」の意味はどれですか？",
+        "options":  [
+                        "出費",
+                        "貯金",
+                        "稼いだお金",
+                        "税金"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「収入」は働いて得たお金や所得のこと。incomeに相当する。反対語は「支出」。"
+    },
+    {
+        "id":  "N4_Q_066",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「節約」の意味はどれですか？",
+        "options":  [
+                        "お金を使う",
+                        "むだを省いて使う量を減らす",
+                        "借りること",
+                        "稼ぐこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「節約」は無駄を省いてお金や物を大切に使うこと。savingに相当する。"
+    },
+    {
+        "id":  "N4_Q_067",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「印鑑」はどんな時に使いますか？",
+        "options":  [
+                        "料理の時",
+                        "書類に本人確認の証明として押す時",
+                        "写真を撮る時",
+                        "絵を描く時"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「印鑑」は書類などに押して本人の証明に使うはんこのこと。personalサインの代わりに使われる日本の慣習。"
+    },
+    {
+        "id":  "N4_Q_068",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「悔しい」の意味はどれですか？",
+        "options":  [
+                        "嬉しい",
+                        "悲しい",
+                        "残念で腹立たしい",
+                        "怖い"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「悔しい」は思い通りにならずに腹立たしく残念な気持ち。frustratedや mortifiedに相当する。"
+    },
+    {
+        "id":  "N4_Q_069",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「懐かしい」の意味はどれですか？",
+        "options":  [
+                        "珍しい",
+                        "新しい",
+                        "古い思い出に温かい気持ちになる",
+                        "怖い"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「懐かしい」は過去の記憶を思い出して温かい気持ちになること。nostalgicに相当する。"
+    },
+    {
+        "id":  "N4_Q_070",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「羨ましい」の意味はどれですか？",
+        "options":  [
+                        "可哀想",
+                        "いいなと思う",
+                        "苦しい",
+                        "恥ずかしい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「羨ましい」は人が持っているものや状況をいいなと思う気持ち。enviousに相当する。"
+    },
+    {
+        "id":  "N4_Q_071",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「いらっしゃる」はどの動詞の尊敬語ですか？",
+        "options":  [
+                        "行く・来る・いるの尊敬語",
+                        "言うの尊敬語",
+                        "食べるの尊敬語",
+                        "するの尊敬語"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「いらっしゃる」は「いる・行く・来る」の尊敬語。「先生がいらっしゃいます」は「先生がいます」の尊敬表現。"
+    },
+    {
+        "id":  "N4_Q_072",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「おっしゃる」はどの動詞の尊敬語ですか？",
+        "options":  [
+                        "行くの尊敬語",
+                        "言うの尊敬語",
+                        "食べるの尊敬語",
+                        "するの尊敬語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「おっしゃる」は「言う」の尊敬語。「先生がおっしゃいました」は「先生が言いました」の尊敬表現。"
+    },
+    {
+        "id":  "N4_Q_073",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「申す」はどの動詞の謙譲語ですか？",
+        "options":  [
+                        "行くの謙譲語",
+                        "言うの謙譲語",
+                        "食べるの謙譲語",
+                        "するの謙譲語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「申す」は「言う」の謙譲語。「私は田中と申します」は「私は田中と言います」の謙譲表現。"
+    },
+    {
+        "id":  "N4_Q_074",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「伺う」はどの動詞の謙譲語ですか？",
+        "options":  [
+                        "行く・来る・聞くの謙譲語",
+                        "言うの謙譲語",
+                        "食べるの謙譲語",
+                        "見るの謙譲語"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「伺う」は「行く・来る・聞く・尋ねる」の謙譲語。「明日伺います」は「明日行きます」の謙譲表現。"
+    },
+    {
+        "id":  "N4_Q_075",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「召し上がる」はどの動詞の尊敬語ですか？",
+        "options":  [
+                        "行くの尊敬語",
+                        "言うの尊敬語",
+                        "食べる・飲むの尊敬語",
+                        "するの尊敬語"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「召し上がる」は「食べる・飲む」の尊敬語。「どうぞ召し上がってください」は食べること・飲むことを促す敬語表現。"
+    },
+    {
+        "id":  "N4_Q_076",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「拝見する」はどの動詞の謙譲語ですか？",
+        "options":  [
+                        "行くの謙譲語",
+                        "言うの謙譲語",
+                        "するの謙譲語",
+                        "見るの謙譲語"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「拝見する」は「見る」の謙譲語。「資料を拝見しました」は「資料を見ました」の謙譲表現。"
+    },
+    {
+        "id":  "N4_Q_077",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「書き直す」の意味はどれですか？",
+        "options":  [
+                        "もう一度書くこと",
+                        "書くのをやめること",
+                        "きれいに書くこと",
+                        "早く書くこと"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「書き直す」は一度書いたものをもう一度書き替えること。rewriteに相当する複合動詞。"
+    },
+    {
+        "id":  "N4_Q_078",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「取り組む」の意味はどれですか？",
+        "options":  [
+                        "物を取ること",
+                        "諦めること",
+                        "真剣に取り組んで行うこと",
+                        "休むこと"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「取り組む」は問題や課題に真剣に向き合って取り組むこと。tackle、work onに相当する。"
+    },
+    {
+        "id":  "N4_Q_079",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「せっかく」の意味はどれですか？",
+        "options":  [
+                        "たまたま",
+                        "きっと",
+                        "折角・苦労して",
+                        "少し"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「せっかく」は苦労したり機会を得たりしたのに、という含みがある。「せっかく来たのに」は折角来たのに残念という気持ち。"
+    },
+    {
+        "id":  "N4_Q_080",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「はっきり」の意味はどれですか？",
+        "options":  [
+                        "少しだけ",
+                        "ゆっくりと",
+                        "明確に・はっきりと",
+                        "なんとなく"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「はっきり」は明確に・はっきりとという意味。clearly、definitelyに相当する。"
+    },
+    {
+        "id":  "N4_Q_081",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「どうせ」の意味はどれですか？",
+        "options":  [
+                        "きっとそうなる（諦め）",
+                        "もしかしたら",
+                        "たぶん",
+                        "全然"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「どうせ」は諦め・自虐的な見込みを表す。「どうせ失敗する」はどうせ（あきらめ）失敗するだろうという気持ち。"
+    },
+    {
+        "id":  "N4_Q_082",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「かなり」の意味はどれですか？",
+        "options":  [
+                        "少し",
+                        "非常に・相当",
+                        "まあまあ",
+                        "全然"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「かなり」は「相当・かなり」という程度を表す副詞。considerably、quite、ratherに相当する。"
+    },
+    {
+        "id":  "N4_Q_083",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「入院する」の反対語はどれですか？",
+        "options":  [
+                        "病気になる",
+                        "退院する",
+                        "通院する",
+                        "検査する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「入院する」は病院に入って治療すること。反対語は「退院する」（病院から出ること）。"
+    },
+    {
+        "id":  "N4_Q_084",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「先輩」の反対語はどれですか？",
+        "options":  [
+                        "上司",
+                        "部下",
+                        "後輩",
+                        "同僚"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「先輩」は同じ組織・学校で先に入った人。反対語は「後輩」（後から入った人）。"
+    },
+    {
+        "id":  "N4_Q_085",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「上司」の反対語はどれですか？",
+        "options":  [
+                        "先輩",
+                        "後輩",
+                        "同僚",
+                        "部下"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「上司」は職場での上の立場の人。反対語は「部下」（下の立場の人）。"
+    },
+    {
+        "id":  "N4_Q_086",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「増える」の反対語はどれですか？",
+        "options":  [
+                        "壊れる",
+                        "減る",
+                        "止まる",
+                        "変わる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「増える」は数・量が多くなること。反対語は「減る」（少なくなること）。"
+    },
+    {
+        "id":  "N4_Q_087",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「つける（電気を）」の反対語はどれですか？",
+        "options":  [
+                        "開ける",
+                        "閉める",
+                        "消す",
+                        "止める"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「つける（電気を）」は電気・スイッチをオンにすること。反対語は「消す」（オフにすること）。"
+    },
+    {
+        "id":  "N4_Q_088",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「開ける（ドアを）」の反対語はどれですか？",
+        "options":  [
+                        "消す",
+                        "閉める",
+                        "取る",
+                        "置く"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「開ける」は他動詞でドアや窓を開くこと。反対語は「閉める」（閉じること）。"
+    },
+    {
+        "id":  "N4_Q_089",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「得意」の反対語はどれですか？",
+        "options":  [
+                        "不満",
+                        "苦手",
+                        "下手",
+                        "難しい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「得意」は上手にできること、好きなこと。反対語は「苦手」（うまくできないこと、嫌いなこと）。"
+    },
+    {
+        "id":  "N4_Q_090",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「丁寧」の意味はどれですか？",
+        "options":  [
+                        "雑で適当",
+                        "細かく丁寧に",
+                        "素早い",
+                        "大胆な"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「丁寧」は細かいところまで気を配り、礼儀正しいこと。carefullyやpolitelyに相当する。"
+    },
+    {
+        "id":  "N4_Q_091",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ことにする」と「〜ことになる」の違いは？",
+        "options":  [
+                        "どちらも同じ意味",
+                        "ことにする=自分の決断、ことになる=外部の決定",
+                        "ことにする=外部の決定、ことになる=自分の決断",
+                        "どちらも推断を表す"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ことにする」は自分で決めること（自分の意志）。「ことになる」は外部の決定や自然な成り行き。転勤はことになる、毎日運動はことにする。",
+        "linked_grammar_id":  "N4_G_014"
+    },
+    {
+        "id":  "N4_Q_092",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ようにする」と「ことにする」の違いは？",
+        "options":  [
+                        "どちらも同じ",
+                        "ようにする=努力目標、ことにする=決断",
+                        "ようにする=外部決定、ことにする=推断",
+                        "どちらも推断"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ようにする」は努力・心がけを表す（まだ完全ではない）。「ことにする」は既に決めた決断を表す。",
+        "linked_grammar_id":  "N4_G_017"
+    },
+    {
+        "id":  "N4_Q_093",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "お荷物を___します。（謙譲語）",
+        "options":  [
+                        "お持ちに",
+                        "お持ち",
+                        "持たれ",
+                        "お持ちさせ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「お+動詞ます形（去ます）+する」は謙譲語の形。「お持ちする」は「持つ」の謙譲語で、相手のために荷物を持つという謙虚な表現。",
+        "linked_grammar_id":  "N4_G_050"
+    },
+    {
+        "id":  "N4_Q_094",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "先生がお___になりました。（尊敬語）",
+        "options":  [
+                        "帰り",
+                        "帰って",
+                        "帰られ",
+                        "帰りさせ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「お+動詞ます形（去ます）+になる」は尊敬語の形。「お帰りになる」は「帰る」の尊敬語。",
+        "linked_grammar_id":  "N4_G_049"
+    },
+    {
+        "id":  "N4_Q_095",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "この件に___ご連絡します。",
+        "options":  [
+                        "ついて",
+                        "対して",
+                        "よって",
+                        "して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「について」はテーマ・話題を表す。「この件について」は「この件に関して」と同義でビジネスでよく使う。",
+        "linked_grammar_id":  "N4_G_051"
+    },
+    {
+        "id":  "N4_Q_096",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "説明書の___に組み立ててください。",
+        "options":  [
+                        "まま",
+                        "とおり",
+                        "ほど",
+                        "くらい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「とおりに」は指示通りに行うことを表す。「説明書の通りに」は説明書に従って、という意味。",
+        "linked_grammar_id":  "N4_G_087"
+    },
+    {
+        "id":  "N4_Q_097",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "彼が来るか___分かりません。",
+        "options":  [
+                        "どうか",
+                        "どれか",
+                        "どこか",
+                        "どちらか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「かどうか」は「かどうか分からない」のように不確定な事柄を表す間接疑問文を作る。",
+        "linked_grammar_id":  "N4_G_075"
+    },
+    {
+        "id":  "N4_Q_098",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "彼は私___上手ではありません。",
+        "options":  [
+                        "より",
+                        "ほど",
+                        "だけ",
+                        "しか"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「AほどBない」はAほどBではない（AよりBが低い）という比較表現。「私ほど上手ではない」は私より上手ではないという意味。",
+        "linked_grammar_id":  "N4_G_035"
+    },
+    {
+        "id":  "N4_Q_099",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "早く医者に行った___ですよ。",
+        "options":  [
+                        "よう",
+                        "ほど",
+                        "ほうがいい",
+                        "まま"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「ほうがいい」は推薦・提案を表す。「行ったほうがいい」はた形+ほうがいい、することを勧める表現。",
+        "linked_grammar_id":  "N4_G_084"
+    },
+    {
+        "id":  "N4_Q_100",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「田中」という人から電話が___。",
+        "options":  [
+                        "あった",
+                        "なった",
+                        "きた",
+                        "した"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「電話がある」は電話があった（受けた）という意味。「田中という人」は名前が田中という人という意味。",
+        "linked_grammar_id":  "N4_G_085"
+    },
+    {
+        "id":  "N4_Q_101",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「転職」の意味はどれですか？",
+        "options":  [
+                        "今の会社を退職する",
+                        "別の会社に移って働く",
+                        "残業すること",
+                        "就職活動をすること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「転職」は勤めている会社を辞めて別の会社に移ること。career changeに相当する。"
+    },
+    {
+        "id":  "N4_Q_102",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「有給」の正式名称はどれですか？",
+        "options":  [
+                        "有給休暇",
+                        "有給出勤",
+                        "有給残業",
+                        "有給手当"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「有給」は「有給休暇」の略で、給与をもらいながら取れる休暇のこと。paid leaveに相当する。"
+    },
+    {
+        "id":  "N4_Q_103",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「ボーナス」の意味はどれですか？",
+        "options":  [
+                        "基本給",
+                        "残業代",
+                        "賞与",
+                        "交通費"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「ボーナス」（bonus）は定期的に支給される賞与のこと。年に1〜2回支給されることが多い。"
+    },
+    {
+        "id":  "N4_Q_104",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「退職」の意味はどれですか？",
+        "options":  [
+                        "転職すること",
+                        "仕事をやめること",
+                        "昇格すること",
+                        "入社すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「退職」は職を辞すること、会社を辞めること。resignationに相当する。"
+    },
+    {
+        "id":  "N4_Q_105",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「就職」の意味はどれですか？",
+        "options":  [
+                        "仕事をやめること",
+                        "転職すること",
+                        "職に就くこと",
+                        "出張すること"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「就職」は職に就くこと、会社に入ること。getting a jobに相当する。"
+    },
+    {
+        "id":  "N4_Q_106",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「奨学金」の意味はどれですか？",
+        "options":  [
+                        "学費のローン",
+                        "学業を支援する資金",
+                        "授業料",
+                        "教科書代"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「奨学金」は学業・研究を支援するために支給される資金のこと。scholarshipに相当する。"
+    },
+    {
+        "id":  "N4_Q_107",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「定期券」の意味はどれですか？",
+        "options":  [
+                        "一回乗車券",
+                        "一定期間乗り放題の乗車券",
+                        "回数券",
+                        "特急券"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「定期券」は電車やバスの一定区間を一定期間乗り放題の乗車券。commuter passに相当する。"
+    },
+    {
+        "id":  "N4_Q_108",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「渡す」の意味はどれですか？",
+        "options":  [
+                        "受け取ること",
+                        "橋を渡ること",
+                        "手渡しで渡すこと",
+                        "渡航すること"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「渡す」は手から手へと渡すこと（give、hand over）。「書類を渡す」は書類を手渡しすること。"
+    },
+    {
+        "id":  "N4_Q_109",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「展覧会」の意味はどれですか？",
+        "options":  [
+                        "音楽演奏会",
+                        "美術品・作品を展示する催し",
+                        "スポーツイベント",
+                        "映画上映会"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「展覧会」は絵画・写真・工芸などを展示して一般に公開する催し。exhibitionに相当する。"
+    },
+    {
+        "id":  "N4_Q_110",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「書道」の意味はどれですか？",
+        "options":  [
+                        "書き方の道",
+                        "毛筆で文字を書く芸術",
+                        "書物の道",
+                        "書き方の授業"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「書道」は毛筆を使って文字を書く日本の伝統的な芸術。calligraphyに相当する。"
+    },
+    {
+        "id":  "N4_Q_111",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「茶道」の意味はどれですか？",
+        "options":  [
+                        "お茶を売る店",
+                        "お茶を飲む習慣",
+                        "お茶を点てる日本の伝統芸道",
+                        "茶畑での仕事"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「茶道」は抹茶を点てて飲む日本の伝統的な礼法・芸道。tea ceremonyに相当する。"
+    },
+    {
+        "id":  "N4_Q_112",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「伝統」の意味はどれですか？",
+        "options":  [
+                        "最新の流行",
+                        "昔から受け継がれてきた習慣・文化",
+                        "外国の文化",
+                        "一時的な流行"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「伝統」は先人から伝えられてきた習慣・文化・技術。traditionに相当する。"
+    },
+    {
+        "id":  "N4_Q_113",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「現在」と同じ意味の言葉はどれですか？",
+        "options":  [
+                        "過去",
+                        "未来",
+                        "今",
+                        "将来"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「現在」は今この時点のこと。presentに相当する。「今」と同義。「過去」の反対語でもある。"
+    },
+    {
+        "id":  "N4_Q_114",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「比べる」の意味はどれですか？",
+        "options":  [
+                        "並べること",
+                        "違いを調べること",
+                        "同じにすること",
+                        "合わせること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「比べる」は二つ以上のものを並べて違いや優劣を調べること。compareに相当する。"
+    },
+    {
+        "id":  "N4_Q_115",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「一方」の意味はどれですか？（接続詞として）",
+        "options":  [
+                        "一方では（逆の事実を示す）",
+                        "一か所",
+                        "いっぽん",
+                        "少し"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「一方」は接続詞として「一方では〜」という使い方をし、逆の事実・対比する内容を示す。on the other handに相当する。"
+    },
+    {
+        "id":  "N4_Q_116",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「結局」の意味はどれですか？",
+        "options":  [
+                        "最初から",
+                        "突然",
+                        "最終的には",
+                        "たまに"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「結局」はいろいろあったが最終的には、という意味。in the endに相当する。"
+    },
+    {
+        "id":  "N4_Q_117",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「さらに」の意味はどれですか？",
+        "options":  [
+                        "それでも",
+                        "しかし",
+                        "加えて、その上",
+                        "つまり"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「さらに」はそれに加えて、より一層という意味。furthermoreに相当する。「さらに悪化する」はより一層悪くなること。"
+    },
+    {
+        "id":  "N4_Q_118",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「すでに」の意味はどれですか？",
+        "options":  [
+                        "まだ",
+                        "もうすでに",
+                        "これから",
+                        "少し"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「すでに」はもうすでに、already という意味。「すでに終わった」は既に完了していること。"
+    },
+    {
+        "id":  "N4_Q_119",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「実力」の意味はどれですか？",
+        "options":  [
+                        "外見",
+                        "実際の能力・力量",
+                        "努力すること",
+                        "可能性"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「実力」は本当の力・実際の能力のこと。real ability、true strengthに相当する。"
+    },
+    {
+        "id":  "N4_Q_120",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「才能」の意味はどれですか？",
+        "options":  [
+                        "努力",
+                        "天から授かった特別な能力",
+                        "知識",
+                        "経験"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「才能」は生まれつき持っている特別な能力のこと。talentに相当する。"
+    },
+    {
+        "id":  "N4_Q_121",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ドアが___（自動詞）」と「ドアを___（他動詞）」の組み合わせはどれ？",
+        "options":  [
+                        "開ける／開く",
+                        "開く／開ける",
+                        "閉まる／閉める",
+                        "閉める／閉まる"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「閉まる」は自動詞（ドアが自然に/自動的に閉まる）。「閉める」は他動詞（誰かがドアを閉める）。自動詞/他動詞のペア。",
+        "linked_grammar_id":  "N4_G_076"
+    },
+    {
+        "id":  "N4_Q_122",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「電気が___（自動詞）」の正しい形はどれですか？",
+        "options":  [
+                        "つける",
+                        "つく",
+                        "消す",
+                        "消える"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「つく」は自動詞（電気が自然についた状態）。「つける」は他動詞（電気をつける行為）。",
+        "linked_grammar_id":  "N4_G_076"
+    },
+    {
+        "id":  "N4_Q_123",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「て+もらう、てくれる、てあげる」の方向の説明で正しいのはどれ？",
+        "options":  [
+                        "てあげる=自分→他者、てくれる=他者→自分、てもらう=自分が受け取る",
+                        "どれも同じ",
+                        "てあげる=他者→自分",
+                        "てくれる=自分→他者"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "てあげる：自分（または第三者）→他者への施恩。てくれる：他者→自分への施恩。てもらう：自分が他者から受け取る。",
+        "linked_grammar_id":  "N4_G_037"
+    },
+    {
+        "id":  "N4_Q_124",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「音楽を聞き___勉強します」に入る語は？",
+        "options":  [
+                        "ながら",
+                        "てから",
+                        "のに",
+                        "のため"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ながら」は二つの動作の同時進行を表す。「音楽を聞きながら勉強する」は両方を同時に行うこと。",
+        "linked_grammar_id":  "N4_G_064"
+    },
+    {
+        "id":  "N4_Q_125",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「宿題をして___テレビを見ます」に入る語は？",
+        "options":  [
+                        "ながら",
+                        "から",
+                        "のに",
+                        "のため"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てから」は前の動作が終わってから次の動作をする順序を表す。「宿題をしてからテレビを見る」は順番を示す。",
+        "linked_grammar_id":  "N4_G_060"
+    },
+    {
+        "id":  "N4_Q_126",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「寝る___に歯を磨きます」に入る語は？",
+        "options":  [
+                        "後",
+                        "前",
+                        "から",
+                        "まで"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「前に」は前の動作の前に行う動作を表す。「寝る前に歯を磨く」は就寝前のルーティン。動詞は辞書形+前に。",
+        "linked_grammar_id":  "N4_G_062"
+    },
+    {
+        "id":  "N4_Q_127",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「日本へ行った___があります」に入る語は？",
+        "options":  [
+                        "こと",
+                        "ため",
+                        "のに",
+                        "はず"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「たことがある」は過去の経験を表す。「行ったことがある」は日本に行った経験があること。",
+        "linked_grammar_id":  "N4_G_063"
+    },
+    {
+        "id":  "N4_Q_128",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ここから駅まで10分___かかります」に入る語は？",
+        "options":  [
+                        "ほど",
+                        "くらい",
+                        "だけ",
+                        "しか"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「くらい（ぐらい）」は大体の数量・程度を表す。「10分くらい」は約10分のこと。",
+        "linked_grammar_id":  "N4_G_036"
+    },
+    {
+        "id":  "N4_Q_129",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「話せば話す___、日本語が上手になります」に入る語は？",
+        "options":  [
+                        "より",
+                        "ほど",
+                        "だけ",
+                        "くらい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜ば〜ほど」は「〜すれば〜するほど」という比例・逐次上昇の表現。練習すればするほど上達する。",
+        "linked_grammar_id":  "N4_G_035"
+    },
+    {
+        "id":  "N4_Q_130",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「何かいいにおいが___」に入る語は？",
+        "options":  [
+                        "あります",
+                        "います",
+                        "します",
+                        "なります"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「〜がする」は感覚表現。においがする、音がする、気がするなど感覚的知覚に「がする」を使う。",
+        "linked_grammar_id":  "N4_G_089"
+    },
+    {
+        "id":  "N4_Q_131",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「朝ご飯を食べない___があります」に入る語は？",
+        "options":  [
+                        "こと",
+                        "はず",
+                        "ため",
+                        "のに"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ことがある（辞書形+ことがある）」は「時々〜することがある」という習慣的・偶発的な出来事を表す。",
+        "linked_grammar_id":  "N4_G_088"
+    },
+    {
+        "id":  "N4_Q_132",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「早起きは体にいいと___ています」に入る語は？",
+        "options":  [
+                        "言われ",
+                        "話され",
+                        "聞かれ",
+                        "考えられ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「と言われている」は一般的な通説・常識を表す。「早起きは体にいいと言われている」は世間的に言われていること。",
+        "linked_grammar_id":  "N4_G_057"
+    },
+    {
+        "id":  "N4_Q_133",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「緊急の___は、すぐに連絡してください」に入る語は？",
+        "options":  [
+                        "とき",
+                        "場合",
+                        "まま",
+                        "こと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「場合は」は特定の状況・条件を示す。「緊急の場合は」は緊急事態という特定条件での指示を表す。",
+        "linked_grammar_id":  "N4_G_058"
+    },
+    {
+        "id":  "N4_Q_134",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ご来社の___には、受付にお声がけください」に入る語は？",
+        "options":  [
+                        "とき",
+                        "場合",
+                        "際",
+                        "まま"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「際には」は「時には」の正式な表現。ビジネス文書や正式な案内に使う改まった表現。",
+        "linked_grammar_id":  "N4_G_059"
+    },
+    {
+        "id":  "N4_Q_135",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「お茶で___飲みませんか」に入る語は？",
+        "options":  [
+                        "も",
+                        "さえ",
+                        "しか",
+                        "だけ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「でも（名詞+でも）」は「〜などはどうですか」という提案・例示を表す。「お茶でも」はお茶の軽い提案。",
+        "linked_grammar_id":  "N4_G_074"
+    },
+    {
+        "id":  "N4_Q_136",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「かたづける」の漢字表記と意味は？",
+        "options":  [
+                        "片付ける・散らかったものを整理する",
+                        "硬付ける・固くすること",
+                        "形付ける・形を決めること",
+                        "傍付ける・そばに置くこと"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「片付ける」は散らかったものを整理・整頓すること。to tidy up、clean upに相当する。"
+    },
+    {
+        "id":  "N4_Q_137",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「気候」の意味はどれですか？",
+        "options":  [
+                        "今日の天気",
+                        "その地域の長期的な天気の傾向",
+                        "台風",
+                        "季節"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「気候」はある地域の長期的な気象状態・傾向のこと。climateに相当する。「天気」は短期的なもの。"
+    },
+    {
+        "id":  "N4_Q_138",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「リサイクル」の意味はどれですか？",
+        "options":  [
+                        "ゴミを捨てること",
+                        "使用済みの物を再利用・再生すること",
+                        "新しいものを買うこと",
+                        "節約すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「リサイクル」（recycle）は使用済みの材料を再利用したり資源として再生すること。"
+    },
+    {
+        "id":  "N4_Q_139",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「振込」の意味はどれですか？",
+        "options":  [
+                        "現金を引き出すこと",
+                        "銀行口座に送金すること",
+                        "クレジットカードで払うこと",
+                        "請求書を送ること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「振込（振り込み）」は銀行口座に送金すること。bank transferに相当する。"
+    },
+    {
+        "id":  "N4_Q_140",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「住民票」の意味はどれですか？",
+        "options":  [
+                        "家の設計図",
+                        "住んでいる地域に登録された身分証明書類",
+                        "運転免許証",
+                        "パスポート"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「住民票」は市区町村に居住を登録した証明書類。日本独自の住民登録制度の文書。"
+    },
+    {
+        "id":  "N4_Q_141",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「消費税」の意味はどれですか？",
+        "options":  [
+                        "所得にかかる税金",
+                        "物を買う時にかかる税金",
+                        "会社にかかる税金",
+                        "輸入にかかる税金"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「消費税」は物品・サービスを購入する時に課される税金。consumption taxに相当する。"
+    },
+    {
+        "id":  "N4_Q_142",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「保険」の意味はどれですか？",
+        "options":  [
+                        "貯金",
+                        "リスクに備えて掛けるお金の仕組み",
+                        "ローン",
+                        "税金"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「保険」は病気・事故などのリスクに備えて定期的にお金を払い、必要時に受け取る制度。insuranceに相当する。"
+    },
+    {
+        "id":  "N4_Q_143",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「珍しい」の意味はどれですか？",
+        "options":  [
+                        "よく見る",
+                        "あまり見かけない・めったにない",
+                        "古い",
+                        "新しい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「珍しい」はなかなか見られない、希少な、珍しいという意味。rareに相当する。"
+    },
+    {
+        "id":  "N4_Q_144",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「面倒」の意味はどれですか？",
+        "options":  [
+                        "簡単",
+                        "楽しい",
+                        "手間がかかって嫌な感じ",
+                        "好き"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「面倒（くさい）」は手間がかかって煩わしい、やりたくないという気持ち。troublesome、botheringに相当する。"
+    },
+    {
+        "id":  "N4_Q_145",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「無理」の意味はどれですか？",
+        "options":  [
+                        "簡単",
+                        "可能",
+                        "不可能・無理がある",
+                        "努力すること"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「無理」は不可能であること、または無理があること。impossible、pushing too hardに相当する。"
+    },
+    {
+        "id":  "N4_Q_146",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「迷子」の意味はどれですか？",
+        "options":  [
+                        "道を知らないこと",
+                        "どこかわからない場所に一人になった子ども・人",
+                        "地図のない状態",
+                        "探し物をしている状態"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「迷子」は道に迷って一人になった子どもや人のこと。lost child、lost personに相当する。"
+    },
+    {
+        "id":  "N4_Q_147",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「湿度」の意味はどれですか？",
+        "options":  [
+                        "温度",
+                        "空気中の水分の量",
+                        "天気",
+                        "気圧"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「湿度」は空気中に含まれる水分の量・割合。humidityに相当する。日本の夏は高温多湿（湿度が高い）。"
+    },
+    {
+        "id":  "N4_Q_148",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「材料」の意味はどれですか？",
+        "options":  [
+                        "道具",
+                        "製品や料理を作るために必要なもの",
+                        "完成品",
+                        "設計図"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「材料」は何かを作るために必要な素材・原料のこと。ingredientsやmaterialsに相当する。"
+    },
+    {
+        "id":  "N4_Q_149",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「調味料」の意味はどれですか？",
+        "options":  [
+                        "料理道具",
+                        "食べ物の味を調えるもの",
+                        "食材",
+                        "レシピ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「調味料」は料理に使う塩・醤油・砂糖などの味付けのためのもの。condiments、seasoningsに相当する。"
+    },
+    {
+        "id":  "N4_Q_150",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「弁当」の意味はどれですか？",
+        "options":  [
+                        "外食",
+                        "持参する食事・お弁当",
+                        "給食",
+                        "定食"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「弁当」は容器に入れて持ち歩く食事のこと。lunch boxやbento boxに相当する。"
+    },
+    {
+        "id":  "N4_Q_151",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てもらえますか」と「〜てください」の違いは？",
+        "options":  [
+                        "同じ意味",
+                        "てもらえますか=より丁寧・婉曲",
+                        "てもらえますか=命令的",
+                        "意味が逆"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てもらえますか」は「てください」より婉曲で丁寧な依頼表現。相手の意志を尊重する形の頼み方。",
+        "linked_grammar_id":  "N4_G_072"
+    },
+    {
+        "id":  "N4_Q_152",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「___より日本語のほうが得意です」に入る語は？",
+        "options":  [
+                        "英語",
+                        "英語は",
+                        "英語に",
+                        "英語が"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「AよりBのほうが」の比較表現。「英語より日本語のほうが得意」はAが比較対象（より＝than）。",
+        "linked_grammar_id":  "N4_G_066"
+    },
+    {
+        "id":  "N4_Q_153",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「このクラスの中で___が一番背が高い」に入る語は？",
+        "options":  [
+                        "誰",
+                        "何",
+                        "どこ",
+                        "いつ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「の中で誰が一番」は人について最上級を尋ねる表現。「誰が一番」は人についての最上級の質問形式。",
+        "linked_grammar_id":  "N4_G_067"
+    },
+    {
+        "id":  "N4_Q_154",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「日本語が上手___ました」に入る語は？",
+        "options":  [
+                        "になり",
+                        "くなり",
+                        "にして",
+                        "くして"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "な形容詞・名詞の変化は「になる」を使う。「上手」はな形容詞なので「上手になる」となる。",
+        "linked_grammar_id":  "N4_G_068"
+    },
+    {
+        "id":  "N4_Q_155",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「春になって暖か___なりました」に入る語は？",
+        "options":  [
+                        "に",
+                        "く",
+                        "で",
+                        "が"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "い形容詞の変化は「くなる」を使う。「暖かい」はい形容詞なので「暖かくなる」となる。",
+        "linked_grammar_id":  "N4_G_068"
+    },
+    {
+        "id":  "N4_Q_156",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「申し上げる」の意味はどれですか？",
+        "options":  [
+                        "言うの普通形",
+                        "言うの尊敬語",
+                        "言うの謙譲語（最も丁寧）",
+                        "聞くの謙譲語"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「申し上げる」は「言う」の最も丁寧な謙譲語。「申す」より更に丁寧。ビジネスや改まった場面で使う。"
+    },
+    {
+        "id":  "N4_Q_157",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「存じる」の意味はどれですか？",
+        "options":  [
+                        "知るの普通形",
+                        "知る・思うの謙譲語",
+                        "知るの尊敬語",
+                        "考えるの普通形"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「存じる」は「知る・思う」の謙譲語。「存じております」は「知っています」の謙譲形。ビジネスでよく使う。"
+    },
+    {
+        "id":  "N4_Q_158",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「参る」の意味はどれですか？",
+        "options":  [
+                        "行く・来るの尊敬語",
+                        "行く・来るの謙譲語",
+                        "言うの謙譲語",
+                        "するの謙譲語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「参る」は「行く・来る」の謙譲語。「明日参ります」は「明日行きます」の謙譲表現。"
+    },
+    {
+        "id":  "N4_Q_159",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「おる」の意味はどれですか？",
+        "options":  [
+                        "いるの尊敬語",
+                        "いるの謙譲語",
+                        "行くの謙譲語",
+                        "来るの謙譲語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「おる」は「いる」の謙譲語。「私はここにおります」は「私はここにいます」の謙譲形。"
+    },
+    {
+        "id":  "N4_Q_160",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「なさる」の意味はどれですか？",
+        "options":  [
+                        "するの謙譲語",
+                        "するの尊敬語",
+                        "言うの尊敬語",
+                        "行くの尊敬語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「なさる」は「する」の尊敬語。「どうなさいますか」は「どうしますか」の尊敬表現。"
+    },
+    {
+        "id":  "N4_Q_161",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「くださる」の意味はどれですか？",
+        "options":  [
+                        "もらうの尊敬語",
+                        "くれるの尊敬語",
+                        "あげるの尊敬語",
+                        "もらうの謙譲語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「くださる」は「くれる」の尊敬語。「先生が教えてくださる」は「先生が教えてくれる」の尊敬形。"
+    },
+    {
+        "id":  "N4_Q_162",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「公害」の意味はどれですか？",
+        "options":  [
+                        "交通事故",
+                        "工業活動などによる環境汚染・健康被害",
+                        "自然災害",
+                        "犯罪"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「公害」は産業活動などによって引き起こされる大気・水・土壌の汚染など環境汚染の総称。pollutionに相当する。"
+    },
+    {
+        "id":  "N4_Q_163",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「植物」と「動物」の違いは？",
+        "options":  [
+                        "植物は動き、動物は動かない",
+                        "植物は根で育ち、動物は自ら動く",
+                        "どちらも同じ",
+                        "植物は食べられない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「植物（plants）」は土に根を張って育つ生き物、「動物（animals）」は自ら動く生き物。生物の基本的な分類。"
+    },
+    {
+        "id":  "N4_Q_164",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「地球」の意味はどれですか？",
+        "options":  [
+                        "地面",
+                        "月",
+                        "私たちが住んでいる惑星",
+                        "太陽"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「地球」は私たちが住む惑星のこと。Earthに相当する。「地球温暖化」（global warming）などに使う。"
+    },
+    {
+        "id":  "N4_Q_165",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「エネルギー」の意味はどれですか？",
+        "options":  [
+                        "食べ物",
+                        "動く力・仕事をする能力",
+                        "機械",
+                        "電気"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「エネルギー」（energy）は仕事をする能力・動力のこと。「再生可能エネルギー」（renewable energy）など。"
+    },
+    {
+        "id":  "N4_Q_166",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「騒がしい」の意味はどれですか？",
+        "options":  [
+                        "静かな",
+                        "うるさい・賑やかすぎる",
+                        "楽しい",
+                        "大きい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「騒がしい」はうるさくて落ち着かない状態。noisy、boisterousに相当する。"
+    },
+    {
+        "id":  "N4_Q_167",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「固い」と「柔らかい」はどんな関係ですか？",
+        "options":  [
+                        "類語",
+                        "反対語",
+                        "同義語",
+                        "無関係"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「固い（硬い）」はhardの意味。「柔らかい」はsoftの意味。互いに反対語の関係。"
+    },
+    {
+        "id":  "N4_Q_168",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「深い」の反対語はどれですか？",
+        "options":  [
+                        "低い",
+                        "浅い",
+                        "細い",
+                        "薄い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「深い」はdeepの意味。反対語は「浅い」（shallow）。「深い川」⇔「浅い川」の対義語関係。"
+    },
+    {
+        "id":  "N4_Q_169",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「細い」の反対語はどれですか？",
+        "options":  [
+                        "高い",
+                        "広い",
+                        "太い",
+                        "大きい"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「細い」はthin/slenderの意味。反対語は「太い」（thick/fat）。棒や体型などに使う。"
+    },
+    {
+        "id":  "N4_Q_170",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「真面目」の意味はどれですか？",
+        "options":  [
+                        "楽しい",
+                        "いい加減",
+                        "ふざけない・誠実である",
+                        "素直な"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「真面目」は誠実でふざけない、一生懸命の態度を指す。serious、sincereに相当する。"
+    },
+    {
+        "id":  "N4_Q_171",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「この問題は難し___でしょう」に入る語は？",
+        "options":  [
+                        "い",
+                        "く",
+                        "で",
+                        "さ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「でしょう」は普通形（い形容詞はそのまま）に接続。「難しいでしょう」は「難しいだろう」の丁寧形。",
+        "linked_grammar_id":  "N4_G_011"
+    },
+    {
+        "id":  "N4_Q_172",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「先生___ご指導いただきました」に入る語は？",
+        "options":  [
+                        "に",
+                        "を",
+                        "が",
+                        "で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ていただく」は「てもらう」の謙譲語。動作主（先生）に「に」を使う。「先生にいただく」の構造。",
+        "linked_grammar_id":  "N4_G_040"
+    },
+    {
+        "id":  "N4_Q_173",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「先生が丁寧に教えて___いました」に入る語は？",
+        "options":  [
+                        "あげ",
+                        "もらい",
+                        "くれ",
+                        "くださ"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「てくださる」は「てくれる」の尊敬語。目上の人が自発的に自分のためにしてくれた行為を表す。",
+        "linked_grammar_id":  "N4_G_041"
+    },
+    {
+        "id":  "N4_Q_174",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「まずこのボタンを押し___、次の画面が出ます（と）」に入る語は？",
+        "options":  [
+                        "たら",
+                        "と",
+                        "なら",
+                        "ば"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「と（自然条件）」は操作説明や必然的な結果を表す。「押すと出る」は操作→結果の自然な連鎖。",
+        "linked_grammar_id":  "N4_G_030"
+    },
+    {
+        "id":  "N4_Q_175",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「もっと練習すれ___上手になります」に入る語は？",
+        "options":  [
+                        "たら",
+                        "と",
+                        "なら",
+                        "ば"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「ば（仮定）」は「すれば→なる」という条件結果を表す。「練習すれば上手になる」は努力→結果の論理的条件。",
+        "linked_grammar_id":  "N4_G_029"
+    },
+    {
+        "id":  "N4_Q_176",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「新しいパソコンが___です」に入る語は？",
+        "options":  [
+                        "したい",
+                        "ほしい",
+                        "なりたい",
+                        "できたい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ほしい（名詞+が+ほしい）」はものを欲しいという第一人称の願望表現。「パソコンがほしい」は欲しいという感情。",
+        "linked_grammar_id":  "N4_G_070"
+    },
+    {
+        "id":  "N4_Q_177",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「もっと早く来て___です」に入る語は？",
+        "options":  [
+                        "したい",
+                        "ほしい",
+                        "なりたい",
+                        "あげたい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てほしい（動詞て形+ほしい）」は他者にして欲しいという願望。「来てほしい」は相手に来て欲しい。",
+        "linked_grammar_id":  "N4_G_071"
+    },
+    {
+        "id":  "N4_Q_178",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「今帰ってきた___です」に入る語は？",
+        "options":  [
+                        "まま",
+                        "ところ",
+                        "こと",
+                        "はず"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「た+ところ」は動作が完了した直後を表す。「帰ってきたところ」は今ちょうど帰ってきた瞬間。",
+        "linked_grammar_id":  "N4_G_081"
+    },
+    {
+        "id":  "N4_Q_179",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「雨が降っ___、試合が中止になりました（理由）」に入る語は？",
+        "options":  [
+                        "ので",
+                        "て",
+                        "てから",
+                        "ても"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜て（理由）」は動詞のて形が前後の出来事を結ぶ場合、理由や原因を表す。「降って中止」は雨が原因。"
+    },
+    {
+        "id":  "N4_Q_180",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「田中さんと___くらい背が高い」に入る語は？",
+        "options":  [
+                        "より",
+                        "ほど",
+                        "同じ",
+                        "だけ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「と同じくらい」は同程度の比較表現。「田中さんと同じくらい高い」は田中さんと同じ程度の高さ。",
+        "linked_grammar_id":  "N4_G_090"
+    },
+    {
+        "id":  "N4_Q_181",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「素直」の意味はどれですか？",
+        "options":  [
+                        "正直で反抗しない・おとなしい",
+                        "意地悪な",
+                        "賢い",
+                        "強い"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「素直」は正直で反抗せずに人の言うことを聞く素直な性格。obedient、honest、straightforwardに相当する。"
+    },
+    {
+        "id":  "N4_Q_182",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「熱心」の意味はどれですか？",
+        "options":  [
+                        "熱い気持ち",
+                        "なんとなくやること",
+                        "一生懸命・情熱的に取り組む",
+                        "楽しむこと"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「熱心」は情熱的・意欲的に取り組む様子。enthusiastic、devotedin相当する。「熱心に勉強する」。"
+    },
+    {
+        "id":  "N4_Q_183",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「偉い」の意味はどれですか？",
+        "options":  [
+                        "大きい",
+                        "地位が高い・すごい",
+                        "古い",
+                        "難しい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「偉い」は社会的に優れている、偉大である、または（子どもに）よくやったという意味。great、respectedに相当する。"
+    },
+    {
+        "id":  "N4_Q_184",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「賢い」の意味はどれですか？",
+        "options":  [
+                        "力が強い",
+                        "頭がいい・賢明な",
+                        "体が丈夫な",
+                        "器用な"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「賢い」は頭が良く、判断力がある。smart、cleverに相当する。「賢い選択」は賢明な選択。"
+    },
+    {
+        "id":  "N4_Q_185",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「印象」の意味はどれですか？",
+        "options":  [
+                        "文書",
+                        "人・物に対する感じ・イメージ",
+                        "成績",
+                        "特徴"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「印象」は人や物に対して感じるイメージや感想。impressionに相当する。「第一印象が良い」。"
+    },
+    {
+        "id":  "N4_Q_186",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「性格」の意味はどれですか？",
+        "options":  [
+                        "外見",
+                        "知識",
+                        "その人の持つ心の特徴",
+                        "才能"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「性格」はその人が持つ心の特徴・性質。personality、characterに相当する。"
+    },
+    {
+        "id":  "N4_Q_187",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「地味」の反対語はどれですか？",
+        "options":  [
+                        "静か",
+                        "素直",
+                        "賢い",
+                        "派手"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「地味」はsimple、plainの意味。反対語は「派手」（flamboyant、flashy）。"
+    },
+    {
+        "id":  "N4_Q_188",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「快適」の意味はどれですか？",
+        "options":  [
+                        "不便",
+                        "心地よい・快適な",
+                        "危険な",
+                        "複雑な"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「快適」は気分が良く心地よい状態。comfortable、pleasantに相当する。「快適な生活」。"
+    },
+    {
+        "id":  "N4_Q_189",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「清潔」の反対語はどれですか？",
+        "options":  [
+                        "散らかった",
+                        "不潔",
+                        "暗い",
+                        "遅い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「清潔」はclean、hygienic の意味。反対語は「不潔」（dirty、unhygienic）。"
+    },
+    {
+        "id":  "N4_Q_190",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「立派」の意味はどれですか？",
+        "options":  [
+                        "普通の",
+                        "非常に優れている・りっぱな",
+                        "小さい",
+                        "古い"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「立派」は非常に優れていて見事な状態。splendid、magnificentに相当する。「立派な社会人」。"
+    },
+    {
+        "id":  "N4_Q_191",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ここで写真を撮っては___」に入る語は？",
+        "options":  [
+                        "いい",
+                        "いけない",
+                        "できる",
+                        "なりたい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てはいけない」は禁止を表す。「撮ってはいけない」は写真を撮ることを禁止する表現。",
+        "linked_grammar_id":  "N4_G_083"
+    },
+    {
+        "id":  "N4_Q_192",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「明日は晴れる___」に入る語は？（推量）",
+        "options":  [
+                        "はずだ",
+                        "でしょう",
+                        "つもりだ",
+                        "ようにする"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「でしょう」は推量を表す。「晴れるでしょう」は天気予報でよく使われる推量の表現。",
+        "linked_grammar_id":  "N4_G_011"
+    },
+    {
+        "id":  "N4_Q_193",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「このケーキはおいし___です」（見た目から）に入る語は？",
+        "options":  [
+                        "ようだ",
+                        "そう",
+                        "らしい",
+                        "はず"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「そうだ（様子）」は外見からの推測。い形容詞の場合「い」を取って「そうだ」を付ける。「おいしそう」。",
+        "linked_grammar_id":  "N4_G_008"
+    },
+    {
+        "id":  "N4_Q_194",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「彼は来年結婚する___です（人から聞いた）」に入る語は？",
+        "options":  [
+                        "ようだ",
+                        "そう",
+                        "らしい",
+                        "はず"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「らしい」は伝聞・外部情報に基づく推断。人から聞いた情報に基づく場合は「らしい」を使う。",
+        "linked_grammar_id":  "N4_G_007"
+    },
+    {
+        "id":  "N4_Q_195",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ご飯を食べ___散歩します（前後関係）」に入る語は？",
+        "options":  [
+                        "てから",
+                        "ながら",
+                        "ても",
+                        "のに"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てから」は動作の時間的順序を表す。食べてから→散歩という順序を示す。",
+        "linked_grammar_id":  "N4_G_060"
+    },
+    {
+        "id":  "N4_Q_196",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「日本語を勉強する___辞書が必要です（目的）」に入る語は？",
+        "options":  [
+                        "ため",
+                        "のに",
+                        "てから",
+                        "のため"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「のに（目的）」は動詞辞書形+のにで「〜するために必要」という目的・用途の表現に使う。",
+        "linked_grammar_id":  "N4_G_069"
+    },
+    {
+        "id":  "N4_Q_197",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「日本語が上手になった___です（直接見た感じ）」に入る語は？",
+        "options":  [
+                        "ようだ",
+                        "らしい",
+                        "そうだ（伝聞）",
+                        "はずだ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ようだ」は直接の観察や感知に基づく推断。本人の様子を見て判断する場合に使う。",
+        "linked_grammar_id":  "N4_G_006"
+    },
+    {
+        "id":  "N4_Q_198",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「___ によって考え方が違います」に入る語は？",
+        "options":  [
+                        "場所",
+                        "人",
+                        "時間",
+                        "もの"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「によって」は原因・手段・差異を表す。「人によって違う」は人それぞれ異なるという表現。",
+        "linked_grammar_id":  "N4_G_053"
+    },
+    {
+        "id":  "N4_Q_199",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「彼女は英語___でなく中国語も話します」に入る語は？",
+        "options":  [
+                        "しか",
+                        "だけ",
+                        "ばかり",
+                        "のみ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「だけでなく」は「not only...but also」の表現。「英語だけでなく中国語も」は英語に加えて中国語も話せる。",
+        "linked_grammar_id":  "N4_G_056"
+    },
+    {
+        "id":  "N4_Q_200",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「急に子どもが泣き___しました」に入る語は？",
+        "options":  [
+                        "始め",
+                        "続け",
+                        "終わり",
+                        "だし"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「出す」は突然の動作開始を表す。「泣き出す」は突然泣き始めること。「始める」より突然性が強い。",
+        "linked_grammar_id":  "N4_G_048"
+    },
+    {
+        "id":  "N4_Q_201",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「引っ越す」の意味はどれですか？",
+        "options":  [
+                        "旅行すること",
+                        "住む場所を変えること",
+                        "海外に移住すること",
+                        "仕事を変えること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「引っ越す」は住居を変えること、移転すること。to moveに相当する。「来月引っ越します」は来月引越しをすること。"
+    },
+    {
+        "id":  "N4_Q_202",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「家賃」の意味はどれですか？",
+        "options":  [
+                        "家を買う値段",
+                        "家を借りる月々の料金",
+                        "ローンの返済",
+                        "税金"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「家賃」は賃貸住宅を借りるために毎月払う料金。rentに相当する。"
+    },
+    {
+        "id":  "N4_Q_203",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「マンション」はどんな建物ですか？",
+        "options":  [
+                        "木造の一戸建て",
+                        "鉄筋コンクリートの集合住宅",
+                        "古い日本家屋",
+                        "ホテル"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「マンション」は鉄筋コンクリート建ての集合住宅（比較的高級なもの）。apartment buildingに相当する。"
+    },
+    {
+        "id":  "N4_Q_204",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「アパート」と「マンション」の違いは？",
+        "options":  [
+                        "アパートは大きく、マンションは小さい",
+                        "アパートは木造・軽量鉄骨が多く、マンションはRC造が多い",
+                        "同じ意味",
+                        "アパートは家族向け、マンションは単身向け"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「アパート」は木造・軽量鉄骨の集合住宅。「マンション」は鉄筋コンクリート（RC）や鉄骨RC造の集合住宅。"
+    },
+    {
+        "id":  "N4_Q_205",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「確認する」の意味はどれですか？",
+        "options":  [
+                        "否定する",
+                        "間違いないか調べること",
+                        "許可すること",
+                        "変更すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「確認する」は間違いがないか確かめること。to confirmに相当する。「予約を確認する」。"
+    },
+    {
+        "id":  "N4_Q_206",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「申し込む」の意味はどれですか？",
+        "options":  [
+                        "断ること",
+                        "正式に申請・登録すること",
+                        "提出すること",
+                        "取り消すこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「申し込む」は正式に申請・登録・応募すること。to apply for、to sign up forに相当する。"
+    },
+    {
+        "id":  "N4_Q_207",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「記入する」の意味はどれですか？",
+        "options":  [
+                        "書いたものを消すこと",
+                        "書類などに必要な事項を書き入れること",
+                        "確認すること",
+                        "提出すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「記入する」は書類・フォームなどに必要な情報を書き入れること。to fill inに相当する。"
+    },
+    {
+        "id":  "N4_Q_208",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「手続き」の意味はどれですか？",
+        "options":  [
+                        "手を使う作業",
+                        "正式な手順・プロセス",
+                        "書類",
+                        "手紙"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「手続き」は公式な申請・登録・処理の手順のこと。procedureに相当する。「入学手続き」。"
+    },
+    {
+        "id":  "N4_Q_209",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「書類」の意味はどれですか？",
+        "options":  [
+                        "本",
+                        "公式の文書・書類",
+                        "メモ",
+                        "ノート"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「書類」は公式な文書・ドキュメントのこと。documentsに相当する。「書類を提出する」。"
+    },
+    {
+        "id":  "N4_Q_210",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「担当」の意味はどれですか？",
+        "options":  [
+                        "責任を持って担う人・分野",
+                        "管理者",
+                        "リーダー",
+                        "専門家"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「担当」はある業務・分野を責任もって受け持つこと、またはその人。person in chargeに相当する。"
+    },
+    {
+        "id":  "N4_Q_211",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「同僚」の意味はどれですか？",
+        "options":  [
+                        "上司",
+                        "部下",
+                        "同じ職場で働く仲間",
+                        "先輩"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「同僚」は同じ職場・職位で働く仲間。colleagueに相当する。"
+    },
+    {
+        "id":  "N4_Q_212",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「留学」の意味はどれですか？",
+        "options":  [
+                        "外国旅行",
+                        "外国の学校に通い学ぶこと",
+                        "外国で働くこと",
+                        "外国語を学ぶこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「留学」は外国の教育機関で学ぶこと。studying abroadに相当する。「日本に留学する」。"
+    },
+    {
+        "id":  "N4_Q_213",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「参考書」の意味はどれですか？",
+        "options":  [
+                        "授業の教科書",
+                        "勉強の参考にする本",
+                        "図書館の本",
+                        "日記"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「参考書」は勉強の参考にするために使う本・補助教材。study guide、reference bookに相当する。"
+    },
+    {
+        "id":  "N4_Q_214",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「研修」の意味はどれですか？",
+        "options":  [
+                        "大学の授業",
+                        "職場での実務訓練・研修",
+                        "学校の試験",
+                        "旅行"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「研修」は職業技術や知識を習得するための訓練・研修。trainingに相当する。「新入社員研修」。"
+    },
+    {
+        "id":  "N4_Q_215",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「資格」の意味はどれですか？",
+        "options":  [
+                        "性格",
+                        "能力を証明する公式な認定",
+                        "趣味",
+                        "知識"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「資格」は試験などによって認められた能力・条件の証明。qualificationに相当する。「JLPT資格」。"
+    },
+    {
+        "id":  "N4_Q_216",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「症状」の意味はどれですか？",
+        "options":  [
+                        "薬の種類",
+                        "病気の外から見える状態・徴候",
+                        "治療法",
+                        "病院の名前"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「症状」は病気や異常の外に現れる状態・徴候。symptomに相当する。「症状を説明する」。"
+    },
+    {
+        "id":  "N4_Q_217",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「検査」の意味はどれですか？",
+        "options":  [
+                        "治療",
+                        "問題がないか調べること",
+                        "薬を飲むこと",
+                        "手術"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「検査」は病気や異常を調べること。medical check、examinationに相当する。「血液検査」。"
+    },
+    {
+        "id":  "N4_Q_218",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「アレルギー」の意味はどれですか？",
+        "options":  [
+                        "病気の名前",
+                        "特定の物質に対する過敏な体の反応",
+                        "薬の副作用",
+                        "ストレス"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「アレルギー」（allergy）は特定の物質（食べ物・花粉など）に対する体の過剰な免疫反応。"
+    },
+    {
+        "id":  "N4_Q_219",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「体重」の意味はどれですか？",
+        "options":  [
+                        "体の高さ",
+                        "体の重さ",
+                        "体の大きさ",
+                        "体の丈夫さ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「体重」は体の重さ。body weightに相当する。「体重を測る」は体重を計ること。"
+    },
+    {
+        "id":  "N4_Q_220",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「治る」の意味はどれですか？",
+        "options":  [
+                        "病気・傷が悪化すること",
+                        "病気・傷が元の状態に戻ること",
+                        "薬を飲むこと",
+                        "病院に行くこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「治る」は病気や傷が回復して元の健康状態に戻ること。to healに相当する自動詞。"
+    },
+    {
+        "id":  "N4_Q_221",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ようだ」と「〜らしい」の主な違いは？",
+        "options":  [
+                        "全く同じ意味",
+                        "ようだ=直接観察に基づく推断、らしい=外部情報に基づく推断",
+                        "ようだ=外部情報、らしい=直接観察",
+                        "どちらも使えない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ようだ」は直接見た・感じたことから推断。「らしい」は人から聞いた・読んだ等、外部情報に基づく推断。",
+        "linked_grammar_id":  "N4_G_006"
+    },
+    {
+        "id":  "N4_Q_222",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「受身（られる）」と「尊敬（られる）」の見分け方は？",
+        "options":  [
+                        "接続が違う",
+                        "文脈・意味で判断（される=受身、先生がされる=尊敬）",
+                        "形が違う",
+                        "どちらも同じ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「られる」は文脈で判断。主語が動作を受ける→受身。主語が尊敬する対象で動作をする→尊敬。",
+        "linked_grammar_id":  "N4_G_018"
+    },
+    {
+        "id":  "N4_Q_223",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ていただく」と「てもらう」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ていただく=謙譲語（目上向け）、てもらう=普通の言い方",
+                        "逆の意味",
+                        "使う場面が違うだけで意味は同じ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ていただく」は「てもらう」の謙譲語。目上・上司・お客様など地位の高い人に使う丁寧な表現。",
+        "linked_grammar_id":  "N4_G_040"
+    },
+    {
+        "id":  "N4_Q_224",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「使役（させる）」の文で誰が動作をするか？",
+        "options":  [
+                        "主語が動作をする",
+                        "目的語（〜を/に）が動作をする",
+                        "どちらもする",
+                        "誰もしない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "使役文では「させる」の目的語（〜を/〜に）が実際の動作をする。「子どもに食べさせる」→子どもが食べる。",
+        "linked_grammar_id":  "N4_G_019"
+    },
+    {
+        "id":  "N4_Q_225",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てしまう」の二つの意味は？",
+        "options":  [
+                        "開始と終了",
+                        "完了と残念・遺憾",
+                        "継続と中断",
+                        "目的と理由"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てしまう」には①完全に終わった（完了）と②残念・意外（遺憾）の意味がある。「食べてしまった」は両方の解釈が可能。",
+        "linked_grammar_id":  "N4_G_080"
+    },
+    {
+        "id":  "N4_Q_226",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ておく」の主な意味は？",
+        "options":  [
+                        "完了",
+                        "事前準備・後のための行動",
+                        "試行",
+                        "習慣"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ておく」は将来に備えて事前に準備しておくこと。「予約しておく」「準備しておく」などに使う。",
+        "linked_grammar_id":  "N4_G_078"
+    },
+    {
+        "id":  "N4_Q_227",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てみる」の主な意味は？",
+        "options":  [
+                        "完了",
+                        "継続",
+                        "試し・試行",
+                        "見ること"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「てみる」は「試しにやってみる」という試行・探索の意味。「食べてみる」は試食すること。",
+        "linked_grammar_id":  "N4_G_079"
+    },
+    {
+        "id":  "N4_Q_228",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てある」は主に何動詞と使いますか？",
+        "options":  [
+                        "自動詞",
+                        "他動詞",
+                        "形容詞",
+                        "名詞"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てある」は他動詞と使う。意図的な行為の結果が残っている状態を表す。「書いてある」「開けてある」など。",
+        "linked_grammar_id":  "N4_G_077"
+    },
+    {
+        "id":  "N4_Q_229",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ます形（去ます）+やすい」の例として正しいのは？",
+        "options":  [
+                        "食べやすい",
+                        "食べるやすい",
+                        "食べてやすい",
+                        "食べのやすい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「やすい」は「動詞ます形（去ます）+やすい」の形。「食べます→食べ+やすい→食べやすい」。",
+        "linked_grammar_id":  "N4_G_043"
+    },
+    {
+        "id":  "N4_Q_230",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜すぎる」のい形容詞への接続は？",
+        "options":  [
+                        "おいしいすぎる",
+                        "おいしくすぎる",
+                        "おいしすぎる",
+                        "おいしさすぎる"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「すぎる」はい形容詞の「い」を取って接続。「おいしい→おいし+すぎる→おいしすぎる」。",
+        "linked_grammar_id":  "N4_G_065"
+    },
+    {
+        "id":  "N4_Q_231",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「比べる」の同義語として使える語はどれですか？",
+        "options":  [
+                        "合わせる",
+                        "対比する",
+                        "混ぜる",
+                        "並べる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「比べる」と「対比する」はほぼ同じ意味。ただし「対比する」はより学術的・書面的な表現。"
+    },
+    {
+        "id":  "N4_Q_232",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「そのまま」の意味はどれですか？",
+        "options":  [
+                        "少し変えて",
+                        "全部変えて",
+                        "何も変えずに現在の状態で",
+                        "ゆっくりと"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「そのまま」は変更や手を加えずに現状の状態で行うこと。as isに相当する。"
+    },
+    {
+        "id":  "N4_Q_233",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「なんとなく」の意味はどれですか？",
+        "options":  [
+                        "明確な理由から",
+                        "はっきりとした理由なく・ぼんやりと",
+                        "全く",
+                        "きっと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「なんとなく」は明確な理由・根拠なくぼんやりと感じること。somehowに相当する。"
+    },
+    {
+        "id":  "N4_Q_234",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「しかし」の意味と用法は？",
+        "options":  [
+                        "理由を示す",
+                        "前の内容と反対の内容を続ける接続詞",
+                        "追加情報を示す",
+                        "時間を示す"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「しかし」は前の文の内容と対立・反対の内容を続ける接続詞。Howeverに相当する。"
+    },
+    {
+        "id":  "N4_Q_235",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「つまり」の意味はどれですか？",
+        "options":  [
+                        "しかし",
+                        "さらに",
+                        "言い換えれば・要するに",
+                        "したがって"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「つまり」は前の内容を言い換え・要約する接続詞。in other words、that is to sayに相当する。"
+    },
+    {
+        "id":  "N4_Q_236",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「ところが」の意味はどれですか？",
+        "options":  [
+                        "そして",
+                        "しかし（予想外の結果）",
+                        "なぜなら",
+                        "したがって"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ところが」は期待に反した、予想外の結果を導く逆接接続詞。However（unexpected contrast）に相当する。「しかし」より予想外感が強い。"
+    },
+    {
+        "id":  "N4_Q_237",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「それでも」の意味はどれですか？",
+        "options":  [
+                        "その理由で",
+                        "それにもかかわらず・それでもやはり",
+                        "その後",
+                        "その代わり"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「それでも」はそのような状況にもかかわらず、という強い逆接。Nevertheless、even soに相当する。"
+    },
+    {
+        "id":  "N4_Q_238",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「特に」の意味はどれですか？",
+        "options":  [
+                        "普通に",
+                        "一般的に",
+                        "とりわけ・特別に",
+                        "少し"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「特に」はとりわけ・特別にという意味。especially、in particularに相当する。"
+    },
+    {
+        "id":  "N4_Q_239",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「ちゃんと」の意味はどれですか？",
+        "options":  [
+                        "いい加減に",
+                        "きちんと・正しく",
+                        "少しだけ",
+                        "急いで"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ちゃんと」はきちんと、しっかりとという意味。properly、correctlyに相当する。"
+    },
+    {
+        "id":  "N4_Q_240",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「プレゼン」は何の略語ですか？",
+        "options":  [
+                        "プレゼント",
+                        "プレゼンテーション",
+                        "プレス",
+                        "プレビュー"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「プレゼン」は「プレゼンテーション」の略語。発表・提示・説明のこと。presentationの略。"
+    },
+    {
+        "id":  "N4_Q_241",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「ミーティング」の意味はどれですか？",
+        "options":  [
+                        "会食",
+                        "打ち合わせ・会議",
+                        "研修",
+                        "出張"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ミーティング」（meeting）は話し合い・打ち合わせ・会議のこと。「会議」のカタカナ語。"
+    },
+    {
+        "id":  "N4_Q_242",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「スケジュール」の意味はどれですか？",
+        "options":  [
+                        "目標",
+                        "予定表・時程",
+                        "報告書",
+                        "書類"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「スケジュール」（schedule）は日程・予定表のこと。"
+    },
+    {
+        "id":  "N4_Q_243",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「プロジェクト」の意味はどれですか？",
+        "options":  [
+                        "提案書",
+                        "特定の目的を持つ計画・事業",
+                        "部署",
+                        "会議"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「プロジェクト」（project）は特定の目的を達成するための計画・事業のこと。"
+    },
+    {
+        "id":  "N4_Q_244",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「受け取る」の意味はどれですか？",
+        "options":  [
+                        "渡すこと",
+                        "送ること",
+                        "受け渡しで受け取ること",
+                        "断ること"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「受け取る」は渡されたものを受け取ること。to receiveに相当する。「渡す」の反対。"
+    },
+    {
+        "id":  "N4_Q_245",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「信じる」の意味はどれですか？",
+        "options":  [
+                        "疑う",
+                        "本当だと思う・信頼する",
+                        "調べる",
+                        "考える"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「信じる」は本当だと思う、信頼すること。to believe、to trustに相当する。"
+    },
+    {
+        "id":  "N4_Q_246",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「迎える」の意味はどれですか？",
+        "options":  [
+                        "出発すること",
+                        "来た人を受け入れること",
+                        "別れること",
+                        "待つこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「迎える」は来た人を受け入れること。to welcome、to greetに相当する。「見送る」の反対。"
+    },
+    {
+        "id":  "N4_Q_247",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「通う」の意味はどれですか？",
+        "options":  [
+                        "歩くこと",
+                        "定期的に行き来すること",
+                        "旅行すること",
+                        "移住すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「通う」は学校や職場などに定期的に行き来すること。to commute、to attendに相当する。"
+    },
+    {
+        "id":  "N4_Q_248",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「得る」の意味はどれですか？",
+        "options":  [
+                        "失うこと",
+                        "手に入れること",
+                        "渡すこと",
+                        "借りること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「得る（える）」は手に入れること、獲得すること。to obtainに相当する。「失う」の反対。"
+    },
+    {
+        "id":  "N4_Q_249",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「失う」の意味はどれですか？",
+        "options":  [
+                        "手に入れること",
+                        "持っていたものがなくなること",
+                        "忘れること",
+                        "使うこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「失う」は所有していたものを失うこと。to loseに相当する。「得る」の反対。"
+    },
+    {
+        "id":  "N4_Q_250",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「断言する」の意味はどれですか？",
+        "options":  [
+                        "断ること",
+                        "はっきりと言い切ること",
+                        "曖昧に言うこと",
+                        "否定すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「断言する」はためらいなくはっきり言い切ること。to assert、to state definitivelyに相当する。"
+    },
+    {
+        "id":  "N4_Q_251",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜の中で〜が一番〜」の使い方として正しいのは？",
+        "options":  [
+                        "三者以上の比較",
+                        "二者の比較",
+                        "同等比較",
+                        "否定比較"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「〜の中で一番」は三つ以上の中での最上級比較に使う。二者比較には「〜より〜のほうが」を使う。",
+        "linked_grammar_id":  "N4_G_067"
+    },
+    {
+        "id":  "N4_Q_252",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「AよりBのほうが」の使い方は？",
+        "options":  [
+                        "三者以上の比較",
+                        "二者の比較",
+                        "同等比較",
+                        "否定比較"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「AよりBのほうが〜だ」は二者（AとB）を比較して、Bの方が〜という表現。",
+        "linked_grammar_id":  "N4_G_066"
+    },
+    {
+        "id":  "N4_Q_253",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「い形容詞のくなる」の例は？",
+        "options":  [
+                        "きれいになる",
+                        "高くなる",
+                        "静かになる",
+                        "元気になる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「高い（い形容詞）→高くなる」がい形容詞の変化。「きれい・静か・元気」はな形容詞で「になる」を使う。",
+        "linked_grammar_id":  "N4_G_068"
+    },
+    {
+        "id":  "N4_Q_254",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ながら」で二つの動作の主語は？",
+        "options":  [
+                        "違う人でもよい",
+                        "必ず同じ人",
+                        "どちらでもよい",
+                        "二人以上"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ながら」は同時動作を表すため、二つの動作の主語は必ず同じ人（または同じ主体）でなければならない。",
+        "linked_grammar_id":  "N4_G_064"
+    },
+    {
+        "id":  "N4_Q_255",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜前に」の動詞の時制は？",
+        "options":  [
+                        "た形",
+                        "ている形",
+                        "辞書形",
+                        "ます形"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「前に」は動詞の辞書形に接続する。「寝る前に」「行く前に」のように、辞書形+前に。",
+        "linked_grammar_id":  "N4_G_062"
+    },
+    {
+        "id":  "N4_Q_256",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜たことがある」と「〜ことがある（辞書形）」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "たことがある=過去経験、ことがある=時々あること",
+                        "逆の意味",
+                        "時制のみ違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「たことがある」は経験を表し（日本に行ったことがある）、「ことがある（辞書形）」は時々起こること（食べないことがある）。",
+        "linked_grammar_id":  "N4_G_063"
+    },
+    {
+        "id":  "N4_Q_257",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ば〜ほど」の文型を使った正しい例は？",
+        "options":  [
+                        "食べるほど痩せる",
+                        "食べれば食べるほど太る",
+                        "食べたほど太った",
+                        "食べてほど太る"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ば〜ほど」は「〜すれば〜するほど」という比例的な変化を表す。「食べれば食べるほど太る」が正しい形。",
+        "linked_grammar_id":  "N4_G_035"
+    },
+    {
+        "id":  "N4_Q_258",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「どうせ」の正しい使い方はどれですか？",
+        "options":  [
+                        "どうせ成功する（期待）",
+                        "どうせ失敗する（諦め）",
+                        "どうせきれいだ（褒め）",
+                        "どうせ正しい（確信）"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「どうせ」は諦め・自虐的な見通しに使う。「どうせ失敗する」はあきらめた気持ちで言う表現。"
+    },
+    {
+        "id":  "N4_Q_259",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜場合は」と「〜際には」の違いは？",
+        "options":  [
+                        "同じ",
+                        "場合は=日常、際には=より正式・書面的",
+                        "場合は=書面、際には=口語",
+                        "どちらも口語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「場合は」は普通の表現。「際には」はより改まった正式な表現で、案内文やビジネス文書でよく使う。",
+        "linked_grammar_id":  "N4_G_059"
+    },
+    {
+        "id":  "N4_Q_260",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「尊敬語」と「謙譲語」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "尊敬語=相手の行動を高める、謙譲語=自分の行動を低める",
+                        "逆の意味",
+                        "どちらも丁寧語"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "尊敬語は相手や話題の人の行動を高めて言う表現。謙譲語は自分の行動を低めて言う表現。",
+        "linked_grammar_id":  "N4_G_049"
+    },
+    {
+        "id":  "N4_Q_261",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「感謝」の意味はどれですか？",
+        "options":  [
+                        "怒り",
+                        "ありがたいと思う気持ち",
+                        "悲しみ",
+                        "後悔"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「感謝」はありがたいと感じる気持ち・行動。gratitudeに相当する。「感謝する（感謝します）」。"
+    },
+    {
+        "id":  "N4_Q_262",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「信頼」の意味はどれですか？",
+        "options":  [
+                        "疑い",
+                        "心から信じて頼ること",
+                        "確認",
+                        "観察"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「信頼」は心から信じて頼ること。trust、relianceに相当する。「信頼できる人」。"
+    },
+    {
+        "id":  "N4_Q_263",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「不安」の意味はどれですか？",
+        "options":  [
+                        "安心した状態",
+                        "これからのことが心配で落ち着かない状態",
+                        "怒り",
+                        "満足"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「不安」は先のことが心配で落ち着かない気持ち。anxiety、uneasinessに相当する。"
+    },
+    {
+        "id":  "N4_Q_264",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「緊張」の意味はどれですか？",
+        "options":  [
+                        "リラックスした状態",
+                        "気持ちや体が張り詰めた状態",
+                        "眠い状態",
+                        "怒った状態"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「緊張」は大事な場面・プレッシャーなどで心身が張り詰めた状態。tension、nervousnessに相当する。"
+    },
+    {
+        "id":  "N4_Q_265",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「失望」の意味はどれですか？",
+        "options":  [
+                        "期待以上の結果",
+                        "期待が裏切られた落胆",
+                        "怒り",
+                        "驚き"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「失望」は期待が裏切られたことによる落胆・がっかりした気持ち。disappointmentに相当する。"
+    },
+    {
+        "id":  "N4_Q_266",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「尊敬」の意味はどれですか？",
+        "options":  [
+                        "嫉妬する気持ち",
+                        "優れた人・尊い人を敬う気持ち",
+                        "羨む気持ち",
+                        "恨む気持ち"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「尊敬」は優れた人・尊い人を心から敬う気持ち・行動。respectに相当する。"
+    },
+    {
+        "id":  "N4_Q_267",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「幸せ」の意味はどれですか？",
+        "options":  [
+                        "辛い状態",
+                        "心から満ち足りた状態",
+                        "不満な状態",
+                        "不安な状態"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「幸せ」は心から満ち足りて幸福な状態。happinessに相当する。「不幸」の反対。"
+    },
+    {
+        "id":  "N4_Q_268",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「相撲」はどんなスポーツですか？",
+        "options":  [
+                        "球技",
+                        "二人の力士が組み合って勝負する日本の武道",
+                        "水泳",
+                        "格闘技（外国）"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「相撲」は二人の力士が土俵の上で組み合い、相手を倒すか外に出した方が勝つ日本の国技。"
+    },
+    {
+        "id":  "N4_Q_269",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「歌舞伎」はどんな芸術ですか？",
+        "options":  [
+                        "音楽のみ",
+                        "舞踊のみ",
+                        "音楽・舞踊・演技が一体となった日本の伝統演劇",
+                        "絵画"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「歌舞伎」は音楽・舞踊・演技（セリフ）が融合した江戸時代から続く日本の伝統演劇。"
+    },
+    {
+        "id":  "N4_Q_270",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「年齢」の意味はどれですか？",
+        "options":  [
+                        "体の大きさ",
+                        "生まれてからの年数",
+                        "身長",
+                        "体重"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「年齢」は生まれてから現在までの年数。ageに相当する。「年齢を聞く」はageを尋ねること。"
+    },
+    {
+        "id":  "N4_Q_271",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜て形+もらえますか」と「〜て形+くれませんか」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "もらえますか=やや丁寧、くれませんか=対等・親しい",
+                        "くれませんか=丁寧",
+                        "どちらも使えない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てもらえますか」はやや丁寧な依頼。「てくれませんか」は対等・親しい関係での依頼。両方婉曲だが使う相手が違う。",
+        "linked_grammar_id":  "N4_G_073"
+    },
+    {
+        "id":  "N4_Q_272",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜のだ／んだ」の主な働きは？",
+        "options":  [
+                        "推量",
+                        "説明・理由付け",
+                        "禁止",
+                        "命令"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「のだ（んだ）」は話し手の理解・説明・強調を表す。「どうしたんですか」は理由を求める、「〜からなんです」は理由説明。",
+        "linked_grammar_id":  "N4_G_023"
+    },
+    {
+        "id":  "N4_Q_273",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜という」の例として正しいのは？",
+        "options":  [
+                        "田中という人が来た",
+                        "田中はという人が来た",
+                        "田中のという人が来た",
+                        "田中でという人が来た"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「〜という+名詞」はその名前・称号を持つものを指す表現。「田中という人」は田中という名の人。",
+        "linked_grammar_id":  "N4_G_085"
+    },
+    {
+        "id":  "N4_Q_274",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ばかり（動詞て形+ばかり）」の意味は？",
+        "options":  [
+                        "〜したばかり（直後）",
+                        "〜ばかりしている（過度・偏り）",
+                        "〜ばかりか（追加）",
+                        "どれでも同じ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「動詞て形+ばかり（いる）」は一つの事ばかりしている過度・偏りを表す。「遊んでばかりいる」は遊ぶことしかしていない。",
+        "linked_grammar_id":  "N4_G_034"
+    },
+    {
+        "id":  "N4_Q_275",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜について」と「〜に関して」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ついて=日常的、に関して=より正式・書面的",
+                        "逆の意味",
+                        "使う名詞が違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「について」は日常・会話でよく使う。「に関して」は改まった・書面的な場面で使う。内容は類似。",
+        "linked_grammar_id":  "N4_G_055"
+    },
+    {
+        "id":  "N4_Q_276",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「進学」の意味はどれですか？",
+        "options":  [
+                        "転校すること",
+                        "上の段階の学校に進むこと",
+                        "学校をやめること",
+                        "留学すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「進学」は学校を卒業して上の段階の学校（高校→大学など）に進むこと。"
+    },
+    {
+        "id":  "N4_Q_277",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「卒業」の意味はどれですか？",
+        "options":  [
+                        "入学すること",
+                        "学業を終えて学校を出ること",
+                        "休学すること",
+                        "転学すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「卒業」は学校の課程を終えて学校を出ること。graduationに相当する。「入学」の反対。"
+    },
+    {
+        "id":  "N4_Q_278",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「提出する」の意味はどれですか？",
+        "options":  [
+                        "受け取ること",
+                        "書類・作品などを差し出すこと",
+                        "確認すること",
+                        "申し込むこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「提出する」は書類やレポートなどを指定の場所・人に差し出すこと。to submitに相当する。"
+    },
+    {
+        "id":  "N4_Q_279",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「報告」の意味はどれですか？",
+        "options":  [
+                        "相談すること",
+                        "結果や状況を上位の人に知らせること",
+                        "許可を求めること",
+                        "命令すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「報告」は仕事や調査の結果・状況を上位の人に知らせること。reportに相当する。"
+    },
+    {
+        "id":  "N4_Q_280",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「発表」の意味はどれですか？",
+        "options":  [
+                        "秘密にすること",
+                        "広く人々に知らせること",
+                        "調べること",
+                        "考えること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「発表」は研究・意見・情報などを広く知らせること、またはプレゼンのこと。presentationに相当する。"
+    },
+    {
+        "id":  "N4_Q_281",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ことにする」の正しい接続は？",
+        "options":  [
+                        "動詞辞書形+ことにする",
+                        "動詞た形+ことにする",
+                        "名詞+ことにする",
+                        "形容詞+ことにする"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ことにする」は「動詞辞書形+ことにする」または「動詞ない形+ことにする」が正しい接続。",
+        "linked_grammar_id":  "N4_G_014"
+    },
+    {
+        "id":  "N4_Q_282",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ようになる」の正しい接続は？",
+        "options":  [
+                        "い形容詞+ようになる",
+                        "動詞辞書形・ない形+ようになる",
+                        "名詞+ようになる",
+                        "な形容詞+ようになる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ようになる」は「動詞辞書形/ない形+ようになる」が正しい接続。「話せるようになる」「食べられるようになる」など。",
+        "linked_grammar_id":  "N4_G_016"
+    },
+    {
+        "id":  "N4_Q_283",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜はずだ」の正しい接続は？",
+        "options":  [
+                        "動詞た形+はずだ",
+                        "動詞・形容詞普通形+はずだ／名詞+のはずだ",
+                        "名詞+はずだ",
+                        "ます形+はずだ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「はずだ」は普通形（動詞・形容詞）に直接、名詞には「の+はずだ」で接続する。",
+        "linked_grammar_id":  "N4_G_010"
+    },
+    {
+        "id":  "N4_Q_284",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜たら」の特徴として正しいのは？",
+        "options":  [
+                        "後件に命令・意志が来られない",
+                        "後件に命令・意志・依頼が来られる",
+                        "主に書面語",
+                        "特定の関係のみ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「たら（条件）」は後件に意志文（行きます）・命令（行け）・依頼（行ってください）が使える、最も汎用性の高い条件形式。",
+        "linked_grammar_id":  "N4_G_028"
+    },
+    {
+        "id":  "N4_Q_285",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜と（自然条件）」の後件に来られないのはどれですか？",
+        "options":  [
+                        "自然現象の結果",
+                        "操作説明",
+                        "意志文・命令文",
+                        "習慣的な事実"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「と（自然条件）」の後件に意志文（〜しよう）・命令文（〜しろ）・依頼文（〜してください）は来られない。",
+        "linked_grammar_id":  "N4_G_030"
+    },
+    {
+        "id":  "N4_Q_286",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「宿題」の意味はどれですか？",
+        "options":  [
+                        "学校のテスト",
+                        "家でする課題・勉強",
+                        "学校の授業",
+                        "参考書"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「宿題」は学校から家でするよう出された課題・勉強のこと。homeworkに相当する。"
+    },
+    {
+        "id":  "N4_Q_287",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「成績」の意味はどれですか？",
+        "options":  [
+                        "出席率",
+                        "成果・試験の結果・評価",
+                        "授業の内容",
+                        "教科書"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「成績」は試験や学習の結果・評価のこと。gradesに相当する。「成績が上がる」は成績が向上すること。"
+    },
+    {
+        "id":  "N4_Q_288",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「経験」の意味はどれですか？",
+        "options":  [
+                        "知識",
+                        "実際に経験したこと",
+                        "想像",
+                        "希望"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「経験」は実際に体験したこと、またはそこから得た知見。experienceに相当する。"
+    },
+    {
+        "id":  "N4_Q_289",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「目標」の意味はどれですか？",
+        "options":  [
+                        "現在の状態",
+                        "達成を目指す目的・ゴール",
+                        "失敗",
+                        "結果"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「目標」は達成を目指す目的・ゴール。goalに相当する。「目標を立てる」は目標を設定すること。"
+    },
+    {
+        "id":  "N4_Q_290",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「会議」の意味はどれですか？",
+        "options":  [
+                        "個人の作業",
+                        "複数の人が集まって話し合うこと",
+                        "研修",
+                        "報告"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「会議」は複数の人が集まって議論・決定を行うこと。meetingに相当する。"
+    },
+    {
+        "id":  "N4_Q_291",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「日程」の意味はどれですか？",
+        "options":  [
+                        "距離",
+                        "日々の計画・スケジュール",
+                        "地図",
+                        "方法"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「日程」は日々の計画・日を決めたスケジュールのこと。scheduleに相当する。「日程を決める」。"
+    },
+    {
+        "id":  "N4_Q_292",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「課題」の意味はどれですか？",
+        "options":  [
+                        "休み",
+                        "解決すべき問題・やるべき仕事",
+                        "計画",
+                        "会議"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「課題」は解決すべき問題や与えられた仕事・任務のこと。task、assignment、issueに相当する。"
+    },
+    {
+        "id":  "N4_Q_293",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「予定」の意味はどれですか？",
+        "options":  [
+                        "結果",
+                        "前もって計画していること",
+                        "希望",
+                        "推測"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「予定」は事前に計画・決定していること。planに相当する。「予定がある」は計画がある状態。"
+    },
+    {
+        "id":  "N4_Q_294",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「出張」の意味はどれですか？",
+        "options":  [
+                        "転勤",
+                        "仕事で他の地域・国へ一時的に行くこと",
+                        "退職",
+                        "研修"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「出張」は仕事・業務のために会社から他の場所に一時的に出向くこと。business tripに相当する。"
+    },
+    {
+        "id":  "N4_Q_295",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「残業」の意味はどれですか？",
+        "options":  [
+                        "早退",
+                        "定時後も仕事を続けること",
+                        "有給休暇",
+                        "転勤"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「残業」は定時（通常の勤務時間）後も仕事を続けること。overtimeに相当する。"
+    },
+    {
+        "id":  "N4_Q_296",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「給料」の意味はどれですか？",
+        "options":  [
+                        "税金",
+                        "ボーナス",
+                        "働いた対価として得るお金",
+                        "交通費"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「給料」は労働の対価として定期的に受け取るお金。salaryに相当する。「ボーナス（賞与）」とは別物。"
+    },
+    {
+        "id":  "N4_Q_297",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「正社員」の意味はどれですか？",
+        "options":  [
+                        "アルバイト",
+                        "パートタイム",
+                        "会社に正式に雇用された従業員",
+                        "派遣社員"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「正社員」は会社に正式に雇用されて働く従業員。regular/full-time employeeに相当する。「アルバイト」の反対。"
+    },
+    {
+        "id":  "N4_Q_298",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「アルバイト」の意味はどれですか？",
+        "options":  [
+                        "正社員",
+                        "契約社員",
+                        "部分的・一時的に働くこと",
+                        "役員"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「アルバイト」（ドイツ語Arbeitから）は副業や学生が行うパートタイムの仕事。part-time jobに相当する。"
+    },
+    {
+        "id":  "N4_Q_299",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てもいい」の質問形「〜てもいいですか」は何を求めていますか？",
+        "options":  [
+                        "理由の説明",
+                        "行動の許可",
+                        "時間の確認",
+                        "人の確認"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜てもいいですか」は相手に行動の許可を求める表現。May I...?に相当する丁寧な許可の依頼。",
+        "linked_grammar_id":  "N4_G_082"
+    },
+    {
+        "id":  "N4_Q_300",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "次のどれが「〜としての立場」の表現ですか？",
+        "options":  [
+                        "学生について",
+                        "学生に対して",
+                        "学生として",
+                        "学生によって"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「として」は立場・身分・資格を表す。「学生として」は学生という立場・役割を示す表現。",
+        "linked_grammar_id":  "N4_G_054"
+    },
+    {
+        "id":  "N4_Q_301",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「弁当を持ち___る」に入る語は？",
+        "options":  [
+                        "帰",
+                        "返",
+                        "帰り",
+                        "帰って"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「持ち帰る」は持って帰ること。to take home、take outに相当する複合動詞。"
+    },
+    {
+        "id":  "N4_Q_302",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「売り___れる」に入る語は？",
+        "options":  [
+                        "切",
+                        "切れ",
+                        "戻",
+                        "返"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「売り切れる」は商品が全部売れてなくなること。to be sold outに相当する複合動詞。"
+    },
+    {
+        "id":  "N4_Q_303",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「読み___す」に入る語は？",
+        "options":  [
+                        "始め",
+                        "返",
+                        "直",
+                        "出"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「読み返す」は読んだものをもう一度読み直すこと。to reread、to go over againに相当する複合動詞。"
+    },
+    {
+        "id":  "N4_Q_304",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「時刻表」の意味はどれですか？",
+        "options":  [
+                        "時計",
+                        "電車・バスの出発・到着時刻を記した表",
+                        "授業の時間割",
+                        "スケジュール帳"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「時刻表」は電車・バスなどの交通機関の出発・到着時刻を記した一覧表。timetableに相当する。"
+    },
+    {
+        "id":  "N4_Q_305",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「運賃」の意味はどれですか？",
+        "options":  [
+                        "タクシー代",
+                        "電車・バスなどの乗り物の料金",
+                        "高速道路の料金",
+                        "駐車場代"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「運賃」は電車・バス・船などの交通機関を利用する料金。fareに相当する。"
+    },
+    {
+        "id":  "N4_Q_306",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「特急」の意味はどれですか？",
+        "options":  [
+                        "普通電車",
+                        "各駅停車",
+                        "主要駅のみ止まる速い列車",
+                        "急行より遅い電車"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「特急（特別急行）」は主な駅にしか止まらない速い列車。limited expressに相当する。「各駅停車」の反対。"
+    },
+    {
+        "id":  "N4_Q_307",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「終電」の意味はどれですか？",
+        "options":  [
+                        "最初の電車",
+                        "その日最後の電車",
+                        "特別急行",
+                        "定期的に止まる電車"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「終電」はその路線・駅の最終電車のこと。last train（of the day）に相当する。"
+    },
+    {
+        "id":  "N4_Q_308",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「道路」の意味はどれですか？",
+        "options":  [
+                        "線路",
+                        "自動車・人が通る舗装された道",
+                        "鉄道",
+                        "山道"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「道路」は自動車や人が通行するために整備された舗装された道のこと。roadに相当する。"
+    },
+    {
+        "id":  "N4_Q_309",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「味」の中で「辛い」の反対語はどれですか？",
+        "options":  [
+                        "苦い",
+                        "甘い",
+                        "酸っぱい",
+                        "しょっぱい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「辛い」はspicyまたは塩辛い意味。対となる味として「甘い」（sweet）が反対語として使われることが多い。"
+    },
+    {
+        "id":  "N4_Q_310",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「苦い」の意味はどれですか？",
+        "options":  [
+                        "甘い味",
+                        "酸っぱい味",
+                        "コーヒーのような嫌な独特の味",
+                        "辛い味"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「苦い」はコーヒーや薬のような不快な苦み。bitterに相当する。「良薬は口に苦し」（良薬は苦い）。"
+    },
+    {
+        "id":  "N4_Q_311",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ておく」の口語短縮形は？",
+        "options":  [
+                        "〜てく",
+                        "〜とく",
+                        "〜ておく",
+                        "〜ってく"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ておく」の口語・くだけた短縮形は「〜とく」。「買っておく→買っとく」のように短縮される。",
+        "linked_grammar_id":  "N4_G_078"
+    },
+    {
+        "id":  "N4_Q_312",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てしまう」の口語短縮形は？",
+        "options":  [
+                        "〜ちゃう（〜じゃう）",
+                        "〜とく",
+                        "〜てく",
+                        "〜ておく"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「てしまう」の口語短縮形は「〜ちゃう」（清音動詞）または「〜じゃう」（濁音動詞）。「食べてしまう→食べちゃう」。",
+        "linked_grammar_id":  "N4_G_080"
+    },
+    {
+        "id":  "N4_Q_313",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜なければならない」の口語短縮形は？",
+        "options":  [
+                        "〜なきゃいけない",
+                        "〜なければ",
+                        "〜なくては",
+                        "〜ないと"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「なければならない」の口語短縮形は「なきゃいけない」「なきゃならない」。「行かなければならない→行かなきゃいけない」。",
+        "linked_grammar_id":  "N4_G_021"
+    },
+    {
+        "id":  "N4_Q_314",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てもいいですか」の答えで許可を出す場合は？",
+        "options":  [
+                        "はい、てください",
+                        "はい、てもいいです",
+                        "いいえ、てはいけません",
+                        "はい、〜ます"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "許可を出す場合は「はい、〜てもいいです（よ）」または「〜てください」などで答える。",
+        "linked_grammar_id":  "N4_G_082"
+    },
+    {
+        "id":  "N4_Q_315",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ほうがいい」の否定形（〜しない方がいい）の正しい形は？",
+        "options":  [
+                        "動詞辞書形+ほうがいい",
+                        "動詞ない形+ほうがいい",
+                        "動詞て形+ほうがいい",
+                        "動詞た形+ほうがいい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ないほうがいい」は「動詞ない形+ほうがいい」。「食べないほうがいい」=食べない方が良い。",
+        "linked_grammar_id":  "N4_G_084"
+    },
+    {
+        "id":  "N4_Q_316",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「レシピ」の意味はどれですか？",
+        "options":  [
+                        "食事代金",
+                        "料理の作り方・材料を書いた説明",
+                        "食材",
+                        "メニュー"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「レシピ」（recipe）は料理の材料・作り方を記した説明書のこと。"
+    },
+    {
+        "id":  "N4_Q_317",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「定食」の意味はどれですか？",
+        "options":  [
+                        "定番の食事",
+                        "主食・副食などがセットになった一式の食事",
+                        "弁当",
+                        "一品料理"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「定食」はご飯・汁物・おかずがセットになったお得な一式の食事。set mealに相当する。"
+    },
+    {
+        "id":  "N4_Q_318",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「口座」の意味はどれですか？",
+        "options":  [
+                        "銀行のATM",
+                        "銀行に開設する個人の資金管理の単位",
+                        "お金そのもの",
+                        "カード"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「口座（こうざ）」は銀行に個人が開設する資金を管理する単位。bank accountに相当する。"
+    },
+    {
+        "id":  "N4_Q_319",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「貯金」の意味はどれですか？",
+        "options":  [
+                        "使うお金",
+                        "将来のためにお金を積み立てること",
+                        "節約すること",
+                        "借金"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「貯金」は将来に備えてお金を蓄えること・蓄えたお金。savingsに相当する。"
+    },
+    {
+        "id":  "N4_Q_320",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「税金」の意味はどれですか？",
+        "options":  [
+                        "会費",
+                        "国や地方に納める公的な金銭",
+                        "罰金",
+                        "保険料"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「税金」は国・地方自治体に納める公的な金銭のこと。taxに相当する。「消費税」「所得税」などがある。"
+    },
+    {
+        "id":  "N4_Q_321",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜が+する」の感覚表現で使えないものはどれですか？",
+        "options":  [
+                        "においがする",
+                        "音がする",
+                        "色がする",
+                        "気がする"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「がする」は感覚表現（においがする、音がする、気がする、味がする）に使う。「色がする」は通常使わない。",
+        "linked_grammar_id":  "N4_G_089"
+    },
+    {
+        "id":  "N4_Q_322",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜まま」の正しい使い方はどれですか？",
+        "options":  [
+                        "電気をつけているまま",
+                        "電気をつけたまま",
+                        "電気をつけるまま",
+                        "電気がついていたまま"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「まま」は「動詞た形+まま」が基本接続。「電気をつけたまま」は電気をつけた状態のまま、という表現。",
+        "linked_grammar_id":  "N4_G_086"
+    },
+    {
+        "id":  "N4_Q_323",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜とおりに」の例として正しいのは？",
+        "options":  [
+                        "説明書のとおり",
+                        "説明書のようにとおり",
+                        "説明書とおりに",
+                        "説明書にとおり"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「名詞+の+とおりに」が正しい接続。「説明書のとおりに」は説明書に従って行うこと。",
+        "linked_grammar_id":  "N4_G_087"
+    },
+    {
+        "id":  "N4_Q_324",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜だけ」と「〜しか〜ない」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "だけ=中性、しか〜ない=不満・遺憾",
+                        "だけ=否定、しか=肯定",
+                        "接続が同じ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「だけ」は中性的な限定。「しか〜ない」は不十分・遺憾なニュアンスを持つ限定表現。後者は必ず否定が続く。",
+        "linked_grammar_id":  "N4_G_032"
+    },
+    {
+        "id":  "N4_Q_325",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てもらう」の主語は誰ですか？",
+        "options":  [
+                        "行動をする人",
+                        "行動の恩恵を受ける人（話し手）",
+                        "動作の対象",
+                        "無関係の人"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てもらう」の主語は恩恵を受ける人（多くは話し手）。「私が友達に教えてもらった」→私が主語で、友達に教えてもらった。",
+        "linked_grammar_id":  "N4_G_038"
+    },
+    {
+        "id":  "N4_Q_326",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「環境」の意味はどれですか？",
+        "options":  [
+                        "自然のみ",
+                        "周囲の状況・条件（自然・社会的）",
+                        "建物",
+                        "生き物"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「環境」は人・生物を取り巻く自然的・社会的な条件・状況のこと。environmentに相当する。"
+    },
+    {
+        "id":  "N4_Q_327",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「道路」と「線路」の違いは？",
+        "options":  [
+                        "同じもの",
+                        "道路=車・人の道、線路=電車が通る道",
+                        "道路=山道、線路=一般道",
+                        "大きさの違いだけ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「道路」は車や人が通る道。「線路」は電車・列車が走るレールを敷いた道。用途が異なる。"
+    },
+    {
+        "id":  "N4_Q_328",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「温度」の意味はどれですか？",
+        "options":  [
+                        "気圧",
+                        "暑さ・寒さの度合い",
+                        "湿度",
+                        "天気"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「温度」は暑さ・冷たさの度合いを数値で表したもの。temperatureに相当する。「気温」は外の温度。"
+    },
+    {
+        "id":  "N4_Q_329",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「植物」の反対語として考えられる語は？",
+        "options":  [
+                        "動物",
+                        "鉱物",
+                        "人間",
+                        "機械"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "生物の分類で「植物（plants）」の対比として「動物（animals）」が挙げられることが多い。"
+    },
+    {
+        "id":  "N4_Q_330",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「恥ずかしい」の意味はどれですか？",
+        "options":  [
+                        "怖い",
+                        "楽しい",
+                        "自分の欠点などが他人に見られて気まずい",
+                        "驚いた"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「恥ずかしい」は恥を感じて人目が気になる、気まずい気持ち。embarrassedに相当する。"
+    },
+    {
+        "id":  "N4_Q_331",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「怖い」の意味はどれですか？",
+        "options":  [
+                        "恥ずかしい",
+                        "危険・脅威に対して感じる恐れ",
+                        "嫌い",
+                        "難しい"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「怖い」は恐怖・脅威を感じた時の感情。scaryに相当する。「お化けが怖い」。"
+    },
+    {
+        "id":  "N4_Q_332",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「浅い」の反対語はどれですか？",
+        "options":  [
+                        "細い",
+                        "高い",
+                        "深い",
+                        "重い"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「浅い（shallow）」の反対語は「深い（deep）」。「浅い川」⇔「深い川」。"
+    },
+    {
+        "id":  "N4_Q_333",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「太い」の反対語はどれですか？",
+        "options":  [
+                        "短い",
+                        "低い",
+                        "軽い",
+                        "細い"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「太い（thick/fat）」の反対語は「細い（thin/slender）」。棒の太さや体型の表現。"
+    },
+    {
+        "id":  "N4_Q_334",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「柔らかい」の反対語はどれですか？",
+        "options":  [
+                        "冷たい",
+                        "暗い",
+                        "固い",
+                        "古い"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「柔らかい（soft）」の反対語は「固い・硬い（hard）」。"
+    },
+    {
+        "id":  "N4_Q_335",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「アパート」を探す時に何を払いますか？",
+        "options":  [
+                        "消費税",
+                        "家賃",
+                        "所得税",
+                        "保険料"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「アパート・マンション」を借りる時に毎月払うのは「家賃（rent）」。"
+    },
+    {
+        "id":  "N4_Q_336",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てから」と「〜た後で」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "てから=前後の直接的連続、た後で=時間的な後",
+                        "逆の意味",
+                        "使う動詞が違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てから」は前の動作直後に次の動作をする強い順序を示す。「た後で」は時間的な前後関係のみ示す。",
+        "linked_grammar_id":  "N4_G_061"
+    },
+    {
+        "id":  "N4_Q_337",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜のに（逆接）」の感情的ニュアンスは？",
+        "options":  [
+                        "喜び",
+                        "遺憾・不満・驚き",
+                        "期待",
+                        "感謝"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「のに（逆接）」には話し手の遺憾・不満・驚きの感情が込められている。「頑張ったのに〜」は頑張ったのに残念という気持ち。",
+        "linked_grammar_id":  "N4_G_026"
+    },
+    {
+        "id":  "N4_Q_338",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ても（仮定逆接）」と「〜のに（事実逆接）」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ても=仮定、のに=事実に対する逆接",
+                        "のに=仮定、ても=事実",
+                        "接続のみ違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ても」は仮定の逆接（たとえ〜でも）。「のに」は実際に起きた事実に対する逆接・遺憾。",
+        "linked_grammar_id":  "N4_G_027"
+    },
+    {
+        "id":  "N4_Q_339",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「お+ます形（去ます）+になる」を正しく使った例は？",
+        "options":  [
+                        "先生がお帰りになる",
+                        "先生がお帰るになる",
+                        "先生はおに帰りなる",
+                        "先生はお帰りです"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「お帰りになる」が正しい尊敬語形式。「お+帰り（帰るのます形去ます）+になる」の構造。",
+        "linked_grammar_id":  "N4_G_049"
+    },
+    {
+        "id":  "N4_Q_340",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「お+ます形（去ます）+する」を正しく使った例は？",
+        "options":  [
+                        "お荷物をお持ちします",
+                        "お荷物をお持ちになります",
+                        "お荷物をお持ちされます",
+                        "荷物をお持ちいたします"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「お持ちします」が正しい謙譲語形式。「お+持ち（持つのます形去ます）+する」の構造。",
+        "linked_grammar_id":  "N4_G_050"
+    },
+    {
+        "id":  "N4_Q_341",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「過去」の反対語はどれですか？",
+        "options":  [
+                        "今",
+                        "未来",
+                        "現代",
+                        "近代"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「過去（past）」の反対語は「未来（future）」。「現在」は今現在のこと。過去→現在→未来という時間の流れ。"
+    },
+    {
+        "id":  "N4_Q_342",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「入学」の反対語はどれですか？",
+        "options":  [
+                        "転学",
+                        "休学",
+                        "卒業",
+                        "進学"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「入学（school enrollment）」の反対語は「卒業（graduation）」。入学→在学→卒業の流れ。"
+    },
+    {
+        "id":  "N4_Q_343",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「就職」の反対語はどれですか？",
+        "options":  [
+                        "退職",
+                        "転職",
+                        "出張",
+                        "昇格"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「就職（getting a job）」の反対語は「退職（quitting a job）」。就職→在職→退職の流れ。"
+    },
+    {
+        "id":  "N4_Q_344",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「入院」の反対語はどれですか？",
+        "options":  [
+                        "受診",
+                        "検査",
+                        "通院",
+                        "退院"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「入院（hospitalization）」の反対語は「退院（discharge from hospital）」。"
+    },
+    {
+        "id":  "N4_Q_345",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「増える」の他動詞はどれですか？",
+        "options":  [
+                        "増やす",
+                        "増やされる",
+                        "増えさせる",
+                        "増えられる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「増える（自動詞：増えた）」の他動詞は「増やす（他動詞：増やした）」。数・量を増加させること。"
+    },
+    {
+        "id":  "N4_Q_346",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「減る」の他動詞はどれですか？",
+        "options":  [
+                        "減らされる",
+                        "減らす",
+                        "減られる",
+                        "減させる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「減る（自動詞）」の他動詞は「減らす（他動詞）」。数・量を少なくすること。"
+    },
+    {
+        "id":  "N4_Q_347",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「落ちる（自動詞）」の他動詞はどれですか？",
+        "options":  [
+                        "落とさせる",
+                        "落とされる",
+                        "落とす",
+                        "落ちさせる"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「落ちる（自動詞：ものが落ちた）」の他動詞は「落とす（他動詞：ものを落とした）」。",
+        "linked_grammar_id":  "N4_G_076"
+    },
+    {
+        "id":  "N4_Q_348",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「返す」の意味はどれですか？",
+        "options":  [
+                        "受け取ること",
+                        "貸したものを元に戻すこと",
+                        "捨てること",
+                        "借りること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「返す」は借りたものや持っていったものを元の場所・持ち主に戻すこと。to return（something）に相当する。"
+    },
+    {
+        "id":  "N4_Q_349",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「熱心に」の意味はどれですか？",
+        "options":  [
+                        "いい加減に",
+                        "ゆっくりと",
+                        "情熱的・一生懸命に",
+                        "少しずつ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「熱心に」は情熱・意欲を持って一生懸命取り組む様子。eagerly、devotedlyに相当する。"
+    },
+    {
+        "id":  "N4_Q_350",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "次の文の___に入る最適な語は？「彼女の料理は本場___みたいです。」",
+        "options":  [
+                        "ようで",
+                        "らしく",
+                        "のようで",
+                        "みたいで"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「名詞+のようだ」が正しい接続。「本場のようだ」＝本場の料理のような、という外見・様子からの推断。",
+        "linked_grammar_id":  "N4_G_006"
+    },
+    {
+        "id":  "N4_Q_351",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜そうだ（様子）」と「〜そうだ（伝聞）」の接続の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "様子=ます形（去ます）等、伝聞=普通形",
+                        "様子=普通形、伝聞=ます形",
+                        "どちらも普通形"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「そうだ（様子）」はます形去ます・い形容詞語幹・な形容詞語幹に接続。「そうだ（伝聞）」は普通形に接続。",
+        "linked_grammar_id":  "N4_G_009"
+    },
+    {
+        "id":  "N4_Q_352",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「いい（良い）+そうだ（様子）」の正しい形は？",
+        "options":  [
+                        "いいそうだ",
+                        "よいそうだ",
+                        "よさそうだ",
+                        "いそうだ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「いい」の「そうだ（様子）」接続は例外。「いい→よさそうだ」と変化する。「よい」でも「よさそうだ」。",
+        "linked_grammar_id":  "N4_G_008"
+    },
+    {
+        "id":  "N4_Q_353",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「ない+そうだ（様子）」の正しい形は？",
+        "options":  [
+                        "ないそうだ",
+                        "なそうだ",
+                        "なさそうだ",
+                        "ないよそうだ"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「ない」の「そうだ（様子）」接続も例外。「ない→なさそうだ」と変化する。「金がなさそうだ」。",
+        "linked_grammar_id":  "N4_G_008"
+    },
+    {
+        "id":  "N4_Q_354",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜て+あげる・もらう・くれる」の文で、恩恵の流れが「他者→話し手」はどれですか？",
+        "options":  [
+                        "てあげる",
+                        "てもらう・てくれる",
+                        "てさしあげる",
+                        "どれでもない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てもらう」（話し手が受け取る）と「てくれる」（他者が自発的に話し手にする）は両方「他者→話し手」の恩恵方向。",
+        "linked_grammar_id":  "N4_G_039"
+    },
+    {
+        "id":  "N4_Q_355",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てある」と「〜ている」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "てある=他動詞+意図的行為の結果、ている=状態や継続",
+                        "てある=自動詞、ている=他動詞",
+                        "どちらも同じ状態表現"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てある」は他動詞+誰かが意図的に行った結果の状態。「ている」は自動詞+状態または継続。「窓が開けてある（誰かが開けた）」vs「窓が開いている（状態）」。",
+        "linked_grammar_id":  "N4_G_077"
+    },
+    {
+        "id":  "N4_Q_356",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ているところ」と「〜るところ」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ているところ=動作の最中、るところ=これからする直前",
+                        "逆",
+                        "時制のみ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜ているところ」はちょうど今やっている最中。「〜るところ」はこれからやろうとしている直前。「食べているところ」vs「食べるところ」。",
+        "linked_grammar_id":  "N4_G_081"
+    },
+    {
+        "id":  "N4_Q_357",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜られる」の二つの意味は？",
+        "options":  [
+                        "受身と可能",
+                        "受身と命令",
+                        "可能と尊敬",
+                        "受身と推量"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「〜られる」はI類動詞（五段）に接続した場合、受身と可能の両方の意味を持つ。文脈で判断する。（尊敬も含めると三つ）",
+        "linked_grammar_id":  "N4_G_018"
+    },
+    {
+        "id":  "N4_Q_358",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「手続きをする」の例として正しいのは？",
+        "options":  [
+                        "手続きを歩く",
+                        "住民票の手続きをする",
+                        "手続きを食べる",
+                        "手続きを寝る"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「手続きをする」は「住民票の手続き・入学手続き」のような公式な申請・登録の手順を踏むこと。"
+    },
+    {
+        "id":  "N4_Q_359",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「申し込みをする」の正しい例は？",
+        "options":  [
+                        "旅行に申し込む",
+                        "食事を申し込む",
+                        "歩いて申し込む",
+                        "申し込みを食べる"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「申し込む」は旅行・コース・仕事などに正式に申請・登録すること。「旅行に申し込む」が正しい用例。"
+    },
+    {
+        "id":  "N4_Q_360",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「祭り」の意味はどれですか？",
+        "options":  [
+                        "毎日の行事",
+                        "神や先祖を祀る伝統的な行事・お祭り",
+                        "仕事のイベント",
+                        "スポーツ大会"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「祭り（まつり）」は神社・寺などで行われる神仏を祀る伝統的な行事。festivalに相当する。"
+    },
+    {
+        "id":  "N4_Q_361",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「年齢」の読み方はどれですか？",
+        "options":  [
+                        "ねんれい",
+                        "としれい",
+                        "ねんよ",
+                        "としよ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「年齢」の読み方は「ねんれい」。ageのこと。「何歳ですか（年齢を教えてください）」。"
+    },
+    {
+        "id":  "N4_Q_362",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「印象に残る」の意味はどれですか？",
+        "options":  [
+                        "嫌いになること",
+                        "記憶に残って忘れられないこと",
+                        "見栄えがすること",
+                        "評価が低いこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「印象に残る」は強い印象があって記憶に残ること。leave an impressionに相当する。"
+    },
+    {
+        "id":  "N4_Q_363",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「頑張る」の意味はどれですか？",
+        "options":  [
+                        "諦める",
+                        "努力して粘り強く取り組む",
+                        "遊ぶ",
+                        "休む"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「頑張る」は困難にもかかわらず努力し続けること。to do one\u0027s best、to persevereに相当する。"
+    },
+    {
+        "id":  "N4_Q_364",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「断言する」と「曖昧に言う」はどんな関係ですか？",
+        "options":  [
+                        "類語",
+                        "反対語",
+                        "同義語",
+                        "無関係"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「断言する」はきっぱり言い切ること。「曖昧に言う」はぼかして不明確に言うこと。反対の表現。"
+    },
+    {
+        "id":  "N4_Q_365",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「ちゃんと」と「きちんと」はどんな関係ですか？",
+        "options":  [
+                        "反対語",
+                        "類語",
+                        "無関係",
+                        "どちらも副詞"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ちゃんと」と「きちんと」はどちらも「しっかり・正しく」の意味で類語関係。「ちゃんと」は口語的。"
+    },
+    {
+        "id":  "N4_Q_366",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "次の文の空欄に入る語を選んでください。「外が暗い___、もう夜になったようです。」",
+        "options":  [
+                        "ので",
+                        "から",
+                        "のに",
+                        "ところを"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ので（理由）」は外が暗いという事実から夜になったという推断の根拠を示す。客観的な理由。"
+    },
+    {
+        "id":  "N4_Q_367",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てもらいたい」と「〜てほしい」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "てもらいたい=相手への依頼感が強い、てほしい=話し手の希望",
+                        "逆",
+                        "接続のみ違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てもらいたい」は相手にしてもらいたいという依頼感が強い。「てほしい」は話し手の純粋な希望。",
+        "linked_grammar_id":  "N4_G_071"
+    },
+    {
+        "id":  "N4_Q_368",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜によって」が「人によって違う」のように使われる時の意味は？",
+        "options":  [
+                        "手段",
+                        "原因",
+                        "差異・多様性",
+                        "受動"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「人によって違う」の「によって」は「〜によって異なる」という差異・多様性を表す用法。",
+        "linked_grammar_id":  "N4_G_053"
+    },
+    {
+        "id":  "N4_Q_369",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜だけでなく〜も」の英語に近い表現は？",
+        "options":  [
+                        "Only...",
+                        "Not only...but also...",
+                        "Either...or...",
+                        "Neither...nor..."
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「だけでなく〜も」はnot only...but also...に相当する追加・強調の表現。",
+        "linked_grammar_id":  "N4_G_056"
+    },
+    {
+        "id":  "N4_Q_370",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ことにする」と「〜予定だ」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ことにする=自分の意志決定、予定だ=既に決まっているスケジュール",
+                        "逆",
+                        "接続のみ違う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ことにする」は主観的な意志決定。「予定だ」は客観的に既に決まっている計画・スケジュール。",
+        "linked_grammar_id":  "N4_G_013"
+    },
+    {
+        "id":  "N4_Q_371",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「公害」の例として正しいのはどれですか？",
+        "options":  [
+                        "交通事故",
+                        "工場の煙による大気汚染",
+                        "自然災害",
+                        "盗難"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「公害」は工業活動などによる環境汚染。工場の排煙・排水による大気・水質汚染が典型例。"
+    },
+    {
+        "id":  "N4_Q_372",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「エネルギーを節約する」の例として正しいのは？",
+        "options":  [
+                        "たくさん電気を使う",
+                        "電気をこまめに消すこと",
+                        "エアコンを最強にする",
+                        "長時間運転する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「エネルギーを節約する」は電気・ガスなどの使用量を減らすこと。電気をこまめに消すのが典型例。"
+    },
+    {
+        "id":  "N4_Q_373",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「リサイクル」と「節約」の違いは？",
+        "options":  [
+                        "同じ意味",
+                        "リサイクル=資源の再利用、節約=使用量を減らす",
+                        "逆の意味",
+                        "無関係"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「リサイクル」は廃棄物を再び資源として利用すること。「節約」は使用量を最初から減らすこと。目的が異なる。"
+    },
+    {
+        "id":  "N4_Q_374",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「時刻表を見る」時に確認することは？",
+        "options":  [
+                        "料金のみ",
+                        "電車・バスの出発・到着時刻",
+                        "路線図のみ",
+                        "座席番号"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「時刻表」で確認するのは電車・バスなどの出発・到着時刻のこと。"
+    },
+    {
+        "id":  "N4_Q_375",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「口座を開く」の意味はどれですか？",
+        "options":  [
+                        "口を開けること",
+                        "銀行で新しい口座を作ること",
+                        "財布を開けること",
+                        "お金を引き出すこと"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「口座を開く（開設する）」は銀行に新しい自分の口座を作ること。to open a bank accountに相当する。"
+    },
+    {
+        "id":  "N4_Q_376",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜させられる（使役受身）」の意味は？",
+        "options":  [
+                        "自分で進んでする",
+                        "強制的にさせられる（不本意）",
+                        "させてあげる",
+                        "許可する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「させられる」は使役受身で、強制的に何かをさせられる（したくないのにさせられた）という不本意な受動的行為。",
+        "linked_grammar_id":  "N4_G_020"
+    },
+    {
+        "id":  "N4_Q_377",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「受身文（〜られる）」で財布が盗まれた場合の文は？",
+        "options":  [
+                        "財布が盗んだ",
+                        "私は財布を盗まれた",
+                        "財布は盗む",
+                        "財布に盗まれた"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「財布を盗まれた」は受身文。私（主語）は財布（を）盗まれた。財布が被害対象で、私が迷惑を被った受身表現。",
+        "linked_grammar_id":  "N4_G_018"
+    },
+    {
+        "id":  "N4_Q_378",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ならば」の意味と用法は？",
+        "options":  [
+                        "自然条件",
+                        "相手の発言・状況を前提にしたアドバイス",
+                        "過去の習慣",
+                        "可能性"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「なら（ば）」は相手が言っていることや特定の状況を前提として、アドバイス・提案・判断を述べる。",
+        "linked_grammar_id":  "N4_G_031"
+    },
+    {
+        "id":  "N4_Q_379",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜べきだ」（N4応用）の意味は？",
+        "options":  [
+                        "〜する可能性がある",
+                        "〜するのが当然・義務",
+                        "〜したいと思う",
+                        "〜する必要がない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「べきだ」は社会的・道徳的に当然・義務であることを表す。should/ought toに相当する。"
+    },
+    {
+        "id":  "N4_Q_380",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜なくてもいい」の例として正しいのは？",
+        "options":  [
+                        "来なくてもいいです",
+                        "来るなくてもいいです",
+                        "来てなくてもいい",
+                        "来たなくてもいい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「なくてもいい」は「動詞ない形（去い）+くてもいい」の形。「来ない→来なくてもいい」が正しい形。",
+        "linked_grammar_id":  "N4_G_022"
+    },
+    {
+        "id":  "N4_Q_381",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「日程を確認する」の正しい状況は？",
+        "options":  [
+                        "天気を調べる",
+                        "スケジュールに間違いがないか確認する",
+                        "地図を見る",
+                        "料金を計算する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「日程を確認する」は予定したスケジュールに間違いがないか、また変更がないかを確かめること。"
+    },
+    {
+        "id":  "N4_Q_382",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「課題に取り組む」の意味はどれですか？",
+        "options":  [
+                        "課題を無視する",
+                        "課題を真剣に解決しようとすること",
+                        "課題を延期すること",
+                        "課題を他人に任せること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「課題に取り組む」は問題・任務に真剣に取り組んで解決しようとすること。to tackle an issueに相当する。"
+    },
+    {
+        "id":  "N4_Q_383",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「同僚と協力する」の意味はどれですか？",
+        "options":  [
+                        "同僚と競争する",
+                        "同僚と一緒に協力して仕事をする",
+                        "同僚を監督する",
+                        "同僚に命令する"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「協力する」は力を合わせること。「同僚と協力する」は職場の仲間と一緒に取り組むこと。"
+    },
+    {
+        "id":  "N4_Q_384",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「奨学金を申請する」の意味はどれですか？",
+        "options":  [
+                        "奨学金を受け取ること",
+                        "奨学金の交付を求めて申し込むこと",
+                        "奨学金を返すこと",
+                        "奨学金を断ること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「奨学金を申請する」は奨学金の交付を求めて公式に申し込むこと。to apply for a scholarshipに相当する。"
+    },
+    {
+        "id":  "N4_Q_385",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「研修を受ける」の意味はどれですか？",
+        "options":  [
+                        "研修を提供すること",
+                        "研修に参加・受講すること",
+                        "研修をやめること",
+                        "研修を設計すること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「研修を受ける」は研修・トレーニングプログラムに参加・受講すること。to receive trainingに相当する。"
+    },
+    {
+        "id":  "N4_Q_386",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜について話す」と「〜に対して話す」の違いは？",
+        "options":  [
+                        "同じ",
+                        "ついて=内容・トピックを話す、に対して=相手（対象）に向けて話す",
+                        "逆",
+                        "接続が違うだけ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜について話す」は何かをトピックとして話す。「〜に対して話す」は誰か・何かに向けて話すこと（対象への発話）。",
+        "linked_grammar_id":  "N4_G_052"
+    },
+    {
+        "id":  "N4_Q_387",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ばかり（名詞+ばかり）」の意味は？",
+        "options":  [
+                        "多様な中の一つ",
+                        "ほぼ〜のみ・〜ばかり（偏り）",
+                        "否定",
+                        "逆接"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「名詞+ばかり」は「そればかり・そればかりだ」というほぼそれだけという偏りを表す。「仕事ばかり」は仕事しかしていない。",
+        "linked_grammar_id":  "N4_G_034"
+    },
+    {
+        "id":  "N4_Q_388",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ほど（比較）」の例として正しいのは？",
+        "options":  [
+                        "彼は私より上手ではありません",
+                        "彼は私ほど上手ではありません",
+                        "彼は私だけ上手ではありません",
+                        "彼は私しか上手ではありません"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「AほどBない」は「AほどBではない」という比較表現。「私ほど上手ではない」は私より上手ではないという意味。",
+        "linked_grammar_id":  "N4_G_035"
+    },
+    {
+        "id":  "N4_Q_389",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜のだ・んだ」の質問形「どうしたんですか」が表す意味は？",
+        "options":  [
+                        "命令",
+                        "理由・事情を尋ねる",
+                        "推量",
+                        "禁止"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「どうしたんですか」は「のだ」の疑問形で、相手の状況・理由・事情を尋ねる表現。what happened?に相当する。",
+        "linked_grammar_id":  "N4_G_023"
+    },
+    {
+        "id":  "N4_Q_390",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ため（目的）」と「〜ため（原因）」の見分け方は？",
+        "options":  [
+                        "接続が違う",
+                        "前件が意志的動作→目的、前件が状態・自然現象→原因",
+                        "全く同じ",
+                        "後件で判断"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ために（目的）」は主語が意志的な動作をする場合。「ために（原因）」は自然現象・状態の場合。「勉強するため（目的）」vs「台風のため（原因）」。",
+        "linked_grammar_id":  "N4_G_024"
+    },
+    {
+        "id":  "N4_Q_391",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「感謝の気持ちを表す」の例はどれですか？",
+        "options":  [
+                        "「すみません」と言う",
+                        "「ありがとうございます」と言う",
+                        "「はい」と言う",
+                        "「いいえ」と言う"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「感謝の気持ちを表す」のは「ありがとうございます」などの感謝の言葉。「すみません」は謝罪または呼びかけ。"
+    },
+    {
+        "id":  "N4_Q_392",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「信頼できる人」の特徴として正しいのは？",
+        "options":  [
+                        "嘘をつく",
+                        "約束を守り、正直な人",
+                        "自己中心的な人",
+                        "気分が不安定な人"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「信頼できる人」は約束を守り、正直で頼りにできる人。trustworthyに相当する。"
+    },
+    {
+        "id":  "N4_Q_393",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「不安を感じる」の例はどれですか？",
+        "options":  [
+                        "試験前に心配する",
+                        "楽しいことをする",
+                        "食事をとる",
+                        "旅行を楽しむ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「不安を感じる」は試験や発表など先のことが心配で落ち着かない状態。試験前の心配が典型例。"
+    },
+    {
+        "id":  "N4_Q_394",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「緊張をほぐす」の意味はどれですか？",
+        "options":  [
+                        "緊張を高める",
+                        "リラックスして緊張状態を和らげる",
+                        "緊張を無視する",
+                        "緊張を隠す"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「緊張をほぐす」は張り詰めた状態を和らげてリラックスすること。to relax、to ease tensionに相当する。"
+    },
+    {
+        "id":  "N4_Q_395",
+        "level":  "N4",
+        "type":  "vocabulary",
+        "question_text":  "「失望させる」の意味はどれですか？",
+        "options":  [
+                        "喜ばせること",
+                        "期待を裏切って落胆させること",
+                        "驚かせること",
+                        "感動させること"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「失望させる」は相手の期待を裏切って落胆させること。to disappoint someoneに相当する。"
+    },
+    {
+        "id":  "N4_Q_396",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ている+ところ」と「〜た+ところ」の違いは？",
+        "options":  [
+                        "全く同じ",
+                        "ているところ=最中、たところ=完了直後",
+                        "逆の意味",
+                        "時制のみ"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜ているところ」は動作の進行最中。「〜たところ」は動作が完了したばかりの直後。「食べているところ」vs「食べたところ」。",
+        "linked_grammar_id":  "N4_G_081"
+    },
+    {
+        "id":  "N4_Q_397",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜やすい・にくい」の活用はどのように行いますか？",
+        "options":  [
+                        "名詞として活用",
+                        "い形容詞として活用（〜やすくなる、〜やすければ）",
+                        "な形容詞として活用",
+                        "動詞として活用"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「やすい・にくい」はい形容詞として活用する。「読みやすい→読みやすく+なる」「読みやすければ」など。",
+        "linked_grammar_id":  "N4_G_043"
+    },
+    {
+        "id":  "N4_Q_398",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜てさしあげる」を現代では注意して使う理由は？",
+        "options":  [
+                        "意味がない",
+                        "相手に恩着せがましく聞こえることがある",
+                        "使えない表現",
+                        "難しすぎる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「てさしあげる」は目上の人に自分が何かをしてあげる時の謙譲語だが、自分を主語にするため恩着せがましく聞こえることがある。",
+        "linked_grammar_id":  "N4_G_042"
+    },
+    {
+        "id":  "N4_Q_399",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜として」の正しい用例はどれですか？",
+        "options":  [
+                        "先生としている",
+                        "先生として教える",
+                        "先生としてする",
+                        "先生としてなる"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「〜として」は立場・身分を表す。「先生として教える」は先生という立場で教えること。「先生としている」は誤り。",
+        "linked_grammar_id":  "N4_G_054"
+    },
+    {
+        "id":  "N4_Q_400",
+        "level":  "N4",
+        "type":  "grammar",
+        "question_text":  "「〜ることができる（可能形）」と「〜られる（可能）」の違いは？",
+        "options":  [
+                        "全く同じ意味",
+                        "ることができる=より丁寧・明示的、られる=より口語的",
+                        "逆の意味",
+                        "I類動詞には使えない"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「ることができる」はより明示的・フォーマル。「られる（可能）」はより簡潔・口語的。意味は同じだが場面・丁寧さで使い分ける。"
+    }
 ]

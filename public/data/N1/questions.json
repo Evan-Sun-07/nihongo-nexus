@@ -1,8 +1,6 @@
 [
   {
-    "id": "N1_Q_001",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_001", "level": "N1", "type": "vocabulary",
     "question_text": "「懸念」の読み方はどれですか？",
     "options": ["けねん", "けいねん", "かんねん", "けんねん"],
     "correct_answer": 0,
@@ -10,9 +8,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_002",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_002", "level": "N1", "type": "grammar",
     "question_text": "「この役を演じられるのは彼（　　）ほかにいない。」に入る正しい表現は？",
     "options": ["をおいて", "にもまして", "いかんによらず", "にかかわらず"],
     "correct_answer": 0,
@@ -20,9 +16,7 @@
     "linked_grammar_id": "N1_G_002"
   },
   {
-    "id": "N1_Q_003",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_003", "level": "N1", "type": "grammar",
     "question_text": "「今年は例年（　　）暑い夏になった。」に入る最も適切な表現は？",
     "options": ["にもまして", "をおいて", "いかんによらず", "に限らず"],
     "correct_answer": 0,
@@ -30,9 +24,7 @@
     "linked_grammar_id": "N1_G_003"
   },
   {
-    "id": "N1_Q_004",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_004", "level": "N1", "type": "vocabulary",
     "question_text": "「遡る」の読み方はどれですか？",
     "options": ["さかのぼる", "さかさる", "そさかる", "のぼさかる"],
     "correct_answer": 0,
@@ -40,9 +32,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_005",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_005", "level": "N1", "type": "vocabulary",
     "question_text": "「佇む」の読み方はどれですか？",
     "options": ["ちょむ", "たちすむ", "たたずむ", "つくばむ"],
     "correct_answer": 2,
@@ -50,9 +40,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_006",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_006", "level": "N1", "type": "vocabulary",
     "question_text": "「蠢く」の読み方はどれですか？",
     "options": ["しゅんく", "うごめく", "うごく", "もぞめく"],
     "correct_answer": 1,
@@ -60,9 +48,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_007",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_007", "level": "N1", "type": "vocabulary",
     "question_text": "「貶める」の意味はどれですか？",
     "options": ["その地位や評価を低くする", "高く評価する", "ゆっくり歩く", "じっと見つめる"],
     "correct_answer": 0,
@@ -70,9 +56,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_008",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_008", "level": "N1", "type": "vocabulary",
     "question_text": "「矛盾」の読み方はどれですか？",
     "options": ["まじゅん", "もじゅん", "ぼうじゅん", "むじゅん"],
     "correct_answer": 3,
@@ -80,9 +64,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_009",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_009", "level": "N1", "type": "vocabulary",
     "question_text": "「覆す」の意味はどれですか？",
     "options": ["従う", "それまでの考えや状況をひっくり返す", "覆いかぶせる", "確認する"],
     "correct_answer": 1,
@@ -90,9 +72,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_010",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_010", "level": "N1", "type": "vocabulary",
     "question_text": "「緻密」の読み方はどれですか？",
     "options": ["じゅくみつ", "てんみつ", "ちみつ", "ちゅうみつ"],
     "correct_answer": 2,
@@ -100,9 +80,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_011",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_011", "level": "N1", "type": "vocabulary",
     "question_text": "「打開」の意味はどれですか？",
     "options": ["問題や困難な状況を切り開くこと", "打ち明けること", "扉を開けること", "議論を始めること"],
     "correct_answer": 0,
@@ -110,9 +88,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_012",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_012", "level": "N1", "type": "vocabulary",
     "question_text": "「諦念」の読み方はどれですか？",
     "options": ["あきらめねん", "ていねん", "たいねん", "ていかん"],
     "correct_answer": 1,
@@ -120,9 +96,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_013",
-    "level": "N1",
-    "type": "vocabulary",
+    "id": "N1_Q_013", "level": "N1", "type": "vocabulary",
     "question_text": "「卓越」の意味はどれですか？",
     "options": ["普通程度である", "他より劣っている", "他よりも非常に優れていること", "少し優れている"],
     "correct_answer": 2,
@@ -130,9 +104,7 @@
     "linked_grammar_id": null
   },
   {
-    "id": "N1_Q_014",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_014", "level": "N1", "type": "grammar",
     "question_text": "「長年の努力がついに成功（　　）。」に入る最も適切な表現は？",
     "options": ["に限った", "に際した", "に至った", "に当たった"],
     "correct_answer": 2,
@@ -140,9 +112,7 @@
     "linked_grammar_id": "N1_G_004"
   },
   {
-    "id": "N1_Q_015",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_015", "level": "N1", "type": "grammar",
     "question_text": "「どんなに疲れ（　　）、最後まで諦めない。」に入る最も適切な表現は？",
     "options": ["ようが", "ならば", "ものの", "くせに"],
     "correct_answer": 0,
@@ -150,9 +120,7 @@
     "linked_grammar_id": "N1_G_019"
   },
   {
-    "id": "N1_Q_016",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_016", "level": "N1", "type": "grammar",
     "question_text": "「完璧（　　）、せめて合格点は取ってほしい。」に入る最も適切な表現は？",
     "options": ["ながらも", "ないまでも", "とはいえ", "だとしても"],
     "correct_answer": 1,
@@ -160,19 +128,15 @@
     "linked_grammar_id": "N1_G_006"
   },
   {
-    "id": "N1_Q_017",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_017", "level": "N1", "type": "grammar",
     "question_text": "「彼の成功を願っ（　　）。」の（　　）に入る表現は？",
     "options": ["てやまない", "ていられない", "てばかりいる", "てはいけない"],
     "correct_answer": 0,
     "explanation": "「てやまない」は「～し続けている」「心から強く～している」という感情の継続・強調を表します。「願ってやまない」で「心から願い続けている」という意味です。",
-    "linked_grammar_id": "N1_G_007"
+    "linked_grammar_id": "N1_G_010"
   },
   {
-    "id": "N1_Q_018",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_018", "level": "N1", "type": "grammar",
     "question_text": "「年齢（　　）、誰でも参加できます。」に入る最も適切な表現は？",
     "options": ["をおいて", "に限らず", "のみならず", "を問わず"],
     "correct_answer": 3,
@@ -180,9 +144,7 @@
     "linked_grammar_id": "N1_G_008"
   },
   {
-    "id": "N1_Q_019",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_019", "level": "N1", "type": "grammar",
     "question_text": "「技術力（　　）、経験も重要です。」に入る最も適切な表現は？",
     "options": ["もさることながら", "のみならず", "だけでなく", "はともかく"],
     "correct_answer": 0,
@@ -190,89 +152,71 @@
     "linked_grammar_id": "N1_G_009"
   },
   {
-    "id": "N1_Q_020",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_020", "level": "N1", "type": "grammar",
     "question_text": "「専門家（　　）、完全には解明できない問題だ。」に入る最も適切な表現は？",
     "options": ["にしても", "といえども", "であっても", "でさえも"],
     "correct_answer": 1,
     "explanation": "「といえども」は「たとえ～であっても」という逆接の意味を表す書き言葉的表現です。「専門家といえども」で「専門家でさえも」というニュアンスになります。",
-    "linked_grammar_id": "N1_G_010"
+    "linked_grammar_id": "N1_G_017"
   },
   {
-    "id": "N1_Q_021",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_021", "level": "N1", "type": "grammar",
     "question_text": "「知り（　　）、何も言わなかった。」に入る最も適切な表現は？",
     "options": ["ながらも", "つつも", "ながら", "ものの"],
     "correct_answer": 0,
     "explanation": "「ながらも」は「～であるのに、それに反して」という逆接の意味を表します。「知りながらも何も言わなかった」で「知っていたにもかかわらず」というニュアンスです。",
-    "linked_grammar_id": "N1_G_011"
+    "linked_grammar_id": "N1_G_020"
   },
   {
-    "id": "N1_Q_022",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_022", "level": "N1", "type": "grammar",
     "question_text": "「苦しい練習があれ（　　）こそ、今の自分がある。」の意味に最も近いのは？",
     "options": ["苦しい練習があったにもかかわらず今の自分がある", "苦しい練習がなければ今の自分はない", "苦しい練習があったからこそ今の自分がある", "苦しい練習とは関係なく今の自分がある"],
     "correct_answer": 2,
     "explanation": "「あればこそ」は「～があるからこそ」という理由・根拠を強調する表現です。苦しい練習があったからこそ今の自分が存在するという意味になります。",
-    "linked_grammar_id": "N1_G_012"
+    "linked_grammar_id": "N1_G_037"
   },
   {
-    "id": "N1_Q_023",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_023", "level": "N1", "type": "grammar",
     "question_text": "「この仕事ができるのは彼女（　　）ほかにいない。」に入る最も適切な表現は？",
     "options": ["をおいて", "にとって", "をもって", "において"],
     "correct_answer": 0,
     "explanation": "「をおいてほかにない」は「～以外に選択肢はない」「～しか考えられない」という意味の強調表現です。",
-    "linked_grammar_id": "N1_G_014"
+    "linked_grammar_id": "N1_G_002"
   },
   {
-    "id": "N1_Q_024",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_024", "level": "N1", "type": "grammar",
     "question_text": "「その映画は観る者を感動させ（　　）。」に入る最も適切な表現は？",
     "options": ["てやまない", "ないわけにはいかない", "てはならない", "ずにはおかない"],
     "correct_answer": 3,
     "explanation": "「ずにはおかない」は「必ず～させる」「～せずにはいられない状況を引き起こす」という意味を表します。「感動させずにはおかない」で「必ず感動させる」というニュアンスになります。",
-    "linked_grammar_id": "N1_G_015"
+    "linked_grammar_id": "N1_G_009"
   },
   {
-    "id": "N1_Q_025",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_025", "level": "N1", "type": "grammar",
     "question_text": "「彼の苦しみは想像（　　）。」に入る最も適切な表現は？",
     "options": ["にかたくない", "に足りない", "にすぎない", "に違いない"],
     "correct_answer": 0,
     "explanation": "「にかたくない」は「容易に～できる」「難しくない」という意味を表します。「想像にかたくない」で「容易に想像できる」という意味になります。",
-    "linked_grammar_id": "N1_G_016"
+    "linked_grammar_id": "N1_G_005"
   },
   {
-    "id": "N1_Q_026",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_026", "level": "N1", "type": "grammar",
     "question_text": "「目標を達成す（　　）、毎日練習した。」に入る最も適切な表現は？",
     "options": ["ために", "べく", "ので", "から"],
     "correct_answer": 1,
     "explanation": "「べく」は「～するために」「～しようとして」という目的を表す文語的表現です。「達成すべく」で「達成しようとして・達成するために」という意味になります。",
-    "linked_grammar_id": "N1_G_017"
+    "linked_grammar_id": "N1_G_018"
   },
   {
-    "id": "N1_Q_027",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_027", "level": "N1", "type": "grammar",
     "question_text": "「二度とこのような失敗はする（　　）。」に入る最も適切な表現は？",
     "options": ["まい", "はずがない", "わけがない", "ことはない"],
     "correct_answer": 0,
     "explanation": "「まい」は「～しないだろう」「～しないつもりだ」という否定の意志や推量を表す文語的表現です。「するまい」で「絶対にしないつもりだ」という強い意志を表します。",
-    "linked_grammar_id": "N1_G_018"
+    "linked_grammar_id": "N1_G_019"
   },
   {
-    "id": "N1_Q_028",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_028", "level": "N1", "type": "grammar",
     "question_text": "「彼女が留学を機（　　）、英語が飛躍的に上達した。」に入る最も適切な表現は？",
     "options": ["として", "にとって", "にして", "に"],
     "correct_answer": 2,
@@ -280,23 +224,579 @@
     "linked_grammar_id": "N1_G_027"
   },
   {
-    "id": "N1_Q_029",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_029", "level": "N1", "type": "grammar",
     "question_text": "「この成果はチームの協力（　　）のものだ。」に入る最も適切な表現は？",
     "options": ["あっての", "ならではの", "によっての", "をおいての"],
     "correct_answer": 0,
     "explanation": "「あっての」は「～があるからこそ成り立つ」「～なしでは存在できない」という意味を表します。「協力あっての成果」で「協力があってこそ得られた成果」という意味になります。",
-    "linked_grammar_id": "N1_G_028"
+    "linked_grammar_id": "N1_G_011"
   },
   {
-    "id": "N1_Q_030",
-    "level": "N1",
-    "type": "grammar",
+    "id": "N1_Q_030", "level": "N1", "type": "grammar",
     "question_text": "「海外で働き始め（　　）、生活観が大きく変わった。」に入る最も適切な表現は？",
     "options": ["てからは", "てからでないと", "てからこそ", "てからというもの"],
     "correct_answer": 3,
     "explanation": "「てからというもの」は「～して以来ずっと」という意味を表し、ある出来事を境に状態が大きく変わったことを強調します。「働き始めてからというもの」で「働き始めて以来ずっと」というニュアンスになります。",
     "linked_grammar_id": "N1_G_030"
+  },
+  {
+    "id": "N1_Q_031", "level": "N1", "type": "vocabulary",
+    "question_text": "「煩雑」の読み方はどれですか？",
+    "options": ["はんざつ", "ぼんざつ", "はんさつ", "ぼんさつ"],
+    "correct_answer": 0,
+    "explanation": "「煩雑」ははんざつと読みます。手続きや事務などが複雑で面倒なことを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_032", "level": "N1", "type": "vocabulary",
+    "question_text": "「甚大」の意味として最も近いのはどれですか？",
+    "options": ["非常に大きい・はなはだしい", "少し大きい", "中程度の大きさ", "普通の大きさ"],
+    "correct_answer": 0,
+    "explanation": "「甚大」（じんだい）は「非常に大きい、はなはだしい」という意味で、被害などの規模が極めて大きい場合に使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_033", "level": "N1", "type": "vocabulary",
+    "question_text": "「顧みる」の意味はどれですか？",
+    "options": ["過去を振り返って反省する", "前を向いて進む", "他人の意見を聞く", "新しいことを始める"],
+    "correct_answer": 0,
+    "explanation": "「顧みる」（かえりみる）は、過去のことを振り返って反省したり、周囲の状況を気にかけたりすることを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_034", "level": "N1", "type": "vocabulary",
+    "question_text": "「施政」の読み方はどれですか？",
+    "options": ["しせい", "せせい", "しほう", "せほう"],
+    "correct_answer": 0,
+    "explanation": "「施政」はしせいと読みます。政治を行うこと、または政治の方針を意味します。「施政方針演説」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_035", "level": "N1", "type": "vocabulary",
+    "question_text": "「廃止」の反対の意味に最も近い言葉はどれですか？",
+    "options": ["継続", "制定", "撤廃", "修正"],
+    "correct_answer": 1,
+    "explanation": "「廃止」（はいし）は「それまであったものをなくすこと」、その反対は「新たに定めること」を意味する「制定」（せいてい）が最も近いです。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_036", "level": "N1", "type": "vocabulary",
+    "question_text": "「財政」の読み方はどれですか？",
+    "options": ["ざいじょう", "さいせい", "ざいせい", "さいじょう"],
+    "correct_answer": 2,
+    "explanation": "「財政」はざいせいと読みます。国や地方公共団体の収支・経済活動を意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_037", "level": "N1", "type": "vocabulary",
+    "question_text": "「債務」の意味はどれですか？",
+    "options": ["借金・負債", "財産・資産", "利益・収益", "費用・経費"],
+    "correct_answer": 0,
+    "explanation": "「債務」（さいむ）は、他者に対して金銭などを支払う義務、つまり借金や負債のことを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_038", "level": "N1", "type": "vocabulary",
+    "question_text": "「帰納」の意味として正しいのはどれですか？",
+    "options": ["個々の事例から一般的な法則を導く推論方法", "一般的な法則から特定の結論を導く推論方法", "複数の仮説を比較する方法", "実験によって仮説を確かめる方法"],
+    "correct_answer": 0,
+    "explanation": "「帰納」（きのう）は、個々の具体的な事例から一般的な法則や原理を導き出す推論方法です。その反対は「演繹」（えんえき）です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_039", "level": "N1", "type": "vocabulary",
+    "question_text": "「余韻」の読み方はどれですか？",
+    "options": ["よいん", "よおん", "よきん", "よぎん"],
+    "correct_answer": 0,
+    "explanation": "「余韻」はよいんと読みます。音が消えた後に残る響きや、感動・印象の残り香を意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_040", "level": "N1", "type": "vocabulary",
+    "question_text": "「一石二鳥」の意味はどれですか？",
+    "options": ["一つのことで二つの利益を得ること", "二つのことを同時に行うこと", "一つの問題を二段階で解決すること", "二人が協力して一つのことをすること"],
+    "correct_answer": 0,
+    "explanation": "「一石二鳥」（いっせきにちょう）は、一つの行動・手段で二つの利益を得ることを意味する四字熟語です。英語の「kill two birds with one stone」に相当します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_041", "level": "N1", "type": "vocabulary",
+    "question_text": "「臨機応変」の意味はどれですか？",
+    "options": ["その場の状況に応じて適切に対応すること", "計画通りに進めること", "感情的に判断すること", "先例に従って行動すること"],
+    "correct_answer": 0,
+    "explanation": "「臨機応変」（りんきおうへん）は、その時々の状況や変化に応じて、適切に対処することを意味する四字熟語です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_042", "level": "N1", "type": "vocabulary",
+    "question_text": "「阻む」の読み方はどれですか？",
+    "options": ["さえぎる", "はばむ", "ふせぐ", "おそう"],
+    "correct_answer": 1,
+    "explanation": "「阻む」はは「はばむ」と読みます。進もうとするものを途中で止めたり妨害したりすることを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_043", "level": "N1", "type": "vocabulary",
+    "question_text": "「網羅する」の意味はどれですか？",
+    "options": ["関連するものを全て含むこと", "不必要なものを除外すること", "優先順位をつけること", "分類して整理すること"],
+    "correct_answer": 0,
+    "explanation": "「網羅する」（もうらする）は、関連する事項を全て余すことなく含めることを意味します。「網羅的」は「comprehensive」に相当します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_044", "level": "N1", "type": "vocabulary",
+    "question_text": "「遺憾」の読み方はどれですか？",
+    "options": ["いかん", "ゆいかん", "いごん", "ゆいごん"],
+    "correct_answer": 0,
+    "explanation": "「遺憾」はいかんと読みます。思い通りにならず残念に思うことを意味する、正式・書面語的な表現です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_045", "level": "N1", "type": "vocabulary",
+    "question_text": "「品格」の意味はどれですか？",
+    "options": ["人や物が備えている上品さや気品", "商品の価格帯", "作品の評価基準", "行動のパターン"],
+    "correct_answer": 0,
+    "explanation": "「品格」（ひんかく）は、人や物が内側から醸し出す上品さや気品、風格を意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_046", "level": "N1", "type": "vocabulary",
+    "question_text": "「傑出」の読み方はどれですか？",
+    "options": ["けっしゅつ", "きっしゅつ", "けちゅつ", "きちゅつ"],
+    "correct_answer": 0,
+    "explanation": "「傑出」はけっしゅつと読みます。多くのものの中で特に際立って優れていることを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_047", "level": "N1", "type": "vocabulary",
+    "question_text": "「厳粛」の意味はどれですか？",
+    "options": ["厳かで重々しい雰囲気", "楽しく賑やかな様子", "混乱した状態", "簡単で気軽な感じ"],
+    "correct_answer": 0,
+    "explanation": "「厳粛」（げんしゅく）は、厳かで重々しく、おごそかな雰囲気や態度を意味します。「厳粛な式典」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_048", "level": "N1", "type": "vocabulary",
+    "question_text": "「凡庸」の意味はどれですか？",
+    "options": ["特に優れた点も劣った点もない、平凡なこと", "非常に優れていること", "非常に劣っていること", "特別に珍しいこと"],
+    "correct_answer": 0,
+    "explanation": "「凡庸」（ぼんよう）は、特別に優れているわけでも劣っているわけでもない、ごく普通・平凡なことを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_049", "level": "N1", "type": "vocabulary",
+    "question_text": "「伝承」の読み方はどれですか？",
+    "options": ["でんじょう", "でんしょう", "てんじょう", "てんしょう"],
+    "correct_answer": 1,
+    "explanation": "「伝承」はでんしょうと読みます。昔から伝わってきた習慣・技術・民話などを次の世代に受け継ぐことを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_050", "level": "N1", "type": "vocabulary",
+    "question_text": "「画期的」の読み方はどれですか？",
+    "options": ["がきてき", "かっきてき", "かきてき", "がっきてき"],
+    "correct_answer": 1,
+    "explanation": "「画期的」はかっきてきと読みます。時代を大きく変えるほど、従来とはまったく異なる革新的なことを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_051", "level": "N1", "type": "grammar",
+    "question_text": "「本日（　　）、この業務を終了いたします。」の（　　）に入る最も適切な表現は？",
+    "options": ["をもって", "によって", "にとって", "をめぐって"],
+    "correct_answer": 0,
+    "explanation": "「をもって」は時間の区切りを示す正式な表現で、「本日をもって」で「今日を最後として」という意味になります。公式文書や挨拶などで使われます。",
+    "linked_grammar_id": "N1_G_004"
+  },
+  {
+    "id": "N1_Q_052", "level": "N1", "type": "grammar",
+    "question_text": "「東京公演（　　）、全国ツアーが始まった。」に入る最も適切な表現は？",
+    "options": ["を皮切りに", "をもとに", "を中心に", "を機に"],
+    "correct_answer": 0,
+    "explanation": "「を皮切りに」は「～を最初の一歩として、そこから次々と始まった」という意味の表現です。「東京公演を皮切りに」で「東京公演を最初として」という意味になります。",
+    "linked_grammar_id": "N1_G_006"
+  },
+  {
+    "id": "N1_Q_053", "level": "N1", "type": "grammar",
+    "question_text": "「悪天候により、試合の延期（　　）された。」に入る最も適切な表現は？",
+    "options": ["を余儀なく", "が余儀なく", "に余儀なく", "で余儀なく"],
+    "correct_answer": 0,
+    "explanation": "「を余儀なくされる」はセットで使われる表現で、「～することを強いられる・やむを得ない」という意味です。「延期を余儀なくされた」で「やむなく延期した」となります。",
+    "linked_grammar_id": "N1_G_007"
+  },
+  {
+    "id": "N1_Q_054", "level": "N1", "type": "grammar",
+    "question_text": "「この失敗は準備不足（　　）。」に入る最も適切な表現は？",
+    "options": ["にほかならない", "に違いない", "にすぎない", "に当たる"],
+    "correct_answer": 0,
+    "explanation": "「にほかならない」は「まさに～だ、～以外の何ものでもない」という強い断定を表します。「準備不足にほかならない」で「まさに準備不足が原因だ」という意味になります。",
+    "linked_grammar_id": "N1_G_008"
+  },
+  {
+    "id": "N1_Q_055", "level": "N1", "type": "grammar",
+    "question_text": "「みなさんのご活躍を願っ（　　）。」に入る最も適切な表現は？",
+    "options": ["てやまない", "てならない", "てしかたない", "てばかりいる"],
+    "correct_answer": 0,
+    "explanation": "「てやまない」は「心の底から～し続けている」という深い感情の継続を表します。「願ってやまない」は「心から、ずっと願い続けている」という丁寧で正式な表現です。",
+    "linked_grammar_id": "N1_G_010"
+  },
+  {
+    "id": "N1_Q_056", "level": "N1", "type": "grammar",
+    "question_text": "「これは手作り（　　）の味わいです。」に入る最も適切な表現は？",
+    "options": ["ならではの", "にとっての", "だからこその", "によっての"],
+    "correct_answer": 0,
+    "explanation": "「ならではの」は「～にしかない、～だけの特別な」という意味の表現です。「手作りならではの」で「手作りにしか出せない独特の」という意味になります。",
+    "linked_grammar_id": "N1_G_011"
+  },
+  {
+    "id": "N1_Q_057", "level": "N1", "type": "grammar",
+    "question_text": "「台風（　　）、マラソン選手は走り続けた。」に入る最も適切な表現は？",
+    "options": ["をものともせず", "にもかかわらず", "があっても", "でも"],
+    "correct_answer": 0,
+    "explanation": "「をものともせず」は「～を全く問題にしないで、～をものともせず勇敢に」という意味の表現です。「台風をものともせず」で「台風など全く気にせず」というニュアンスになります。",
+    "linked_grammar_id": "N1_G_012"
+  },
+  {
+    "id": "N1_Q_058", "level": "N1", "type": "grammar",
+    "question_text": "「泣か（　　）の顔で頼んできた。」に入る最も適切な表現は？",
+    "options": ["んばかり", "そうなくらい", "ように見える", "ほどの"],
+    "correct_answer": 0,
+    "explanation": "「んばかり」（動詞ない形＋んばかり）は「今にも～しそうな様子」という意味の表現です。「泣かんばかり」で「今にも泣き出しそうな」という意味になります。",
+    "linked_grammar_id": "N1_G_013"
+  },
+  {
+    "id": "N1_Q_059", "level": "N1", "type": "grammar",
+    "question_text": "「親の心配（　　）、彼は旅に出た。」に入る最も適切な表現は？",
+    "options": ["をよそに", "に関係なく", "をものともせず", "にもかかわらず"],
+    "correct_answer": 0,
+    "explanation": "「をよそに」は「～を無視して、～を気にしないで」という意味で、他者の感情や状況を顧みないニュアンスを含みます。「親の心配をよそに」で「親の心配を気にもかけずに」という意味になります。",
+    "linked_grammar_id": "N1_G_014"
+  },
+  {
+    "id": "N1_Q_060", "level": "N1", "type": "grammar",
+    "question_text": "「仕事する（　　）、小説も書いている。」に入る最も適切な表現は？",
+    "options": ["かたわら", "とともに", "ながら", "つつ"],
+    "correct_answer": 0,
+    "explanation": "「かたわら」は「メインの活動をしながら、同時に別の活動もしている」という意味の表現です。「仕事するかたわら」で「仕事をしながら副業的に」というニュアンスになります。",
+    "linked_grammar_id": "N1_G_015"
+  },
+  {
+    "id": "N1_Q_061", "level": "N1", "type": "grammar",
+    "question_text": "「子供（　　）大人（　　）、ルールを守るべきだ。」に入る正しい組み合わせは？",
+    "options": ["であれ / であれ", "でも / でも", "なら / なら", "は / は"],
+    "correct_answer": 0,
+    "explanation": "「であれ～であれ」は「～であっても～であっても、どちらの場合も」という意味の表現で、二つの対立する状況を挙げて両方に当てはまることを示します。",
+    "linked_grammar_id": "N1_G_016"
+  },
+  {
+    "id": "N1_Q_062", "level": "N1", "type": "grammar",
+    "question_text": "「教師にある（　　）行為だ。」に入る最も適切な表現は？",
+    "options": ["まじき", "まじい", "べからず", "べき"],
+    "correct_answer": 0,
+    "explanation": "「あるまじき」は「（その立場の人間に）あってはならない」という意味の表現です。「教師にあるまじき行為」で「教師としてあってはならない行為」という強い非難を表します。",
+    "linked_grammar_id": "N1_G_019"
+  },
+  {
+    "id": "N1_Q_063", "level": "N1", "type": "grammar",
+    "question_text": "「領土問題（　　）、両国の対立が続いている。」に入る最も適切な表現は？",
+    "options": ["をめぐって", "にとって", "をもとに", "に際して"],
+    "correct_answer": 0,
+    "explanation": "「をめぐって」は「～を中心として議論・争いなどが起きている」という意味の表現です。「領土問題をめぐって」で「領土問題が争点となって」という意味になります。",
+    "linked_grammar_id": "N1_G_022"
+  },
+  {
+    "id": "N1_Q_064", "level": "N1", "type": "grammar",
+    "question_text": "「現実（　　）した計画を立ててください。」に入る最も適切な表現は？",
+    "options": ["に即", "に沿", "に基づい", "に応じ"],
+    "correct_answer": 0,
+    "explanation": "「に即した」は「～に密着した、～にぴったり合った」という意味の表現です。「現実に即した計画」で「現実的で実際の状況に合った計画」という意味になります。",
+    "linked_grammar_id": "N1_G_023"
+  },
+  {
+    "id": "N1_Q_065", "level": "N1", "type": "grammar",
+    "question_text": "「見る（　　）テレビを見ていたら、知り合いが映った。」に入る最も適切な表現は？",
+    "options": ["ともなく", "ほどでもなく", "というより", "というほどでも"],
+    "correct_answer": 0,
+    "explanation": "「ともなく」は「特に意識せずに、なんとなく」という意味の表現です。「見るともなく見ていた」で「意識せずぼんやり見ていた」という意味になります。",
+    "linked_grammar_id": "N1_G_024"
+  },
+  {
+    "id": "N1_Q_066", "level": "N1", "type": "grammar",
+    "question_text": "「稲妻の（　　）速さで走り去った。」に入る最も適切な表現は？",
+    "options": ["ごとき", "ような", "みたいな", "らしい"],
+    "correct_answer": 0,
+    "explanation": "「ごとき」は文語的な比喩表現で、「～のような、～に等しい」という意味です。「稲妻のごとき速さ」で「稲妻のような速さ」という意味になります。",
+    "linked_grammar_id": "N1_G_025"
+  },
+  {
+    "id": "N1_Q_067", "level": "N1", "type": "grammar",
+    "question_text": "「一秒（　　）無駄にしてはいけない。」に入る最も適切な表現は？",
+    "options": ["たりとも", "でさえ", "さえも", "といえども"],
+    "correct_answer": 0,
+    "explanation": "「たりとも」は数量表現と組み合わせて、「たとえ最小の単位であっても（否定）」という意味を表します。「一秒たりとも」で「たった一秒でさえも」という強調になります。",
+    "linked_grammar_id": "N1_G_026"
+  },
+  {
+    "id": "N1_Q_068", "level": "N1", "type": "grammar",
+    "question_text": "「あの人に頼んだ（　　）、断れなくなる。」に入る最も適切な表現は？",
+    "options": ["が最後", "からこそ", "ものなら", "とたん"],
+    "correct_answer": 0,
+    "explanation": "「が最後」は「一旦～したら、もう手がつけられない・取り返しがつかない」という意味の表現です。「頼んだが最後」で「一度頼んでしまったら、もう断れない状況になる」という意味になります。",
+    "linked_grammar_id": "N1_G_028"
+  },
+  {
+    "id": "N1_Q_069", "level": "N1", "type": "grammar",
+    "question_text": "「春（　　）、まだ寒い日が続いている。」に入る最も適切な表現は？",
+    "options": ["とはいえ", "なのに", "ながらも", "だが"],
+    "correct_answer": 0,
+    "explanation": "「とはいえ」は「～という事実は認めるが、それでも～」という逆接を表す書き言葉的な表現です。「春とはいえ」で「春であることは確かだが、それでも」という意味になります。",
+    "linked_grammar_id": "N1_G_029"
+  },
+  {
+    "id": "N1_Q_070", "level": "N1", "type": "grammar",
+    "question_text": "「試験に落ちた時の悔しさ（　　）なかった。」に入る最も適切な表現は？",
+    "options": ["といったら", "といえば", "といっても", "というのは"],
+    "correct_answer": 0,
+    "explanation": "「といったらなかった」は「～を言葉で表現できないほどだった」という最高級の感情を表す表現です。「悔しさといったらなかった」で「言葉にならないほど悔しかった」という意味になります。",
+    "linked_grammar_id": "N1_G_030"
+  },
+  {
+    "id": "N1_Q_071", "level": "N1", "type": "grammar",
+    "question_text": "「感謝を伝え（　　）だった。」に入る最も適切な表現は？",
+    "options": ["ずじまい", "ないまま", "なかった", "ないで"],
+    "correct_answer": 0,
+    "explanation": "「ずじまいだ」は「（しようと思っていたが）結局しないで終わってしまった」という遺憾・後悔を表します。「伝えずじまい」で「結果的に伝えられなかった」という意味になります。",
+    "linked_grammar_id": "N1_G_031"
+  },
+  {
+    "id": "N1_Q_072", "level": "N1", "type": "grammar",
+    "question_text": "「心配する（　　）、大丈夫ですよ。」に入る最も適切な表現は？",
+    "options": ["には及ばない", "ことはない", "必要はない", "ではない"],
+    "correct_answer": 0,
+    "explanation": "「には及ばない」は「～する必要はない、～しなくてもいい」という意味の表現です。「心配するには及ばない」で「心配する必要はない」という意味になります。",
+    "linked_grammar_id": "N1_G_032"
+  },
+  {
+    "id": "N1_Q_073", "level": "N1", "type": "grammar",
+    "question_text": "「あなたのため（　　）、何でもします。」に入る最も適切な表現は？",
+    "options": ["とあれば", "とあって", "とすれば", "となれば"],
+    "correct_answer": 0,
+    "explanation": "「とあれば」は「もし～という条件・理由があるならば」という意味の表現で、その条件があれば当然そうするという含意があります。「あなたのためとあれば」で「あなたのためということなら」という意味になります。",
+    "linked_grammar_id": "N1_G_033"
+  },
+  {
+    "id": "N1_Q_074", "level": "N1", "type": "grammar",
+    "question_text": "「その話を聞いて、涙（　　）なかった。」に入る最も適切な表現は？",
+    "options": ["を禁じ得", "が止まら", "をこらえ", "に耐え"],
+    "correct_answer": 0,
+    "explanation": "「を禁じ得ない」は「（感情を）押さえることができない、抑えきれない」という意味の書き言葉的表現です。「涙を禁じ得なかった」で「涙を止めることができなかった」という意味になります。",
+    "linked_grammar_id": "N1_G_034"
+  },
+  {
+    "id": "N1_Q_075", "level": "N1", "type": "grammar",
+    "question_text": "「式典（　　）、リハーサルを行った。」に入る最も適切な表現は？",
+    "options": ["に先立って", "の前に", "より先に", "にさきがけて"],
+    "correct_answer": 0,
+    "explanation": "「に先立って」は「～より前に、～に先んじて」という意味の正式な表現です。「式典に先立って」で「式典が始まる前に」という意味になります。",
+    "linked_grammar_id": "N1_G_035"
+  },
+  {
+    "id": "N1_Q_076", "level": "N1", "type": "grammar",
+    "question_text": "「最新技術（　　）、解決できない問題がある。」に入る最も適切な表現は？",
+    "options": ["をもってしても", "をもって", "をもちいても", "であっても"],
+    "correct_answer": 0,
+    "explanation": "「をもってしても」は「たとえ～という高い能力・条件をもってしても（無理だ）」という意味の表現です。「最新技術をもってしても」で「最新技術があっても解決できない」という逆接の強調になります。",
+    "linked_grammar_id": "N1_G_036"
+  },
+  {
+    "id": "N1_Q_077", "level": "N1", "type": "grammar",
+    "question_text": "「愛していれ（　　）こそ、厳しく言うのです。」の（　　）に入る表現は？",
+    "options": ["ば", "ど", "て", "た"],
+    "correct_answer": 0,
+    "explanation": "「ばこそ」は「～だからこそ」という理由の強調を表します。「愛していればこそ」で「愛しているからこそ」という意味で、その感情が行動の根拠であることを強調します。",
+    "linked_grammar_id": "N1_G_037"
+  },
+  {
+    "id": "N1_Q_078", "level": "N1", "type": "grammar",
+    "question_text": "「努力（　　）、成功はあり得ない。」に入る最も適切な表現は？",
+    "options": ["なしには", "なしで", "がなければ", "なくては"],
+    "correct_answer": 0,
+    "explanation": "「なしには」は「～なしでは（後ろに否定）」という意味で、何かの不在が不可能を引き起こすことを表します。「努力なしには成功はあり得ない」で「努力がなければ成功できない」という意味になります。",
+    "linked_grammar_id": "N1_G_038"
+  },
+  {
+    "id": "N1_Q_079", "level": "N1", "type": "grammar",
+    "question_text": "「彼は天才である（　　）、孤独を感じることが多い。」に入る最も適切な表現は？",
+    "options": ["がゆえに", "から", "ので", "ため"],
+    "correct_answer": 0,
+    "explanation": "「であるがゆえに」は「～だという理由で、～だからこそ」という意味の書き言葉的表現です。「天才であるがゆえに」で「天才であるからこそ（生じる問題）」という因果関係を表します。",
+    "linked_grammar_id": "N1_G_039"
+  },
+  {
+    "id": "N1_Q_080", "level": "N1", "type": "grammar",
+    "question_text": "「時代の変化（　　）、価値観も変わってきた。」に入る最も適切な表現は？",
+    "options": ["とともに", "について", "にともない", "にそって"],
+    "correct_answer": 0,
+    "explanation": "「とともに」は「～と同時に、～に伴って」という意味の表現です。「時代の変化とともに」で「時代が変わるにつれて」という意味になります。",
+    "linked_grammar_id": "N1_G_040"
+  },
+  {
+    "id": "N1_Q_081", "level": "N1", "type": "vocabulary",
+    "question_text": "「鑑みる」の意味はどれですか？",
+    "options": ["ある物事を基準として参照しながら判断する", "美しいものを鑑賞する", "鏡で自分の姿を確認する", "詳しく調査する"],
+    "correct_answer": 0,
+    "explanation": "「鑑みる」（かんがみる）は、ある物事を手本・基準として照らし合わせながら考え判断することを意味します。「状況に鑑みて」などの形で使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_082", "level": "N1", "type": "vocabulary",
+    "question_text": "「醸し出す」の意味はどれですか？",
+    "options": ["ある雰囲気や感情を自然に生み出す", "発酵させて食品を作る", "強引に引き出す", "隠れていたものを発見する"],
+    "correct_answer": 0,
+    "explanation": "「醸し出す」（かもしだす）は、ある雰囲気・感情・効果などを自然ににじみ出るように作り出すことを意味します。「独特の雰囲気を醸し出す」などの形で使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_083", "level": "N1", "type": "vocabulary",
+    "question_text": "「陳腐」の意味はどれですか？",
+    "options": ["古くさくてありきたりなこと", "珍しく高価なこと", "複雑で難解なこと", "新鮮で独創的なこと"],
+    "correct_answer": 0,
+    "explanation": "「陳腐」（ちんぷ）は、新鮮みがなく古くさい、ありきたりなことを意味します。「斬新」の反対語として使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_084", "level": "N1", "type": "vocabulary",
+    "question_text": "「以心伝心」の意味はどれですか？",
+    "options": ["言葉なしに相手の気持ちが通じること", "手紙で気持ちを伝えること", "大勢の人に情報を伝えること", "心理学的な実験方法"],
+    "correct_answer": 0,
+    "explanation": "「以心伝心」（いしんでんしん）は、言葉を使わなくても、互いの心が通じ合うことを意味する四字熟語です。英語の「telepathy」に近い概念です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_085", "level": "N1", "type": "vocabulary",
+    "question_text": "「促す」の読み方はどれですか？",
+    "options": ["うながす", "みちびく", "すすめる", "はげます"],
+    "correct_answer": 0,
+    "explanation": "「促す」はうながすと読みます。相手に何かをするよう求めたり、物事の進行を速めたりすることを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_086", "level": "N1", "type": "vocabulary",
+    "question_text": "「抜本的」の意味はどれですか？",
+    "options": ["問題の根本から解決する、根本的な", "表面だけを改善する", "部分的に修正する", "一時的に対処する"],
+    "correct_answer": 0,
+    "explanation": "「抜本的」（ばっぽんてき）は、問題の根本的な原因から取り除く、徹底的な対処を意味します。「抜本的改革」などの形でよく使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_087", "level": "N1", "type": "vocabulary",
+    "question_text": "「潜在的」の意味はどれですか？",
+    "options": ["表面に現れていないが内側に存在している", "表に出ている", "完全に消えてしまった", "偶然発生した"],
+    "correct_answer": 0,
+    "explanation": "「潜在的」（せんざいてき）は、表面には現れていないが内側に存在している、隠れた可能性や性質を持つことを意味します。「潜在的な能力」などの形で使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_088", "level": "N1", "type": "vocabulary",
+    "question_text": "「免疫」の読み方はどれですか？",
+    "options": ["めんえき", "めんいき", "めいえき", "みんえき"],
+    "correct_answer": 0,
+    "explanation": "「免疫」はめんえきと読みます。体が病原体などに対して抵抗力を持つ仕組みを意味します。転じて「慣れてしまった」という意味でも使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_089", "level": "N1", "type": "vocabulary",
+    "question_text": "「弾劾」の読み方はどれですか？",
+    "options": ["だんがい", "だんかく", "たんがい", "たんかく"],
+    "correct_answer": 0,
+    "explanation": "「弾劾」はだんがいと読みます。公職にある者の非行を訴追する制度や行為を意味します。「大統領弾劾」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_090", "level": "N1", "type": "vocabulary",
+    "question_text": "「矜持」の読み方はどれですか？",
+    "options": ["きょうじ", "きょうち", "こうじ", "こうち"],
+    "correct_answer": 0,
+    "explanation": "「矜持」はきょうじと読みます。自分の能力・地位・仕事などへの自信と誇りを意味します。「プロとしての矜持」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_091", "level": "N1", "type": "vocabulary",
+    "question_text": "「温故知新」の意味はどれですか？",
+    "options": ["古いことを学び直して新しい知見を得ること", "新しいことを学ぶために古いことを捨てること", "過去と現在を比較すること", "昔の方法の方が優れていること"],
+    "correct_answer": 0,
+    "explanation": "「温故知新」（おんこちしん）は、昔のことを学び直すことで新しい発見や知識を得ることを意味する四字熟語です。孔子の言葉に由来します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_092", "level": "N1", "type": "vocabulary",
+    "question_text": "「歪める」の読み方はどれですか？",
+    "options": ["ゆがめる", "ゆがれる", "ひずめる", "ひずれる"],
+    "correct_answer": 0,
+    "explanation": "「歪める」はゆがめると読みます。形や内容などを本来の状態から変形させたり、事実を曲げたりすることを意味します。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_093", "level": "N1", "type": "vocabulary",
+    "question_text": "「裁量」の意味はどれですか？",
+    "options": ["自分の判断で適切に処理すること", "上司の命令に従うこと", "規則通りに処理すること", "委員会で決定すること"],
+    "correct_answer": 0,
+    "explanation": "「裁量」（さいりょう）は、その人の判断や考えに基づいて事を処理する権限や行為を意味します。「裁量権」「裁量の余地」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_094", "level": "N1", "type": "vocabulary",
+    "question_text": "「崇高」の読み方はどれですか？",
+    "options": ["すうこう", "すうたか", "そうこう", "そうたか"],
+    "correct_answer": 0,
+    "explanation": "「崇高」はすうこうと読みます。気高く偉大で、尊ぶべき様子を意味します。「崇高な精神」「崇高な理念」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_095", "level": "N1", "type": "vocabulary",
+    "question_text": "「踏襲する」の意味はどれですか？",
+    "options": ["以前からのやり方をそのまま受け継ぐ", "新しい方法を導入する", "古い慣習を廃止する", "改善して発展させる"],
+    "correct_answer": 0,
+    "explanation": "「踏襲する」（とうしゅうする）は、以前の人がやってきた方法や方針をそのまま受け継いで続けることを意味します。「前任者の方針を踏襲する」などの形で使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_096", "level": "N1", "type": "vocabulary",
+    "question_text": "「命題」の読み方はどれですか？",
+    "options": ["めいだい", "めいたい", "みょうだい", "みょうたい"],
+    "correct_answer": 0,
+    "explanation": "「命題」はめいだいと読みます。論理学において、真か偽かを判断できる文や主張を意味します。哲学や数学でよく使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_097", "level": "N1", "type": "vocabulary",
+    "question_text": "「無我夢中」の意味はどれですか？",
+    "options": ["我を忘れて物事に熱中すること", "夢の中で何かをすること", "我を張って主張すること", "理想を追い求めること"],
+    "correct_answer": 0,
+    "explanation": "「無我夢中」（むがむちゅう）は、自分のことを忘れるほど、ある物事に完全に没頭することを意味する四字熟語です。「夢中になって」に近い意味です。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_098", "level": "N1", "type": "vocabulary",
+    "question_text": "「統括する」の意味はどれですか？",
+    "options": ["全体をまとめて管理・指揮する", "細かく分類する", "部分的に改善する", "記録してまとめる"],
+    "correct_answer": 0,
+    "explanation": "「統括する」（とうかつする）は、組織や業務全体をまとめて管理・指揮することを意味します。「部門を統括する」などの形で使います。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_099", "level": "N1", "type": "vocabulary",
+    "question_text": "「秀逸」の読み方はどれですか？",
+    "options": ["しゅういつ", "しゅうえつ", "ひでいつ", "ひでえつ"],
+    "correct_answer": 0,
+    "explanation": "「秀逸」はしゅういつと読みます。他よりも特に優れていて出色なことを意味します。「秀逸な作品」などの形で使われます。",
+    "linked_grammar_id": null
+  },
+  {
+    "id": "N1_Q_100", "level": "N1", "type": "vocabulary",
+    "question_text": "「所存」の意味はどれですか？",
+    "options": ["〜するつもりである（改まった言い方）", "所有している財産", "現在の状況", "問題の原因"],
+    "correct_answer": 0,
+    "explanation": "「所存」（しょぞん）は「考え・つもり・意向」を意味する改まった表現で、「～する所存です」「～と存じます」など、ビジネス文書や改まった場面で使われます。",
+    "linked_grammar_id": null
   }
 ]

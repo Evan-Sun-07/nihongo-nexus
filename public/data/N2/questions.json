@@ -1,302 +1,1502 @@
 [
-  {
-    "id": "N2_Q_001",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「概念」の読み方はどれですか？",
-    "options": ["がいねん", "かいねん", "がいかん", "かいかん"],
-    "correct_answer": 0,
-    "explanation": "「概念」はがいねんと読みます。概（がい）+ 念（ねん）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_002",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「この問題は日本（　　）、世界中で起きています。」に入る正しい表現は？",
-    "options": ["に限らず", "はともかく", "ならではの", "に関して"],
-    "correct_answer": 0,
-    "explanation": "「に限らず」は「～だけでなく、他にも」という意味で、範囲を広げる表現です。",
-    "linked_grammar_id": "N2_G_001"
-  },
-  {
-    "id": "N2_Q_003",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「これは日本（　　）文化です。」に入る正しい表現は？",
-    "options": ["ならではの", "に限らず", "はともかく", "においての"],
-    "correct_answer": 0,
-    "explanation": "「ならではの」は「その場所・人・状況にしかない独自の」という意味で、独自性や特殊性を表します。",
-    "linked_grammar_id": "N2_G_003"
-  },
-  {
-    "id": "N2_Q_004",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「傾向」の読み方はどれですか？",
-    "options": ["けいこう", "けいきょう", "かたむき", "けいこ"],
-    "correct_answer": 0,
-    "explanation": "「傾向」は「けいこう」と読みます。ある方向や状態に偏る性質を表します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_005",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「措置」の意味はどれですか？",
-    "options": ["措施，处置", "目的，目标", "结果，成果", "原因，理由"],
-    "correct_answer": 0,
-    "explanation": "「措置（そち）」は問題や状況に対応するための具体的な手段・処置のことです。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_006",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「値段（　　）、品質は最高です。」に入る正しい表現は？",
-    "options": ["はともかく", "に限らず", "ならではの", "にもかかわらず"],
-    "correct_answer": 0,
-    "explanation": "「はともかく」は「価格は一旦置いておいて」という意味で、ある問題を棚上げにして別の点を評価する場合に使います。",
-    "linked_grammar_id": "N2_G_002"
-  },
-  {
-    "id": "N2_Q_007",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「雨（　　）、多くの人が集まりました。」に入る正しい表現は？",
-    "options": ["にもかかわらず", "に基づいて", "に伴って", "に応じて"],
-    "correct_answer": 0,
-    "explanation": "「にもかかわらず」は逆接を表し、「雨という不利な条件があっても」という意味を表します。",
-    "linked_grammar_id": "N2_G_004"
-  },
-  {
-    "id": "N2_Q_008",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「懸念」の意味はどれですか？",
-    "options": ["担忧，顾虑", "期待，盼望", "满足，满意", "安心，放心"],
-    "correct_answer": 0,
-    "explanation": "「懸念（けねん）」は将来起こりうる悪いことを心配することです。「不安に思うこと」とほぼ同じ意味です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_009",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「東京（　　）、大阪や名古屋にも店があります。」に入る正しい表現は？",
-    "options": ["をはじめ", "をめぐって", "に反して", "に加えて"],
-    "correct_answer": 0,
-    "explanation": "「をはじめ」は「東京を代表として、他の場所にも」という意味で、代表的な例を挙げて他も含めることを表します。",
-    "linked_grammar_id": "N2_G_005"
-  },
-  {
-    "id": "N2_Q_010",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「抜本的」の意味はどれですか？",
-    "options": ["根本性的，彻底的", "表面性的，肤浅的", "暂时性的，临时的", "一般性的，普通的"],
-    "correct_answer": 0,
-    "explanation": "「抜本的（ばっぽんてき）」は問題の根本から解決するような、徹底した対策を指します。「根本的な改革」と似た意味です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_011",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「技術力（　　）、コミュニケーション能力も大切です。」に入る正しい表現は？",
-    "options": ["に加えて", "はともかく", "に反して", "次第で"],
-    "correct_answer": 0,
-    "explanation": "「に加えて」は「技術力という既存のものに、さらに加えて」という意味で、累積を表します。",
-    "linked_grammar_id": "N2_G_006"
-  },
-  {
-    "id": "N2_Q_012",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「貢献」の読み方はどれですか？",
-    "options": ["こうけん", "きょうけん", "こうきょ", "きょうきょ"],
-    "correct_answer": 0,
-    "explanation": "「貢献」は「こうけん」と読みます。社会や組織のために力を尽くすことを意味します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_013",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「英語（　　）、中国語まで話せます。」の空欄に入る最も適切な表現は？",
-    "options": ["ばかりか", "はともかく", "に関して", "においても"],
-    "correct_answer": 0,
-    "explanation": "「ばかりか～まで」は「英語だけでなく、さらに中国語まで」という意味で、程度が高まることを表します。",
-    "linked_grammar_id": "N2_G_007"
-  },
-  {
-    "id": "N2_Q_014",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「側面」の意味はどれですか？",
-    "options": ["侧面，方面，一个方面", "正面，前面，主要面", "背面，后面，背景", "底面，下面，基础"],
-    "correct_answer": 0,
-    "explanation": "「側面（そくめん）」は物事の一面・ある角度から見た面のことです。「一側面」「別の側面から見ると」などと使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_015",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「この技術は経済（　　）、社会全体に影響を与えます。」に入る正しい表現は？",
-    "options": ["のみならず", "に関して", "をはじめ", "に対して"],
-    "correct_answer": 0,
-    "explanation": "「のみならず」は「だけでなく」の書き言葉で、経済だけに留まらず社会全体にも影響すると表します。",
-    "linked_grammar_id": "N2_G_008"
-  },
-  {
-    "id": "N2_Q_016",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「要因」の意味はどれですか？",
-    "options": ["要因，主要原因，关键因素", "结果，后果，影响", "过程，经过，步骤", "目标，目的，方向"],
-    "correct_answer": 0,
-    "explanation": "「要因（よういん）」は物事が起きた主な原因・主な要素のことです。複数の原因がある中で特に重要なものを指します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_017",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「子供（　　）、遊びは大切な学びです。」に入る正しい表現は？",
-    "options": ["にとって", "に対して", "によって", "において"],
-    "correct_answer": 0,
-    "explanation": "「にとって」は「子どもの立場・視点から見て」という意味で、当事者の観点を表します。",
-    "linked_grammar_id": "N2_G_011"
-  },
-  {
-    "id": "N2_Q_018",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「循環」の読み方はどれですか？",
-    "options": ["じゅんかん", "じゅんがん", "しゅんかん", "しゅんがん"],
-    "correct_answer": 0,
-    "explanation": "「循環」は「じゅんかん」と読みます。繰り返し巡ること、物質や情報が回り続けることを意味します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_019",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「データ（　　）分析しました。」に入る正しい表現は？",
-    "options": ["に基づいて", "に伴って", "に応じて", "に反して"],
-    "correct_answer": 0,
-    "explanation": "「に基づいて」は「データを根拠・基盤として」という意味で、行動や判断の依拠を表します。",
-    "linked_grammar_id": "N2_G_014"
-  },
-  {
-    "id": "N2_Q_020",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「格差」の意味はどれですか？",
-    "options": ["差距，差异，不平等", "平等，公平，均衡", "进步，发展，改善", "合并，统一，整合"],
-    "correct_answer": 0,
-    "explanation": "「格差（かくさ）」は等級や水準の差のことです。「貧富の格差」「収入格差」など社会的な不平等を指すことが多いです。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_021",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「会議（　　）、新しい方針が決まりました。」に入る正しい表現は？",
-    "options": ["において", "によって", "に対して", "に関して"],
-    "correct_answer": 0,
-    "explanation": "「において」は「で」の書き言葉で、場所・場面を表します。正式な文書や報告によく使われます。",
-    "linked_grammar_id": "N2_G_015"
-  },
-  {
-    "id": "N2_Q_022",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「推進する」の意味はどれですか？",
-    "options": ["推进，促进，推动", "抑制，控制，阻止", "废除，取消，停止", "延迟，拖延，推后"],
-    "correct_answer": 0,
-    "explanation": "「推進する（すいしんする）」は物事を積極的に前に進めることです。「計画を推進する」「政策を推進する」などと使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_023",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「経済成長（　　）、生活水準が上がりました。」に入る正しい表現は？",
-    "options": ["に伴い", "にもかかわらず", "に反して", "次第で"],
-    "correct_answer": 0,
-    "explanation": "「に伴い」は「経済成長という変化と一緒に、生活水準も上がった」という伴随関係を表します。",
-    "linked_grammar_id": "N2_G_017"
-  },
-  {
-    "id": "N2_Q_024",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「偏見」の意味はどれですか？",
-    "options": ["偏见，先入为主，不公正的看法", "正确的见解，客观的意见", "共同的意见，一致的看法", "专业的意见，权威的见解"],
-    "correct_answer": 0,
-    "explanation": "「偏見（へんけん）」は根拠なく一方に偏った見方のことです。「～に対して偏見を持つ」などと使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_025",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「難しい（　　）、やりがいがあります。」に入る正しい表現は？",
-    "options": ["からこそ", "からには", "にすぎない", "に違いない"],
-    "correct_answer": 0,
-    "explanation": "「からこそ」は「難しいというまさにその理由だからこそ、やりがいが生まれる」という強い因果を表します。",
-    "linked_grammar_id": "N2_G_025"
-  },
-  {
-    "id": "N2_Q_026",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「これはほんの一例（　　）。」に入る正しい表現は？",
-    "options": ["にすぎない", "に違いない", "からこそ", "からには"],
-    "correct_answer": 0,
-    "explanation": "「にすぎない」は「それだけのことで、それ以上でも以下でもない」という意味で、程度を控えめに表します。",
-    "linked_grammar_id": "N2_G_026"
-  },
-  {
-    "id": "N2_Q_027",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「維持する」の意味はどれですか？",
-    "options": ["维持，保持，维系", "破坏，损害，削弱", "提高，改善，升级", "变化，改变，转换"],
-    "correct_answer": 0,
-    "explanation": "「維持する（いじする）」は現在の状態をそのまま保ち続けることです。「現状を維持する」「関係を維持する」などと使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_028",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「やると言った（　　）、最後までやります。」に入る正しい表現は？",
-    "options": ["からには", "からこそ", "にすぎない", "に違いない"],
-    "correct_answer": 0,
-    "explanation": "「からには」は「やると言ったという事実があるから、当然責任を持って最後まで行う」という義務・決意を表します。",
-    "linked_grammar_id": "N2_G_028"
-  },
-  {
-    "id": "N2_Q_029",
-    "level": "N2",
-    "type": "vocabulary",
-    "question_text": "「一致」の読み方はどれですか？",
-    "options": ["いっち", "いちち", "いっし", "いちし"],
-    "correct_answer": 0,
-    "explanation": "「一致」は「いっち」と読みます。複数のものがぴったり合うこと、または同じ意見になることを意味します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N2_Q_030",
-    "level": "N2",
-    "type": "grammar",
-    "question_text": "「内容を確認した（　　）、署名してください。」に入る正しい表現は？",
-    "options": ["うえで", "ことなく", "つつも", "次第で"],
-    "correct_answer": 0,
-    "explanation": "「うえで」は「まず内容を確認するという前の行動を完了した後に、次の行動（署名）をする」という順序を表します。",
-    "linked_grammar_id": "N2_G_029"
-  }
+    {
+        "id":  "N2_Q_001",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「概念」の読み方はどれですか？",
+        "options":  [
+                        "がいねん",
+                        "かいねん",
+                        "がいかん",
+                        "かいかん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「概念」はがいねんと読みます。概（がい）+ 念（ねん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_002",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「この問題は日本（　　）、世界中で起きています。」に入る正しい表現は？",
+        "options":  [
+                        "に限らず",
+                        "はともかく",
+                        "ならではの",
+                        "に関して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に限らず」は「～だけでなく、他にも」という意味で、範囲を広げる表現です。",
+        "linked_grammar_id":  "N2_G_001"
+    },
+    {
+        "id":  "N2_Q_003",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「これは日本（　　）文化です。」に入る正しい表現は？",
+        "options":  [
+                        "ならではの",
+                        "に限らず",
+                        "はともかく",
+                        "においての"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ならではの」は「その場所・人・状況にしかない独自の」という意味で、独自性や特殊性を表します。",
+        "linked_grammar_id":  "N2_G_003"
+    },
+    {
+        "id":  "N2_Q_004",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「傾向」の読み方はどれですか？",
+        "options":  [
+                        "けいこう",
+                        "けいきょう",
+                        "かたむき",
+                        "けいこ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「傾向」は「けいこう」と読みます。ある方向や状態に偏る性質を表します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_005",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「措置」の意味はどれですか？",
+        "options":  [
+                        "措施，处置",
+                        "目的，目标",
+                        "结果，成果",
+                        "原因，理由"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「措置（そち）」は問題や状況に対応するための具体的な手段・処置のことです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_006",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「値段（　　）、品質は最高です。」に入る正しい表現は？",
+        "options":  [
+                        "はともかく",
+                        "に限らず",
+                        "ならではの",
+                        "にもかかわらず"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「はともかく」は「価格は一旦置いておいて」という意味で、ある問題を棚上げにして別の点を評価する場合に使います。",
+        "linked_grammar_id":  "N2_G_002"
+    },
+    {
+        "id":  "N2_Q_007",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「雨（　　）、多くの人が集まりました。」に入る正しい表現は？",
+        "options":  [
+                        "にもかかわらず",
+                        "に基づいて",
+                        "に伴って",
+                        "に応じて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「にもかかわらず」は逆接を表し、「雨という不利な条件があっても」という意味を表します。",
+        "linked_grammar_id":  "N2_G_004"
+    },
+    {
+        "id":  "N2_Q_008",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「懸念」の意味はどれですか？",
+        "options":  [
+                        "担忧，顾虑",
+                        "期待，盼望",
+                        "满足，满意",
+                        "安心，放心"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「懸念（けねん）」は将来起こりうる悪いことを心配することです。「不安に思うこと」とほぼ同じ意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_009",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「東京（　　）、大阪や名古屋にも店があります。」に入る正しい表現は？",
+        "options":  [
+                        "をはじめ",
+                        "をめぐって",
+                        "に反して",
+                        "に加えて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「をはじめ」は「東京を代表として、他の場所にも」という意味で、代表的な例を挙げて他も含めることを表します。",
+        "linked_grammar_id":  "N2_G_005"
+    },
+    {
+        "id":  "N2_Q_010",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「抜本的」の意味はどれですか？",
+        "options":  [
+                        "根本性的，彻底的",
+                        "表面性的，肤浅的",
+                        "暂时性的，临时的",
+                        "一般性的，普通的"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「抜本的（ばっぽんてき）」は問題の根本から解決するような、徹底した対策を指します。「根本的な改革」と似た意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_011",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「技術力（　　）、コミュニケーション能力も大切です。」に入る正しい表現は？",
+        "options":  [
+                        "に加えて",
+                        "はともかく",
+                        "に反して",
+                        "次第で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に加えて」は「技術力という既存のものに、さらに加えて」という意味で、累積を表します。",
+        "linked_grammar_id":  "N2_G_006"
+    },
+    {
+        "id":  "N2_Q_012",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「貢献」の読み方はどれですか？",
+        "options":  [
+                        "こうけん",
+                        "きょうけん",
+                        "こうきょ",
+                        "きょうきょ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「貢献」は「こうけん」と読みます。社会や組織のために力を尽くすことを意味します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_013",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「英語（　　）、中国語まで話せます。」の空欄に入る最も適切な表現は？",
+        "options":  [
+                        "ばかりか",
+                        "はともかく",
+                        "に関して",
+                        "においても"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ばかりか～まで」は「英語だけでなく、さらに中国語まで」という意味で、程度が高まることを表します。",
+        "linked_grammar_id":  "N2_G_007"
+    },
+    {
+        "id":  "N2_Q_014",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「側面」の意味はどれですか？",
+        "options":  [
+                        "侧面，方面，一个方面",
+                        "正面，前面，主要面",
+                        "背面，后面，背景",
+                        "底面，下面，基础"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「側面（そくめん）」は物事の一面・ある角度から見た面のことです。「一側面」「別の側面から見ると」などと使います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_015",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「この技術は経済（　　）、社会全体に影響を与えます。」に入る正しい表現は？",
+        "options":  [
+                        "のみならず",
+                        "に関して",
+                        "をはじめ",
+                        "に対して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「のみならず」は「だけでなく」の書き言葉で、経済だけに留まらず社会全体にも影響すると表します。",
+        "linked_grammar_id":  "N2_G_008"
+    },
+    {
+        "id":  "N2_Q_016",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「要因」の意味はどれですか？",
+        "options":  [
+                        "要因，主要原因，关键因素",
+                        "结果，后果，影响",
+                        "过程，经过，步骤",
+                        "目标，目的，方向"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「要因（よういん）」は物事が起きた主な原因・主な要素のことです。複数の原因がある中で特に重要なものを指します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_017",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「子供（　　）、遊びは大切な学びです。」に入る正しい表現は？",
+        "options":  [
+                        "にとって",
+                        "に対して",
+                        "によって",
+                        "において"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「にとって」は「子どもの立場・視点から見て」という意味で、当事者の観点を表します。",
+        "linked_grammar_id":  "N2_G_011"
+    },
+    {
+        "id":  "N2_Q_018",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「循環」の読み方はどれですか？",
+        "options":  [
+                        "じゅんかん",
+                        "じゅんがん",
+                        "しゅんかん",
+                        "しゅんがん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「循環」は「じゅんかん」と読みます。繰り返し巡ること、物質や情報が回り続けることを意味します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_019",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「データ（　　）分析しました。」に入る正しい表現は？",
+        "options":  [
+                        "に基づいて",
+                        "に伴って",
+                        "に応じて",
+                        "に反して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に基づいて」は「データを根拠・基盤として」という意味で、行動や判断の依拠を表します。",
+        "linked_grammar_id":  "N2_G_014"
+    },
+    {
+        "id":  "N2_Q_020",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「格差」の意味はどれですか？",
+        "options":  [
+                        "差距，差异，不平等",
+                        "平等，公平，均衡",
+                        "进步，发展，改善",
+                        "合并，统一，整合"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「格差（かくさ）」は等級や水準の差のことです。「貧富の格差」「収入格差」など社会的な不平等を指すことが多いです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_021",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「会議（　　）、新しい方針が決まりました。」に入る正しい表現は？",
+        "options":  [
+                        "において",
+                        "によって",
+                        "に対して",
+                        "に関して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「において」は「で」の書き言葉で、場所・場面を表します。正式な文書や報告によく使われます。",
+        "linked_grammar_id":  "N2_G_015"
+    },
+    {
+        "id":  "N2_Q_022",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「推進する」の意味はどれですか？",
+        "options":  [
+                        "推进，促进，推动",
+                        "抑制，控制，阻止",
+                        "废除，取消，停止",
+                        "延迟，拖延，推后"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「推進する（すいしんする）」は物事を積極的に前に進めることです。「計画を推進する」「政策を推進する」などと使います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_023",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「経済成長（　　）、生活水準が上がりました。」に入る正しい表現は？",
+        "options":  [
+                        "に伴い",
+                        "にもかかわらず",
+                        "に反して",
+                        "次第で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に伴い」は「経済成長という変化と一緒に、生活水準も上がった」という伴随関係を表します。",
+        "linked_grammar_id":  "N2_G_017"
+    },
+    {
+        "id":  "N2_Q_024",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「偏見」の意味はどれですか？",
+        "options":  [
+                        "偏见，先入为主，不公正的看法",
+                        "正确的见解，客观的意见",
+                        "共同的意见，一致的看法",
+                        "专业的意见，权威的见解"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「偏見（へんけん）」は根拠なく一方に偏った見方のことです。「～に対して偏見を持つ」などと使います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_025",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「難しい（　　）、やりがいがあります。」に入る正しい表現は？",
+        "options":  [
+                        "からこそ",
+                        "からには",
+                        "にすぎない",
+                        "に違いない"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「からこそ」は「難しいというまさにその理由だからこそ、やりがいが生まれる」という強い因果を表します。",
+        "linked_grammar_id":  "N2_G_025"
+    },
+    {
+        "id":  "N2_Q_026",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「これはほんの一例（　　）。」に入る正しい表現は？",
+        "options":  [
+                        "にすぎない",
+                        "に違いない",
+                        "からこそ",
+                        "からには"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「にすぎない」は「それだけのことで、それ以上でも以下でもない」という意味で、程度を控えめに表します。",
+        "linked_grammar_id":  "N2_G_026"
+    },
+    {
+        "id":  "N2_Q_027",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「維持する」の意味はどれですか？",
+        "options":  [
+                        "维持，保持，维系",
+                        "破坏，损害，削弱",
+                        "提高，改善，升级",
+                        "变化，改变，转换"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「維持する（いじする）」は現在の状態をそのまま保ち続けることです。「現状を維持する」「関係を維持する」などと使います。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_028",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「やると言った（　　）、最後までやります。」に入る正しい表現は？",
+        "options":  [
+                        "からには",
+                        "からこそ",
+                        "にすぎない",
+                        "に違いない"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「からには」は「やると言ったという事実があるから、当然責任を持って最後まで行う」という義務・決意を表します。",
+        "linked_grammar_id":  "N2_G_028"
+    },
+    {
+        "id":  "N2_Q_029",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「一致」の読み方はどれですか？",
+        "options":  [
+                        "いっち",
+                        "いちち",
+                        "いっし",
+                        "いちし"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「一致」は「いっち」と読みます。複数のものがぴったり合うこと、または同じ意見になることを意味します。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_030",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「内容を確認した（　　）、署名してください。」に入る正しい表現は？",
+        "options":  [
+                        "うえで",
+                        "ことなく",
+                        "つつも",
+                        "次第で"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「うえで」は「まず内容を確認するという前の行動を完了した後に、次の行動（署名）をする」という順序を表します。",
+        "linked_grammar_id":  "N2_G_029"
+    },
+    {
+        "id":  "N2_Q_031",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "（　　）に入る正しい言葉を選んでください。「議論の結果（　　）、計画を修正した。」",
+        "options":  [
+                        "を踏まえて",
+                        "に限らず",
+                        "はともかく",
+                        "どころか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「を踏まえて」は前の事実・状況を根拠にして行動することを表します。",
+        "linked_grammar_id":  "N2_G_031"
+    },
+    {
+        "id":  "N2_Q_032",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「データ（　　）判断する」の（　　）に入るものは？",
+        "options":  [
+                        "に基づいて",
+                        "をめぐって",
+                        "に際して",
+                        "どころか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に基づいて」は「～を根拠にして」という意味です。",
+        "linked_grammar_id":  "N2_G_032"
+    },
+    {
+        "id":  "N2_Q_033",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「入学（　　）、書類を準備してください。」の正しい形は？",
+        "options":  [
+                        "に際して",
+                        "に伴って",
+                        "を通じて",
+                        "からには"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に際して」は特別な場面や機会を表し、「入学の時に」という意味です。",
+        "linked_grammar_id":  "N2_G_033"
+    },
+    {
+        "id":  "N2_Q_034",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「経済の発展（　　）、生活水準が上がった。」",
+        "options":  [
+                        "に伴って",
+                        "を踏まえて",
+                        "に基づいて",
+                        "に際して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に伴って」は同時に変化が進む様子を表します。",
+        "linked_grammar_id":  "N2_G_034"
+    },
+    {
+        "id":  "N2_Q_035",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「インターネット（　　）情報を収集する。」",
+        "options":  [
+                        "を通じて",
+                        "によると",
+                        "に反して",
+                        "をめぐって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「を通じて」は手段・媒介を表します。",
+        "linked_grammar_id":  "N2_G_035"
+    },
+    {
+        "id":  "N2_Q_036",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「天気予報（　　）、明日は雨だそうだ。」",
+        "options":  [
+                        "によると",
+                        "を踏まえて",
+                        "に基づいて",
+                        "に伴って"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「によると」は情報の出所・根拠を示します。後文に「～そうだ」が来ることが多いです。",
+        "linked_grammar_id":  "N2_G_036"
+    },
+    {
+        "id":  "N2_Q_037",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「このまま放置すれば、大問題になり（　　）。」",
+        "options":  [
+                        "かねない",
+                        "かねる",
+                        "ざるを得ない",
+                        "つつある"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「かねない」は好ましくない事態が起こりうることを表します。",
+        "linked_grammar_id":  "N2_G_038"
+    },
+    {
+        "id":  "N2_Q_038",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「その件については、お答えし（　　）。」（丁寧な断り方）",
+        "options":  [
+                        "かねます",
+                        "かねません",
+                        "かねない",
+                        "かねた"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「かねます」は「難しい・できない」という丁寧な断り方です。",
+        "linked_grammar_id":  "N2_G_039"
+    },
+    {
+        "id":  "N2_Q_039",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「予算が足りないので、計画を縮小せ（　　）。」",
+        "options":  [
+                        "ざるを得ない",
+                        "かねない",
+                        "つつある",
+                        "からには"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「ざるを得ない」は「したくないがしなければならない」という意味です。",
+        "linked_grammar_id":  "N2_G_040"
+    },
+    {
+        "id":  "N2_Q_040",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「これは努力の結果（　　）。」（強調表現）",
+        "options":  [
+                        "に他ならない",
+                        "というわけではない",
+                        "に伴って",
+                        "をめぐって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に他ならない」は「まさに～だ」という強調表現です。",
+        "linked_grammar_id":  "N2_G_041"
+    },
+    {
+        "id":  "N2_Q_041",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「全員が賛成（　　）。」（全員ではないと伝える）",
+        "options":  [
+                        "というわけではありません",
+                        "に他なりません",
+                        "かねません",
+                        "どころかありません"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「というわけではない」は断定を避けて修正する表現です。",
+        "linked_grammar_id":  "N2_G_042"
+    },
+    {
+        "id":  "N2_Q_042",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「手伝う（　　）、邪魔をされた。」",
+        "options":  [
+                        "どころか",
+                        "からには",
+                        "に反して",
+                        "をはじめ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「どころか」は予想と逆で、さらに極端な結果を表します。",
+        "linked_grammar_id":  "N2_G_043"
+    },
+    {
+        "id":  "N2_Q_043",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「約束した（　　）、必ず守らなければならない。」",
+        "options":  [
+                        "からには",
+                        "に際して",
+                        "を通じて",
+                        "に基づいて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「からには」は「既にそうである以上は責任がある」という意味です。",
+        "linked_grammar_id":  "N2_G_044"
+    },
+    {
+        "id":  "N2_Q_044",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「内容を確認した（　　）、返事します。」",
+        "options":  [
+                        "上で",
+                        "つつ",
+                        "ところ",
+                        "際して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「動詞た形+上で」は「～してから」という意味です。",
+        "linked_grammar_id":  "N2_G_045"
+    },
+    {
+        "id":  "N2_Q_045",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「電話してみた（　　）、すでに閉店していた。」",
+        "options":  [
+                        "ところ",
+                        "上で",
+                        "からには",
+                        "つつ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「たところ」は「したら～だと分かった」という発見を表します。",
+        "linked_grammar_id":  "N2_G_046"
+    },
+    {
+        "id":  "N2_Q_046",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「音楽を聴き（　　）、仕事をする。」",
+        "options":  [
+                        "つつ",
+                        "かねて",
+                        "ながらも",
+                        "どころか"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「つつ」は「～ながら」の書き言葉的表現です。",
+        "linked_grammar_id":  "N2_G_047"
+    },
+    {
+        "id":  "N2_Q_047",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「この地域の人口は減少し（　　）。」（変化の進行中）",
+        "options":  [
+                        "つつある",
+                        "つつ",
+                        "かねない",
+                        "ざるを得ない"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「つつある」は変化が進行中であることを表します。",
+        "linked_grammar_id":  "N2_G_048"
+    },
+    {
+        "id":  "N2_Q_048",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「日本語（　　）、多くの言語を話す。」（列挙）",
+        "options":  [
+                        "をはじめ",
+                        "に限らず",
+                        "によると",
+                        "をめぐって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「をはじめ」は最も代表的なものを挙げてから他も示す表現です。",
+        "linked_grammar_id":  "N2_G_049"
+    },
+    {
+        "id":  "N2_Q_049",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「予想（　　）、試験は簡単だった。」",
+        "options":  [
+                        "に反して",
+                        "に伴って",
+                        "に基づいて",
+                        "に際して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に反して」は期待や予想と逆の結果を表します。",
+        "linked_grammar_id":  "N2_G_050"
+    },
+    {
+        "id":  "N2_Q_050",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「年齢（　　）、誰でも参加できます。」",
+        "options":  [
+                        "に関わらず",
+                        "に限らず",
+                        "によって",
+                        "をめぐって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に関わらず」は「～という条件に影響されない」という意味です。",
+        "linked_grammar_id":  "N2_G_051"
+    },
+    {
+        "id":  "N2_Q_051",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「意図」の意味はどれですか？",
+        "options":  [
+                        "意识",
+                        "意图",
+                        "意义",
+                        "意见"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「意図」は中国語で「意图」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_052",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「概要」の読み方はどれですか？",
+        "options":  [
+                        "がいよう",
+                        "かいよう",
+                        "がいゆう",
+                        "かいゆう"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「概要」はがいようと読みます。概（がい）+ 要（よう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_053",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「動向」の意味はどれですか？",
+        "options":  [
+                        "行动",
+                        "活动",
+                        "动向",
+                        "运动"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「動向」は中国語で「动向、趋势」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_054",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「課題」の読み方はどれですか？",
+        "options":  [
+                        "かだい",
+                        "がだい",
+                        "かてい",
+                        "がてい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「課題」はかだいと読みます。課（か）+ 題（だい）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_055",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「展開」の意味はどれですか？",
+        "options":  [
+                        "展示",
+                        "展览",
+                        "开放",
+                        "展开・发展"
+                    ],
+        "correct_answer":  3,
+        "explanation":  "「展開」は中国語で「展开、发展」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_056",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「連携」の類義語はどれですか？",
+        "options":  [
+                        "独立",
+                        "競争",
+                        "協力",
+                        "批判"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「連携」は「協力・協働」と同じような意味を持ちます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_057",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「透明性を高める」の意味はどれですか？",
+        "options":  [
+                        "提高透明度",
+                        "降低透明度",
+                        "保持透明度",
+                        "失去透明度"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「透明性を高める」は「提高透明度」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_058",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「廃止」の対義語はどれですか？",
+        "options":  [
+                        "廃棄",
+                        "維持",
+                        "廃止",
+                        "縮小"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「廃止」の対義語は「導入」や「維持」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_059",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「格差が拡大する」の意味はどれですか？",
+        "options":  [
+                        "差距缩小",
+                        "差距扩大",
+                        "差距消失",
+                        "差距均等"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「格差が拡大する」は「差距在扩大」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_060",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「水準」の読み方はどれですか？",
+        "options":  [
+                        "みずじゅん",
+                        "すいじゅん",
+                        "すいじょう",
+                        "みずじょう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「水準」はすいじゅんと読みます。水（すい）+ 準（じゅん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_061",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「合理的」の意味はどれですか？",
+        "options":  [
+                        "非合理的",
+                        "主观的",
+                        "合理的",
+                        "感情的"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「合理的」は中国語で「合理的」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_062",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「批判」と似た意味の言葉はどれですか？",
+        "options":  [
+                        "賞賛",
+                        "支持",
+                        "非難",
+                        "協力"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「批判」は「非難・指摘」と同じような意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_063",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「合意に達した」の意味はどれですか？",
+        "options":  [
+                        "达成了合意",
+                        "放弃了合意",
+                        "违反了合意",
+                        "需要更多合意"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「合意に達した」は「达成了合意」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_064",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「保障」の読み方はどれですか？",
+        "options":  [
+                        "ほじょう",
+                        "ほしょう",
+                        "ほうしょう",
+                        "ほうじょう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「保障」はほしょうと読みます。保（ほ）+ 障（しょう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_065",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「権利」の対義語はどれですか？",
+        "options":  [
+                        "自由",
+                        "義務",
+                        "能力",
+                        "特権"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「権利」の対義語は「義務」です。権利は持つもの、義務は果たすものです。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_066",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「規制が緩和される」の意味はどれですか？",
+        "options":  [
+                        "规制被强化",
+                        "规制被放宽",
+                        "规制被废除",
+                        "规制被扩大"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「緩和」は「ゆるめること」なので「规制被放宽」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_067",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「発揮」の読み方はどれですか？",
+        "options":  [
+                        "はつき",
+                        "はっき",
+                        "ふつき",
+                        "ふっき"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「発揮」はは（はっ）き（き）と読みます。促音便に注意してください。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_068",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「充実した内容」の意味はどれですか？",
+        "options":  [
+                        "空洞的内容",
+                        "充实的内容",
+                        "复杂的内容",
+                        "简单的内容"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「充実した」は「丰富的、充实的」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_069",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「需要が高まる」の意味はどれですか？",
+        "options":  [
+                        "需求降低",
+                        "需求扩大",
+                        "需求消失",
+                        "需求稳定"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「需要が高まる」は「需求增加、扩大」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_070",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「環境汚染」の読み方はどれですか？",
+        "options":  [
+                        "かんきょうおせん",
+                        "かんきょうよごれ",
+                        "かんきょうよごし",
+                        "かんきょうわせん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「環境汚染」はかんきょうおせんと読みます。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_071",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「持続可能な社会」の「持続」の意味はどれですか？",
+        "options":  [
+                        "可持续",
+                        "持续",
+                        "短暂",
+                        "间断"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「持続」は「持续、継続」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_072",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「削減」の類義語はどれですか？",
+        "options":  [
+                        "増加",
+                        "拡大",
+                        "減少",
+                        "強化"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「削減」は「减少、减少させること」です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_073",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「医療費が増加する」の意味はどれですか？",
+        "options":  [
+                        "医疗费增加",
+                        "医疗费减少",
+                        "医疗费固定",
+                        "医疗费消失"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「増加する」は「增加する」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_074",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「介護」の読み方はどれですか？",
+        "options":  [
+                        "かいご",
+                        "かいじょ",
+                        "けいご",
+                        "けいじょ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「介護」はかいごと読みます。介（かい）+ 護（ご）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_075",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「福祉」の意味はどれですか？",
+        "options":  [
+                        "幸福",
+                        "福利",
+                        "财富",
+                        "幸运"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「福祉」は中国語で「福利、福祉」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_076",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「雇用の確保」の意味はどれですか？",
+        "options":  [
+                        "确保就业",
+                        "减少就业",
+                        "停止就业",
+                        "改变就业"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「雇用の確保」は「确保雇用・就业」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_077",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「景気が回復する」の意味はどれですか？",
+        "options":  [
+                        "景气恶化",
+                        "景气恢复",
+                        "景气停滞",
+                        "景气消失"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「回復する」は「恢复」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_078",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「投資」の読み方はどれですか？",
+        "options":  [
+                        "とうし",
+                        "とうじ",
+                        "とし",
+                        "とじ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「投資」はとうしと読みます。投（とう）+ 資（し）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_079",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「損失を被る」の意味はどれですか？",
+        "options":  [
+                        "获得利润",
+                        "遭受损失",
+                        "发现问题",
+                        "承担责任"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「損失を被る」は「遭受损失」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_080",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「税金」の読み方はどれですか？",
+        "options":  [
+                        "ぜいかね",
+                        "ぜいきん",
+                        "ぜきかね",
+                        "ぜききん"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「税金」はぜいきんと読みます。税（ぜい）+ 金（きん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_081",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「普及」の意味はどれですか？",
+        "options":  [
+                        "限制",
+                        "普及",
+                        "减少",
+                        "消除"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「普及」は「普及・広まること」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_082",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「影響を与える」の「影響」の読み方はどれですか？",
+        "options":  [
+                        "かげひびき",
+                        "えいきょう",
+                        "えいひびき",
+                        "かげきょう"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「影響」はえいきょうと読みます。影（えい）+ 響（きょう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_083",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「尊重」の類義語はどれですか？",
+        "options":  [
+                        "軽視",
+                        "無視",
+                        "敬意を払う",
+                        "批判する"
+                    ],
+        "correct_answer":  2,
+        "explanation":  "「尊重」は「敬意を払う・大切にする」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_084",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「克服」の読み方はどれですか？",
+        "options":  [
+                        "こくぶく",
+                        "こくふく",
+                        "こうぶく",
+                        "こうふく"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「克服」はこくふくと読みます。克（こく）+ 服（ふく）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_085",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「達成」の意味はどれですか？",
+        "options":  [
+                        "达到",
+                        "失败",
+                        "放弃",
+                        "继续"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「達成」は中国語で「达成、实现」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_086",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「仮説を立てる」の意味はどれですか？",
+        "options":  [
+                        "建立假说",
+                        "推翻假说",
+                        "证明假说",
+                        "否定假说"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「仮説を立てる」は「建立假说」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_087",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「統計データ」の「統計」の読み方はどれですか？",
+        "options":  [
+                        "とうけい",
+                        "とうかい",
+                        "とっけい",
+                        "とっかい"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「統計」はとうけいと読みます。統（とう）+ 計（けい）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_088",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「翻訳」の意味はどれですか？",
+        "options":  [
+                        "采访",
+                        "翻译",
+                        "创作",
+                        "编辑"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「翻訳」は中国語で「翻译」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_089",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「均衡を保つ」の「均衡」の意味はどれですか？",
+        "options":  [
+                        "均衡",
+                        "失衡",
+                        "强化",
+                        "弱化"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「均衡」は中国語で「均衡・平衡」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_090",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「伝統文化を守る」の「伝統」の読み方はどれですか？",
+        "options":  [
+                        "でんとう",
+                        "でんとん",
+                        "てんとう",
+                        "てんとん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「伝統」はでんとうと読みます。伝（でん）+ 統（とう）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_091",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「病気（　　）、生活習慣を改めた。」",
+        "options":  [
+                        "を契機に",
+                        "をめぐって",
+                        "に限らず",
+                        "に際して"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「を契機に」は「～をきっかけにして」という意味です。",
+        "linked_grammar_id":  "N2_G_052"
+    },
+    {
+        "id":  "N2_Q_092",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「状況（　　）対応を変える。」",
+        "options":  [
+                        "に応じて",
+                        "を契機に",
+                        "に反して",
+                        "に伴って"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「に応じて」は「状況に合わせて」という意味です。",
+        "linked_grammar_id":  "N2_G_053"
+    },
+    {
+        "id":  "N2_Q_093",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「この問題（　　）様々な意見がある。」",
+        "options":  [
+                        "をめぐって",
+                        "を通じて",
+                        "に基づいて",
+                        "を踏まえて"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「をめぐって」は争点・テーマを中心に議論が行われることを表します。",
+        "linked_grammar_id":  "N2_G_054"
+    },
+    {
+        "id":  "N2_Q_094",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「工場の閉鎖（　　）。」（外部圧力による強制）",
+        "options":  [
+                        "を余儀なくされた",
+                        "ざるを得ない",
+                        "かねない",
+                        "からには"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「を余儀なくされる」は外部の事情によって強制されることを表します。",
+        "linked_grammar_id":  "N2_G_055"
+    },
+    {
+        "id":  "N2_Q_095",
+        "level":  "N2",
+        "type":  "grammar",
+        "question_text":  "「結果いかん（　　）、計画を変更する。」",
+        "options":  [
+                        "によっては",
+                        "によると",
+                        "に基づいて",
+                        "をめぐって"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「いかんによっては」は「どのような状況かによっては」という意味です。",
+        "linked_grammar_id":  "N2_G_037"
+    },
+    {
+        "id":  "N2_Q_096",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「段階的に実施する」の意味はどれですか？",
+        "options":  [
+                        "分阶段地实施",
+                        "一次性地实施",
+                        "快速地实施",
+                        "停止实施"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「段階的に」は「一つ一つの段階を経て・阶段性地」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_097",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「改革を実施する」の「実施」の読み方はどれですか？",
+        "options":  [
+                        "じっし",
+                        "じつし",
+                        "じっせ",
+                        "じつせ"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「実施」はじっしと読みます。実（じっ）+ 施（し）です。促音便に注意してください。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_098",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「交渉」の意味はどれですか？",
+        "options":  [
+                        "交流",
+                        "谈判",
+                        "交换",
+                        "通知"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「交渉」は中国語で「谈判、交涉」という意味です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_099",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「共存」の読み方はどれですか？",
+        "options":  [
+                        "きょうぞん",
+                        "きょうそん",
+                        "こうぞん",
+                        "こうそん"
+                    ],
+        "correct_answer":  0,
+        "explanation":  "「共存」はきょうぞんと読みます。共（きょう）+ 存（ぞん）です。",
+        "linked_grammar_id":  null
+    },
+    {
+        "id":  "N2_Q_100",
+        "level":  "N2",
+        "type":  "vocabulary",
+        "question_text":  "「相互理解を深める」の「相互」の意味はどれですか？",
+        "options":  [
+                        "单方面",
+                        "相互、彼此",
+                        "独立",
+                        "竞争"
+                    ],
+        "correct_answer":  1,
+        "explanation":  "「相互」は中国語で「相互・彼此」という意味です。",
+        "linked_grammar_id":  null
+    }
 ]
