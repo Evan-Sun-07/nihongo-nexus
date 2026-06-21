@@ -1,327 +1,3334 @@
 [
-  {
-    "id": "N3_Q_001",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「経験」の読み方はどれですか？",
-    "options": ["けいけん", "けいげん", "きけん", "きけい"],
-    "correct_answer": 0,
-    "explanation": "「経験」はけいけんと読みます。経（けい）+ 験（けん）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_002",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "毎日練習して、ピアノが弾ける（　　）なりました。",
-    "options": ["ように", "ことに", "はずに", "べきに"],
-    "correct_answer": 0,
-    "explanation": "「～ようになる」は能力や状態が変化したことを表します。「弾けるようになる」で「能弹了」という意味になります。",
-    "linked_grammar_id": "N3_G_001"
-  },
-  {
-    "id": "N3_Q_003",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「約束は守るべきです」の意味はどれですか？",
-    "options": [
-      "約束を守りたいです",
-      "約束を守ることができます",
-      "約束は守るのが義務です",
-      "約束を守るかもしれません"
-    ],
-    "correct_answer": 2,
-    "explanation": "「べきだ」は道義的な義務や当然のことを表します。「守るべき」＝「守らなければならない・守るのが当然」という意味です。",
-    "linked_grammar_id": "N3_G_004"
-  },
-  {
-    "id": "N3_Q_004",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「成功」の反対語はどれですか？",
-    "options": ["失敗", "成果", "記念", "経験"],
-    "correct_answer": 0,
-    "explanation": "「成功」の反対語は「失敗（しっぱい）」です。成功は目標達成、失敗は目標不達成を意味します。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_005",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "状況から考えると、諦め（　　）。",
-    "options": ["ざるを得ない", "てしまった", "ようになった", "ことになった"],
-    "correct_answer": 0,
-    "explanation": "「ざるを得ない」は外部の状況により不本意ながら行わざるを得ない場合に使います。諦めたくないが状況がそうさせるという意味です。",
-    "linked_grammar_id": "N3_G_005"
-  },
-  {
-    "id": "N3_Q_006",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "彼女は歌が上手な（　　）、踊りも得意です。",
-    "options": ["ばかりでなく", "ところが", "くせに", "ものの"],
-    "correct_answer": 0,
-    "explanation": "「ばかりでなく」は「不仅……而且……」の意味です。AだけでなくBも成立することを表します。",
-    "linked_grammar_id": "N3_G_006"
-  },
-  {
-    "id": "N3_Q_007",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「親になってはじめて、親の苦労がわかった。」この文の意味はどれですか？",
-    "options": [
-      "親になったから、苦労がわかるはずだ",
-      "親になるまで、苦労がわからなかった",
-      "親の苦労が初めてわかった",
-      "親になっても、苦労がわからなかった"
-    ],
-    "correct_answer": 1,
-    "explanation": "「てはじめて」は「経験して初めて気づく」という意味です。親になるという経験をして、初めて親の苦労がわかったということです。",
-    "linked_grammar_id": "N3_G_017"
-  },
-  {
-    "id": "N3_Q_008",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「状況」の意味はどれですか？",
-    "options": ["状态，情况", "方法，手段", "结果，成果", "理由，原因"],
-    "correct_answer": 0,
-    "explanation": "「状況（じょうきょう）」は「状态，情况」という意味です。「現在の状況を確認してください」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_009",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "雨の（　　）、試合が中止になった。",
-    "options": ["せいで", "おかげで", "かわりに", "上に"],
-    "correct_answer": 0,
-    "explanation": "「せいで」は悪い結果の原因を表します。「おかげで」は良い結果、「せいで」は悪い結果に使います。",
-    "linked_grammar_id": "N3_G_029"
-  },
-  {
-    "id": "N3_Q_010",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "先生の（　　）、試験に合格できました。",
-    "options": ["おかげで", "せいで", "くせに", "ところが"],
-    "correct_answer": 0,
-    "explanation": "「おかげで」は感謝を含む良い結果の原因を表します。「先生のおかげで」＝「多亏了老师」という感謝の意味です。",
-    "linked_grammar_id": "N3_G_028"
-  },
-  {
-    "id": "N3_Q_011",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「影響」の読み方はどれですか？",
-    "options": ["えいきょう", "えいこう", "かげひびき", "かげきょう"],
-    "correct_answer": 0,
-    "explanation": "「影響」はえいきょうと読みます。影（えい）+ 響（きょう）です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_012",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "時間（　　）あれば、旅行に行きたい。",
-    "options": ["さえ", "だけ", "しか", "まで"],
-    "correct_answer": 0,
-    "explanation": "「さえ～ば」は「只要……就……」という意味です。「時間さえあれば」＝「只要有时间」で、唯一の条件を強調します。",
-    "linked_grammar_id": "N3_G_018"
-  },
-  {
-    "id": "N3_Q_013",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「試験に合格したものの、自信はなかった。」と同じ意味はどれですか？",
-    "options": [
-      "試験に合格したし、自信もあった",
-      "試験に合格したけれど、自信はなかった",
-      "試験に合格したから、自信があった",
-      "試験に合格できなかったので、自信はなかった"
-    ],
-    "correct_answer": 1,
-    "explanation": "「ものの」は逆接を表し、「虽然……但是……」という意味です。合格したという事実は認めるが、自信はなかったという対比を表します。",
-    "linked_grammar_id": "N3_G_026"
-  },
-  {
-    "id": "N3_Q_014",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「認める」の意味はどれですか？",
-    "options": ["承认，认可", "询问，打听", "拒绝，回绝", "期待，盼望"],
-    "correct_answer": 0,
-    "explanation": "「認める（みとめる）」は「承认，认可」という意味です。「自分の失敗を認める」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_015",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "天気予報（　　）と、明日は雨らしい。",
-    "options": ["によると", "に対して", "に関して", "にしたがって"],
-    "correct_answer": 0,
-    "explanation": "「によると」は情報のソースを示す表現で、「根据……」という意味です。「天気予報によると」＝「据天气预报」です。",
-    "linked_grammar_id": "N3_G_012"
-  },
-  {
-    "id": "N3_Q_016",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「複雑」の反対語はどれですか？",
-    "options": ["単純", "重要", "適切", "明確"],
-    "correct_answer": 0,
-    "explanation": "「複雑（ふくざつ）」の反対語は「単純（たんじゅん）」です。「简单」という意味で、「複雑」は「复杂」です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_017",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "毎日野菜を食べる（　　）しています。",
-    "options": ["ように", "ことに", "はずに", "べきに"],
-    "correct_answer": 0,
-    "explanation": "「ようにする」は意識的に努力して何かを習慣にしようとすることを表します。「ようになる」が自然な変化なのに対し、「ようにする」は意志的な努力です。",
-    "linked_grammar_id": "N3_G_014"
-  },
-  {
-    "id": "N3_Q_018",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「役割」の意味はどれですか？",
-    "options": ["作用，角色", "义务，责任", "价值，意义", "关系，联系"],
-    "correct_answer": 0,
-    "explanation": "「役割（やくわり）」は「作用，角色」という意味です。「チームでの役割を果たす」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_019",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "去年（　　）、今年は売り上げが増えた。",
-    "options": ["に比べて", "にしたがって", "に加えて", "に関して"],
-    "correct_answer": 0,
-    "explanation": "「に比べて」は比較の基準を示し、「与……相比」という意味です。「去年に比べて」＝「与去年相比」です。",
-    "linked_grammar_id": "N3_G_022"
-  },
-  {
-    "id": "N3_Q_020",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「知っているくせに、教えてくれない。」この文には何の気持ちが含まれていますか？",
-    "options": ["不満・批判", "感謝・尊敬", "驚き・感動", "安心・満足"],
-    "correct_answer": 0,
-    "explanation": "「くせに」は不満や批判の気持ちを表す逆接表現です。「明明知道却不告诉我」という不満の感情が込められています。",
-    "linked_grammar_id": "N3_G_024"
-  },
-  {
-    "id": "N3_Q_021",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「伝統」の読み方はどれですか？",
-    "options": ["でんとう", "でんどう", "つたとう", "つたどう"],
-    "correct_answer": 0,
-    "explanation": "「伝統」はでんとうと読みます。伝（でん）+ 統（とう）です。「日本の伝統文化」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_022",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "急いで行った。（　　）、もう終わっていた。",
-    "options": ["ところが", "それで", "だから", "そして"],
-    "correct_answer": 0,
-    "explanation": "「ところが」は予想に反する結果を導く逆接接続詞です。「急いで行ったのに、もう終わっていた」という意外な結果を表します。",
-    "linked_grammar_id": "N3_G_025"
-  },
-  {
-    "id": "N3_Q_023",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「義務」と「権利」の関係はどれですか？",
-    "options": ["反対語", "類義語", "同義語", "関係なし"],
-    "correct_answer": 0,
-    "explanation": "「義務（ぎむ）」と「権利（けんり）」は反対語です。義務は「しなければならないこと」、権利は「してもいいこと・求める資格があること」です。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_024",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "年をとる（　　）、体力が落ちてくる。",
-    "options": ["につれて", "ところが", "くせに", "おかげで"],
-    "correct_answer": 0,
-    "explanation": "「につれて」は二つのことが同時に変化することを表します。「随着年龄增长，体力也下降」という同時変化の関係です。",
-    "linked_grammar_id": "N3_G_020"
-  },
-  {
-    "id": "N3_Q_025",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「解決」の読み方はどれですか？",
-    "options": ["かいけつ", "かいきつ", "げかい", "げいけつ"],
-    "correct_answer": 0,
-    "explanation": "「解決」はかいけつと読みます。解（かい）+ 決（けつ）です。「問題を解決する」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_026",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「授業料に加えて、教材費もかかります。」の意味はどれですか？",
-    "options": [
-      "授業料の代わりに、教材費がかかる",
-      "授業料だけでなく、さらに教材費もかかる",
-      "授業料も教材費も無料だ",
-      "授業料と教材費は同じくらいだ"
-    ],
-    "correct_answer": 1,
-    "explanation": "「に加えて」は「在……之外，再加上……」という意味です。授業料という既存の費用に、さらに教材費も追加されることを表します。",
-    "linked_grammar_id": "N3_G_009"
-  },
-  {
-    "id": "N3_Q_027",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「習慣」の意味はどれですか？",
-    "options": ["习惯", "传统", "规则", "文化"],
-    "correct_answer": 0,
-    "explanation": "「習慣（しゅうかん）」は「习惯」という意味です。「毎朝日記を書く習慣があります」のように使います。",
-    "linked_grammar_id": null
-  },
-  {
-    "id": "N3_Q_028",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "「10年間も練習したんだから、上手なわけだ。」の「わけだ」の意味はどれですか？",
-    "options": [
-      "当然の結論・納得",
-      "驚き・意外性",
-      "反対・否定",
-      "希望・願い"
-    ],
-    "correct_answer": 0,
-    "explanation": "「わけだ」は根拠や状況から導かれる当然の結論を表します。「10年練習したから上手なのは当然だ・難怪」という納得の意味です。",
-    "linked_grammar_id": "N3_G_013"
-  },
-  {
-    "id": "N3_Q_029",
-    "level": "N3",
-    "type": "grammar",
-    "question_text": "父の（　　）、私が出席します。",
-    "options": ["かわりに", "おかげで", "せいで", "上に"],
-    "correct_answer": 0,
-    "explanation": "「かわりに」は「代替」を意味します。「父のかわりに」＝「代替父亲」で、父親の代わりに自分が出席するという意味です。",
-    "linked_grammar_id": "N3_G_027"
-  },
-  {
-    "id": "N3_Q_030",
-    "level": "N3",
-    "type": "vocabulary",
-    "question_text": "「目標」と「目的」の関係はどれですか？",
-    "options": ["類義語", "反対語", "無関係", "上位語と下位語"],
-    "correct_answer": 0,
-    "explanation": "「目標（もくひょう）」と「目的（もくてき）」はほぼ同じ意味の類義語です。どちらも「达到的目标」を意味しますが、「目的」はより最終的な目的を指し、「目標」は具体的な到達点を指す傾向があります。",
-    "linked_grammar_id": null
-  }
+    {
+        "id": "N3_Q_001",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「経験」の読み方はどれですか？",
+        "options": [
+            "けいけん",
+            "けいげん",
+            "きけん",
+            "きけい"
+        ],
+        "correct_answer": 0,
+        "explanation": "「経験」はけいけんと読みます。経（けい）+ 験（けん）です。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_002",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "毎日練習して、ピアノが弾ける（　　）なりました。",
+        "options": [
+            "ように",
+            "ことに",
+            "はずに",
+            "べきに"
+        ],
+        "correct_answer": 0,
+        "explanation": "「～ようになる」は能力や状態が変化したことを表します。「弾けるようになる」で「能弹了」という意味になります。",
+        "linked_grammar_id": "N3_G_001"
+    },
+    {
+        "id": "N3_Q_003",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「約束は守るべきです」の意味はどれですか？",
+        "options": [
+            "約束を守りたいです",
+            "約束を守ることができます",
+            "約束は守るのが義務です",
+            "約束を守るかもしれません"
+        ],
+        "correct_answer": 2,
+        "explanation": "「べきだ」は道義的な義務や当然のことを表します。「守るべき」＝「守らなければならない・守るのが当然」という意味です。",
+        "linked_grammar_id": "N3_G_004"
+    },
+    {
+        "id": "N3_Q_004",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「成功」の反対語はどれですか？",
+        "options": [
+            "失敗",
+            "成果",
+            "記念",
+            "経験"
+        ],
+        "correct_answer": 0,
+        "explanation": "「成功」の反対語は「失敗（しっぱい）」です。成功は目標達成、失敗は目標不達成を意味します。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_005",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "状況から考えると、諦め（　　）。",
+        "options": [
+            "ざるを得ない",
+            "てしまった",
+            "ようになった",
+            "ことになった"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ざるを得ない」は外部の状況により不本意ながら行わざるを得ない場合に使います。諦めたくないが状況がそうさせるという意味です。",
+        "linked_grammar_id": "N3_G_005"
+    },
+    {
+        "id": "N3_Q_006",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼女は歌が上手な（　　）、踊りも得意です。",
+        "options": [
+            "ばかりでなく",
+            "ところが",
+            "くせに",
+            "ものの"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ばかりでなく」は「不仅……而且……」の意味です。AだけでなくBも成立することを表します。",
+        "linked_grammar_id": "N3_G_006"
+    },
+    {
+        "id": "N3_Q_007",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「親になってはじめて、親の苦労がわかった。」この文の意味はどれですか？",
+        "options": [
+            "親になったから、苦労がわかるはずだ",
+            "親になるまで、苦労がわからなかった",
+            "親の苦労が初めてわかった",
+            "親になっても、苦労がわからなかった"
+        ],
+        "correct_answer": 1,
+        "explanation": "「てはじめて」は「経験して初めて気づく」という意味です。親になるという経験をして、初めて親の苦労がわかったということです。",
+        "linked_grammar_id": "N3_G_017"
+    },
+    {
+        "id": "N3_Q_008",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「状況」の意味はどれですか？",
+        "options": [
+            "状态，情况",
+            "方法，手段",
+            "结果，成果",
+            "理由，原因"
+        ],
+        "correct_answer": 0,
+        "explanation": "「状況（じょうきょう）」は「状态，情况」という意味です。「現在の状況を確認してください」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_009",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "雨の（　　）、試合が中止になった。",
+        "options": [
+            "せいで",
+            "おかげで",
+            "かわりに",
+            "上に"
+        ],
+        "correct_answer": 0,
+        "explanation": "「せいで」は悪い結果の原因を表します。「おかげで」は良い結果、「せいで」は悪い結果に使います。",
+        "linked_grammar_id": "N3_G_029"
+    },
+    {
+        "id": "N3_Q_010",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "先生の（　　）、試験に合格できました。",
+        "options": [
+            "おかげで",
+            "せいで",
+            "くせに",
+            "ところが"
+        ],
+        "correct_answer": 0,
+        "explanation": "「おかげで」は感謝を含む良い結果の原因を表します。「先生のおかげで」＝「多亏了老师」という感謝の意味です。",
+        "linked_grammar_id": "N3_G_028"
+    },
+    {
+        "id": "N3_Q_011",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「影響」の読み方はどれですか？",
+        "options": [
+            "えいきょう",
+            "えいこう",
+            "かげひびき",
+            "かげきょう"
+        ],
+        "correct_answer": 0,
+        "explanation": "「影響」はえいきょうと読みます。影（えい）+ 響（きょう）です。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_012",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "時間（　　）あれば、旅行に行きたい。",
+        "options": [
+            "さえ",
+            "だけ",
+            "しか",
+            "まで"
+        ],
+        "correct_answer": 0,
+        "explanation": "「さえ～ば」は「只要……就……」という意味です。「時間さえあれば」＝「只要有时间」で、唯一の条件を強調します。",
+        "linked_grammar_id": "N3_G_018"
+    },
+    {
+        "id": "N3_Q_013",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「試験に合格したものの、自信はなかった。」と同じ意味はどれですか？",
+        "options": [
+            "試験に合格したし、自信もあった",
+            "試験に合格したけれど、自信はなかった",
+            "試験に合格したから、自信があった",
+            "試験に合格できなかったので、自信はなかった"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ものの」は逆接を表し、「虽然……但是……」という意味です。合格したという事実は認めるが、自信はなかったという対比を表します。",
+        "linked_grammar_id": "N3_G_026"
+    },
+    {
+        "id": "N3_Q_014",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「認める」の意味はどれですか？",
+        "options": [
+            "承认，认可",
+            "询问，打听",
+            "拒绝，回绝",
+            "期待，盼望"
+        ],
+        "correct_answer": 0,
+        "explanation": "「認める（みとめる）」は「承认，认可」という意味です。「自分の失敗を認める」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_015",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "天気予報（　　）と、明日は雨らしい。",
+        "options": [
+            "によると",
+            "に対して",
+            "に関して",
+            "にしたがって"
+        ],
+        "correct_answer": 0,
+        "explanation": "「によると」は情報のソースを示す表現で、「根据……」という意味です。「天気予報によると」＝「据天气预报」です。",
+        "linked_grammar_id": "N3_G_012"
+    },
+    {
+        "id": "N3_Q_016",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「複雑」の反対語はどれですか？",
+        "options": [
+            "単純",
+            "重要",
+            "適切",
+            "明確"
+        ],
+        "correct_answer": 0,
+        "explanation": "「複雑（ふくざつ）」の反対語は「単純（たんじゅん）」です。「简单」という意味で、「複雑」は「复杂」です。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_017",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "毎日野菜を食べる（　　）しています。",
+        "options": [
+            "ように",
+            "ことに",
+            "はずに",
+            "べきに"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ようにする」は意識的に努力して何かを習慣にしようとすることを表します。「ようになる」が自然な変化なのに対し、「ようにする」は意志的な努力です。",
+        "linked_grammar_id": "N3_G_014"
+    },
+    {
+        "id": "N3_Q_018",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「役割」の意味はどれですか？",
+        "options": [
+            "作用，角色",
+            "义务，责任",
+            "价值，意义",
+            "关系，联系"
+        ],
+        "correct_answer": 0,
+        "explanation": "「役割（やくわり）」は「作用，角色」という意味です。「チームでの役割を果たす」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_019",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "去年（　　）、今年は売り上げが増えた。",
+        "options": [
+            "に比べて",
+            "にしたがって",
+            "に加えて",
+            "に関して"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に比べて」は比較の基準を示し、「与……相比」という意味です。「去年に比べて」＝「与去年相比」です。",
+        "linked_grammar_id": "N3_G_022"
+    },
+    {
+        "id": "N3_Q_020",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「知っているくせに、教えてくれない。」この文には何の気持ちが含まれていますか？",
+        "options": [
+            "不満・批判",
+            "感謝・尊敬",
+            "驚き・感動",
+            "安心・満足"
+        ],
+        "correct_answer": 0,
+        "explanation": "「くせに」は不満や批判の気持ちを表す逆接表現です。「明明知道却不告诉我」という不満の感情が込められています。",
+        "linked_grammar_id": "N3_G_024"
+    },
+    {
+        "id": "N3_Q_021",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「伝統」の読み方はどれですか？",
+        "options": [
+            "でんとう",
+            "でんどう",
+            "つたとう",
+            "つたどう"
+        ],
+        "correct_answer": 0,
+        "explanation": "「伝統」はでんとうと読みます。伝（でん）+ 統（とう）です。「日本の伝統文化」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_022",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "急いで行った。（　　）、もう終わっていた。",
+        "options": [
+            "ところが",
+            "それで",
+            "だから",
+            "そして"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ところが」は予想に反する結果を導く逆接接続詞です。「急いで行ったのに、もう終わっていた」という意外な結果を表します。",
+        "linked_grammar_id": "N3_G_025"
+    },
+    {
+        "id": "N3_Q_023",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「義務」と「権利」の関係はどれですか？",
+        "options": [
+            "反対語",
+            "類義語",
+            "同義語",
+            "関係なし"
+        ],
+        "correct_answer": 0,
+        "explanation": "「義務（ぎむ）」と「権利（けんり）」は反対語です。義務は「しなければならないこと」、権利は「してもいいこと・求める資格があること」です。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_024",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "年をとる（　　）、体力が落ちてくる。",
+        "options": [
+            "につれて",
+            "ところが",
+            "くせに",
+            "おかげで"
+        ],
+        "correct_answer": 0,
+        "explanation": "「につれて」は二つのことが同時に変化することを表します。「随着年龄增长，体力也下降」という同時変化の関係です。",
+        "linked_grammar_id": "N3_G_020"
+    },
+    {
+        "id": "N3_Q_025",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「解決」の読み方はどれですか？",
+        "options": [
+            "かいけつ",
+            "かいきつ",
+            "げかい",
+            "げいけつ"
+        ],
+        "correct_answer": 0,
+        "explanation": "「解決」はかいけつと読みます。解（かい）+ 決（けつ）です。「問題を解決する」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_026",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「授業料に加えて、教材費もかかります。」の意味はどれですか？",
+        "options": [
+            "授業料の代わりに、教材費がかかる",
+            "授業料だけでなく、さらに教材費もかかる",
+            "授業料も教材費も無料だ",
+            "授業料と教材費は同じくらいだ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に加えて」は「在……之外，再加上……」という意味です。授業料という既存の費用に、さらに教材費も追加されることを表します。",
+        "linked_grammar_id": "N3_G_009"
+    },
+    {
+        "id": "N3_Q_027",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「習慣」の意味はどれですか？",
+        "options": [
+            "习惯",
+            "传统",
+            "规则",
+            "文化"
+        ],
+        "correct_answer": 0,
+        "explanation": "「習慣（しゅうかん）」は「习惯」という意味です。「毎朝日記を書く習慣があります」のように使います。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_028",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「10年間も練習したんだから、上手なわけだ。」の「わけだ」の意味はどれですか？",
+        "options": [
+            "当然の結論・納得",
+            "驚き・意外性",
+            "反対・否定",
+            "希望・願い"
+        ],
+        "correct_answer": 0,
+        "explanation": "「わけだ」は根拠や状況から導かれる当然の結論を表します。「10年練習したから上手なのは当然だ・難怪」という納得の意味です。",
+        "linked_grammar_id": "N3_G_013"
+    },
+    {
+        "id": "N3_Q_029",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "父の（　　）、私が出席します。",
+        "options": [
+            "かわりに",
+            "おかげで",
+            "せいで",
+            "上に"
+        ],
+        "correct_answer": 0,
+        "explanation": "「かわりに」は「代替」を意味します。「父のかわりに」＝「代替父亲」で、父親の代わりに自分が出席するという意味です。",
+        "linked_grammar_id": "N3_G_027"
+    },
+    {
+        "id": "N3_Q_030",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「目標」と「目的」の関係はどれですか？",
+        "options": [
+            "類義語",
+            "反対語",
+            "無関係",
+            "上位語と下位語"
+        ],
+        "correct_answer": 0,
+        "explanation": "「目標（もくひょう）」と「目的（もくてき）」はほぼ同じ意味の類義語です。どちらも「达到的目标」を意味しますが、「目的」はより最終的な目的を指し、「目標」は具体的な到達点を指す傾向があります。",
+        "linked_grammar_id": null
+    },
+    {
+        "id": "N3_Q_031",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "時代の変化___、生活スタイルも変わった。",
+        "options": [
+            "にしたがって",
+            "にとって",
+            "に反して",
+            "に加えて"
+        ],
+        "correct_answer": 0,
+        "explanation": "「にしたがって」は前项の变化に后项も同步して变わることを表す。「時代の変化にしたがって」は时代の变化に合わせて、という意味。",
+        "linked_grammar_id": "N3_G_031"
+    },
+    {
+        "id": "N3_Q_032",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "年をとる___、記憶力が落ちる。",
+        "options": [
+            "にしたがって",
+            "によると",
+            "に比べて",
+            "にとって"
+        ],
+        "correct_answer": 0,
+        "explanation": "「につれて・にしたがって」は随着……的变化，后项也相应变化。年をとる（年龄增长）→记忆力下降这一同步变化。",
+        "linked_grammar_id": "N3_G_032"
+    },
+    {
+        "id": "N3_Q_033",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "春になる___、気温が上がった。",
+        "options": [
+            "にしたがって",
+            "につれて",
+            "に反して",
+            "に際して"
+        ],
+        "correct_answer": 1,
+        "explanation": "「につれて」は前项と后项の同步変化を表す。春になる→気温が上がる、という自然な同步変化。",
+        "linked_grammar_id": "N3_G_032"
+    },
+    {
+        "id": "N3_Q_034",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "技術の進歩___、生活が豊かになった。",
+        "options": [
+            "とともに",
+            "にとって",
+            "によると",
+            "に反して"
+        ],
+        "correct_answer": 0,
+        "explanation": "「とともに」は①随着～变化②与～一起的两种用法。「技術の進歩とともに」は随着技術进步的意思。",
+        "linked_grammar_id": "N3_G_033"
+    },
+    {
+        "id": "N3_Q_035",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "天気予報___、明日は雨だそうです。",
+        "options": [
+            "によると",
+            "にとって",
+            "に比べて",
+            "に加えて"
+        ],
+        "correct_answer": 0,
+        "explanation": "「によると」は信息来源を表す。天気予報を情報源として「〜そうだ」「〜らしい」などと一緒に使う。",
+        "linked_grammar_id": "N3_G_034"
+    },
+    {
+        "id": "N3_Q_036",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "毎日練習したんだから、上手になった___だ。",
+        "options": [
+            "はず",
+            "わけ",
+            "こそ",
+            "くらい"
+        ],
+        "correct_answer": 1,
+        "explanation": "「わけだ」は当然の結論を表す。毎日练习したから上手になるのは当然の帰結（理所当然）。",
+        "linked_grammar_id": "N3_G_035"
+    },
+    {
+        "id": "N3_Q_037",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "日本語が嫌いな___ではないが、難しいと思う。",
+        "options": [
+            "はず",
+            "わけ",
+            "こと",
+            "もの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「わけではない」は部分否定で「別に～ということではない」という意味。嫌いというわけではない=并不是说讨厌。",
+        "linked_grammar_id": "N3_G_036"
+    },
+    {
+        "id": "N3_Q_038",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼がそんなことをする___がない。",
+        "options": [
+            "はず",
+            "わけ",
+            "こと",
+            "もの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「わけがない」は论理的に不可能なことを表す。「するわけがない」は「するはずがない」より强烈で、絶対ありえないという确信。",
+        "linked_grammar_id": "N3_G_037"
+    },
+    {
+        "id": "N3_Q_039",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼女が嘘をつく___がない。",
+        "options": [
+            "わけ",
+            "はず",
+            "こと",
+            "もの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「はずがない」は情理上ありえないことを表す。彼女の性格や状况から考えて、嘘をつく可能性はない。",
+        "linked_grammar_id": "N3_G_038"
+    },
+    {
+        "id": "N3_Q_040",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "あの光は飛行機に___ない。",
+        "options": [
+            "ちがいが",
+            "ちがいじゃ",
+            "ちがい",
+            "ちがいに"
+        ],
+        "correct_answer": 2,
+        "explanation": "「にちがいない」は强烈な确信を表す。「飛行機にちがいない」=一定是飞机。「ちがいない」が正しい形。",
+        "linked_grammar_id": "N3_G_039"
+    },
+    {
+        "id": "N3_Q_041",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "明日は雨が降る___ない。",
+        "options": [
+            "かも",
+            "かもしれ",
+            "かもし",
+            "かもれ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「かもしれない」は不確定な可能性を表す。「降るかもしれない」=也许会下雨。「かもしれない」が正しい形。",
+        "linked_grammar_id": "N3_G_040"
+    },
+    {
+        "id": "N3_Q_042",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "このまま続ければ、失敗し___ない。",
+        "options": [
+            "かね",
+            "かもしれ",
+            "ざるを得",
+            "ずに"
+        ],
+        "correct_answer": 0,
+        "explanation": "「かねない」は好ましくない结果の可能性を表す。「失敗しかねない」=可能会失敗（负面结果的警告）。",
+        "linked_grammar_id": "N3_G_041"
+    },
+    {
+        "id": "N3_Q_043",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "その要求にはお応えし___ます。（丁寧な断り）",
+        "options": [
+            "かね",
+            "かもしれ",
+            "ざるを得",
+            "てしまい"
+        ],
+        "correct_answer": 0,
+        "explanation": "「かねる」は難以做到的婉転拒绝。「お応えしかねます」=対那个要求难以回应，是正式的婉転拒绝。",
+        "linked_grammar_id": "N3_G_042"
+    },
+    {
+        "id": "N3_Q_044",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "状況が状況だから、撤退せ___を得ない。",
+        "options": [
+            "ざる",
+            "ずに",
+            "かね",
+            "ながら"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ざるを得ない」は不得不做の无奈表达。「せざるを得ない」=不得不撤退（するのない形→せ+ざるを得ない）。",
+        "linked_grammar_id": "N3_G_043"
+    },
+    {
+        "id": "N3_Q_045",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "昼食を食べ___仕事を続けた。（食べないで）",
+        "options": [
+            "ずに",
+            "ながら",
+            "ても",
+            "けど"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ずに」は「ないで」の文語形。「食べずに」=没吃…就做了，表示不做前项动作的状态下做后项。",
+        "linked_grammar_id": "N3_G_044"
+    },
+    {
+        "id": "N3_Q_046",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "眠く___たまらない。",
+        "options": [
+            "て",
+            "で",
+            "に",
+            "が"
+        ],
+        "correct_answer": 0,
+        "explanation": "「てたまらない」はい形容词の場合「い→くて+たまらない」。「眠い→眠くて+たまらない」=困得不得了。",
+        "linked_grammar_id": "N3_G_045"
+    },
+    {
+        "id": "N3_Q_047",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "子どもが心配___ならない。",
+        "options": [
+            "てし",
+            "くて",
+            "で",
+            "に"
+        ],
+        "correct_answer": 2,
+        "explanation": "「てならない」はな形容詞の場合「語幹+でならない」。「心配でならない」=担心得不得了（自然涌现的感情）。",
+        "linked_grammar_id": "N3_G_046"
+    },
+    {
+        "id": "N3_Q_048",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "お腹がすいて___ない。（口語・どうしようもない）",
+        "options": [
+            "たまら",
+            "なら",
+            "しょうが",
+            "かね"
+        ],
+        "correct_answer": 2,
+        "explanation": "「てしょうがない」はどうにもならないほどの状態の口語表现。「すいてしょうがない」=饿得不行了（口語）。",
+        "linked_grammar_id": "N3_G_047"
+    },
+    {
+        "id": "N3_Q_049",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "資料を持ち帰っても___ません。",
+        "options": [
+            "かまい",
+            "たまら",
+            "しょうが",
+            "なら"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ても構わない」は許可・無所谓を表す。「持ち帰っても構わない」=带走也没关系。",
+        "linked_grammar_id": "N3_G_048"
+    },
+    {
+        "id": "N3_Q_050",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼は英語___でなく、中国語も話せる。",
+        "options": [
+            "しか",
+            "だけ",
+            "ばかり",
+            "のみ"
+        ],
+        "correct_answer": 2,
+        "explanation": "「ばかりでなく」は「not only...but also」。「英語ばかりでなく中国語も」=不仅英语还会中文（比だけでなく强调）。",
+        "linked_grammar_id": "N3_G_049"
+    },
+    {
+        "id": "N3_Q_051",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "今年は去年___、気温が高い。",
+        "options": [
+            "に比べて",
+            "によると",
+            "にとって",
+            "に反して"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に比べて」は比较を表す。「去年に比べて」=与去年相比，强调比较的对象。",
+        "linked_grammar_id": "N3_G_050"
+    },
+    {
+        "id": "N3_Q_052",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "予想___、試験が難しかった。",
+        "options": [
+            "に比べて",
+            "によると",
+            "に反して",
+            "にとって"
+        ],
+        "correct_answer": 2,
+        "explanation": "「に反して」は期待や予想と反対の结果を表す。「予想に反して」=与预想相反。",
+        "linked_grammar_id": "N3_G_051"
+    },
+    {
+        "id": "N3_Q_053",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "私___、日本語の勉強は楽しい。",
+        "options": [
+            "に比べて",
+            "によると",
+            "に反して",
+            "にとって"
+        ],
+        "correct_answer": 3,
+        "explanation": "「にとって」は立場・視点を表す。「私にとって」=对我来说，from my perspective。",
+        "linked_grammar_id": "N3_G_052"
+    },
+    {
+        "id": "N3_Q_054",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "冗談___、ひどすぎる。",
+        "options": [
+            "にしても",
+            "にとって",
+            "に比べて",
+            "に反して"
+        ],
+        "correct_answer": 0,
+        "explanation": "「にしても」は「たとえ〜でも」。「冗談にしても」=即使是玩笑，也太过分了。让步表达。",
+        "linked_grammar_id": "N3_G_053"
+    },
+    {
+        "id": "N3_Q_055",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "初めて___、よくできている。",
+        "options": [
+            "にしては",
+            "にしても",
+            "にとって",
+            "に比べて"
+        ],
+        "correct_answer": 0,
+        "explanation": "「にしては」は予想外の结果を表す。「初めてにしては」=对第一次来说，出乎意料地好。",
+        "linked_grammar_id": "N3_G_054"
+    },
+    {
+        "id": "N3_Q_056",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "知っている___、知らないふりをする。",
+        "options": [
+            "ながらも",
+            "くせに",
+            "にしても",
+            "ものの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「くせに」は批評・不満を伴う逆接。「知っているくせに」=明明知道却...（批评対象的不相称行为）。",
+        "linked_grammar_id": "N3_G_055"
+    },
+    {
+        "id": "N3_Q_057",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "失敗し___、諦めずに続けた。",
+        "options": [
+            "くせに",
+            "ながらも",
+            "にしても",
+            "ものの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ながらも」は承认前项但后项と矛盾。「失敗しながらも」=虽然失败了但…，是客观的逆接表达（书面语）。",
+        "linked_grammar_id": "N3_G_056"
+    },
+    {
+        "id": "N3_Q_058",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "お金___あれば、何でもできる。",
+        "options": [
+            "こそ",
+            "さえ",
+            "のみ",
+            "だけ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「さえ〜ば」は唯一の充分条件。「お金さえあれば」=只要有钱（就足够了）。",
+        "linked_grammar_id": "N3_G_057"
+    },
+    {
+        "id": "N3_Q_059",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "失敗したから___、成功できた。",
+        "options": [
+            "こそ",
+            "さえ",
+            "ほか",
+            "のみ"
+        ],
+        "correct_answer": 0,
+        "explanation": "「こそ」は强调。「失敗したからこそ成功できた」=正是因为失败了才能成功。前项の重要性を強調。",
+        "linked_grammar_id": "N3_G_058"
+    },
+    {
+        "id": "N3_Q_060",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "嘘をつい___成功したくない。",
+        "options": [
+            "てまで",
+            "ながら",
+            "ても",
+            "ので"
+        ],
+        "correct_answer": 0,
+        "explanation": "「てまで」は极端な手段の拒否。「嘘をついてまで成功したくない」=不想靠撒谎来成功（不惜那种手段）。",
+        "linked_grammar_id": "N3_G_059"
+    },
+    {
+        "id": "N3_Q_061",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "そんな低い給料で働く___なら、辞めてしまう。",
+        "options": [
+            "こそ",
+            "くらい",
+            "ほか",
+            "さえ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「くらいなら」は消极な选択。「〜くらいなら〜する」=与其做那事，宁愿做这事（两害取其轻）。",
+        "linked_grammar_id": "N3_G_060"
+    },
+    {
+        "id": "N3_Q_062",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「侘び寂び」という___は、日本独自の美意識だ。",
+        "options": [
+            "こと",
+            "の",
+            "もの",
+            "ところ"
+        ],
+        "correct_answer": 0,
+        "explanation": "「というのは〜だ」は概念や语句の定義・説明。「侘び寂びというのは」=所谓侘寂是指…。",
+        "linked_grammar_id": "N3_G_061"
+    },
+    {
+        "id": "N3_Q_063",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼が来ない___は、延期だということだ。",
+        "options": [
+            "ということ",
+            "というのは",
+            "というより",
+            "ともなく"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ということは」は前件から导かれる論理的帰結。「来ないということは延期だ」=他不来这件事意味着要延期。",
+        "linked_grammar_id": "N3_G_062"
+    },
+    {
+        "id": "N3_Q_064",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "人間は失敗する___だ。（自然の道理）",
+        "options": [
+            "こと",
+            "もの",
+            "ところ",
+            "はず"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ものだ（辞書形）」は一般的な常識・应有の状态を表す。「失敗するものだ」=人本来就会犯错，这是理所当然的。",
+        "linked_grammar_id": "N3_G_063"
+    },
+    {
+        "id": "N3_Q_065",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "頑張ってはみた___、合格できなかった。",
+        "options": [
+            "ものの",
+            "ものだ",
+            "ものか",
+            "ものを"
+        ],
+        "correct_answer": 0,
+        "explanation": "「ものの（逆接）」は前件の事実を認めながら后件が矛盾することを表す。努力したが合格できなかった。",
+        "linked_grammar_id": "N3_G_064"
+    },
+    {
+        "id": "N3_Q_066",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "電車が止まっているから、歩く___ない。",
+        "options": [
+            "ほかが",
+            "ほかに",
+            "ほかは",
+            "ほか"
+        ],
+        "correct_answer": 3,
+        "explanation": "「ほかない（辞書形+ほかない）」は别无选択を表す。「歩くほかない」=只能步行了。",
+        "linked_grammar_id": "N3_G_065"
+    },
+    {
+        "id": "N3_Q_067",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "優秀な成績___、スポーツも得意だ。",
+        "options": [
+            "に加えて",
+            "に比べて",
+            "にとって",
+            "に反して"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に加えて」は前项に追加して后项も、という累加表现。「成績に加えて」=除了成绩还有。",
+        "linked_grammar_id": "N3_G_066"
+    },
+    {
+        "id": "N3_Q_068",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "よく検討した___、決定します。",
+        "options": [
+            "上に",
+            "上で",
+            "ほかに",
+            "上を"
+        ],
+        "correct_answer": 1,
+        "explanation": "「動詞た形+上で」は前件を完了してから后件を行う。「検討した上で決定する」=充分研究后再决定。",
+        "linked_grammar_id": "N3_G_067"
+    },
+    {
+        "id": "N3_Q_069",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "怒っているという___、悲しんでいる。",
+        "options": [
+            "より",
+            "ほど",
+            "くらい",
+            "だけ"
+        ],
+        "correct_answer": 0,
+        "explanation": "「というより」は前件より后件が正確な表現。「怒っているというより悲しんでいる」=与其说生气不如说悲伤。",
+        "linked_grammar_id": "N3_G_068"
+    },
+    {
+        "id": "N3_Q_070",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "成功する___失敗する___、後悔しないようにする。",
+        "options": [
+            "にしろ…にしろ",
+            "にしても…にしても",
+            "といっても…といっても",
+            "ば…ば"
+        ],
+        "correct_answer": 0,
+        "explanation": "「にしろ〜にしろ」は无论哪种情况。「成功するにしろ失敗するにしろ」=无论成功还是失败。",
+        "linked_grammar_id": "N3_G_069"
+    },
+    {
+        "id": "N3_Q_071",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "これは私の個人的な意見___に過ぎない。",
+        "options": [
+            "こと",
+            "だけ",
+            "ほか",
+            "〈不要接语〉"
+        ],
+        "correct_answer": 3,
+        "explanation": "「に過ぎない（名詞/普通形+に過ぎない）」は「不过是…」。「意見に過ぎない」=不过是我的个人意见而已。名詞は直接接続。",
+        "linked_grammar_id": "N3_G_070"
+    },
+    {
+        "id": "N3_Q_072",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "ご卒業___、お祝いを申し上げます。（正式）",
+        "options": [
+            "に際して",
+            "にとって",
+            "にしては",
+            "に加えて"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に際して」は正式な场合の「時に」。「卒業に際して」=在毕业之际（正式表达）。",
+        "linked_grammar_id": "N3_G_071"
+    },
+    {
+        "id": "N3_Q_073",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "到着し___、連絡します。（到达即通知）",
+        "options": [
+            "次第",
+            "以来",
+            "から",
+            "のに"
+        ],
+        "correct_answer": 0,
+        "explanation": "「〜し次第」は完了後すぐ实施。「到着し次第連絡する」=一到达就马上联系（商务场面で多用）。",
+        "linked_grammar_id": "N3_G_072"
+    },
+    {
+        "id": "N3_Q_074",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "年齢___、チャレンジすることが大切だ。",
+        "options": [
+            "に加えて",
+            "に関わらず",
+            "にとって",
+            "によると"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に関わらず」は前件の条件に関係なく、という「regardless of」。「年齢に関わらず」=不管年龄。",
+        "linked_grammar_id": "N3_G_073"
+    },
+    {
+        "id": "N3_Q_075",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "田中さん___、多くのメンバーが参加した。",
+        "options": [
+            "をはじめ",
+            "をもとに",
+            "をめぐって",
+            "をもって"
+        ],
+        "correct_answer": 0,
+        "explanation": "「をはじめ」は典型例の列举。「田中さんをはじめ多くの…」=以田中为首，很多…参加了。",
+        "linked_grammar_id": "N3_G_074"
+    },
+    {
+        "id": "N3_Q_076",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "このドラマは実話___作られた。",
+        "options": [
+            "をはじめ",
+            "をもとに",
+            "に基づいて",
+            "によって"
+        ],
+        "correct_answer": 1,
+        "explanation": "「をもとに」は素材・基盤としての材料を表す。「実話をもとに」=以真实故事为基础。",
+        "linked_grammar_id": "N3_G_075"
+    },
+    {
+        "id": "N3_Q_077",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "法律___、判断する。",
+        "options": [
+            "をもとに",
+            "に基づいて",
+            "をはじめ",
+            "をめぐって"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に基づいて」は法律・规则・根拠を依拠として表す。「法律に基づいて」=基于法律（更正式・权威性）。",
+        "linked_grammar_id": "N3_G_076"
+    },
+    {
+        "id": "N3_Q_078",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "人口増加___、住宅問題が深刻化した。",
+        "options": [
+            "に伴って",
+            "につれて",
+            "に加えて",
+            "とともに"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に伴って」は前件の変化と同时に后件が起こる。「人口増加に伴って」=随着人口增加（伴随）。",
+        "linked_grammar_id": "N3_G_077"
+    },
+    {
+        "id": "N3_Q_079",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "彼は頭がいい___、心も美しい。",
+        "options": [
+            "のみならず",
+            "ばかりか",
+            "に加えて",
+            "にしても"
+        ],
+        "correct_answer": 0,
+        "explanation": "「のみならず」は「だけでなく」の书面语。「頭がいいのみならず心も美しい」=不仅聪明心灵也美好（正式文体）。",
+        "linked_grammar_id": "N3_G_078"
+    },
+    {
+        "id": "N3_Q_080",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "雨___、多くの人が集まった。",
+        "options": [
+            "にも関わらず",
+            "にしたがって",
+            "につれて",
+            "に伴って"
+        ],
+        "correct_answer": 0,
+        "explanation": "「にも関わらず」は逆境でも结果が変わらない。「雨にも関わらず」=尽管下雨，（书面逆接）。",
+        "linked_grammar_id": "N3_G_079"
+    },
+    {
+        "id": "N3_Q_081",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "知っている___ように話す。（実際には知らない）",
+        "options": [
+            "かの",
+            "その",
+            "ような",
+            "ごとき"
+        ],
+        "correct_answer": 0,
+        "explanation": "「かのように」は事実ではないが、そのような様子を表す比喩。「知っているかのように話す」=好像知道似的说话。",
+        "linked_grammar_id": "N3_G_080"
+    },
+    {
+        "id": "N3_Q_082",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「影響を与える」の意味はどれですか？",
+        "options": [
+            "確認すること",
+            "何かに変化をもたらすこと",
+            "調べること",
+            "防ぐこと"
+        ],
+        "correct_answer": 1,
+        "explanation": "「影響を与える」はある事象が他に変化をもたらすこと。to have an influence onに相当する。"
+    },
+    {
+        "id": "N3_Q_083",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「原因」の反対語はどれですか？",
+        "options": [
+            "理由",
+            "状況",
+            "結果",
+            "方法"
+        ],
+        "correct_answer": 2,
+        "explanation": "「原因（cause）」の反対語は「結果（result/effect）」。原因→結果という因果関係。"
+    },
+    {
+        "id": "N3_Q_084",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「状況を把握する」の意味はどれですか？",
+        "options": [
+            "状況を無視する",
+            "状況をよく理解・掌握する",
+            "状況を作り出す",
+            "状況を変える"
+        ],
+        "correct_answer": 1,
+        "explanation": "「把握する」は理解・掌握すること。「状況を把握する」=对情况有充分的了解掌握。"
+    },
+    {
+        "id": "N3_Q_085",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「方針を決める」の「方針」の意味は？",
+        "options": [
+            "予算",
+            "進む方向・政策",
+            "方法",
+            "目標"
+        ],
+        "correct_answer": 1,
+        "explanation": "「方針」は進むべき方向や政策のこと。policyに相当する。「会社の方針」は会社が決めた方向性。"
+    },
+    {
+        "id": "N3_Q_086",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「提案する」と「提案を受け入れる」の関係は？",
+        "options": [
+            "同じ動作",
+            "提案する=提出する、受け入れる=承認する",
+            "反対の動作",
+            "どちらも断ること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「提案する」はpropose（提出方案）。「受け入れる」はaccept（接受）。提案する側と受け入れる側の異なる動作。"
+    },
+    {
+        "id": "N3_Q_087",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「解決」の対義語として考えられる語は？",
+        "options": [
+            "改善",
+            "向上",
+            "発生（問題の）",
+            "完成"
+        ],
+        "correct_answer": 2,
+        "explanation": "「解決（solving a problem）」に対比する概念として「問題の発生（occurrence of a problem）」が挙げられる。"
+    },
+    {
+        "id": "N3_Q_088",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「変化が生じる」の「生じる」の意味は？",
+        "options": [
+            "消える",
+            "起こる・発生する",
+            "終わる",
+            "分かる"
+        ],
+        "correct_answer": 1,
+        "explanation": "「生じる」は起こる・発生することを意味する。「変化が生じる」=变化产生，变化发生。"
+    },
+    {
+        "id": "N3_Q_089",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「発展する」の反対語に近いのはどれですか？",
+        "options": [
+            "継続する",
+            "促進する",
+            "衰退する",
+            "変化する"
+        ],
+        "correct_answer": 2,
+        "explanation": "「発展（development）」の反対は「衰退（decline）」。発展中⇔衰退中の対義語関係。"
+    },
+    {
+        "id": "N3_Q_090",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「政治家」はどんな人ですか？",
+        "options": [
+            "会社の社長",
+            "政治に携わる人（国会議員など）",
+            "科学者",
+            "弁護士"
+        ],
+        "correct_answer": 1,
+        "explanation": "「政治家」は政治（国家・地方の運営）に携わる人。politician、statesmanに相当する。"
+    },
+    {
+        "id": "N3_Q_091",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「経済成長」の意味はどれですか？",
+        "options": [
+            "経済の悪化",
+            "経済の発展・規模の拡大",
+            "経済の安定",
+            "経済の問題"
+        ],
+        "correct_answer": 1,
+        "explanation": "「経済成長」は経済が発展し規模が拡大すること。economic growthに相当する。"
+    },
+    {
+        "id": "N3_Q_092",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「社会問題」の例として正しいのはどれですか？",
+        "options": [
+            "個人の趣味",
+            "国全体や社会に影響する問題（貧困・差別など）",
+            "工場の生産問題",
+            "個人の家族問題"
+        ],
+        "correct_answer": 1,
+        "explanation": "「社会問題」は社会全体に影響する問題。貧困・差別・少子高齢化などがsocial problemsに相当する。"
+    },
+    {
+        "id": "N3_Q_093",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「科学技術」の意味はどれですか？",
+        "options": [
+            "文学と芸術",
+            "科学と技術を合わせた概念",
+            "政治と経済",
+            "教育と文化"
+        ],
+        "correct_answer": 1,
+        "explanation": "「科学技術」は科学（理論）と技術（応用）を合わせた言葉。science and technologyに相当する。"
+    },
+    {
+        "id": "N3_Q_094",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「研究結果」の「結果」はここでどんな意味ですか？",
+        "options": [
+            "失敗した内容",
+            "研究して得られた成果・データ",
+            "研究の目的",
+            "研究の方法"
+        ],
+        "correct_answer": 1,
+        "explanation": "「研究結果」は研究によって得られた成果・データ・発見のこと。research resultsに相当する。"
+    },
+    {
+        "id": "N3_Q_095",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「アンケート調査」の「アンケート」はどういう意味ですか？",
+        "options": [
+            "面接",
+            "質問票・アンケート用紙",
+            "実験",
+            "データ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「アンケート」（フランス語由来）は質問票を使って意見・情報を集めること。questionnaireに相当する。"
+    },
+    {
+        "id": "N3_Q_096",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「活発な議論」の「活発な」の意味は？",
+        "options": [
+            "静かな",
+            "積極的で生き生きとした",
+            "長い",
+            "難しい"
+        ],
+        "correct_answer": 1,
+        "explanation": "「活発」はenergeticで活気がある様子。「活発な議論」=积极活跃的讨论，energetic/lively discussion。"
+    },
+    {
+        "id": "N3_Q_097",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「批判する」と「支持する」の関係は？",
+        "options": [
+            "類語",
+            "反対語",
+            "同義語",
+            "無関係"
+        ],
+        "correct_answer": 1,
+        "explanation": "「批判（criticism）」と「支持（support）」は反対語。批判は否定的評価、支持は肯定的応援。"
+    },
+    {
+        "id": "N3_Q_098",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「可能性を探る」の「探る」の意味は？",
+        "options": [
+            "否定する",
+            "見つけようとして調べる",
+            "決定する",
+            "無視する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「探る」は積極的に調べ・見つけようとすること。「可能性を探る」=探索可能性，to explore possibilities。"
+    },
+    {
+        "id": "N3_Q_099",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「必要性を感じる」の「必要性」の意味は？",
+        "options": [
+            "不要である理由",
+            "なければならないという性質・度合い",
+            "可能性",
+            "便利さ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「必要性」はnecessityの意味。「必要性を感じる」=感受到必要性，to feel the necessity of。"
+    },
+    {
+        "id": "N3_Q_100",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「申し訳ない」の場面として適切なのはどれですか？",
+        "options": [
+            "成功した時",
+            "相手に迷惑をかけた時",
+            "何か嬉しいことがあった時",
+            "相手を褒める時"
+        ],
+        "correct_answer": 1,
+        "explanation": "「申し訳ない（申し訳ありません）」は相手に迷惑や被害を与えた時の深い謝罪表現。I'm very sorryに相当する。"
+    },
+    {
+        "id": "N3_Q_101",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「遠慮せずに」の意味はどれですか？",
+        "options": [
+            "無礼に",
+            "気遣いや遠慮なく率直に",
+            "怒って",
+            "積極的に"
+        ],
+        "correct_answer": 1,
+        "explanation": "「遠慮せずに」は気を遣わずに率直に行動する様子。「遠慮なく」=without hesitation/reserve，don't hold backに相当する。"
+    },
+    {
+        "id": "N3_Q_102",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「謙虚な態度」の「謙虚」の意味は？",
+        "options": [
+            "傲慢で自信満々",
+            "慎み深く自分を低くする様子",
+            "積極的な",
+            "楽しい"
+        ],
+        "correct_answer": 1,
+        "explanation": "「謙虚」はhumble，自分を低くして他者を尊重する態度。「傲慢」の反対語。"
+    },
+    {
+        "id": "N3_Q_103",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「誠実に対応する」の「誠実」の意味は？",
+        "options": [
+            "素早い",
+            "嘘なく正直で真剣な様子",
+            "厳格な",
+            "丁寧な"
+        ],
+        "correct_answer": 1,
+        "explanation": "「誠実」はsincere，honest，truthfulの意味。「誠実に対応する」=诚恳认真地应对。"
+    },
+    {
+        "id": "N3_Q_104",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「柔軟に対応する」の「柔軟」の反対語は？",
+        "options": [
+            "積極的",
+            "謙虚",
+            "硬直・頑固",
+            "勤勉"
+        ],
+        "correct_answer": 2,
+        "explanation": "「柔軟（flexible）」の反対語は「硬直・頑固（rigid/stubborn）」。状況に合わせて変化できるかどうかの違い。"
+    },
+    {
+        "id": "N3_Q_105",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「勤勉な性格」の「勤勉」の意味は？",
+        "options": [
+            "怠惰な",
+            "一生懸命で熱心に働く様子",
+            "活発な",
+            "慎重な"
+        ],
+        "correct_answer": 1,
+        "explanation": "「勤勉」はdiligent，hardworkingの意味。「怠惰」の反対語。「日本人は勤勉だ」は日本人の国民性として言われる。"
+    },
+    {
+        "id": "N3_Q_106",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「傾向がある」の「傾向」の意味は？",
+        "options": [
+            "状態",
+            "一定の方向に偏る様子・トレンド",
+            "制限",
+            "問題"
+        ],
+        "correct_answer": 1,
+        "explanation": "「傾向」はtrendやtendency。「〜の傾向がある」=有……的倾向，shows a tendency toward。"
+    },
+    {
+        "id": "N3_Q_107",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「現状維持」の「維持」の意味は？",
+        "options": [
+            "変化させること",
+            "現在の状態を保ち続けること",
+            "評価すること",
+            "分析すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「維持」はmaintain，keep。「現状維持」=维持现状，maintaining the status quo。"
+    },
+    {
+        "id": "N3_Q_108",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「学力向上」の「向上」の意味は？",
+        "options": [
+            "低下すること",
+            "レベルが上がること",
+            "変化すること",
+            "維持すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「向上」はimprovement，progress。「学力向上」=学力的提升，improvement of academic ability。"
+    },
+    {
+        "id": "N3_Q_109",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「感染拡大を防ぐ」の「防ぐ」の意味は？",
+        "options": [
+            "促進する",
+            "起こさないようにする",
+            "無視する",
+            "調べる"
+        ],
+        "correct_answer": 1,
+        "explanation": "「防ぐ」はprevent，guard against。「感染拡大を防ぐ」=防止感染扩散，to prevent the spread of infection。"
+    },
+    {
+        "id": "N3_Q_110",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「データがその傾向を示す」の「示す」の意味は？",
+        "options": [
+            "隠す",
+            "明らかに表す",
+            "否定する",
+            "変える"
+        ],
+        "correct_answer": 1,
+        "explanation": "「示す」はshow，indicate。「データが傾向を示す」=数据显示出那种倾向。"
+    },
+    {
+        "id": "N3_Q_111",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「意見を述べる」の「述べる」の意味は？",
+        "options": [
+            "聞くこと",
+            "自分の考えを言葉で表すこと",
+            "書くこと",
+            "決定すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「述べる」はstate，express，describe。「意見を述べる」=陈述意见，to express one's opinion。"
+    },
+    {
+        "id": "N3_Q_112",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「自分の失敗を認める」の「認める」の意味は？",
+        "options": [
+            "否定する",
+            "事実として受け入れる",
+            "無視する",
+            "批判する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「認める」はacknowledge，admit，recognize。「失敗を認める」=承认失败，to admit failure。"
+    },
+    {
+        "id": "N3_Q_113",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「その事実を否定する」の「否定」の意味は？",
+        "options": [
+            "認めること",
+            "事実ではないと言うこと",
+            "調べること",
+            "変えること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「否定」はnegation，denial。「否定する」は事実を認めないこと。「肯定」の反対語。"
+    },
+    {
+        "id": "N3_Q_114",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「予算オーバー」の意味はどれですか？",
+        "options": [
+            "予算が余った",
+            "予算よりお金がかかりすぎた",
+            "予算通りだった",
+            "予算が决まった"
+        ],
+        "correct_answer": 1,
+        "explanation": "「予算オーバー」は予定の予算を超えてしまうこと。over budgetに相当する。"
+    },
+    {
+        "id": "N3_Q_115",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「価格交渉」の意味はどれですか？",
+        "options": [
+            "価格を調べること",
+            "値段についての話し合い",
+            "価格を決めること",
+            "価格を比べること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「価格交渉」は価格（値段）についてお互いが妥協点を探る話し合い。price negotiationに相当する。"
+    },
+    {
+        "id": "N3_Q_116",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「競争が激しい」の「激しい」の意味は？",
+        "options": [
+            "穏やかな",
+            "程度が強く激烈な",
+            "弱い",
+            "複雑な"
+        ],
+        "correct_answer": 1,
+        "explanation": "「激しい」はintense，fierce，severe。「競争が激しい」=竞争激烈，fierce competition。"
+    },
+    {
+        "id": "N3_Q_117",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「ご協力をお願いします」で求めているものは？",
+        "options": [
+            "批判",
+            "一緒に力を合わせること",
+            "競争",
+            "資金"
+        ],
+        "correct_answer": 1,
+        "explanation": "「協力」はcooperation。「ご協力をお願いします」=请大家协力配合，Please cooperate。"
+    },
+    {
+        "id": "N3_Q_118",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「社会貢献」の意味はどれですか？",
+        "options": [
+            "社会を批判すること",
+            "社会の利益・発展に役立つこと",
+            "社会を変えること",
+            "社会を調べること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「社会貢献」は社会のために役立つ活動をすること。social contributionに相当する。"
+    },
+    {
+        "id": "N3_Q_119",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「採用試験」とはどんな試験ですか？",
+        "options": [
+            "学校の入学試験",
+            "職場で新しい人を雇うための試験",
+            "資格試験",
+            "語学試験"
+        ],
+        "correct_answer": 1,
+        "explanation": "「採用試験」は会社・官庁などが人を採用する時に実施する試験。employment examに相当する。"
+    },
+    {
+        "id": "N3_Q_120",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「対応策を考える」の「対応策」の意味は？",
+        "options": [
+            "問題を無視する方法",
+            "問題に対処するための方法",
+            "予算案",
+            "評価方法"
+        ],
+        "correct_answer": 1,
+        "explanation": "「対応策」は問題や状況に対処するための方法・策。countermeasure，response strategyに相当する。"
+    },
+    {
+        "id": "N3_Q_121",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「高評価を受ける」の意味はどれですか？",
+        "options": [
+            "悪い評価をされた",
+            "よい評価・判断をされた",
+            "特に評価されなかった",
+            "評価を拒否された"
+        ],
+        "correct_answer": 1,
+        "explanation": "「高評価」は高い評価。「高評価を受ける」=受到高度评价，to receive high recognition。"
+    },
+    {
+        "id": "N3_Q_122",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「身分証明書を提示する」の「提示」の意味は？",
+        "options": [
+            "隠すこと",
+            "見せること",
+            "調べること",
+            "コピーすること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「提示する」はpresent，show。「身分証明書を提示する」=出示身份证明，to show identification。"
+    },
+    {
+        "id": "N3_Q_123",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「情報整理」とはどういうことですか？",
+        "options": [
+            "情報を削除すること",
+            "情報をわかりやすく整えること",
+            "情報を集めること",
+            "情報を拡散すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「整理」はorganize，sort out。「情報整理」=整理信息，organizing information for clarity。"
+    },
+    {
+        "id": "N3_Q_124",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「データ分析」の「分析」の意味は？",
+        "options": [
+            "データを集める",
+            "データを細かく調べて意味を見つける",
+            "データを削除する",
+            "データを配布する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「分析」はanalysis。「データを分析する」=分析数据，to analyze data。"
+    },
+    {
+        "id": "N3_Q_125",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「副作用」の意味はどれですか？",
+        "options": [
+            "薬の主な効果",
+            "薬などが本来の目的以外に及ぼす好ましくない効果",
+            "薬の成分",
+            "薬の使い方"
+        ],
+        "correct_answer": 1,
+        "explanation": "「副作用」は薬などが主な治療効果の他に引き起こす好ましくない影響。side effectに相当する。"
+    },
+    {
+        "id": "N3_Q_126",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「責任を取る」の意味はどれですか？",
+        "options": [
+            "責任を他人に押し付ける",
+            "自分の行動の結果として対処する",
+            "責任を否定する",
+            "責任を軽くする"
+        ],
+        "correct_answer": 1,
+        "explanation": "「責任を取る」は自分の行動や判断の結果に対して適切に対処すること。to take responsibilityに相当する。"
+    },
+    {
+        "id": "N3_Q_127",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「義務を果たす」の意味はどれですか？",
+        "options": [
+            "義務を無視する",
+            "義務として課された事をきちんと行う",
+            "義務を否定する",
+            "義務を他人に任せる"
+        ],
+        "correct_answer": 1,
+        "explanation": "「義務を果たす」はfulfill one's duty。「果たす」=達成する，accomplish。"
+    },
+    {
+        "id": "N3_Q_128",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「権利を守る」の意味はどれですか？",
+        "options": [
+            "権利を否定する",
+            "権利が侵害されないようにする",
+            "権利を諦める",
+            "権利を譲る"
+        ],
+        "correct_answer": 1,
+        "explanation": "「権利を守る」はprotect one's rights。権利が奪われないように保護すること。"
+    },
+    {
+        "id": "N3_Q_129",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「言論の自由」の「自由」の意味は？",
+        "options": [
+            "制限があること",
+            "束縛されない状態・権利",
+            "義務",
+            "制度"
+        ],
+        "correct_answer": 1,
+        "explanation": "「自由」はfreedom，liberty。「言論の自由」=言论自由，freedom of speech。"
+    },
+    {
+        "id": "N3_Q_130",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「差別をなくす」の「差別」の意味は？",
+        "options": [
+            "区別すること（一般的）",
+            "不公平な扱いをすること",
+            "評価すること",
+            "保護すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「差別」はdiscrimination。不当に不公平な扱いをすること。「区別（distinction）」は中立的だが「差別」は否定的含意。"
+    },
+    {
+        "id": "N3_Q_131",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「職場の多様性を推進する」の「多様性」の意味は？",
+        "options": [
+            "統一性",
+            "様々な違いがあること",
+            "類似性",
+            "同一性"
+        ],
+        "correct_answer": 1,
+        "explanation": "「多様性」はdiversity。様々な属性・背景・考え方があること。「職場の多様性」=workplace diversity。"
+    },
+    {
+        "id": "N3_Q_132",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「地球温暖化を防ぐ」の「温暖化」の意味は？",
+        "options": [
+            "地球が冷える現象",
+            "地球の気温が上昇する現象",
+            "気候が安定すること",
+            "海面が下がること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「温暖化（global warming）」は地球全体の気温が上昇する現象。CO2などの温室効果ガスが主因。"
+    },
+    {
+        "id": "N3_Q_133",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「廃棄物の適切な処理」の「廃棄物」の意味は？",
+        "options": [
+            "再利用できるもの",
+            "不要になって捨てられるもの・ゴミ",
+            "原材料",
+            "製品"
+        ],
+        "correct_answer": 1,
+        "explanation": "「廃棄物」はwaste，garbage。不要になって廃棄されるもの。「産業廃棄物」は工場などから出るゴミ。"
+    },
+    {
+        "id": "N3_Q_134",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「環境保護活動」の「保護」の意味は？",
+        "options": [
+            "破壊すること",
+            "守ること・被害から保つこと",
+            "分析すること",
+            "利用すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「保護」はprotection。「環境保護」=环境保护，environmental protection。"
+    },
+    {
+        "id": "N3_Q_135",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「サービスを改善する」の「改善」の意味は？",
+        "options": [
+            "悪くすること",
+            "より良くすること",
+            "変えないこと",
+            "廃止すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「改善」はimprovement。「改善する」=使之改善，to improve，to make better。「悪化」の反対語。"
+    },
+    {
+        "id": "N3_Q_136",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「深刻な問題」の「深刻」の意味は？",
+        "options": [
+            "些細な",
+            "状況が重大で軽視できない",
+            "複雑な",
+            "急ぎの"
+        ],
+        "correct_answer": 1,
+        "explanation": "「深刻」はserious，grave。「深刻な問題」=严重的问题，a serious problem。「軽微」の反対語。"
+    },
+    {
+        "id": "N3_Q_137",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「プロジェクトを推進する」の「推進」の意味は？",
+        "options": [
+            "中止すること",
+            "積極的に進めること",
+            "評価すること",
+            "修正すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「推進」はpromotion，advancement。「推進する」=推进，to promote，to push forward。"
+    },
+    {
+        "id": "N3_Q_138",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「方針に従う」の「従う」の意味は？",
+        "options": [
+            "反対する",
+            "指示通りに行動する",
+            "無視する",
+            "変更する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「従う」はfollow，obey，comply with。「方針に従う」=按照方针行动，to follow a policy。"
+    },
+    {
+        "id": "N3_Q_139",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「緊急事態宣言」の「宣言」の意味は？",
+        "options": [
+            "非公式な話",
+            "公式に広く宣言・発表すること",
+            "確認すること",
+            "相談すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「宣言」はdeclaration。「緊急事態宣言」=紧急状态宣言，declaration of a state of emergency。"
+    },
+    {
+        "id": "N3_Q_140",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「論理的に考える」の「論理」の意味は？",
+        "options": [
+            "感情",
+            "一貫した推論の筋道",
+            "直感",
+            "経験"
+        ],
+        "correct_answer": 1,
+        "explanation": "「論理」はlogic。「論理的」=logical，「論理的に考える」=有逻辑地思考，to think logically。"
+    },
+    {
+        "id": "N3_Q_141",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「根拠のない話」の「根拠」の意味は？",
+        "options": [
+            "理由・証拠などの基盤",
+            "感情",
+            "推測",
+            "可能性"
+        ],
+        "correct_answer": 0,
+        "explanation": "「根拠」はbasis，ground，evidence。「根拠のない」=without basis/evidence，毫无根据。"
+    },
+    {
+        "id": "N3_Q_142",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「自分の主張を伝える」の「主張」の意味は？",
+        "options": [
+            "質問すること",
+            "強く述べる自分の意見・論点",
+            "確認すること",
+            "報告すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「主張」はassertion，claim，argument。「主張する」=主张，to assert，to argue。"
+    },
+    {
+        "id": "N3_Q_143",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「反論する」の意味はどれですか？",
+        "options": [
+            "賛成する",
+            "相手の意見に反対の意見を述べる",
+            "無視する",
+            "確認する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「反論」はcounterargument，rebuttal。「反論する」=反驳，to rebut，to counterargue。"
+    },
+    {
+        "id": "N3_Q_144",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「懸念を示す」の「懸念」の意味は？",
+        "options": [
+            "期待",
+            "心配・不安な気持ち",
+            "賛成",
+            "感謝"
+        ],
+        "correct_answer": 1,
+        "explanation": "「懸念」はconcern，worry。「懸念を示す」=表示担忧，to express concern。"
+    },
+    {
+        "id": "N3_Q_145",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「感染拡大を防ぐための措置」の「措置」の意味は？",
+        "options": [
+            "罰則",
+            "何かに対処するための具体的な行動",
+            "調査",
+            "報告"
+        ],
+        "correct_answer": 1,
+        "explanation": "「措置」はmeasure，action，step。「措置を講じる」=采取措施，to take measures。"
+    },
+    {
+        "id": "N3_Q_146",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「制度を設ける」の「制度」の意味は？",
+        "options": [
+            "建物",
+            "社会的なルール・仕組み",
+            "個人の習慣",
+            "目標"
+        ],
+        "correct_answer": 1,
+        "explanation": "「制度」はsystem，institution。「制度を設ける」=建立制度，to establish a system。"
+    },
+    {
+        "id": "N3_Q_147",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「矛盾がある」の「矛盾」の意味は？",
+        "options": [
+            "一致している",
+            "二つの事柄が論理的に両立できない状態",
+            "補完関係",
+            "類似性"
+        ],
+        "correct_answer": 1,
+        "explanation": "「矛盾」はcontradiction。「矛盾がある」=有矛盾，there is a contradiction（矛盾の语源は中国の故事「矛と盾」）。"
+    },
+    {
+        "id": "N3_Q_148",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「優先順位を決める」の「優先」の意味は？",
+        "options": [
+            "後回しにすること",
+            "他より先に重要として扱うこと",
+            "平等に扱うこと",
+            "無視すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「優先」はpriority。「優先順位」=优先顺序，priority order。「優先する」=to prioritize。"
+    },
+    {
+        "id": "N3_Q_149",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「苦手なことを克服する」の「克服」の意味は？",
+        "options": [
+            "諦めること",
+            "困難に打ち勝って乗り越えること",
+            "避けること",
+            "受け入れること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「克服」はovercoming，conquering。「克服する」=克服，to overcome。「諦める」の反対語。"
+    },
+    {
+        "id": "N3_Q_150",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「問題の深刻さを世界に訴える」の「訴える」の意味は？",
+        "options": [
+            "隠すこと",
+            "強く求めて伝えること",
+            "否定すること",
+            "批判すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「訴える」はappeal，call out，sue（文脈により異なる）。「訴える」=to appeal，to call attention to。"
+    },
+    {
+        "id": "N3_Q_151",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「夢を実現する」の「実現」の意味は？",
+        "options": [
+            "夢を諦めること",
+            "夢が現実になること",
+            "夢を分析すること",
+            "夢を変えること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「実現」はrealization，achievement。「夢を実現する」=实现梦想，to realize one's dream。"
+    },
+    {
+        "id": "N3_Q_152",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「具体的な例を挙げる」の「具体的」の反対語は？",
+        "options": [
+            "一般的",
+            "特別な",
+            "抽象的",
+            "複雑な"
+        ],
+        "correct_answer": 2,
+        "explanation": "「具体的（concrete/specific）」の反対語は「抽象的（abstract）」。"
+    },
+    {
+        "id": "N3_Q_153",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「複雑な問題」の反対語に近いのはどれですか？",
+        "options": [
+            "一般的な",
+            "単純な",
+            "深刻な",
+            "緊急な"
+        ],
+        "correct_answer": 1,
+        "explanation": "「複雑（complex）」の反対語は「単純（simple）」。"
+    },
+    {
+        "id": "N3_Q_154",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「一般的に日本人は礼儀正しい」の「一般的に」の意味は？",
+        "options": [
+            "特別な場合に",
+            "普通・通常の場合に",
+            "全ての場合に",
+            "例外的に"
+        ],
+        "correct_answer": 1,
+        "explanation": "「一般的に」はgenerally，in general。「一般的に」=一般来说，通常の场合を指す。"
+    },
+    {
+        "id": "N3_Q_155",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「理想と現実のギャップ」の意味はどれですか？",
+        "options": [
+            "理想通りに現実が進んでいる",
+            "あるべき姿と実際の状態の差",
+            "理想が実現した状態",
+            "現実が理想を超えた状態"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ギャップ」はgap。「理想と現実のギャップ」=理想与现实的差距，the gap between ideal and reality。"
+    },
+    {
+        "id": "N3_Q_156",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「現実に直面する」の「直面する」の意味は？",
+        "options": [
+            "避けること",
+            "正面から向き合うこと",
+            "分析すること",
+            "解決すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「直面する」はto face，to confront。「現実に直面する」=直面现实，to face reality squarely。"
+    },
+    {
+        "id": "N3_Q_157",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「社会的課題に取り組む」の「課題」の意味は？",
+        "options": [
+            "宿題",
+            "解決すべき問題・テーマ",
+            "試験",
+            "計画"
+        ],
+        "correct_answer": 1,
+        "explanation": "「課題」はissue，challenge，task。「社会的課題」=社会课题，social issue/challenge。"
+    },
+    {
+        "id": "N3_Q_158",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「新しいことに挑戦する」の「挑戦」の意味は？",
+        "options": [
+            "回避すること",
+            "困難なことにチャレンジすること",
+            "批判すること",
+            "諦めること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「挑戦」はchallenge。「挑戦する」=挑战，to challenge，to take on something difficult。"
+    },
+    {
+        "id": "N3_Q_159",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「人間の体には限界がある」の「限界」の意味は？",
+        "options": [
+            "可能性",
+            "これ以上はできない上限",
+            "目標",
+            "能力"
+        ],
+        "correct_answer": 1,
+        "explanation": "「限界」islimit，boundary。「限界に達する」=达到极限，to reach one's limit。"
+    },
+    {
+        "id": "N3_Q_160",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「徐々に改善されている」の「徐々に」の意味は？",
+        "options": [
+            "急激に",
+            "突然",
+            "ゆっくりと少しずつ",
+            "全く"
+        ],
+        "correct_answer": 2,
+        "explanation": "「徐々に」はgradually。「徐々に改善される」=逐渐改善，gradually improving。「急に」の反対。"
+    },
+    {
+        "id": "N3_Q_161",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「次第に暖かくなる」の「次第に」の意味は？",
+        "options": [
+            "突然",
+            "徐々に・だんだん",
+            "急に",
+            "全く"
+        ],
+        "correct_answer": 1,
+        "explanation": "「次第に」はgradually，little by little。「次第に暖かくなる」=逐渐变暖，gradually getting warmer。"
+    },
+    {
+        "id": "N3_Q_162",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「急激な変化」の「急激な」の意味は？",
+        "options": [
+            "緩やかな",
+            "突然でひどい・ドラスティックな",
+            "徐々の",
+            "一般的な"
+        ],
+        "correct_answer": 1,
+        "explanation": "「急激」はrapid，drastic，sudden。「急激な変化」=急剧变化，drastic/rapid change。"
+    },
+    {
+        "id": "N3_Q_163",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「期待以上の結果」の「以上」の意味は？",
+        "options": [
+            "期待より少ない",
+            "期待と同じ",
+            "期待より多い・超えた",
+            "期待通りの"
+        ],
+        "correct_answer": 2,
+        "explanation": "「以上」はabove，more than，over。「期待以上」=超过期待，more than expected，beyond expectations。"
+    },
+    {
+        "id": "N3_Q_164",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「参加者は20名以下」の「以下」の意味は？",
+        "options": [
+            "20名以上",
+            "20名を超える",
+            "20名またはそれ未満",
+            "20名ちょうど"
+        ],
+        "correct_answer": 2,
+        "explanation": "「以下」はbelow，at most，20 or fewer。「20名以下」=20人以下（含む）。「以上」の反対。"
+    },
+    {
+        "id": "N3_Q_165",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「丁寧な説明」の「丁寧」の意味は？",
+        "options": [
+            "素早い",
+            "細かく注意が行き届いた",
+            "短い",
+            "強い"
+        ],
+        "correct_answer": 1,
+        "explanation": "「丁寧」はpolite，careful，thorough。「丁寧な説明」=仔细的说明，a careful/thorough explanation。"
+    },
+    {
+        "id": "N3_Q_166",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「配慮が足りない」の「配慮」の意味は？",
+        "options": [
+            "能力",
+            "他者への気遣い・思いやり",
+            "知識",
+            "経験"
+        ],
+        "correct_answer": 1,
+        "explanation": "「配慮」isconsideration，thoughtfulness。「配慮が足りない」=关怀不足，lacking consideration for others。"
+    },
+    {
+        "id": "N3_Q_167",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「妥協点を見つける」の「妥協」の意味は？",
+        "options": [
+            "全く譲らないこと",
+            "お互いが少し譲り合う落としどころ",
+            "完全に諦めること",
+            "主張を通すこと"
+        ],
+        "correct_answer": 1,
+        "explanation": "「妥協」はcompromise。「妥協点」=妥协点，a compromise point，a middle ground。"
+    },
+    {
+        "id": "N3_Q_168",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「発言の矛盾を指摘する」の「指摘する」の意味は？",
+        "options": [
+            "無視すること",
+            "問題点を明確に示すこと",
+            "解決すること",
+            "賛成すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「指摘する」はpoint out，indicate。「矛盾を指摘する」=指出矛盾，to point out a contradiction。"
+    },
+    {
+        "id": "N3_Q_169",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「安全を最優先に考える」の「最優先」の意味は？",
+        "options": [
+            "後回し",
+            "最も重要として先に扱う",
+            "普通に扱う",
+            "無視する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「最優先」はtop priority。「最優先に考える」=以最高优先级考虑，to consider as the top priority。"
+    },
+    {
+        "id": "N3_Q_170",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「物価の上昇を抑制する」の「抑制」の意味は？",
+        "options": [
+            "促進すること",
+            "程度を抑えて制限すること",
+            "維持すること",
+            "向上させること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「抑制」はsuppression，restraint。「抑制する」=抑制，to suppress，to keep in check。"
+    },
+    {
+        "id": "N3_Q_171",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「〜にしたがって」と「〜につれて」の共通点は？",
+        "options": [
+            "どちらも理由を表す",
+            "どちらも前项の変化に伴う后项の同步変化を表す",
+            "どちらも条件を表す",
+            "どちらも逆接を表す"
+        ],
+        "correct_answer": 1,
+        "explanation": "「にしたがって」も「につれて」も随着前项的变化，后项也同步变化。ただし「にしたがって」は指示に従う意味もある点が異なる。",
+        "linked_grammar_id": "N3_G_031"
+    },
+    {
+        "id": "N3_Q_172",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「〜によると」の后に来る表現として正しいのは？",
+        "options": [
+            "〜から",
+            "〜ので",
+            "〜そうだ",
+            "〜てしまった"
+        ],
+        "correct_answer": 2,
+        "explanation": "「によると」は情報源を示すため、后に「〜そうだ」「〜らしい」などの伝聞・推断表現が来る。「天気予報によると雨だそうだ」。",
+        "linked_grammar_id": "N3_G_034"
+    },
+    {
+        "id": "N3_Q_173",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「わけだ・わけではない・わけがない」の中で「不可能」を表すのは？",
+        "options": [
+            "わけだ",
+            "わけではない",
+            "わけがない",
+            "どれも同じ"
+        ],
+        "correct_answer": 2,
+        "explanation": "「わけがない」は论理的に不可能を表す。「わけだ」は当然の帰結、「わけではない」は部分否定。",
+        "linked_grammar_id": "N3_G_037"
+    },
+    {
+        "id": "N3_Q_174",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「にちがいない」と「かもしれない」の確信度の違いは？",
+        "options": [
+            "同じ",
+            "にちがいない>かもしれない（にちがいないの方が強い確信）",
+            "かもしれない>にちがいない",
+            "どちらも不確定"
+        ],
+        "correct_answer": 1,
+        "explanation": "「にちがいない」は強い確信（一定是）。「かもしれない」は不確定な可能性（也许）。確信度：にちがいない>はずだ>でしょう>かもしれない。",
+        "linked_grammar_id": "N3_G_039"
+    },
+    {
+        "id": "N3_Q_175",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ざるを得ない」の「する動詞（サ変）」への接続は？",
+        "options": [
+            "するざるを得ない",
+            "せざるを得ない",
+            "しざるを得ない",
+            "されざるを得ない"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ざるを得ない」は「ない形（去ない）+ざるを得ない」だが、サ変動詞「する」は例外で「せざるを得ない」となる。",
+        "linked_grammar_id": "N3_G_043"
+    },
+    {
+        "id": "N3_Q_176",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ずに」は何の書面語形式ですか？",
+        "options": [
+            "なかった",
+            "ながら",
+            "ないで",
+            "ていない"
+        ],
+        "correct_answer": 2,
+        "explanation": "「ずに」は「ないで」の書面語・文語形式。「食べずに=食べないで」。ただしサ変は「せずに」になる。",
+        "linked_grammar_id": "N3_G_044"
+    },
+    {
+        "id": "N3_Q_177",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「てたまらない」と「てしょうがない」の違いは？",
+        "options": [
+            "全く同じ",
+            "てたまらない=書面語も可、てしょうがない=より口語的",
+            "逆の意味",
+            "感情にしか使えない"
+        ],
+        "correct_answer": 1,
+        "explanation": "「てたまらない」は书面・口语どちらでも使える。「てしょうがない」はより口語的で日常会話に多用される。",
+        "linked_grammar_id": "N3_G_045"
+    },
+    {
+        "id": "N3_Q_178",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ても構わない」と「てもいい」の違いは？",
+        "options": [
+            "全く同じ",
+            "ても構わない=话し手が無所谓なニュアンスが强い",
+            "ても構わない=禁止",
+            "てもいい=不可能"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ても構わない」は「どちらでも同じ、無所谓」というニュアンスが含まれる。「てもいい」は單純な許可。",
+        "linked_grammar_id": "N3_G_048"
+    },
+    {
+        "id": "N3_Q_179",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ばかりでなく」と「のみならず」の違いは？",
+        "options": [
+            "全く別の意味",
+            "どちらも同じ意味だが、のみならずの方が書面語・正式",
+            "ばかりでなくの方が書面語",
+            "どちらも口語"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ばかりでなく」と「のみならず」は同じ意味（not only...but also）。「のみならず」の方がより書面語・正式。",
+        "linked_grammar_id": "N3_G_078"
+    },
+    {
+        "id": "N3_Q_180",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「くせに」と「のに（逆接）」の違いは？",
+        "options": [
+            "全く同じ",
+            "くせに=批評・不満が強い、のに=軽い遺憾",
+            "どちらも同じ程度",
+            "のに=批評的"
+        ],
+        "correct_answer": 1,
+        "explanation": "「くせに」は批評・軽蔑的な不満のニュアンスが强い。「のに（逆接）」は遺憾・残念のニュアンス。「くせに」の方が強い語気。",
+        "linked_grammar_id": "N3_G_055"
+    },
+    {
+        "id": "N3_Q_181",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「さえ〜ば」の「さえ」の役割は？",
+        "options": [
+            "追加",
+            "唯一の充分条件の強調",
+            "逆接",
+            "理由"
+        ],
+        "correct_answer": 1,
+        "explanation": "「さえ」はeven，as long as，用于強調唯一の必要条件。「〜さえあれば十分だ」=只要有这一点就够了。",
+        "linked_grammar_id": "N3_G_057"
+    },
+    {
+        "id": "N3_Q_182",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「こそ」の機能はどれですか？",
+        "options": [
+            "理由を示す",
+            "話し手が重要と考える事項の強調",
+            "逆接",
+            "条件"
+        ],
+        "correct_answer": 1,
+        "explanation": "「こそ」は强调の助詞。「失敗したからこそ成功できた」=正是因为失败了才成功，表示前件が决定的な要因であることを強調。",
+        "linked_grammar_id": "N3_G_058"
+    },
+    {
+        "id": "N3_Q_183",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「てまで」の意味に近い表現は？",
+        "options": [
+            "してから",
+            "そこまでする必要はない（極端な手段への言及）",
+            "してしまう",
+            "してみる"
+        ],
+        "correct_answer": 1,
+        "explanation": "「てまで」は极端な手段を使う必要への言及。「嘘をついてまで」=靠说谎（那种极端手段）来...。",
+        "linked_grammar_id": "N3_G_059"
+    },
+    {
+        "id": "N3_Q_184",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「くらいなら」の後に来る内容として正しいのは？",
+        "options": [
+            "より良い代替案",
+            "全く関係ない内容",
+            "同等か悪い代替案",
+            "理由の説明"
+        ],
+        "correct_answer": 2,
+        "explanation": "「〜くらいなら〜する方がましだ」の構造。前件より「ましな（それより悪くない）」代替案が来る。两害取其轻。",
+        "linked_grammar_id": "N3_G_060"
+    },
+    {
+        "id": "N3_Q_185",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「というのは」と「ということ」の違いは？",
+        "options": [
+            "全く同じ",
+            "というのは=定義・説明、ということ=事実の名詞化",
+            "逆の意味",
+            "接続が同じ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「というのは」は概念の定義・説明（so-called, what it means is）。「ということ」は事実・内容の名詞化（the fact that）。",
+        "linked_grammar_id": "N3_G_061"
+    },
+    {
+        "id": "N3_Q_186",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ものだ（辞書形）」の二つの用法は？",
+        "options": [
+            "完了と進行",
+            "一般常識・当然 + 過去の習慣回想",
+            "禁止と許可",
+            "目的と理由"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ものだ」①一般常識・当然の事（子どもは遊ぶものだ）②過去の習慣・懐かし回想（子どもの頃よく〜たものだ）の2用法。",
+        "linked_grammar_id": "N3_G_063"
+    },
+    {
+        "id": "N3_Q_187",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ものの」の例として正しいのはどれですか？",
+        "options": [
+            "勉強しているものの、上手になった",
+            "勉強したものの、上手にならなかった",
+            "勉強するものの、続ける",
+            "勉強できないものの、諦めない"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ものの（逆接）」は「Aしたものの、Bにならなかった」の形。前件は事実、后件は期待外れな結果。",
+        "linked_grammar_id": "N3_G_064"
+    },
+    {
+        "id": "N3_Q_188",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「ほかない」と「しかない」の関係は？",
+        "options": [
+            "全く異なる意味",
+            "ほかない=しかないの書面語形式",
+            "しかない=ほかないの書面語",
+            "どちらも口語"
+        ],
+        "correct_answer": 1,
+        "explanation": "「〜するほかない」は「〜するしかない（别无选择）」の書面語。意味は同じで文体が異なる。",
+        "linked_grammar_id": "N3_G_065"
+    },
+    {
+        "id": "N3_Q_189",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「に加えて」を使った正しい例は？",
+        "options": [
+            "雨に加えて、晴れた",
+            "技術に加えて、コミュニケーション能力も必要",
+            "問題に加えて、答えた",
+            "勉強に加えて、諦めた"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に加えて」は累加表現。「技術に加えてコミュニケーション能力も必要」=除了技术还需要沟通能力，正しい累加の使い方。",
+        "linked_grammar_id": "N3_G_066"
+    },
+    {
+        "id": "N3_Q_190",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「動詞た形+上で」の意味は？",
+        "options": [
+            "〜すれば",
+            "〜した後で",
+            "〜するつもり",
+            "〜しながら"
+        ],
+        "correct_answer": 1,
+        "explanation": "「動詞た形+上で」は前件の完了後に後件を行う。「検討した上で決定する」=充分研究后再做决定。",
+        "linked_grammar_id": "N3_G_067"
+    },
+    {
+        "id": "N3_Q_191",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「というより」の文で正しいのはどれですか？",
+        "options": [
+            "難しいというより、諦めた",
+            "難しいというより、複雑だ",
+            "難しいというより、簡単だ",
+            "難しいというより、楽しい（前後逆）"
+        ],
+        "correct_answer": 1,
+        "explanation": "「というより」は前件より后件の方が正確な表現。「難しいというより複雑だ」=与其说难不如说复杂（更准确的描述）。",
+        "linked_grammar_id": "N3_G_068"
+    },
+    {
+        "id": "N3_Q_192",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「にしろ〜にしろ」と「にしても〜にしても」の違いは？",
+        "options": [
+            "全く異なる",
+            "ほぼ同じ意味で「にしろ」がやや书面語",
+            "にしても=逆接",
+            "にしろ=许可"
+        ],
+        "correct_answer": 1,
+        "explanation": "「にしろ〜にしろ」と「にしても〜にしても」はどちらも「whether...or...」の意味でほぼ同義。「にしろ」の方が若干書面語的。",
+        "linked_grammar_id": "N3_G_069"
+    },
+    {
+        "id": "N3_Q_193",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「に過ぎない」の例として正しいのは？",
+        "options": [
+            "これは意見に過ぎない",
+            "これは絶対に意見に過ぎない",
+            "これは意見に過ぎた",
+            "これが意見に過ぎる"
+        ],
+        "correct_answer": 0,
+        "explanation": "「に過ぎない」=不过是…。「意見に過ぎない」は「これは私の意見に過ぎない=不过是我的意见而已」が正しい形。",
+        "linked_grammar_id": "N3_G_070"
+    },
+    {
+        "id": "N3_Q_194",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「〜し次第」と「〜てから」の違いは？",
+        "options": [
+            "全く同じ",
+            "〜し次第=即時性が强い（完成即行動）、〜てから=単なる順序",
+            "逆の意味",
+            "使う動詞が違う"
+        ],
+        "correct_answer": 1,
+        "explanation": "「し次第」は完成直后すぐに行動（business場面で多用）。「てから」は時間的な前後順序（日常使用）。",
+        "linked_grammar_id": "N3_G_072"
+    },
+    {
+        "id": "N3_Q_195",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「〜に関わらず」はどういう意味ですか？",
+        "options": [
+            "〜によって結果が変わる",
+            "〜の条件に関係なく結果が変わらない",
+            "〜のために",
+            "〜を考慮して"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に関わらず」はregardless of，irrespective of。「年齢に関わらず」=不管年龄，年龄不影响结果。",
+        "linked_grammar_id": "N3_G_073"
+    },
+    {
+        "id": "N3_Q_196",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「をはじめ」の使い方として正しいのは？",
+        "options": [
+            "リンゴをはじめ、果物が好き",
+            "リンゴをはじめ、日本人は礼儀正しい",
+            "東京をはじめ、日本の主要都市を訪れた",
+            "会議をはじめ、遅刻した"
+        ],
+        "correct_answer": 2,
+        "explanation": "「をはじめ」は「Aをはじめ、A以外のBやCも」という列举。「東京をはじめ日本の主要都市」=以东京为首的日本主要城市。",
+        "linked_grammar_id": "N3_G_074"
+    },
+    {
+        "id": "N3_Q_197",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「をもとに」と「に基づいて」の使い分けは？",
+        "options": [
+            "全く同じ",
+            "をもとに=素材・材料として使う、に基づいて=权威・根拠として依拠する（より正式）",
+            "逆の意味",
+            "使う名詞が違う"
+        ],
+        "correct_answer": 1,
+        "explanation": "「をもとに」は素材として利用（実話をもとに作る）。「に基づいて」は根拠・原則に依拠（法律に基づいて）。後者の方が正式・権威的。",
+        "linked_grammar_id": "N3_G_075"
+    },
+    {
+        "id": "N3_Q_198",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「に伴って」と「につれて」の違いは？",
+        "options": [
+            "全く同じ",
+            "に伴って=書面的・伴随的，につれて=日常的",
+            "逆の意味",
+            "接続が全然違う"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に伴って」は書面語的で因果関係の伴随（〜と共に発生）。「につれて」は日常的で自然な同步変化。",
+        "linked_grammar_id": "N3_G_077"
+    },
+    {
+        "id": "N3_Q_199",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「にも関わらず」と「のに（逆接）」の違いは？",
+        "options": [
+            "全く同じ",
+            "にも関わらず=書面語・批評的、のに=口語・遺憾",
+            "逆の意味",
+            "接続のみ違う"
+        ],
+        "correct_answer": 1,
+        "explanation": "「にも関わらず」は書面語的で批評・驚きのニュアンス。「のに（逆接）」は口語的で遺憾・不満のニュアンス。",
+        "linked_grammar_id": "N3_G_079"
+    },
+    {
+        "id": "N3_Q_200",
+        "level": "N3",
+        "type": "grammar",
+        "question_text": "「かのように」の例として正しいのはどれですか？",
+        "options": [
+            "知っているかのように話す（実際は知らない）",
+            "知っているから話す",
+            "知っているのに話す",
+            "知っているものの話す"
+        ],
+        "correct_answer": 0,
+        "explanation": "「かのように」はas if，実際はそうでないが、そのような様子を表す比喩。「知っているかのように」=好像知道似的（実際は知らない）。",
+        "linked_grammar_id": "N3_G_080"
+    },
+    {
+        "id": "N3_Q_201",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「抑制する」と「促進する」はどんな関係ですか？",
+        "options": [
+            "類語",
+            "反対語",
+            "同義語",
+            "無関係"
+        ],
+        "correct_answer": 1,
+        "explanation": "「抑制（suppress/restrain）」と「促進（promote/accelerate）」は反対の意味の反対語。"
+    },
+    {
+        "id": "N3_Q_202",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「克服する」と「諦める」はどんな関係ですか？",
+        "options": [
+            "類語",
+            "反対語",
+            "同義語",
+            "無関係"
+        ],
+        "correct_answer": 1,
+        "explanation": "「克服（overcome）」と「諦める（give up）」は反対語。困難に打ち勝つか、断念するかの違い。"
+    },
+    {
+        "id": "N3_Q_203",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「訴える（うったえる）」の用法として正しくないのは？",
+        "options": [
+            "裁判に訴える",
+            "強く世間に訴える",
+            "問題の深刻さを訴える",
+            "静かに訴える"
+        ],
+        "correct_answer": 3,
+        "explanation": "「訴える」は強くアピールする含意がある。「静かに訴える」は矛盾した表現。他は全て正しい用法。"
+    },
+    {
+        "id": "N3_Q_204",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「論理的な根拠を示す」の文中で「根拠」の類語はどれですか？",
+        "options": [
+            "証拠・裏付け",
+            "感情",
+            "印象",
+            "直感"
+        ],
+        "correct_answer": 0,
+        "explanation": "「根拠（こんきょ）」の類語は「証拠・裏付け・エビデンス」など。みな事実を支える基盤となるもの。"
+    },
+    {
+        "id": "N3_Q_205",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「制度改革」の「改革」の意味は？",
+        "options": [
+            "制度を廃止すること",
+            "制度をより良く変えること",
+            "制度を維持すること",
+            "制度を分析すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「改革」はreform。「制度改革」=制度改革，reforming the system。単なる「改善」より根本的な変化を含む。"
+    },
+    {
+        "id": "N3_Q_206",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「環境汚染」の「汚染」の意味は？",
+        "options": [
+            "きれいにすること",
+            "有害物質などで環境が汚れること",
+            "節約すること",
+            "回収すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「汚染」はpollution，contamination。「環境汚染」=环境污染，environmental pollution。"
+    },
+    {
+        "id": "N3_Q_207",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「再生可能エネルギー」の例はどれですか？",
+        "options": [
+            "石炭，石油",
+            "太陽光，風力",
+            "天然ガス",
+            "核燃料"
+        ],
+        "correct_answer": 1,
+        "explanation": "「再生可能エネルギー」はrenewable energy。太陽光発電・風力発電・水力発電などがその例。"
+    },
+    {
+        "id": "N3_Q_208",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「廃止する」と「導入する」の関係は？",
+        "options": [
+            "類語",
+            "反対語",
+            "同義語",
+            "無関係"
+        ],
+        "correct_answer": 1,
+        "explanation": "「廃止（abolish）」と「導入（introduce）」は制度・システムに対して正反対の操作を表す反対語。"
+    },
+    {
+        "id": "N3_Q_209",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「展望が開ける」の意味はどれですか？",
+        "options": [
+            "窓が開く",
+            "将来への見通しが明るくなる",
+            "景色が見える",
+            "問題が解決する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「展望が開ける」は将来の見通しが明るくなること。「展望（outlook/prospect）が開ける」=前景开朗，prospects brighten。"
+    },
+    {
+        "id": "N3_Q_210",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「共通点を見つける」の「共通点」の意味は？",
+        "options": [
+            "異なる点",
+            "共有されている特徴や特性",
+            "独特の点",
+            "例外的な点"
+        ],
+        "correct_answer": 1,
+        "explanation": "「共通点」はcommon point，commonality。「共通点を見つける」=找到共同点，to find things in common。"
+    },
+    {
+        "id": "N3_Q_211",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「積極的に参加する」の「積極的」の反対語は？",
+        "options": [
+            "消極的",
+            "普通",
+            "平等",
+            "柔軟"
+        ],
+        "correct_answer": 0,
+        "explanation": "「積極的（active/positive）」の反対語は「消極的（passive/negative）」。"
+    },
+    {
+        "id": "N3_Q_212",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「ガスの排出量を抑制する」の「排出量」の意味は？",
+        "options": [
+            "吸収する量",
+            "外に出す量",
+            "作る量",
+            "貯める量"
+        ],
+        "correct_answer": 1,
+        "explanation": "「排出量」はemission amount。「CO2排出量を抑制する」=抑制CO2排放量，to reduce CO2 emissions。"
+    },
+    {
+        "id": "N3_Q_213",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「多様性を認める社会」の「認める」の意味は？",
+        "options": [
+            "無視する",
+            "受け入れて肯定する",
+            "批判する",
+            "分析する"
+        ],
+        "correct_answer": 1,
+        "explanation": "「認める」はaccept，acknowledge，recognize。「多様性を認める」=认可多样性，to embrace diversity。"
+    },
+    {
+        "id": "N3_Q_214",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「法律の規制が緩やかになる」の「緩やか」の反対語は？",
+        "options": [
+            "単純",
+            "深刻",
+            "厳格",
+            "複雑"
+        ],
+        "correct_answer": 2,
+        "explanation": "「緩やか（lenient/gentle）」の反対語は「厳格（strict/rigorous）」。規制・ルールの厳しさに関する対義語。"
+    },
+    {
+        "id": "N3_Q_215",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「絶滅危惧種を保護する」の「絶滅危惧種」の意味は？",
+        "options": [
+            "よく見られる動植物",
+            "近い将来絶滅する可能性のある生物種",
+            "外来種",
+            "有毒な生物"
+        ],
+        "correct_answer": 1,
+        "explanation": "「絶滅危惧種」はendangered species。近い将来絶滅する可能性が高い生物種。保護が必要とされる。"
+    },
+    {
+        "id": "N3_Q_216",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「一方的な決定は問題を生む」の「生む」の意味は？",
+        "options": [
+            "解決すること",
+            "新たに引き起こすこと",
+            "防ぐこと",
+            "分析すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「問題を生む」は問題を引き起こすこと。「生む」はcreate，cause，bring about。「生じる」と同義。"
+    },
+    {
+        "id": "N3_Q_217",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「仮定の話」の「仮定」の意味は？",
+        "options": [
+            "確実な事実",
+            "事実ではない想定・仮の設定",
+            "結果",
+            "目標"
+        ],
+        "correct_answer": 1,
+        "explanation": "「仮定」はhypothesis，assumption。「仮定の話」=假设性的讨论，a hypothetical scenario。"
+    },
+    {
+        "id": "N3_Q_218",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「自分の行動から意図を推測する」の「推測」の意味は？",
+        "options": [
+            "確認すること",
+            "証拠がなく推量すること",
+            "証明すること",
+            "分析すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「推測」はguess，speculation，inference。「推測する」=推测，to infer，to speculate。"
+    },
+    {
+        "id": "N3_Q_219",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「傾向」と「特徴」の違いは？",
+        "options": [
+            "同じ意味",
+            "傾向=方向性・トレンド、特徴=その物の個有の性質",
+            "反対語",
+            "どちらも形容詞"
+        ],
+        "correct_answer": 1,
+        "explanation": "「傾向（tendency/trend）」は方向・動向。「特徴（feature/characteristic）」はその物の固有の性質。"
+    },
+    {
+        "id": "N3_Q_220",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「現実を直視する」の「直視」の意味は？",
+        "options": [
+            "見て見ぬふりをすること",
+            "ありのままに正面から見ること",
+            "想像すること",
+            "分析すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「直視」はfacing squarely，looking directly at。「現実を直視する」=直面现实，to face reality honestly。"
+    },
+    {
+        "id": "N3_Q_221",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「向上心」の意味はどれですか？",
+        "options": [
+            "自分を向上させたいという意欲",
+            "批判する気持ち",
+            "現状維持しようとする気持ち",
+            "諦める気持ち"
+        ],
+        "correct_answer": 0,
+        "explanation": "「向上心」はambition，desire to improve。「向上心がある」=有上进心，to have a growth mindset。"
+    },
+    {
+        "id": "N3_Q_222",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「誠実に仕事に取り組む」と最も意味が近い表現は？",
+        "options": [
+            "いい加減に仕事をする",
+            "正直で真剣に仕事に向き合う",
+            "効率よく仕事をする",
+            "慎重に仕事をする"
+        ],
+        "correct_answer": 1,
+        "explanation": "「誠実に取り組む」=正直で真剣に・手を抜かずに向き合う。sincerely，honestly，devotedly。"
+    },
+    {
+        "id": "N3_Q_223",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「慎重に判断する」の「慎重」の反対語は？",
+        "options": [
+            "柔軟",
+            "謙虚",
+            "積極的",
+            "軽率"
+        ],
+        "correct_answer": 3,
+        "explanation": "「慎重（careful/prudent）」の反対語は「軽率（rash/careless）」。よく考えずに行動する様子。"
+    },
+    {
+        "id": "N3_Q_224",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「人口が急激に減少している」の「減少」の反対語は？",
+        "options": [
+            "変化",
+            "増加",
+            "停止",
+            "維持"
+        ],
+        "correct_answer": 1,
+        "explanation": "「減少（decrease）」の反対語は「増加（increase）」。人口が減る⇔増える。"
+    },
+    {
+        "id": "N3_Q_225",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「懸念事項」の「懸念」を英語にすると？",
+        "options": [
+            "hope",
+            "concern/worry",
+            "praise",
+            "interest"
+        ],
+        "correct_answer": 1,
+        "explanation": "「懸念」はconcern，worry，apprehension。「懸念事項」=concerns，matters of concern。"
+    },
+    {
+        "id": "N3_Q_226",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「ご来社に際して」の「に際して」は何語ですか？",
+        "options": [
+            "口語",
+            "書面語・正式語",
+            "方言",
+            "略語"
+        ],
+        "correct_answer": 1,
+        "explanation": "「に際して」はビジネス・書面での正式表現。「時に」の改まった・書式的な言い方。formal styleに相当する。"
+    },
+    {
+        "id": "N3_Q_227",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「改革の必要性を訴える」の「訴える」の用法として正しいのは？",
+        "options": [
+            "裁判に訴える",
+            "強く世間に伝えること（アピール）",
+            "病気の症状を伝える",
+            "個人に話す"
+        ],
+        "correct_answer": 1,
+        "explanation": "「訴える」はappeal toの意味。「改革の必要性を訴える」=呼吁改革的必要性，to appeal for the necessity of reform。"
+    },
+    {
+        "id": "N3_Q_228",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「〜のみならず」を使った正しい文はどれですか？",
+        "options": [
+            "日本のみならず、海外でも活躍する",
+            "食べるのみならず、飲んだ",
+            "行くのみならず、帰った",
+            "難しいのみならず、諦めた"
+        ],
+        "correct_answer": 0,
+        "explanation": "「のみならず」はnot only...but also。「日本のみならず海外でも」=不仅在日本在海外也是正しい用法。"
+    },
+    {
+        "id": "N3_Q_229",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「措置を講じる」の「講じる」の意味は？",
+        "options": [
+            "調べること",
+            "具体的な行動や手段を実施すること",
+            "評価すること",
+            "批判すること"
+        ],
+        "correct_answer": 1,
+        "explanation": "「措置を講じる」はto take measures。「講じる」=implement，take（for measures）。「対策を講じる」も同じパターン。"
+    },
+    {
+        "id": "N3_Q_230",
+        "level": "N3",
+        "type": "vocabulary",
+        "question_text": "「ながらも」と「のに（逆接）」の共通点は？",
+        "options": [
+            "全く異なる",
+            "どちらも逆接（前項を認めつつ後項が矛盾）",
+            "どちらも同じ語気",
+            "どちらも書面語のみ"
+        ],
+        "correct_answer": 1,
+        "explanation": "「ながらも」も「のに（逆接）」もどちらも逆接で前件事実を認めながら後件が矛盾。ただし「ながらも」は书面語的。",
+        "linked_grammar_id": "N3_G_056"
+    }
 ]
