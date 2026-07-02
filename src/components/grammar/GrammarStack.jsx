@@ -6,6 +6,7 @@ export default function GrammarStack() {
   const { grammarData, wordsData, learnedGrammar, loading } = useContext(AppContext)
   const [search, setSearch] = useState('')
   const [highlightedId, setHighlightedId] = useState(null)
+  const [collapsed, setCollapsed] = useState(false)
   const cardRefs = useRef({})
 
   const filtered = useMemo(() => {
@@ -59,68 +60,98 @@ export default function GrammarStack() {
   return (
     <div className="flex gap-6 items-start">
       {/* Left index panel */}
-      <aside className="hidden md:flex flex-col w-52 shrink-0 sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto">
-        <div className="bg-white rounded-xl border border-gray-200 p-3">
-          {/* Index header with progress */}
-          <div className="mb-3 px-1">
-            <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1.5">
-              文法インデックス
-            </p>
-            <div className="flex items-center justify-between text-xs mb-1">
-              <span className="text-gray-500">習得済み</span>
-              <span className="font-semibold text-gray-700">
-                {learnedCount}/{grammarData.length}
-              </span>
-            </div>
-            <div className="w-full bg-gray-100 rounded-full h-1.5">
-              <div
-                className="bg-green-500 h-1.5 rounded-full transition-all duration-500"
-                style={{
-                  width: grammarData.length > 0
-                    ? `${(learnedCount / grammarData.length) * 100}%`
-                    : '0%'
-                }}
-              />
-            </div>
+      <aside
+        className={`hidden md:flex flex-col shrink-0 sticky top-28 max-h-[calc(100vh-8rem)] overflow-y-auto transition-all duration-300 ${
+          collapsed ? 'w-10' : 'w-52'
+        }`}
+      >
+        <div className="bg-white rounded-xl border border-gray-200 p-3 flex-1 flex flex-col min-h-0">
+          {/* Toggle button — stays right-aligned so it rides along with the sidebar's width transition */}
+          <div className="flex items-center justify-end mb-2 shrink-0">
+            <button
+              onClick={() => setCollapsed(c => !c)}
+              aria-label={collapsed ? '文法インデックスを展開' : '文法インデックスを折りたたむ'}
+              title={collapsed ? '展開' : '折りたたむ'}
+              className="w-6 h-6 flex items-center justify-center rounded-md text-gray-400 hover:bg-gray-100 hover:text-gray-600 transition-colors duration-150"
+            >
+              <svg
+                viewBox="0 0 24 24"
+                className={`w-3.5 h-3.5 transition-transform duration-300 ${collapsed ? 'rotate-180' : ''}`}
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <polyline points="15,6 9,12 15,18" />
+              </svg>
+            </button>
           </div>
 
-          {/* Index list */}
-          <div className="space-y-0.5">
-            {allSorted.map(g => {
-              const inFilter = filtered.some(f => f.id === g.id)
-              const isLearned = learnedGrammar.has(g.id)
-              return (
-                <button
-                  key={g.id}
-                  onClick={() => inFilter && jumpTo(g.id)}
-                  disabled={!inFilter}
-                  className={`w-full text-left px-2 py-1.5 rounded-lg text-xs transition-colors duration-150 leading-tight flex items-center gap-1.5 ${
-                    inFilter
-                      ? isLearned
-                        ? 'text-green-700 hover:bg-green-50'
-                        : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'
-                      : 'text-gray-300 cursor-default'
-                  }`}
-                >
-                  {/* Checkmark icon */}
-                  <span className={`shrink-0 w-4 h-4 rounded-full border flex items-center justify-center transition-all duration-150 ${
-                    isLearned
-                      ? 'bg-green-500 border-green-500 text-white'
-                      : 'border-gray-300 text-transparent'
-                  }`}>
-                    <svg viewBox="0 0 10 8" className="w-2.5 h-2.5" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                      <polyline points="1,4 3.5,7 9,1" />
-                    </svg>
+          {!collapsed && (
+            <>
+              {/* Index header with progress */}
+              <div className="mb-3 px-1">
+                <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1.5">
+                  文法インデックス
+                </p>
+                <div className="flex items-center justify-between text-xs mb-1">
+                  <span className="text-gray-500">習得済み</span>
+                  <span className="font-semibold text-gray-700">
+                    {learnedCount}/{grammarData.length}
                   </span>
+                </div>
+                <div className="w-full bg-gray-100 rounded-full h-1.5">
+                  <div
+                    className="bg-green-500 h-1.5 rounded-full transition-all duration-500"
+                    style={{
+                      width: grammarData.length > 0
+                        ? `${(learnedCount / grammarData.length) * 100}%`
+                        : '0%'
+                    }}
+                  />
+                </div>
+              </div>
 
-                  <span className="min-w-0 truncate">
-                    <span className="text-gray-400 font-mono mr-0.5">{g.order_index}.</span>
-                    {g.title}
-                  </span>
-                </button>
-              )
-            })}
-          </div>
+              {/* Index list */}
+              <div className="space-y-0.5">
+                {allSorted.map(g => {
+                  const inFilter = filtered.some(f => f.id === g.id)
+                  const isLearned = learnedGrammar.has(g.id)
+                  return (
+                    <button
+                      key={g.id}
+                      onClick={() => inFilter && jumpTo(g.id)}
+                      disabled={!inFilter}
+                      className={`w-full text-left px-2 py-1.5 rounded-lg text-xs transition-colors duration-150 leading-tight flex items-center gap-1.5 ${
+                        inFilter
+                          ? isLearned
+                            ? 'text-green-700 hover:bg-green-50'
+                            : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'
+                          : 'text-gray-300 cursor-default'
+                      }`}
+                    >
+                      {/* Checkmark icon */}
+                      <span className={`shrink-0 w-4 h-4 rounded-full border flex items-center justify-center transition-all duration-150 ${
+                        isLearned
+                          ? 'bg-green-500 border-green-500 text-white'
+                          : 'border-gray-300 text-transparent'
+                      }`}>
+                        <svg viewBox="0 0 10 8" className="w-2.5 h-2.5" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                          <polyline points="1,4 3.5,7 9,1" />
+                        </svg>
+                      </span>
+
+                      <span className="min-w-0 truncate">
+                        <span className="text-gray-400 font-mono mr-0.5">{g.order_index}.</span>
+                        {g.title}
+                      </span>
+                    </button>
+                  )
+                })}
+              </div>
+            </>
+          )}
         </div>
       </aside>
 
